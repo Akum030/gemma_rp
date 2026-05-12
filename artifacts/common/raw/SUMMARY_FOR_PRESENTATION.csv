@@ -1,0 +1,28 @@
+Comparison Type,Model 1,Model 2,Valid Queries,Key Match Count,Key Match %,Value Match Count,Value Match %,Winner
+Ground Truth Comparison,GT (Claude Opus),Gemini,996,851,85.4%,590,59.2%,Gemini - Best
+Ground Truth Comparison,GT (Claude Opus),Gemma V4,996,597,59.9%,461,46.3%,Second Best
+Ground Truth Comparison,GT (Claude Opus),QMeans,978,516,52.8%,522,53.4%,Third
+Direct Comparison,Gemma V4,QMeans,978,590,60.3%,674,68.9%,~60% Overlap
+
+SUMMARY METRICS
+Metric,Gemini,Gemma V4,QMeans
+Queries Analyzed,996,996,978
+Key Match vs GT,85.4%,59.9%,52.8%
+Value Match vs GT,59.2%,46.3%,53.4%
+100% Key Match Queries,2.4%,13.0%,0.0%
+100% Value Match Queries,24.2%,8.0%,16.6%
+Success Rate,97.0%,95.1%,~95%
+
+KEY INSIGHTS
+Insight #,Description
+1,Gemini has 32.6% higher key match rate than QMeans (production)
+2,Gemma V4 outperforms QMeans by 7.1% on key matching
+3,QMeans has better value matching (53.4%) than Gemma V4 (46.3%)
+4,Vocabulary alignment is key issue - models use different key names
+5,All models struggle with 100% key match (max 13% for Gemma)
+
+RECOMMENDATION PRIORITY
+Priority,Action,Expected Impact
+High,Use Gemini for high-accuracy tasks,+32.6% vs QMeans
+Medium,Add vocabulary mapping to Gemma V4,+15% estimated
+Low,Update QMeans with hybrid approach,Long-term improvement

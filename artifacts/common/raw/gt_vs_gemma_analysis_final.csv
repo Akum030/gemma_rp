@@ -1,0 +1,59 @@
+﻿GROUND TRUTH vs GEMMA - APPLE TO APPLE COMPARISON
+============================================================
+
+OVERVIEW
+Metric,Count,Percentage
+Total Queries Compared,996,100%
+
+KEY MATCHING
+Metric,Count,Percentage
+Total Key Matches,1812,-
+Queries with ≥1 Key Match,597,59.9%
+Queries with 100% Key Match,129,13.0%
+
+VALUE MATCHING
+Metric,Count,Percentage
+Total Value Matches,620,-
+Queries with ≥1 Value Match,461,46.3%
+Queries with 100% Value Match,80,8.0%
+
+TOP 20 MATCHED KEYS
+Key,Match Count,GT Frequency,Gemma Frequency
+company,228,272,418
+manufacturer,228,272,418
+brand,227,272,417
+product type,187,741,262
+motor type,177,741,231
+phase,82,123,95
+power,77,221,81
+horsepower,72,117,72
+hp,72,117,73
+application,67,288,173
+model,64,86,247
+model number,64,86,252
+wattage,50,104,66
+rpm,44,68,55
+speed,44,68,55
+rated speed,37,68,48
+voltage,26,44,28
+supply voltage,25,44,27
+mounting,13,23,31
+mounting type,13,23,33
+
+GT KEYS NOT IN MODEL (Top 15)
+Key,GT Frequency
+use,288
+category,243
+supply phase,123
+supply type,86
+part number,86
+kilowatt,60
+protection,9
+efficiency class,4
+condition,4
+product condition,4
+kv rating,2
+kv,2
+frame,1
+power unit,1
+unit,1

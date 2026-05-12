@@ -1,0 +1,137 @@
+﻿GROUND TRUTH (CLAUDE OPUS) VS GEMMA V4 - COMPARISON SUMMARY
+
+=== OVERVIEW ===
+Metric,Value
+Total Queries,996
+Both Successful,930,93.4%
+GT Only Success,48
+Gemma Only Success,18
+Both Failed,0
+
+=== KEY MATCHING ANALYSIS ===
+Total GT Keys (with synonyms),5079
+Total Gemma Keys (with synonyms),7726
+Total Matched Keys,1812
+Queries with at least 1 key match,597,59.9%
+Queries with perfect key coverage,0
+
+=== VALUE MATCHING ANALYSIS ===
+Total Matched Values,619
+Queries with at least 1 value match,461,46.3%
+
+=== PRIORITY ALIGNMENT ANALYSIS ===
+Total Perfect Matches (key + value + priorities),217
+"Total Partial Matches (key + value, different priorities)",818
+Queries with at least 1 perfect match,178,17.9%
+
+=== TOP 30 GROUND TRUTH KEYS (by frequency) ===
+Key,Count,Also in Gemma?,Match Count
+motor type,741,Yes,177
+product type,741,Yes,187
+application,288,Yes,67
+use,288,No,0
+brand,272,Yes,227
+manufacturer,272,Yes,228
+company,272,Yes,228
+product category,243,Yes,4
+category,243,No,0
+power,221,Yes,77
+phase,123,Yes,82
+supply phase,123,No,0
+horsepower,117,Yes,72
+hp,117,Yes,72
+wattage,104,Yes,50
+current type,86,Yes,0
+supply type,86,No,0
+model number,86,Yes,64
+part number,86,No,0
+model,86,Yes,64
+speed,68,Yes,44
+rpm,68,Yes,44
+rated speed,68,Yes,37
+kilowatt,60,No,0
+voltage,44,Yes,26
+supply voltage,44,Yes,25
+mounting type,23,Yes,13
+mounting,23,Yes,13
+shaft type,22,Yes,1
+shaft,22,Yes,1
+
+=== TOP 30 GEMMA KEYS (by frequency) ===
+Key,Count,Also in GT?,Match Count
+company,418,Yes,228
+manufacturer,418,Yes,228
+brand,417,Yes,227
+make,415,No,0
+model name,270,No,0
+type,264,No,0
+product type,262,Yes,187
+model number,252,Yes,64
+model no,250,No,0
+model,247,Yes,64
+device type,247,No,0
+motor type,231,Yes,177
+power source,230,No,0
+power supply,228,No,0
+power type,227,No,0
+usage application,177,No,0
+application,173,Yes,67
+usage,168,No,0
+suitable for,168,No,0
+number of phase,103,No,0
+phase,95,Yes,82
+input phase,89,No,0
+phase type,83,No,0
+power,81,Yes,77
+number of poles,81,No,0
+no of poles,78,No,0
+poles,77,No,0
+horse power,74,No,0
+hp,73,Yes,72
+horsepower,72,Yes,72
+
+=== TOP 30 MATCHED KEYS ===
+Key,Match Count,GT Frequency,Gemma Frequency
+manufacturer,228,272,418
+company,228,272,418
+brand,227,272,417
+product type,187,741,262
+motor type,177,741,231
+phase,82,123,95
+power,77,221,81
+horsepower,72,117,72
+hp,72,117,73
+application,67,288,173
+model number,64,86,252
+model,64,86,247
+wattage,50,104,66
+speed,44,68,55
+rpm,44,68,55
+rated speed,37,68,48
+voltage,26,44,28
+supply voltage,25,44,27
+mounting type,13,23,33
+mounting,13,23,31
+enclosure,5,9,10
+efficiency,4,4,5
+product category,4,243,6
+shaft type,1,22,1
+shaft,1,22,1
+
+=== KEY MATCH RATE DISTRIBUTION ===
+Match Rate Range,Query Count,Percentage
+0%,381,38.3%
+1-25%,32,3.2%
+26-50%,184,18.5%
+51-75%,225,22.6%
+76-99%,27,2.7%
+100%,129,13.0%
+
+=== VALUE MATCH RATE DISTRIBUTION ===
+Match Rate Range,Query Count,Percentage
+0%,517,51.9%
+1-25%,8,0.8%
+26-50%,103,10.3%
+51-75%,246,24.7%
+76-99%,24,2.4%
+100%,80,8.0%

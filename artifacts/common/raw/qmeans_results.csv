@@ -1,0 +1,1199 @@
+﻿success,query,qmeans_attr_count,qmeans_isq_list,qmeans_isq_pipe,response_time
+True,Blown Film Extrusion Machine,1,['film:usage:specification'],film:usage:specification,17.35
+True,sheet extruder machine,1,['extruder:type:specification'],extruder:type:specification,17.33
+True,centrufuge Extractor For Textile Mills,2,"['extractor:product:specification', 'textile mills:usage:specification']",extractor:product:specification | textile mills:usage:specification,18.61
+True,Gold Refinery Plant,2,"['gold:usage:specification', 'refinery:type:specification']",gold:usage:specification | refinery:type:specification,19.89
+True,Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,19.66
+True,Solvent Extraction Plant,1,['solvent extraction:usage:specification'],solvent extraction:usage:specification,17.4
+True,lab extruder,2,"['extruder:type:specification', 'lab:usage:specification']",extruder:type:specification | lab:usage:specification,18.86
+True,plastic sheet plant near ahmedabad,1,['plastic:material:specification'],plastic:material:specification,34.79
+True,Aluminium Extrusion Plant Consultant,2,"['aluminium:material:specification', 'extrusion:machine type:specification']",aluminium:material:specification | extrusion:machine type:specification,17.09
+True,sheet extruder,1,['extruder:type:specification'],extruder:type:specification,17.29
+True,aluminium-extrusion-plant,1,['aluminium-extrusion-plant:material:specification'],aluminium-extrusion-plant:material:specification,16.78
+True,Silver Refinery Plant,1,['refinery:type:specification'],refinery:type:specification,18.91
+True,ilko aluminium manufactur where the plant,2,"['aluminium:material:specification', 'manufactur:business type:specification']",aluminium:material:specification | manufactur:business type:specification,17.15
+True,"ilko aluminium manufactur, where the plant",2,"['aluminium:material:specification', 'manufactur,:business type:specification']","aluminium:material:specification | manufactur,:business type:specification",17.28
+True,ultrasonic herbal extraction machine,2,"['herbal extraction:usage:specification', 'ultrasonic:technology:specification']",herbal extraction:usage:specification | ultrasonic:technology:specification,25.2
+True,Gold Refining plant Scale Model,1,['scale model:type:specification'],scale model:type:specification,15.1
+True,Gold Refineing Machine Scale Model,2,"['gold refineing:usage:specification', 'scale model:type:specification']",gold refineing:usage:specification | scale model:type:specification,23.92
+True,zone refining,1,['zone:brand:specification'],zone:brand:specification,16.16
+True,twin-screw-extruder,0,[],,16.73
+True,Imported Oak Moss Lichen,0,[],,17.15
+True,tclp extractor,1,['extractor:product:specification'],extractor:product:specification,15.74
+True,ricebran esterification plant,1,['esterification:type:specification'],esterification:type:specification,17.13
+True,gold-refining-plant,0,[],,16.43
+True,ld extruder machine,2,"['extruder:type:specification', 'ld:material:specification']",extruder:type:specification | ld:material:specification,16.23
+True,65mm ld extruder machine,3,"['65mm:screw diameter:specification', 'extruder:type:specification', 'ld:material:specification']",65mm:screw diameter:specification | extruder:type:specification | ld:material:specification,20.69
+True,Solvent Extraction Plant Equipment,1,['solvent extraction:usage:specification'],solvent extraction:usage:specification,16.3
+True,lab scale twin screw extruder,2,"['lab:usage:specification', 'screw extruder:type:specification']",lab:usage:specification | screw extruder:type:specification,17.47
+True,Silver Refining Plant,2,"['refining plant:type:specification', 'silver:refining material:specification']",refining plant:type:specification | silver:refining material:specification,29.08
+True,Rice Bran Oil Extraction Plant and Machinery,2,"['extraction:machine type:specification', 'rice bran oil:usage:specification']",extraction:machine type:specification | rice bran oil:usage:specification,28.73
+True,twin screw extruder 50 kg/hr extruder machine,2,"['50 kg/hr:capacity:specification', 'extruder:type:specification']",50 kg/hr:capacity:specification | extruder:type:specification,17.39
+True,gold refining machine,2,"['gold:refining material:specification', 'refining:type:specification']",gold:refining material:specification | refining:type:specification,16.83
+True,co rotating twin screw extruders,1,['screw:type:specification'],screw:type:specification,17.72
+True,Electric Wood Shavings Extractor,2,"['electric:power source:specification', 'wood shavings:usage:specification']",electric:power source:specification | wood shavings:usage:specification,16.36
+True,Automatic Monolayer Blown Film Extrusion Machine,1,['automatic:machine type:specification'],automatic:machine type:specification,16.34
+True,Extruder,0,[],,16.08
+True,co extruder machine,1,['extruder:type:specification'],extruder:type:specification,17.43
+True,Solid Phase Extraction vacuum Manifold,2,"['solid phase extraction:usage:specification', 'vacuum manifold:product:specification']",solid phase extraction:usage:specification | vacuum manifold:product:specification,18.28
+True,Aluminum Plant,1,['aluminum:material:specification'],aluminum:material:specification,21.6
+True,rag gold refined,1,['refined:processing type:specification'],refined:processing type:specification,17.6
+True,benchtop extruder,1,['extruder:type:specification'],extruder:type:specification,17.43
+True,Metal Refining Plant,1,['refining plant:type:specification'],refining plant:type:specification,18.63
+True,soap extruder machine,1,['extruder:type:specification'],extruder:type:specification,17.15
+True,Automatic Gold Refining Machine,2,"['automatic:automation grade:specification', 'refining:usage:specification']",automatic:automation grade:specification | refining:usage:specification,18.28
+True,Cable Extruder,0,[],,18.18
+True,extruder-machine,1,['extruder-machine:type:specification'],extruder-machine:type:specification,18.62
+True,Mini Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,20.98
+True,Twin Screw Extruder,0,[],,16.87
+True,blown-film-extrusion-machine,0,[],,16.56
+True,cable extruder machine,1,['extruder:type:specification'],extruder:type:specification,19.1
+True,pv solar cable extrusion line machines - labh group,1,['labh group:brand:specification'],labh group:brand:specification,17.7
+True,pvc cable extruder,2,"['extruder:type:specification', 'pvc:material:specification']",extruder:type:specification | pvc:material:specification,16.36
+True,extruder 180 sq mm cables,2,"['180 sq mm:size:specification', 'extruder:usage:specification']",180 sq mm:size:specification | extruder:usage:specification,16.71
+True,twin screw extruder ldpe plastic recycling line  production capacity: 500 kghr,3,"['500 kghr:capacity:specification', 'ldpe:material:specification', 'plastic recycling:usage:specification']",500 kghr:capacity:specification | ldpe:material:specification | plastic recycling:usage:specification,21.53
+True,"Twin Screw Extruder Ldpe Plastic Recycling Line, Production Capacity: 500 kg/hr",3,"['500 kg/hr:capacity:specification', 'ldpe:material:specification', 'plastic recycling:usage:specification']",500 kg/hr:capacity:specification | ldpe:material:specification | plastic recycling:usage:specification,17.89
+True,extruder 180 sq mm,2,"['180 sq mm:capacity:specification', 'extruder:type:specification']",180 sq mm:capacity:specification | extruder:type:specification,16.74
+True,ABA 2 Layer Blown Film Machine,3,"['2 layer:layer:specification', 'aba:brand:specification', 'blown film machine:product:specification']",2 layer:layer:specification | aba:brand:specification | blown film machine:product:specification,18.9
+True,Herbal Extraction Plant,0,[],,69.1
+True,Liquid Extraction Systems,1,['liquid:usage:specification'],liquid:usage:specification,152.53
+True,Aluminum Extrusion Plant,1,['aluminum:material:specification'],aluminum:material:specification,93.78
+True,Aluminium Ectrusion Plant.,1,['aluminium:material:specification'],aluminium:material:specification,61.07
+True,Aluminium Extrusion Plant,1,['aluminium:material:specification'],aluminium:material:specification,18.71
+True,solvent-extraction-systems,0,[],,18.33
+True,complete aluminum extrusion plant .,1,['aluminum:material:specification'],aluminum:material:specification,19.98
+True,Gold Refining Equipment,2,"['gold:refining material:specification', 'refining:type:specification']",gold:refining material:specification | refining:type:specification,17.86
+True,Cannabis Extraction Plant,2,"['cannabis:usage:specification', 'extraction:machine type:specification']",cannabis:usage:specification | extraction:machine type:specification,16.96
+True,Herbal Extraction Plant Machinery,1,['herbal:usage:specification'],herbal:usage:specification,17.01
+True,Basket Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,23.92
+True,5 kg automatic gold refining machine,3,"['5 kg:capacity:specification', 'automatic:automation grade:specification', 'gold refining:usage:specification']",5 kg:capacity:specification | automatic:automation grade:specification | gold refining:usage:specification,17.54
+True,food grade twin screw extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,19.67
+True,bollman extractor material,0,[],,16.49
+True,Extraction Plants and Extruders,0,[],,16.98
+True,twin screw extruder for lab,2,"['lab:usage:specification', 'screw extruder:type:specification']",lab:usage:specification | screw extruder:type:specification,17.06
+True,twin screw extruder for plastics,2,"['plastics:usage:specification', 'screw extruder:type:specification']",plastics:usage:specification | screw extruder:type:specification,17.94
+True,Bench-top Co-rotating Twin-screw Extruders,0,[],,16.38
+True,Metal solvent extraction plant,2,"['metal:material:specification', 'solvent extraction:type:specification']",metal:material:specification | solvent extraction:type:specification,17.47
+True,gold tunch machine,0,[],,17.29
+True,Hira Solvent Extraction Parts,2,"['hira:brand:specification', 'solvent extraction parts:product:specification']",hira:brand:specification | solvent extraction parts:product:specification,16.38
+True,automatic no Twin Screw Extruder,2,"['automatic:automation grade:specification', 'screw extruder:type:specification']",automatic:automation grade:specification | screw extruder:type:specification,16.27
+True,एक्सट्रूडर₹1.5 – ₹ 2 लाख,1,['एक्सट्रूडर₹1.5:composition:specification'],एक्सट्रूडर₹1.5:composition:specification,136.34
+True,Artificial Rice Extrusion Plant,1,['artificial:type:specification'],artificial:type:specification,17.09
+True,Gold Refining,1,['gold:metal:specification'],gold:metal:specification,16.63
+True,wire extruder head,1,['extruder:usage:specification'],extruder:usage:specification,15.77
+True,25 mm wire extruder head,1,['25 mm:diameter:specification'],25 mm:diameter:specification,32.12
+True,tube extrusion machine 500 kg/hr extruder machine,1,['500 kg/hr:capacity:specification'],500 kg/hr:capacity:specification,23.33
+True,14000 RPM Centrifuge Extractor,2,"['14000 rpm:speed:specification', 'centrifuge extractor:product:specification']",14000 rpm:speed:specification | centrifuge extractor:product:specification,16.79
+True,Hand Operated Bitumen Extractor,1,['bitumen extractor:machine type:specification'],bitumen extractor:machine type:specification,17.63
+True,gold elctro refiing equpement,0,[],,23.46
+True,New Jockey Extruder,3,"['extruder:type:specification', 'jockey:brand:specification', 'new:condition:specification']",extruder:type:specification | jockey:brand:specification | new:condition:specification,16.09
+True,two layer blown film extrusion machine,1,['two layer:layer:specification'],two layer:layer:specification,17.28
+True,एक्सट्रूडर₹1.5 – ₹5 लाख,1,['एक्सट्रूडर₹1.5:composition:specification'],एक्सट्रूडर₹1.5:composition:specification,16.85
+True,Aluminum Extrusion Laboratory Installation Service,2,"['aluminum:material:specification', 'installation service:service:specification']",aluminum:material:specification | installation service:service:specification,18.0
+True,herbal-extraction-plant,0,[],,16.12
+True,oleoresin extraction plants,1,['oleoresin:usage:specification'],oleoresin:usage:specification,18.51
+True,Steer Alpha18 Twin Screw Extruder,3,"['alpha18:model name/number:specification', 'steer:brand:specification', 'twin screw extruder:type:specification']",alpha18:model name/number:specification | steer:brand:specification | twin screw extruder:type:specification,17.69
+True,2 kg automatic electrolytic gold refinery machine,3,"['2 kg:capacity:specification', 'automatic:automation grade:specification', 'gold refinery:usage:specification']",2 kg:capacity:specification | automatic:automation grade:specification | gold refinery:usage:specification,18.55
+True,2 kg fully automatic gold dust refinery machine (titanium body  aqua regia processing),3,"['2 kg:capacity:specification', 'automatic:automation grade:specification', 'gold dust:usage:specification']",2 kg:capacity:specification | automatic:automation grade:specification | gold dust:usage:specification,17.9
+True,"2 kg Fully Automatic Gold Dust Refinery Machine (Titanium Body, Aqua Regia Processing)",2,"['2 kg:capacity:specification', 'automatic:automation grade:specification']",2 kg:capacity:specification | automatic:automation grade:specification,17.81
+True,automatic gold refining machine manfacturer 2kg in egypt  capacity(kg): 20 kg,3,"['2kg:capacity:specification', 'automatic:automation grade:specification', 'gold refining:usage:specification']",2kg:capacity:specification | automatic:automation grade:specification | gold refining:usage:specification,17.22
+True,"Automatic Gold Refining Machine Manfacturer 2kg In Egypt, Capacity(kg): 20 kg",3,"['2kg:capacity:specification', 'automatic:automation grade:specification', 'gold refining:usage:specification']",2kg:capacity:specification | automatic:automation grade:specification | gold refining:usage:specification,18.02
+True,automatic gold refining machine 2kg,3,"['2kg:capacity:specification', 'automatic:automation grade:specification', 'gold refining:usage:specification']",2kg:capacity:specification | automatic:automation grade:specification | gold refining:usage:specification,16.28
+True,Extruder Cutter,0,[],,16.69
+True,automaticsilverrefiningplant50kg,0,[],,17.1
+True,Automatic Silver Refining Plant (50kg),1,['automatic:automation grade:specification'],automatic:automation grade:specification,17.73
+True,silver refiningplant,1,['refiningplant:type:specification'],refiningplant:type:specification,18.05
+True,PP Sheet Extruder Machine,2,"['extruder:type:specification', 'pp:material:specification']",extruder:type:specification | pp:material:specification,18.47
+True,automatic+silver+refining+plant+(50kg),1,['automatic+silver+refining+plant+(50kg):automation grade:specification'],automatic+silver+refining+plant+(50kg):automation grade:specification,18.83
+True,10 Silver Refining Plant,2,"['refining plant:type:specification', 'silver:refining material:specification']",refining plant:type:specification | silver:refining material:specification,21.72
+True,silver gold refining machine,2,"['gold:refining material:specification', 'refining machine:type:specification']",gold:refining material:specification | refining machine:type:specification,17.34
+True,Solvent Extraction Systems,0,[],,16.99
+True,5Kg Gold  Refining Machine,3,"['5kg:capacity:specification', 'gold:refining material:specification', 'refining machine:type:specification']",5kg:capacity:specification | gold:refining material:specification | refining machine:type:specification,17.99
+True,Extraction Machinery,0,[],,16.94
+True,Bak,0,[],,15.94
+True,Centrifuge Extractor,1,['extractor:product:specification'],extractor:product:specification,21.32
+True,automatic silver refining plant,2,"['automatic:automation grade:specification', 'silver:refining material:specification']",automatic:automation grade:specification | silver:refining material:specification,16.63
+True,silver-refining--plant,0,[],,17.07
+True,Gold Refining System Plant,2,"['gold:refining material:specification', 'refining:type:specification']",gold:refining material:specification | refining:type:specification,16.98
+True,Plastic Sheet Extrusion Plant,0,[],,17.47
+True,thiokol lp 12,0,[],,14.62
+True,silver refinery,0,[],,25.53
+True,Extruder Machine mother baby,1,['extruder:type:specification'],extruder:type:specification,17.22
+True,T Die Sheet Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,16.69
+True,5HP Twin Screw Extruder,2,"['5hp:motor horsepower:specification', 'screw extruder:type:specification']",5hp:motor horsepower:specification | screw extruder:type:specification,16.74
+True,solvent plant,1,['solvent:ink type:specification'],solvent:ink type:specification,16.27
+True,Two Layer Blown Film Extrusion Plant Exporter,1,['exporter:business type:specification'],exporter:business type:specification,17.71
+True,PVC  Cable Extrusion Plant,1,['pvc:pipe material:specification'],pvc:pipe material:specification,16.65
+True,gold and silver refining machine,1,['refining machine:type:specification'],refining machine:type:specification,17.64
+True,Rice Bran Preparatory Section,2,"['bran:material:specification', 'preparatory:type:specification']",bran:material:specification | preparatory:type:specification,17.39
+True,lab scale twin screw extruder 40 (kw) capacity:10 - 50 (kg/hour),3,"['- 50 (kg/hour):capacity:specification', 'lab:usage:specification', 'screw:machine type:specification']",- 50 (kg/hour):capacity:specification | lab:usage:specification | screw:machine type:specification,35.37
+True,Order Refine Machines,1,['refine:product:specification'],refine:product:specification,16.76
+True,PP Mat Extruders,2,"['extruders:type:specification', 'pp:material:specification']",extruders:type:specification | pp:material:specification,20.91
+True,film extrusion,1,['extrusion:process:specification'],extrusion:process:specification,17.05
+True,250 kg/hr 0.5-4 inch twin screw thibak machine,2,"['0.5-4 inch:size:specification', '250 kg/hr:capacity:specification']",0.5-4 inch:size:specification | 250 kg/hr:capacity:specification,16.22
+True,Tape Extrusion Plant,1,['tape extrusion:usage:specification'],tape extrusion:usage:specification,17.11
+True,PVC Blister film extrusion machine,1,['pvc:material:specification'],pvc:material:specification,25.56
+True,silver refining machine,2,"['refining:type:specification', 'silver:refining material:specification']",refining:type:specification | silver:refining material:specification,15.36
+True,twin screw-extruder,0,[],,18.29
+True,gold refinery machine,0,[],,16.58
+True,Solvent Extraction Plants,1,['solvent extraction:usage:specification'],solvent extraction:usage:specification,21.84
+True,solvent-extraction-plant,0,[],,15.5
+True,500 tpd solvent-extraction-plant,1,['500 tpd:capacity:specification'],500 tpd:capacity:specification,16.31
+True,automatic gold refining equipment,1,['automatic:automation grade:specification'],automatic:automation grade:specification,17.09
+True,double screw pasta extruder,2,"['double screw:screw type:specification', 'pasta extruder:usage:specification']",double screw:screw type:specification | pasta extruder:usage:specification,16.78
+True,Power Cable Extrusion  150 Mm,3,"['150 mm:diameter:specification', 'extrusion:process:specification', 'power cable:usage:specification']",150 mm:diameter:specification | extrusion:process:specification | power cable:usage:specification,16.04
+True,pet sheet extrusion line,0,[],,31.32
+True,Biodegradable Film Extrusion Machine,1,['biodegradable:features:specification'],biodegradable:features:specification,21.63
+True,basket extruder machine (pesticid ),0,[],,18.11
+True,Solid Phase Extraction System,1,['extraction:product:specification'],extraction:product:specification,17.06
+True,solid phase extraction,0,[],,16.81
+True,flour extrooder machine,1,['flour:usage:specification'],flour:usage:specification,16.36
+True,ldpe blown film extrusion machine 20 kg/h,2,"['20 kg/h:capacity:specification', 'ldpe:material:specification']",20 kg/h:capacity:specification | ldpe:material:specification,44.53
+True,ldpe blown film extrusion machine,1,['ldpe:material:specification'],ldpe:material:specification,31.13
+True,gold police machine,1,['machine:products included:specification'],machine:products included:specification,28.77
+True,herbal decoction tank,0,[],,16.59
+True,Gold Refining Plant,2,"['gold:refining material:specification', 'refining plant:type:specification']",gold:refining material:specification | refining plant:type:specification,17.08
+True,Rice Bran Solvent Extraction Plant,2,"['rice bran:usage:specification', 'solvent extraction:type:specification']",rice bran:usage:specification | solvent extraction:type:specification,18.85
+True,Two Layer Blown Film Extrusion Machinery in India,2,"['india:country of origin:specification', 'two layer blown film extrusion machinery:machine name:specification']",india:country of origin:specification | two layer blown film extrusion machinery:machine name:specification,16.83
+True,golden refined,2,"['golden:color:specification', 'refined:processing type:specification']",golden:color:specification | refined:processing type:specification,17.1
+True,clay extruder,1,['extruder:type:specification'],extruder:type:specification,17.55
+True,"wdg basket extruder machine (pesticid ), production capacity: 200 kg/hr",2,"['200 kg/hr:capacity:specification', 'wdg:model name/number:specification']",200 kg/hr:capacity:specification | wdg:model name/number:specification,20.12
+True,basket extruder machine pesticid,1,['extruder:type:specification'],extruder:type:specification,17.65
+True,extruder machine in noida,1,['extruder:model name/number:specification'],extruder:model name/number:specification,17.0
+True,Mini Extruder Machine 3 Inch to 20 Inch,2,"['3 inch to 20 inch:capacity:specification', 'extruder:model name/number:specification']",3 inch to 20 inch:capacity:specification | extruder:model name/number:specification,16.63
+True,bitumen extractor hand operated,1,['bitumen extractor:machine type:specification'],bitumen extractor:machine type:specification,16.14
+True,sliver refinery palnt 10 kg,2,"['10 kg:packaging size:specification', 'sliver:color:specification']",10 kg:packaging size:specification | sliver:color:specification,18.4
+True,automatic-gold-refining-machine,1,['automatic-gold-refining-machine:automation grade:specification'],automatic-gold-refining-machine:automation grade:specification,18.74
+True,lichen+moss,0,[],,25.97
+True,solvent turmeric extraction plant,1,['turmeric extraction:usage:specification'],turmeric extraction:usage:specification,33.24
+True,automatic 30kg silver refining machine,2,"['30kg:capacity:specification', 'automatic:automation grade:specification']",30kg:capacity:specification | automatic:automation grade:specification,17.98
+True,5 TPH Metal Recovery Plant,2,"['5 tph:capacity:specification', 'metal recovery plant:type:specification']",5 tph:capacity:specification | metal recovery plant:type:specification,18.78
+True,2 TPH Metal Recovery Plant,2,"['2 tph:capacity:specification', 'metal recovery plant:type:specification']",2 tph:capacity:specification | metal recovery plant:type:specification,17.67
+True,compounding twin screw extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,17.53
+True,Water Extraction Machine,1,['water extraction:usage:specification'],water extraction:usage:specification,16.88
+True,Oil Cooler For Solvent Extraction Plant,2,"['oil cooler:type:specification', 'solvent extraction plant:usage:specification']",oil cooler:type:specification | solvent extraction plant:usage:specification,18.3
+True,Mechanical Solvent Wax Extraction Plant,0,[],,26.81
+True,second hand pp granules extruder machine,3,"['extruder:type:specification', 'pp:material:specification', 'second hand:condition:specification']",extruder:type:specification | pp:material:specification | second hand:condition:specification,49.68
+True,Corotating Twin Screw Extruder,2,"['corotating:driven type:specification', 'screw extruder:type:specification']",corotating:driven type:specification | screw extruder:type:specification,19.12
+True,three layer blown film extrusion machine,1,['three layer:layer:specification'],three layer:layer:specification,18.19
+True,rajangoan sp waluj aurangabad 431136,1,['431136:model name/number:specification'],431136:model name/number:specification,18.23
+True,Vented Extruder,1,['extruder:type:specification'],extruder:type:specification,16.73
+True,plastic tube extrusion,2,"['extrusion:process:specification', 'plastic:material:specification']",extrusion:process:specification | plastic:material:specification,16.65
+True,mulch film machine manufacturers,1,['mulch:type:specification'],mulch:type:specification,17.11
+True,rice-bran-solvent-extraction-plant,0,[],,18.84
+True,Automatic Silver Refining Machine,2,"['automatic:automation grade:specification', 'refining:usage:specification']",automatic:automation grade:specification | refining:usage:specification,15.21
+True,famsun,1,['famsun:brand:specification'],famsun:brand:specification,17.63
+True,semi automatic centrifugal water extractor machine,2,"['semi automatic:automation grade:specification', 'water extractor:product:specification']",semi automatic:automation grade:specification | water extractor:product:specification,17.28
+True,centrifugal water extractor machine,1,['centrifugal:blower type:specification'],centrifugal:blower type:specification,20.69
+True,aloe vera gel nikaalne wali machine,0,[],,18.66
+True,Ergot mushroom,1,['mushroom:variety available:specification'],mushroom:variety available:specification,17.4
+True,planetary extruder machine,0,[],,18.42
+True,planetary extruder,0,[],,16.72
+True,Barwell Eco20 Preformer,1,['eco20:model name/number:specification'],eco20:model name/number:specification,19.72
+True,suldin liquid 500ml,2,"['500ml:packaging size:specification', 'liquid:form:specification']",500ml:packaging size:specification | liquid:form:specification,17.32
+True,"लूम,प्लांट,वाइंदर एवलेबल फॉर सेल (loom plant winder available for sale)",0,[],,101.83
+True,लूम प्लांट वाइंदर एवलेबल फॉर सेल (Loom Plant Winder Available For Sale),0,[],,17.27
+True,Loom Plant Winder Available for Sale,1,['loom plant:usage:specification'],loom plant:usage:specification,17.72
+True,"लूम,प्लांट,वाइंदर एवलेबल फॉर सेल",1,"['लूम,प्लांट,वाइंदर एवलेबल:composition:specification']","लूम,प्लांट,वाइंदर एवलेबल:composition:specification",17.99
+True,लूम प्लांट वाइंदर एवलेबल फॉर सेल,1,['प्लांट:book name:specification'],प्लांट:book name:specification,15.98
+True,silver refinery machine,2,"['refinery:type:specification', 'silver:melting material:specification']",refinery:type:specification | silver:melting material:specification,26.88
+True,Drier unit with air blast in extruder machine,0,[],,20.09
+True,shilajit extract plant manufactures,1,['shilajit:common name:specification'],shilajit:common name:specification,14.67
+True,gold popular machine,1,['machine:products included:specification'],machine:products included:specification,18.48
+True,45MM Monolayer Extruder,1,['extruder:type:specification'],extruder:type:specification,21.49
+True,"Silver Refinery Plant, Capacity(kg): 10",1,['10:capacity:specification'],10:capacity:specification,26.72
+True,clay extruder bolat hain,1,['clay:material:specification'],clay:material:specification,24.63
+True,100 kg/hr no twin screw extruder Extruder Machine,2,"['100 kg/hr:capacity:specification', 'screw:machine type:specification']",100 kg/hr:capacity:specification | screw:machine type:specification,30.51
+True,100 kg/hr twin screw extruder Extruder Machine,1,['100 kg/hr:capacity:specification'],100 kg/hr:capacity:specification,18.61
+True,50 kg/hr no Extruder Machine,2,"['50 kg/hr:capacity:specification', 'extruder:type:specification']",50 kg/hr:capacity:specification | extruder:type:specification,18.12
+True,100 kg/hr no twin screw extruder Wire Extruder Machine,1,['100 kg/hr:capacity:specification'],100 kg/hr:capacity:specification,17.43
+True,100 kg/hr no noodle extruder machine Sioplas HT - XLPE Cable Extrusion Line,1,['100 kg/hr:capacity:specification'],100 kg/hr:capacity:specification,19.8
+True,twin screw extruder installation service,2,"['installation service:service:specification', 'screw extruder:machine type:specification']",installation service:service:specification | screw extruder:machine type:specification,17.24
+True,1 piece Metal Recovery Unit,2,"['1 piece:set contains:specification', 'metal recovery:usage:specification']",1 piece:set contains:specification | metal recovery:usage:specification,17.15
+True,silver-recovery-unit,0,[],,22.1
+True,1 for business use piece yes Metal Recovery Unit,1,['metal recovery:usage:specification'],metal recovery:usage:specification,16.48
+True,Mivan Shuttering Degree cutting Machine,2,"['degree cutting machine:type:specification', 'mivan:brand:specification']",degree cutting machine:type:specification | mivan:brand:specification,16.65
+True,pp exstruder,1,['pp:plastic type:specification'],pp:plastic type:specification,17.81
+True,"Automatic Rice Bran Solvent Extraction Plant, 100 ton/day, 100 kW",3,"['100 ton/day, 100:capacity:specification', 'automatic:automation grade:specification', 'rice bran solvent:usage:specification']","100 ton/day, 100:capacity:specification | automatic:automation grade:specification | rice bran solvent:usage:specification",17.25
+True,small gold refining machine,2,"['gold:refining material:specification', 'small:size:specification']",gold:refining material:specification | small:size:specification,17.26
+True,Twin Screw Extrusion Line 65-22V for the Production of Pipe,2,"['65-22v:voltage:specification', 'twin screw extrusion line:machine name:specification']",65-22v:voltage:specification | twin screw extrusion line:machine name:specification,17.53
+True,blown film double die extruder machine with double station winder for ldpe /ld and hm,1,['extruder:machine name:specification'],extruder:machine name:specification,17.22
+True,THEYsohn PVC Twin Screw Extrusion Line,2,"['pvc:material:specification', 'twin screw extrusion:product:specification']",pvc:material:specification | twin screw extrusion:product:specification,17.1
+True,centax,0,[],,16.26
+True,Automatic EPE Sheet Extruder Plant,2,"['automatic:automation grade:specification', 'extruder:type:specification']",automatic:automation grade:specification | extruder:type:specification,18.0
+True,Mech O Tech Mini,1,['mini:model name/number:specification'],mini:model name/number:specification,17.37
+True,Extruder Side Feeding,0,[],,24.62
+True,t die extruder,1,['extruder:type:specification'],extruder:type:specification,16.61
+True,metal-refining-plant,1,['metal-refining-plant:material:specification'],metal-refining-plant:material:specification,16.86
+True,soxtherm rapid fat extraction system,1,['rapid fat extraction system:product:specification'],rapid fat extraction system:product:specification,27.43
+True,fat extraction system,1,['fat extraction:usage:specification'],fat extraction:usage:specification,16.34
+True,centrifuge-extractor,0,[],,18.78
+True,hdpe geomembrane sheets blown film machine,1,['hdpe:material:specification'],hdpe:material:specification,29.37
+True,hdpe+geomembrane+sheets Blown film machine,1,['hdpe+geomembrane+sheets:material:specification'],hdpe+geomembrane+sheets:material:specification,16.75
+True,three layer aba oscillation haul off unit blown film machine,2,"['aba:brand:specification', 'three layer:layer:specification']",aba:brand:specification | three layer:layer:specification,21.85
+True,extruder 200kg per hour,2,"['200kg per hour:capacity:specification', 'extruder:type:specification']",200kg per hour:capacity:specification | extruder:type:specification,17.21
+True,ultraautosonic,0,[],,17.26
+True,Small herbal extraction plant for domestic use,2,"['domestic:usage:specification', 'small:size:specification']",domestic:usage:specification | small:size:specification,25.73
+True,small herbal extraction plant,1,['small:size:specification'],small:size:specification,20.35
+True,"gold refinery machine semi automatic, capacity(kg): 80 kg",3,"['80 kg:capacity:specification', 'automatic,:automation grade:specification', 'gold refinery:model name/number:specification']","80 kg:capacity:specification | automatic,:automation grade:specification | gold refinery:model name/number:specification",25.52
+True,conical twin screw extruder for cpvc machine  60hp  production capacity: 80 -150 kghr,3,"['60hp:motor power:specification', '80 -150 kghr:capacity:specification', 'cpvc:usage:specification']",60hp:motor power:specification | 80 -150 kghr:capacity:specification | cpvc:usage:specification,17.68
+True,"Conical Twin Screw Extruder for CPVC Machine, 60HP, Production Capacity: 80 -150 Kg/Hr",2,"['60hp,:motor power:specification', '80 -150 kg/hr:capacity:specification']","60hp,:motor power:specification | 80 -150 kg/hr:capacity:specification",17.42
+True,Twin Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,28.27
+True,ragg gold refiend,1,['gold:color:specification'],gold:color:specification,17.15
+True,GOLD Refinery Machine Semi Automatic Capacity(kg): 5 Kg,2,"['5 kg:capacity:specification', 'semi automatic:automation grade:specification']",5 kg:capacity:specification | semi automatic:automation grade:specification,19.48
+True,Supercritical Anti Solvent Systems,1,['anti solvent:type:specification'],anti solvent:type:specification,19.71
+True,Automatic Gold Refinery Machine,2,"['automatic:automation grade:specification', 'gold refinery:usage:specification']",automatic:automation grade:specification | gold refinery:usage:specification,17.36
+True,PP Stationery Sheet Extruder Machine,2,"['extruder:type:specification', 'pp:material:specification']",extruder:type:specification | pp:material:specification,17.39
+True,sunflower solvent extraction plant,1,['solvent extraction:type:specification'],solvent extraction:type:specification,17.54
+True,Cannabis Plant,2,"['cannabis:fruit type:specification', 'plant:product:specification']",cannabis:fruit type:specification | plant:product:specification,16.48
+True,twin screw snack extruder machine,2,"['extruder:type:specification', 'twin screw:screw type:specification']",extruder:type:specification | twin screw:screw type:specification,16.82
+True,Gold Pure Krane Ki Machine,0,[],,18.38
+True,extruder+heater,0,[],,25.15
+True,80 kg automatic gold refining machine,3,"['80 kg:capacity:specification', 'automatic:automation grade:specification', 'gold refining:usage:specification']",80 kg:capacity:specification | automatic:automation grade:specification | gold refining:usage:specification,17.23
+True,gold tach machine,1,['gold:color:specification'],gold:color:specification,16.42
+True,gold tach machine in ahmedabad,1,['gold tach machine:model name/number:specification'],gold tach machine:model name/number:specification,16.43
+True,gold tach machin in ahmedabad,1,['gold tach machin:model name/number:specification'],gold tach machin:model name/number:specification,16.91
+True,"gold refining machine advance features, capacity: 7 kg",1,['7 kg:capacity:specification'],7 kg:capacity:specification,17.27
+True,100 kg/hr no Extruder Machine,2,"['100 kg/hr:capacity:specification', 'extruder:type:specification']",100 kg/hr:capacity:specification | extruder:type:specification,17.45
+True,Extruder Spares,1,['extruder:usage:specification'],extruder:usage:specification,16.65
+True,manual silver filter for gold refinery,2,"['gold refinery:usage:specification', 'manual:automation grade:specification']",gold refinery:usage:specification | manual:automation grade:specification,31.33
+True,gold refining machine in bareilly,0,[],,19.73
+True,Gold Refining Machine Advance Features Capacity: 7 Kg,1,['7 kg:capacity:specification'],7 kg:capacity:specification,16.22
+True,automatic gold refining machine in bareilly,1,['automatic:automation grade:specification'],automatic:automation grade:specification,17.41
+True,twin screw extruder lab model,2,"['lab:model name/number:specification', 'screw extruder:type:specification']",lab:model name/number:specification | screw extruder:type:specification,18.09
+True,twin screw extruder 5 kg,2,"['5 kg:capacity:specification', 'screw extruder:type:specification']",5 kg:capacity:specification | screw extruder:type:specification,17.86
+True,aqua regis gold refinery,1,['gold refinery:usage:specification'],gold refinery:usage:specification,25.49
+True,LD BLOWN FILM EXTRUDER MACHINE,2,"['extruder:type:specification', 'ld:material:specification']",extruder:type:specification | ld:material:specification,17.4
+True,LD BLOWN FILM EXTRUDER MACHINE INDORE,3,"['extruder:type:specification', 'indore:place of origin:specification', 'ld:material:specification']",extruder:type:specification | indore:place of origin:specification | ld:material:specification,18.06
+True,Automatic 110Kg/hr Twin Screw Extrusion Plant,3,"['110kg/hr:capacity:specification', 'automatic:automation grade:specification', 'extrusion:machine type:specification']",110kg/hr:capacity:specification | automatic:automation grade:specification | extrusion:machine type:specification,18.71
+True,1200 kg/hr 3 layer blown film machine,2,"['1200 kg/hr:capacity:specification', '3 layer:layer:specification']",1200 kg/hr:capacity:specification | 3 layer:layer:specification,16.69
+True,500 kg/hr automatic three screw extruder,3,"['500 kg/hr:capacity:specification', 'automatic:automation grade:specification', 'screw extruder:type:specification']",500 kg/hr:capacity:specification | automatic:automation grade:specification | screw extruder:type:specification,17.24
+True,three screw extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,16.23
+True,500  kg%2 fhr automatic three screw extruder,3,"['500 kg%2 fhr:capacity:specification', 'automatic:automation grade:specification', 'screw extruder:type:specification']",500 kg%2 fhr:capacity:specification | automatic:automation grade:specification | screw extruder:type:specification,17.09
+True,500  kg%2 fhr three screw extruder,2,"['500 kg%2 fhr:capacity:specification', 'screw extruder:type:specification']",500 kg%2 fhr:capacity:specification | screw extruder:type:specification,15.91
+True,Silver Refinery Plant Capacity(kg): 10,1,['10:capacity:specification'],10:capacity:specification,17.06
+True,Silver Refining Machine 30 Kg,3,"['30 kg:capacity:specification', 'refining:type:specification', 'silver:refining material:specification']",30 kg:capacity:specification | refining:type:specification | silver:refining material:specification,17.09
+True,blown film extrusion machine running video,1,['film extrusion:usage:specification'],film extrusion:usage:specification,16.63
+True,Silver Recovery Unit,2,"['recovery unit:type:specification', 'silver:color:specification']",recovery unit:type:specification | silver:color:specification,16.05
+True,Extrusion Plant,1,['extrusion:process:specification'],extrusion:process:specification,16.33
+True,aluminium can manufacturing plant,1,['aluminium:material:specification'],aluminium:material:specification,24.5
+True,Copper Electrowinning,1,['copper:material:specification'],copper:material:specification,17.39
+True,extruder die,1,['extruder:usage:specification'],extruder:usage:specification,16.5
+True,Single Die Extruder,1,['single die:number of dies:specification'],single die:number of dies:specification,17.45
+True,extruder die manufacturers,0,[],,17.12
+True,bopp films production line,1,['bopp:material:specification'],bopp:material:specification,18.23
+True,Gold Refining Chemical,1,['refining:type:specification'],refining:type:specification,30.16
+True,Bitumen Centrifuge Extractor Motorized,2,"['bitumen centrifuge:machine type:specification', 'motorized:type:specification']",bitumen centrifuge:machine type:specification | motorized:type:specification,17.44
+True,Gold Silver Refining Plant,2,"['refining plant:type:specification', 'silver:refining material:specification']",refining plant:type:specification | silver:refining material:specification,16.52
+True,"indian make automatic silver refining machine (10-100kg capacity, 316 ss, 3 kw, 220 v)",2,"['automatic:automation grade:specification', 'indian:brand:specification']",automatic:automation grade:specification | indian:brand:specification,18.56
+True,Sample Extruder,1,['extruder:type:specification'],extruder:type:specification,16.43
+True,Rice Bran Solvent Extraction Plant Installation Service,1,['installation service:service:specification'],installation service:service:specification,17.46
+True,Bitumen Extractor,0,[],,16.42
+True,silver extraction plant,0,[],,31.1
+True,50 business use no Silver Refining Plant,1,['refining plant:type:specification'],refining plant:type:specification,17.16
+True,50 business use 50 Kg Silver Refining Plant,3,"['50:capacity:specification', 'refining plant:type:specification', 'silver:refining material:specification']",50:capacity:specification | refining plant:type:specification | silver:refining material:specification,19.29
+True,automatic 50 kg +silver+refining+plant,2,"['50 kg:capacity:specification', 'automatic:automation grade:specification']",50 kg:capacity:specification | automatic:automation grade:specification,17.74
+True,automatic automatic+silver+refining+plant,1,['automatic:automation grade:specification'],automatic:automation grade:specification,18.52
+True,automatic+silver+refining+plant,1,['automatic+silver+refining+plant:automation grade:specification'],automatic+silver+refining+plant:automation grade:specification,17.24
+True,Automatic Silver Refinery Machine,2,"['automatic:automation grade:specification', 'silver refinery:usage:specification']",automatic:automation grade:specification | silver refinery:usage:specification,17.59
+True,silver refining plant 45TOUCH,2,"['refining plant:type:specification', 'silver:refining material:specification']",refining plant:type:specification | silver:refining material:specification,24.12
+True,Bhuiamla Liquid Extracts,2,"['bhuiamla:name of extract:specification', 'liquid:form:specification']",bhuiamla:name of extract:specification | liquid:form:specification,18.14
+True,Extruded And Expanded,0,[],,16.66
+True,Used Triple Screw Extruder,2,"['screw extruder:type:specification', 'used:condition:specification']",screw extruder:type:specification | used:condition:specification,17.48
+True,Triple Screw Extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,18.14
+True,Packed Bed Type Solid Liquid Extraction Apparatus,2,"['bed type:type:specification', 'liquid extraction:usage:specification']",bed type:type:specification | liquid extraction:usage:specification,23.27
+True,Extractor Machine,0,[],,17.47
+True,Caterpillar With DC Drive Control,1,['caterpillar:brand:specification'],caterpillar:brand:specification,17.12
+True,3 kg gole refinery machine,2,"['3 kg:capacity:specification', 'refinery:type:specification']",3 kg:capacity:specification | refinery:type:specification,17.33
+True,Italy Type Gold Refining Machines,1,['italy:type:specification'],italy:type:specification,17.32
+True,PPM-75FFE Extruder Force Feeder,2,"['force feeder:type:specification', 'ppm-75ffe:model name/number:specification']",force feeder:type:specification | ppm-75ffe:model name/number:specification,17.27
+True,ld extruder machine nagpur,2,"['extruder:type:specification', 'nagpur:place of origin:specification']",extruder:type:specification | nagpur:place of origin:specification,18.12
+True,Continuous Extrusion Machine,1,['extrusion:process:specification'],extrusion:process:specification,27.52
+True,mother baby extruder machine,1,['extruder:type:specification'],extruder:type:specification,17.38
+True,gr enterprises gold refined,3,"['gold:color:specification', 'gr enterprises:brand:specification', 'refined:processing type:specification']",gold:color:specification | gr enterprises:brand:specification | refined:processing type:specification,16.47
+True,Gold Refinery Machine 1To   100Kg,2,"['1to 100kg:capacity:specification', 'gold refinery:model name/number:specification']",1to 100kg:capacity:specification | gold refinery:model name/number:specification,16.58
+True,5To 50Kg Gold Refinery Machine,2,"['5to 50kg:capacity:specification', 'gold refinery:usage:specification']",5to 50kg:capacity:specification | gold refinery:usage:specification,16.38
+True,3Kg Gold Refinery,2,"['3kg:capacity:specification', 'gold:usage:specification']",3kg:capacity:specification | gold:usage:specification,17.67
+True,Laboratory Gold Refining Plant,1,['laboratory:usage:specification'],laboratory:usage:specification,16.48
+True,Cabbage Liquid Extracts,2,"['cabbage:name of extract:specification', 'liquid:form:specification']",cabbage:name of extract:specification | liquid:form:specification,15.52
+True,pure gold conversion machine,0,[],,20.0
+True,Automatic Silver Refining Plant Capacity(kg): 10,2,"['10:capacity:specification', 'automatic:automation grade:specification']",10:capacity:specification | automatic:automation grade:specification,17.75
+True,Gold Processing Plant,2,"['gold:melting material:specification', 'processing:machine type:specification']",gold:melting material:specification | processing:machine type:specification,23.35
+True,100 silver-refining--plant,1,['100:model number:specification'],100:model number:specification,18.51
+True,250 mt aluminium extrusion plant,3,"['250 mt:capacity:specification', 'aluminium:material:specification', 'extrusion:machine type:specification']",250 mt:capacity:specification | aluminium:material:specification | extrusion:machine type:specification,17.92
+True,test)extractvalue(9014 concat(0x7e (select(elt(9014=9014 1))) 0x7e)) and (34b0z3kj like 34b0z3kj,0,[],,18.01
+True,blown film extrusion die,2,"['extrusion die:product:specification', 'film:usage:specification']",extrusion die:product:specification | film:usage:specification,17.53
+True,Extrusion Blown Film Machine From India,0,[],,17.36
+True,cable-extruder,0,[],,16.67
+True,manual extruder,1,['manual:automation grade:specification'],manual:automation grade:specification,14.31
+True,aba blown film machine,1,['aba:brand:specification'],aba:brand:specification,15.91
+True,100 kg Basket Extruder Machine,2,"['100 kg:capacity:specification', 'extruder:type:specification']",100 kg:capacity:specification | extruder:type:specification,16.85
+True,test)extractvalue(2179 !50000concat(0x7e (!50000select(elt(2179=2179 1))) 0x7e))-- -,0,[],,18.04
+True,test)extractvalue(7101 concat(0x7e (select(elt(7101=7101 1))) 0x7e))-- -,0,[],,17.32
+True,Essential Oil and Oleoresin Extraction Plant Consultancy Service,2,"['consultancy:service:specification', 'essential oil:usage:specification']",consultancy:service:specification | essential oil:usage:specification,17.57
+True,FRP Mixer Settler for Liquid Extraction System,3,"['frp:material:specification', 'liquid extraction:usage:specification', 'mixer settler:product:specification']",frp:material:specification | liquid extraction:usage:specification | mixer settler:product:specification,16.62
+True,screw extruder,0,[],,16.77
+True,Curcumin Solvent Extraction Plant,2,"['curcumin:usage:specification', 'solvent extraction:type:specification']",curcumin:usage:specification | solvent extraction:type:specification,17.05
+True,Sheet Extrusion Plant,1,['extrusion:process:specification'],extrusion:process:specification,19.54
+True,Natural Flavor Extracts Extraction Plant Capacity: 1 Tpd,1,['1 tpd:capacity:specification'],1 tpd:capacity:specification,28.36
+True,50 silver refining plant,2,"['refining plant:type:specification', 'silver:refining material:specification']",refining plant:type:specification | silver:refining material:specification,16.6
+True,automatic silver refining plant 50kgs,2,"['50kgs:capacity:specification', 'automatic:automation grade:specification']",50kgs:capacity:specification | automatic:automation grade:specification,17.32
+True,automatic silver refining plant near pune 50kgs,2,"['50kgs:capacity:specification', 'automatic:automation grade:specification']",50kgs:capacity:specification | automatic:automation grade:specification,26.88
+True,Hand-Operated Hydro Extractor,2,"['hand-operated:driven type:specification', 'hydro extractor:product:specification']",hand-operated:driven type:specification | hydro extractor:product:specification,16.2
+True,Centrifugal Hydro Extractors,2,"['centrifugal:blower type:specification', 'hydro extractors:product:specification']",centrifugal:blower type:specification | hydro extractors:product:specification,17.83
+True,no Solid Phase Extraction System,1,['extraction:product:specification'],extraction:product:specification,21.01
+True,BITUMEN EXTRACTOR (HAND OPERATED),1,['bitumen extractor:machine type:specification'],bitumen extractor:machine type:specification,17.21
+True,100 tpd solvent extraction plant,2,"['100 tpd:capacity:specification', 'solvent extraction:type:specification']",100 tpd:capacity:specification | solvent extraction:type:specification,17.5
+True,yes Solid Phase Extraction System,2,"['solid phase extraction system:product:specification', 'yes:brand:specification']",solid phase extraction system:product:specification | yes:brand:specification,17.31
+True,epe machine,1,['epe:material:specification'],epe:material:specification,15.85
+True,Gold Filter,1,['gold:color:specification'],gold:color:specification,18.08
+True,Gold  Refinery Machine Semi Automatic,2,"['gold refinery:usage:specification', 'semi automatic:automation grade:specification']",gold refinery:usage:specification | semi automatic:automation grade:specification,17.56
+True,tabacco solvent extraction plant,0,[],,16.97
+True,Silver Recovery Machine,1,['recovery:type:specification'],recovery:type:specification,16.63
+True,Extruder Expander System,0,[],,17.19
+True,extraction-machinery,0,[],,24.6
+True,Bitumen Centrifuge Extractor SF00000629,2,"['bitumen centrifuge:machine type:specification', 'sf00000629:model name/number:specification']",bitumen centrifuge:machine type:specification | sf00000629:model name/number:specification,27.13
+True,Curcumin Extraction Plant,2,"['curcumin:usage:specification', 'extraction:machine type:specification']",curcumin:usage:specification | extraction:machine type:specification,17.36
+True,Extruter Head 6 Inch,1,['6 inch:size:specification'],6 inch:size:specification,17.96
+True,hours output extruder,1,['extruder:type:specification'],extruder:type:specification,16.57
+True,PCB Recycling & Metal Recovery Plant,1,['recovery:type:specification'],recovery:type:specification,25.25
+True,gold percentage machine,0,[],,26.35
+True,Shoots - Golden Rod Brown Color Extraction Plant,1,['brown:color:specification'],brown:color:specification,18.03
+True,Wdg Basket Extruder Granule Machine,1,['extruder:type:specification'],extruder:type:specification,17.53
+True,Supercritical Anti Solvent(SAS) Systems,0,[],,25.11
+True,plastic wire extruder,2,"['extruder:type:specification', 'plastic:material to be extruded:specification']",extruder:type:specification | plastic:material to be extruded:specification,17.1
+True,100 kg/hr ceramic extruder machine,3,"['100 kg/hr:capacity:specification', 'ceramic:material:specification', 'extruder:type:specification']",100 kg/hr:capacity:specification | ceramic:material:specification | extruder:type:specification,23.32
+True,2 kg hours output extruder,2,"['2 kg:capacity:specification', 'extruder:type:specification']",2 kg:capacity:specification | extruder:type:specification,18.29
+True,tube extrusion machine 50 kg/hr hours output extruder,1,['50 kg/hr hours:capacity:specification'],50 kg/hr hours:capacity:specification,17.36
+True,20 business use yes Silver Refining Plant,2,"['refining plant:type:specification', 'yes:brand:specification']",refining plant:type:specification | yes:brand:specification,17.32
+True,bran plant,0,[],,17.77
+True,cashew nut shell solvent extraction plant,2,"['cashew nut shell:usage:specification', 'solvent extraction:type:specification']",cashew nut shell:usage:specification | solvent extraction:type:specification,36.53
+True,single Cylinder Horizontal Extruder,2,"['horizontal:orientation:specification', 'single cylinder:number of cylinder:specification']",horizontal:orientation:specification | single cylinder:number of cylinder:specification,18.12
+True,polymer foam making exruder,2,"['foam making:usage:specification', 'polymer:material:specification']",foam making:usage:specification | polymer:material:specification,16.89
+True,LDPE Agro Mixture Machine for Ld hm 5w Capacity: 50kg,2,"['50kg:capacity:specification', 'ldpe:material:specification']",50kg:capacity:specification | ldpe:material:specification,16.66
+True,"LDPE Agro Mixture Machine for LD,HM, 5W, Capacity: 50kg",3,"['50kg:capacity:specification', 'agro mixture machine:model name/number:specification', 'ldpe:material:specification']",50kg:capacity:specification | agro mixture machine:model name/number:specification | ldpe:material:specification,17.58
+True,extraction machinerystebiya,0,[],,30.28
+True,gold tanch machine,1,['gold:color:specification'],gold:color:specification,16.86
+True,1 kg Automatic Gold Refining Machine Setup,2,"['1 kg:capacity:specification', 'automatic:automation grade:specification']",1 kg:capacity:specification | automatic:automation grade:specification,18.12
+True,Blown Film Extrusion Plant,1,['film:usage:specification'],film:usage:specification,17.04
+True,50 kg/hr Extruder Machine,2,"['50 kg/hr:capacity:specification', 'extruder:type:specification']",50 kg/hr:capacity:specification | extruder:type:specification,17.16
+True,semi atomatic banana refing machin,0,[],,18.14
+True,ldpe bag monolayer blown film extrusion machine,1,['ldpe:material:specification'],ldpe:material:specification,28.33
+True,Two-layer extrusion machine for bulk packaging,2,"['packaging:usage:specification', 'two-layer extrusion machine:machine name:specification']",packaging:usage:specification | two-layer extrusion machine:machine name:specification,17.77
+True,Extruder Machine .,1,['extruder:type:specification'],extruder:type:specification,17.36
+True,1000 kg/hr Twin Screw Extruder,1,['1000 kg/hr:capacity:specification'],1000 kg/hr:capacity:specification,17.13
+True,High Recovery Rate Mobile Gold Ore Processing Plant - 40 TPH Alluvial Gold Mining Equipment,1,['40 tph:capacity:specification'],40 tph:capacity:specification,17.96
+True,Gold Jewellery Refining Consultant,2,"['gold:metal:specification', 'refining:service:specification']",gold:metal:specification | refining:service:specification,17.61
+True,100 kg/hr single die extruder,3,"['100 kg/hr:capacity:specification', 'extruder:type:specification', 'single die:number of dies:specification']",100 kg/hr:capacity:specification | extruder:type:specification | single die:number of dies:specification,27.93
+True,single-die-extruder,0,[],,28.79
+True,aero silver recovery,2,"['aero:brand:specification', 'silver:color:specification']",aero:brand:specification | silver:color:specification,18.89
+True,Liquid Liquid Extractor,0,[],,17.43
+True,mini twin screw extruder machine,0,[],,16.48
+True,Vertical Extruder,1,['vertical:orientation:specification'],vertical:orientation:specification,15.91
+True,20 kg gold and silver refinery machine,1,['20 kg:capacity:specification'],20 kg:capacity:specification,16.37
+True,no Aluminium Extrusion Plant,1,['aluminium:material:specification'],aluminium:material:specification,16.84
+True,Gold and Silver Refinery Machine,1,['refinery:type:specification'],refinery:type:specification,17.53
+True,5000 no Complete Aluminum Extrusion plant .,2,"['5000 no:model name/number:specification', 'aluminum:material:specification']",5000 no:model name/number:specification | aluminum:material:specification,16.79
+True,gold-refining-equipment,0,[],,17.06
+True,Horizontal Rotary Extractors,2,"['horizontal:orientation:specification', 'rotary extractors:product:specification']",horizontal:orientation:specification | rotary extractors:product:specification,15.45
+True,EXTRUDERS,0,[],,16.81
+True,solvent distillerson plant menu capture of,1,['solvent:type:specification'],solvent:type:specification,17.46
+True,Vegetable Oil Extractor,1,['vegetable oil:usage:specification'],vegetable oil:usage:specification,17.05
+True,fully automatic silver & gold refainary,2,"['automatic:automation grade:specification', 'silver & gold:color:specification']",automatic:automation grade:specification | silver & gold:color:specification,16.78
+True,corpa 0il cake,1,['cake:form:specification'],cake:form:specification,16.31
+True,silver refining plant fully automatic,2,"['automatic:automation grade:specification', 'silver:refining material:specification']",automatic:automation grade:specification | silver:refining material:specification,26.91
+True,automatic 100 kg/hr Twin Screw Extruder,2,"['100 kg/hr:capacity:specification', 'automatic:automation grade:specification']",100 kg/hr:capacity:specification | automatic:automation grade:specification,16.8
+True,gold refinery,1,['gold:usage:specification'],gold:usage:specification,39.96
+True,sino holyson twin screw extruder machine,1,['twin screw extruder:type:specification'],twin screw extruder:type:specification,19.55
+True,SINO-HOLYSON Twin Screw Extruder Machine,1,['twin screw extruder:type:specification'],twin screw extruder:type:specification,23.43
+True,Double Screw Extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,38.07
+True,Tube Extrusion Machine,1,['extrusion:process:specification'],extrusion:process:specification,16.21
+True,Extracting Machinery,0,[],,16.16
+True,Silver Refining Plant Capacity(kg): 10,2,"['10:capacity:specification', 'silver:refining material:specification']",10:capacity:specification | silver:refining material:specification,19.81
+True,"Silver Refining Plant, Capacity(kg): 10",3,"['10:capacity:specification', 'refining:type:specification', 'silver:refining material:specification']",10:capacity:specification | refining:type:specification | silver:refining material:specification,17.27
+True,aluminium machinery,1,['aluminium:material:specification'],aluminium:material:specification,17.0
+True,pp lumps extruder machine,2,"['extruder:type:specification', 'pp:material:specification']",extruder:type:specification | pp:material:specification,16.47
+True,Sulver ork plant,2,"['plant:product:specification', 'sulver:botanical name:specification']",plant:product:specification | sulver:botanical name:specification,17.95
+True,Material Processing (pre Expander),1,['material processing:usage:specification'],material processing:usage:specification,17.25
+True,extruder 180 sqmm,2,"['180 sqmm:capacity:specification', 'extruder:type:specification']",180 sqmm:capacity:specification | extruder:type:specification,23.64
+True,Rudder,0,[],,24.41
+True,DK platinum refining machine 30 kg,2,"['30 kg:capacity:specification', 'dk:brand:specification']",30 kg:capacity:specification | dk:brand:specification,17.46
+True,rice bran solvent plant,1,['solvent:type:specification'],solvent:type:specification,17.36
+True,twin screw extruder portable,0,[],,16.6
+True,Gold and Silver Refinery Setup,1,['refinery:type:specification'],refinery:type:specification,28.18
+True,namkeen machine extrusion chamber & screw,1,['namkeen machine:usage:specification'],namkeen machine:usage:specification,17.59
+True,Mixer Extruder,1,['extruder:type:specification'],extruder:type:specification,16.97
+True,High Pressure Injector Hydraulic Extractor,2,"['high pressure:pressure:specification', 'hydraulic:product:specification']",high pressure:pressure:specification | hydraulic:product:specification,16.45
+True,3 Layer ABA Die,2,"['3 layer:number of layers:specification', 'aba:die type:specification']",3 layer:number of layers:specification | aba:die type:specification,18.52
+True,aqua regia gold refinery machine,0,[],,18.57
+True,Copper Extrusion,2,"['copper:material:specification', 'extrusion:process:specification']",copper:material:specification | extrusion:process:specification,17.74
+True,Co Extruded,0,[],,16.17
+True,gold munual refinery,1,['refinery:type:specification'],refinery:type:specification,16.82
+True,100 ton rice bran solvent extraction,1,['100 ton:packaging size:specification'],100 ton:packaging size:specification,17.21
+True,200 tun aluminium extrusion plant,2,"['200 tun:capacity:specification', 'aluminium:material:specification']",200 tun:capacity:specification | aluminium:material:specification,17.72
+True,extruder machine near bhiwadi,0,[],,22.08
+True,निडर एक्सटरुडर मशीन,1,['एक्सटरुडर:composition:specification'],एक्सटरुडर:composition:specification,18.49
+True,tube-extrusion-machine,0,[],,18.91
+True,7 kg Capacity Refining and Recycling System,2,"['7 kg:capacity:specification', 'refining and recycling system:type:specification']",7 kg:capacity:specification | refining and recycling system:type:specification,27.54
+True,aluminium plant,1,['aluminium:material:specification'],aluminium:material:specification,28.5
+True,ram extruder,2,"['extruder:type:specification', 'ram:brand:specification']",extruder:type:specification | ram:brand:specification,17.16
+True,Twin Screw Extruder Machine,2,"['extruder:type:specification', 'screw:machine type:specification']",extruder:type:specification | screw:machine type:specification,17.98
+True,100 kg/hr manual twin screw extruder machine,2,"['100 kg/hr:capacity:specification', 'manual:automation grade:specification']",100 kg/hr:capacity:specification | manual:automation grade:specification,19.32
+True,Semi Automatic Mat Extruder Machine,2,"['extruder:type:specification', 'semi automatic:automation grade:specification']",extruder:type:specification | semi automatic:automation grade:specification,28.74
+True,Die Roller Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,17.34
+True,extrusion-plant,1,['extrusion-plant:process:specification'],extrusion-plant:process:specification,17.42
+True,20KG GOLD REFINING MACHINE - METAL AND DUST REFINING,1,['20kg:capacity:specification'],20kg:capacity:specification,18.32
+True,solid phase bioremediation,0,[],,17.59
+True,twin screw extruder for polymer,2,"['polymer:usage:specification', 'screw extruder:type:specification']",polymer:usage:specification | screw extruder:type:specification,23.68
+True,twin screw extruder for pvc pipe,2,"['pvc pipe:usage:specification', 'screw extruder:type:specification']",pvc pipe:usage:specification | screw extruder:type:specification,17.67
+True,5 kg aqua regia gold refinery machine,1,['5 kg:capacity:specification'],5 kg:capacity:specification,18.97
+True,100 Kg Silver Refining Plant,3,"['100 kg:capacity:specification', 'refining plant:type:specification', 'silver:refining material:specification']",100 kg:capacity:specification | refining plant:type:specification | silver:refining material:specification,19.43
+True,ldpe film blown film extrusion machine,1,['ldpe:material:specification'],ldpe:material:specification,17.47
+True,Used Twin Screw Machine,1,['used:condition:specification'],used:condition:specification,27.61
+True,EPS Extruder Line,2,"['eps:material:specification', 'extruder:type:specification']",eps:material:specification | extruder:type:specification,26.41
+True,extruder machine repair service,1,['extruder machine:machine type:specification'],extruder machine:machine type:specification,17.21
+True,Pulp Refining System,0,[],,17.18
+True,ss herbal extractor  capacity: 500 ltrs and above,2,"['500 ltrs and above:capacity:specification', 'ss:material:specification']",500 ltrs and above:capacity:specification | ss:material:specification,20.87
+True,extruder machine mechanic,0,[],,18.45
+True,"SS Herbal Extractor, Capacity: 500 Ltrs And Above",2,"['500 ltrs and above:capacity:specification', 'ss:material:specification']",500 ltrs and above:capacity:specification | ss:material:specification,18.08
+True,"Herbal Extraction Plant, Capacity: 10 TPD",1,['10 tpd:capacity:specification'],10 tpd:capacity:specification,16.64
+True,Copper Extraction Plants,0,[],,18.24
+True,tannin extraction plant,1,['tannin extraction:usage:specification'],tannin extraction:usage:specification,18.31
+True,alluminium extrusion pentagon,3,"['alluminium:material:specification', 'extrusion:process:specification', 'pentagon:shape:specification']",alluminium:material:specification | extrusion:process:specification | pentagon:shape:specification,17.73
+True,Floral Extraction Plants,1,['floral:usage:specification'],floral:usage:specification,17.32
+True,pvc pp pe pc abs small profile extrusion line,1,['pvc pp pe:material:specification'],pvc pp pe:material:specification,31.8
+True,gold-processing-plant,0,[],,28.51
+True,co rotating twin screw extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,24.78
+True,aero silver recovery unit,3,"['aero:brand:specification', 'recovery unit:type:specification', 'silver:color:specification']",aero:brand:specification | recovery unit:type:specification | silver:color:specification,17.25
+True,Plastic Blown Film Extrusion Machine,0,[],,18.18
+True,Industrial Deodorizing Plant Toaster,1,['industrial:usage:specification'],industrial:usage:specification,16.72
+True,shock tube extrusion powder fender machine,0,[],,18.13
+True,shock tube extrusion powder fender machine near faridabad,1,['shock tube:model name/number:specification'],shock tube:model name/number:specification,17.09
+True,Gold & Silver Refining Machine,1,['refining machine:type:specification'],refining machine:type:specification,16.74
+True,herb extractor,0,[],,18.7
+True,herb extraction,0,[],,17.97
+True,Commercial Industrial coffee decoction extracting machine,1,['industrial:usage:specification'],industrial:usage:specification,17.77
+True,5kg Aqua Gold Refining Machine,3,"['5kg:capacity:specification', 'aqua gold:brand:specification', 'refining machine:type:specification']",5kg:capacity:specification | aqua gold:brand:specification | refining machine:type:specification,17.76
+True,"Twin Screw Extruder, Size: 25 Mm to 250 Mm",1,['25 mm to 250 mm:capacity:specification'],25 mm to 250 mm:capacity:specification,16.5
+True,Wdg Basket Extruder,1,['basket extruder:type:specification'],basket extruder:type:specification,17.13
+True,Twin Screw Extruder Size: 25 Mm to 250 Mm,1,['25 mm to 250 mm:capacity:specification'],25 mm to 250 mm:capacity:specification,16.96
+True,Ldpe Plastic Blown Film Extrusion Machine,1,['ldpe plastic:material:specification'],ldpe plastic:material:specification,17.51
+True,35mm (10HP)  Blown Film Extrusion Machine,1,['35mm:screw diameter:specification'],35mm:screw diameter:specification,18.31
+True,Soybean Extraction Plant,1,['soybean:usage:specification'],soybean:usage:specification,16.75
+True,Dried Bean - Black Beans  Natural color Extraction plant,1,['black:color:specification'],black:color:specification,17.44
+True,SILVER OKA PLANT,3,"['oka:fruit type:specification', 'plant:product:specification', 'silver:color:specification']",oka:fruit type:specification | plant:product:specification | silver:color:specification,19.33
+True,Silver oka plants,3,"['oka:fruit type:specification', 'plants:product:specification', 'silver:color:specification']",oka:fruit type:specification | plants:product:specification | silver:color:specification,16.52
+True,jockey extruder machine,2,"['extruder:type:specification', 'jockey:brand:specification']",extruder:type:specification | jockey:brand:specification,16.77
+True,MRP-Metal Recovering Plant,1,['recovering plant:type:specification'],recovering plant:type:specification,17.45
+True,Soybean Solvent Extraction Plant,2,"['extraction:type:specification', 'soybean solvent:usage:specification']",extraction:type:specification | soybean solvent:usage:specification,25.17
+True,100 silver refining plant,2,"['refining plant:type:specification', 'silver:refining material:specification']",refining plant:type:specification | silver:refining material:specification,18.29
+True,Metal Recovery Unit,1,['recovery:type:specification'],recovery:type:specification,22.59
+True,1kg gold refining machine,3,"['1kg:capacity:specification', 'gold:refining material:specification', 'refining machine:type:specification']",1kg:capacity:specification | gold:refining material:specification | refining machine:type:specification,17.58
+True,garden extruder machine,2,"['extruder:type:specification', 'garden:usage:specification']",extruder:type:specification | garden:usage:specification,16.75
+True,extuder machine,1,['machine:products included:specification'],machine:products included:specification,19.04
+True,Extrusion Monolayer Blown Film Machine,1,['extrusion:process:specification'],extrusion:process:specification,17.65
+True,Coleus Forskohlii Root Extraction Plant,2,"['coleus forskohlii:botanical name:specification', 'root extraction:usage:specification']",coleus forskohlii:botanical name:specification | root extraction:usage:specification,19.38
+True,manual 100 kg/hr no Twin Screw Extruder,2,"['100 kg/hr:capacity:specification', 'manual:automation grade:specification']",100 kg/hr:capacity:specification | manual:automation grade:specification,19.16
+True,Micro Extruder,1,['extruder:type:specification'],extruder:type:specification,18.48
+True,Coaxial Cable MOP with HMI,1,['hmi:features:specification'],hmi:features:specification,17.51
+True,Multilayer Extruder,2,"['extruder:type:specification', 'multilayer:layer:specification']",extruder:type:specification | multilayer:layer:specification,25.22
+True,V3-Extruder,1,['v3-extruder:model name/number:specification'],v3-extruder:model name/number:specification,16.79
+True,mini automatic gold refining machine,1,['automatic:automation grade:specification'],automatic:automation grade:specification,17.73
+True,Automatic Gold Refining Machine 5kg Capacity Efficient  and High-Precision Refining,2,"['5kg:capacity:specification', 'automatic:automation grade:specification']",5kg:capacity:specification | automatic:automation grade:specification,18.27
+True,liquid-extraction-systems,0,[],,39.43
+True,plastik fim blown extuder hdpe ldpe used,2,"['hdpe ldpe:material:specification', 'used:condition:specification']",hdpe ldpe:material:specification | used:condition:specification,19.05
+True,plastik fim blown extuder hdpe ldpe,1,['hdpe ldpe:material:specification'],hdpe ldpe:material:specification,17.79
+True,Steam Boiler Herbal Extraction Plant,1,['steam boiler:type of boiler:specification'],steam boiler:type of boiler:specification,16.32
+True,Curcumin Extraction Plants,2,"['curcumin:usage:specification', 'extraction:machine type:specification']",curcumin:usage:specification | extraction:machine type:specification,16.85
+True,pet extruder machine,2,"['extruder:type:specification', 'pet:raw material:specification']",extruder:type:specification | pet:raw material:specification,18.21
+True,brahmi liquid extract,2,"['brahmi:name of extract:specification', 'liquid:form:specification']",brahmi:name of extract:specification | liquid:form:specification,18.32
+True,ergot,0,[],,17.62
+True,Instant Tea Extraction Plant,1,['tea extraction:usage:specification'],tea extraction:usage:specification,17.37
+True,Silver Wok Plant,2,"['plant:product:specification', 'silver:color:specification']",plant:product:specification | silver:color:specification,16.92
+True,West Mobile Refining Machine,2,"['mobile refining machine:product:specification', 'west:brand:specification']",mobile refining machine:product:specification | west:brand:specification,30.27
+True,144 Positive Pressure Manifold,2,"['144:model name/number:specification', 'manifold:product:specification']",144:model name/number:specification | manifold:product:specification,18.03
+True,Centrifuge Extractor (motorised),1,['centrifuge extractor:product:specification'],centrifuge extractor:product:specification,16.91
+True,Cable Extruder .,0,[],,16.79
+True,aluminium extrusion-plant,1,['aluminium:material:specification'],aluminium:material:specification,30.06
+True,Extruder-GMS,0,[],,17.59
+True,gold ka plant,2,"['gold:color:specification', 'plant:product:specification']",gold:color:specification | plant:product:specification,16.81
+True,aloe vera gel extraction machine,0,[],,17.36
+True,Turmeric Curcumin Extraction Plant,1,['extraction:machine type:specification'],extraction:machine type:specification,17.06
+True,yes 100 tpd Solvent Extraction Plant,3,"['100 tpd:capacity:specification', 'solvent extraction plant:type:specification', 'yes:brand:specification']",100 tpd:capacity:specification | solvent extraction plant:type:specification | yes:brand:specification,16.46
+True,अल्मुनियम प्लांट,1,['अल्मुनियम:composition:specification'],अल्मुनियम:composition:specification,18.38
+True,Harbal Extraction,0,[],,18.52
+True,gold refinery gpc,2,"['gold refinery:usage:specification', 'gpc:brand:specification']",gold refinery:usage:specification | gpc:brand:specification,16.93
+True,bengaluru gold refinery,0,[],,22.56
+True,milk extruted machine,1,['milk:usage:specification'],milk:usage:specification,17.33
+True,twin extruder machine for upvc panel,1,['twin extruder machine:machine name:specification'],twin extruder machine:machine name:specification,17.78
+True,yes yes 50 kg Gold Refining Plant,2,"['50 kg:capacity:specification', 'gold refining plant:type:specification']",50 kg:capacity:specification | gold refining plant:type:specification,17.1
+True,"45,50 Cable Extruder Clamp",3,"['45,50:size:specification', 'cable extruder:usage:specification', 'clamp:type:specification']","45,50:size:specification | cable extruder:usage:specification | clamp:type:specification",17.55
+True,masterbatch extruder die,0,[],,17.31
+True,RoEx Extruder 90,1,['90:model name/number:specification'],90:model name/number:specification,20.52
+True,32140 c bak,1,['bak:brand:specification'],bak:brand:specification,29.35
+True,BASKET EXTRUDER,1,['extruder:type:specification'],extruder:type:specification,17.02
+True,5 kg west mobile refining machine,3,"['5 kg:capacity:specification', 'mobile refining machine:product:specification', 'west:brand:specification']",5 kg:capacity:specification | mobile refining machine:product:specification | west:brand:specification,19.61
+True,west mobil rifin machine,0,[],,17.32
+True,powder extraction machine,1,['powder:usage:specification'],powder:usage:specification,18.17
+True,ABA Three Layer Die,1,['aba:brand:specification'],aba:brand:specification,16.61
+True,Single Die Blown Film Extruder,2,"['extruder:type:specification', 'single die:number of dies:specification']",extruder:type:specification | single die:number of dies:specification,18.25
+True,Extruder_Machine,0,[],,16.45
+True,Herbal Raw materials Exraction Plant,1,['herbal:type:specification'],herbal:type:specification,16.52
+True,Compounding and Extrusion Modernization Services,1,['modernization:service:specification'],modernization:service:specification,19.45
+True,Twin Screw Extruders,1,['screw:type:specification'],screw:type:specification,18.53
+True,Industrial Extracting Systems,2,"['extracting:product:specification', 'industrial:usage:specification']",extracting:product:specification | industrial:usage:specification,19.12
+True,expander extruder,0,[],,16.4
+True,extruder expander,1,['expander:product:specification'],expander:product:specification,17.23
+True,xlpe foam extruder,1,['extruder:type:specification'],extruder:type:specification,17.13
+True,Extraction 16,1,['16:model number:specification'],16:model number:specification,27.06
+True,expander extuder,1,['expander:product:specification'],expander:product:specification,17.32
+True,20 kg silver refining plant,3,"['20 kg:capacity:specification', 'refining plant:type:specification', 'silver:refining material:specification']",20 kg:capacity:specification | refining plant:type:specification | silver:refining material:specification,24.24
+True,gold refinery machine - tumbler,1,['gold refinery:usage:specification'],gold refinery:usage:specification,28.79
+True,twin screw extruder plastic granules,3,"['granules:form:specification', 'plastic:material:specification', 'screw:type:specification']",granules:form:specification | plastic:material:specification | screw:type:specification,16.38
+True,silver electrolysis recovery plant,2,"['electrolysis recovery plant:type:specification', 'silver:melting material:specification']",electrolysis recovery plant:type:specification | silver:melting material:specification,16.65
+True,Elovera gel nikalne wali machine,1,['gel nikalne wali machine:product:specification'],gel nikalne wali machine:product:specification,17.03
+True,twin screw pvc pipr machine,3,"['pipr:product:specification', 'pvc:material:specification', 'twin screw:screw type:specification']",pipr:product:specification | pvc:material:specification | twin screw:screw type:specification,20.3
+True,PP HONEYCOMB BOARD EXTRUDER MACHINE,2,"['extruder:type:specification', 'pp:material:specification']",extruder:type:specification | pp:material:specification,17.7
+True,Extruder Machine Heater,2,"['extruder machine:usage:specification', 'heater:type:specification']",extruder machine:usage:specification | heater:type:specification,17.38
+True,incense extruder,1,['extruder:type:specification'],extruder:type:specification,17.99
+True,ashwagandha extraction vessel,1,['ashwagandha:usage:specification'],ashwagandha:usage:specification,16.4
+True,centrifuge extractor acsseri,1,['centrifuge extractor:product:specification'],centrifuge extractor:product:specification,16.3
+True,cable extruder line 65/45mm,1,['65/45mm:capacity:specification'],65/45mm:capacity:specification,17.09
+True,Heavy Duty Extruder Machines,2,"['extruder:type:specification', 'heavy duty:features:specification']",extruder:type:specification | heavy duty:features:specification,24.19
+True,Upto 500kg Silver Refinery Plant,3,"['refinery plant:type:specification', 'silver:usage:specification', 'upto 500kg:capacity:specification']",refinery plant:type:specification | silver:usage:specification | upto 500kg:capacity:specification,22.27
+True,Wire extruder machine Production Capacity: 300 kg/hr,1,['300 kg/hr:capacity:specification'],300 kg/hr:capacity:specification,16.48
+True,1000 Kg Automatic Twin Screw Extruder,3,"['1000 kg:capacity:specification', 'automatic:automation grade:specification', 'screw extruder:type:specification']",1000 kg:capacity:specification | automatic:automation grade:specification | screw extruder:type:specification,15.96
+True,500 kg/hr Corn Starch Extruder Production Capacity: 500 kg/hr,3,"['500 kg/hr:capacity:specification', 'corn starch:material:specification', 'extruder:type:specification']",500 kg/hr:capacity:specification | corn starch:material:specification | extruder:type:specification,32.52
+True,Automatic Jockey Extruder Machine Production Capacity: 50 kg/hr,3,"['50 kg/hr:capacity:specification', 'automatic:automation grade:specification', 'jockey:brand:specification']",50 kg/hr:capacity:specification | automatic:automation grade:specification | jockey:brand:specification,19.35
+True,500 kg/hr no continuous extrusion machine Corn Starch Extruder Production Capacity: 500 kg/hr,2,"['500 kg/hr:capacity:specification', 'continuous extrusion:machine type:specification']",500 kg/hr:capacity:specification | continuous extrusion:machine type:specification,17.88
+True,Twin Screw Extruder - EX T65 15 170 - 170 Kg/hr output,2,"['-:capacity:specification', 'ex t65 15:model name/number:specification']",-:capacity:specification | ex t65 15:model name/number:specification,28.51
+True,Silver Refining  Plant,2,"['refining plant:type:specification', 'silver:refining material:specification']",refining plant:type:specification | silver:refining material:specification,16.76
+True,automatic gold refining machine video,3,"['automatic:automation grade:specification', 'gold refining:usage:specification', 'video:display function:specification']",automatic:automation grade:specification | gold refining:usage:specification | video:display function:specification,15.94
+True,extruder spare die”,1,['extruder:usage:specification'],extruder:usage:specification,16.01
+True,20KG AQUA REGIA -GOLD REFINING MACHINE,2,"['20kg:capacity:specification', 'refining machine:type:specification']",20kg:capacity:specification | refining machine:type:specification,37.42
+True,bitumen sample extractor,1,['bitumen:usage:specification'],bitumen:usage:specification,17.54
+True,gold-refining,0,[],,17.24
+True,rice bran extraction machine,2,"['extraction:machine type:specification', 'rice bran:usage:specification']",extraction:machine type:specification | rice bran:usage:specification,34.28
+True,blown film extrusion machine for plastic bag near aurangabad,2,"['bag:packaging type:specification', 'blown film extrusion machine:machine name:specification']",bag:packaging type:specification | blown film extrusion machine:machine name:specification,16.25
+True,blown film extrusion machine plastic bag,3,"['bag:packaging type:specification', 'film extrusion machine:usage:specification', 'plastic:material:specification']",bag:packaging type:specification | film extrusion machine:usage:specification | plastic:material:specification,17.92
+True,"Aluminium Extrusion Puller, 7.5 kw",2,"['7.5 kw:motor power:specification', 'aluminium:material:specification']",7.5 kw:motor power:specification | aluminium:material:specification,27.08
+True,solvent extractors,0,[],,16.56
+True,fvsdf,0,[],,15.82
+True,annatto seed extraction plant,1,['annatto seed:usage:specification'],annatto seed:usage:specification,20.61
+True,mother baby extruder machine bimetalic,1,['extruder:type:specification'],extruder:type:specification,31.71
+True,pet sheet extruder,2,"['extruder:type:specification', 'pet:material to be extruded:specification']",extruder:type:specification | pet:material to be extruded:specification,17.09
+True,Consulting - Copper Electrowinning Plant,2,"['copper:material:specification', 'electrowinning:plant type:specification']",copper:material:specification | electrowinning:plant type:specification,17.3
+True,pvc twin screw extruder,2,"['pvc:material:specification', 'screw extruder:type:specification']",pvc:material:specification | screw extruder:type:specification,18.48
+True,Semi Automatic Extruder Machine,2,"['extruder:type:specification', 'semi automatic:automation grade:specification']",extruder:type:specification | semi automatic:automation grade:specification,21.6
+True,Metal Recovering plant,1,['metal recovering:usage:specification'],metal recovering:usage:specification,15.88
+True,Metal Recovery Plant,1,['metal recovery:usage:specification'],metal recovery:usage:specification,16.84
+True,Metal Recovery Banificiation Plant,1,['metal recovery:usage:specification'],metal recovery:usage:specification,17.68
+True,aluminium extrusion plant machinery,1,['aluminium:material:specification'],aluminium:material:specification,16.91
+True,FS-S55 Single Die Extruder,3,"['extruder:type:specification', 'fs-s55:model name/number:specification', 'single die:number of dies:specification']",extruder:type:specification | fs-s55:model name/number:specification | single die:number of dies:specification,36.84
+True,copper extrusion plant,1,['copper:material:specification'],copper:material:specification,32.45
+True,metal-recovery-unit,1,['metal-recovery-unit:material:specification'],metal-recovery-unit:material:specification,16.94
+True,liquid liquid extraction unit,2,"['extraction:product:specification', 'liquid liquid:usage:specification']",extraction:product:specification | liquid liquid:usage:specification,16.75
+True,nicotine extraction,0,[],,16.45
+True,dava pipe,0,[],,16.38
+True,white silver plant,1,['white silver:color:specification'],white silver:color:specification,16.66
+True,progiya liqued,0,[],,16.82
+True,Gold Refinery Setup(Manual),1,['gold refinery:usage:specification'],gold refinery:usage:specification,14.99
+True,zinc recovery unit,1,['recovery:type:specification'],recovery:type:specification,16.4
+True,extruder machine in satna,0,[],,17.32
+True,mono film at,0,[],,16.57
+True,Rapipol Extractor,0,[],,17.74
+True,clean label extraction machinery,1,['label extraction:usage:specification'],label extraction:usage:specification,16.52
+True,lab extruder near greater noida,2,"['extruder:type:specification', 'lab:usage:specification']",extruder:type:specification | lab:usage:specification,16.65
+True,Conical Twin Screw Extruder,2,"['conical:shape:specification', 'screw extruder:type:specification']",conical:shape:specification | screw extruder:type:specification,27.49
+True,100% PLA PBAT Starch Compounding Lab Twin Screw Extruder Bioplastic Pellets Extrusion Machine,1,['pla:material:specification'],pla:material:specification,28.98
+True,Double Die Extruder Machine FI-D45,3,"['double die:number of dies:specification', 'extruder:type:specification', 'fi-d45:model name/number:specification']",double die:number of dies:specification | extruder:type:specification | fi-d45:model name/number:specification,28.78
+True,Dome Extruder,1,['dome:shape:specification'],dome:shape:specification,27.08
+True,pla 100% biobased starch bottles,2,"['bottles:packaging type:specification', 'pla:material:specification']",bottles:packaging type:specification | pla:material:specification,32.14
+True,Centrifuge Extractor Hand And Motorised,1,['centrifuge extractor:product:specification'],centrifuge extractor:product:specification,21.74
+True,Butter Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,17.78
+True,Fully Automatic Solvent Extraction Plant,1,['automatic:automation grade:specification'],automatic:automation grade:specification,17.28
+True,blown film extruder machines,1,['extruder:type:specification'],extruder:type:specification,18.54
+True,Corn Germ Solvent Extraction Plant,1,['extraction:type:specification'],extraction:type:specification,17.44
+True,Aluminium Parant,1,['aluminium:material:specification'],aluminium:material:specification,17.82
+True,extruder drum,1,['drum:packaging type:specification'],drum:packaging type:specification,17.23
+True,SER 158 Series Automatic Solvent Extractor,1,['automatic:automation grade:specification'],automatic:automation grade:specification,21.53
+True,Silver Extraction Machine,1,['silver:melting material:specification'],silver:melting material:specification,16.59
+True,gold panning equipment,1,['gold panning:usage:specification'],gold panning:usage:specification,17.54
+True,40 Mm Blown Film Plastic Extrusion Plant,2,"['40 mm:screw diameter:specification', 'plastic:material:specification']",40 mm:screw diameter:specification | plastic:material:specification,16.32
+True,water based herbal extractor,0,[],,14.44
+True,puja aluminium plant,2,"['aluminium:material:specification', 'puja:usage:specification']",aluminium:material:specification | puja:usage:specification,17.26
+True,Delhi mein Puja aluminium plant kahan hai,3,"['aluminium:material:specification', 'kahan hai:product:specification', 'puja:usage:specification']",aluminium:material:specification | kahan hai:product:specification | puja:usage:specification,17.37
+True,where is puja aluminium plant in delhi,1,['aluminium:material:specification'],aluminium:material:specification,17.41
+True,2 colour printing machine for mono layer extrusion,1,['2 colour:color:specification'],2 colour:color:specification,17.81
+True,Silver Refinary Machine,2,"['machine:products included:specification', 'silver:color:specification']",machine:products included:specification | silver:color:specification,16.68
+True,2colour printing machine for mono layer extrusion,1,['2colour:color:specification'],2colour:color:specification,17.17
+True,500 kg/hr twin screw extruder,1,['500 kg/hr:capacity:specification'],500 kg/hr:capacity:specification,16.45
+True,pet extruder,0,[],,16.44
+True,yes 200 tpd Solvent Extraction Plant,3,"['200 tpd:capacity:specification', 'solvent extraction plant:type:specification', 'yes:brand:specification']",200 tpd:capacity:specification | solvent extraction plant:type:specification | yes:brand:specification,17.03
+True,5 kg automatic-gold-refining-machine,2,"['5 kg:capacity:specification', 'automatic-gold-refining-machine:automation grade:specification']",5 kg:capacity:specification | automatic-gold-refining-machine:automation grade:specification,17.26
+True,twin screw plastic extruder,2,"['plastic:material to be extruded:specification', 'twin screw:screw type:specification']",plastic:material to be extruded:specification | twin screw:screw type:specification,25.12
+True,Gold And Silver Refining Services,1,['refining:service:specification'],refining:service:specification,38.04
+True,Electric Extruder Machine,2,"['electric:power source:specification', 'extruder:type:specification']",electric:power source:specification | extruder:type:specification,16.56
+True,roex,0,[],,17.24
+True,Teknik Solid Liquid Extraction Unit,2,"['liquid extraction unit:product:specification', 'teknik:brand:specification']",liquid extraction unit:product:specification | teknik:brand:specification,17.51
+True,Lab Extruder Machine,2,"['extruder:type:specification', 'lab:usage:specification']",extruder:type:specification | lab:usage:specification,16.51
+True,gold refining liquid,1,['liquid:physical state:specification'],liquid:physical state:specification,17.59
+True,ROEX extruders,0,[],,21.03
+True,lotto metal or plant blotter metal or plant,3,"['blotter:product:specification', 'lotto:brand:specification', 'metal:material:specification']",blotter:product:specification | lotto:brand:specification | metal:material:specification,21.87
+True,Ruderprkash Pandey,0,[],,17.82
+True,Bitumen Centrifuge Extractor,0,[],,16.39
+True,Multi Layer Extrusion Machine,0,[],,17.79
+True,bus master stacofil touch extruder machine,1,['extruder:type:specification'],extruder:type:specification,16.5
+True,aba blown film extrusion machine,1,['aba:brand:specification'],aba:brand:specification,16.87
+True,Textile Fire Extraction Machine,2,"['fire extraction:product:specification', 'textile:usage:specification']",fire extraction:product:specification | textile:usage:specification,17.4
+True,Herbal Excter,1,['herbal:medicine type:specification'],herbal:medicine type:specification,16.81
+True,taldalafil liquid,1,['liquid:form:specification'],liquid:form:specification,17.25
+True,ss 316 herbal extraction plant,1,['ss 316:material grade:specification'],ss 316:material grade:specification,16.77
+True,no Solvent Extraction Plant,1,['solvent extraction:type:specification'],solvent extraction:type:specification,29.7
+True,ss 316 solvant extractor,1,['ss 316:material grade:specification'],ss 316:material grade:specification,38.29
+True,ss 316 solvant extarctor,1,['ss 316:material grade:specification'],ss 316:material grade:specification,53.02
+True,Singuway Biotech Inc Singu20 Automatic Nucleic Acid Extraction System,2,"['automatic:automation grade:specification', 'singu20:model name/number:specification']",automatic:automation grade:specification | singu20:model name/number:specification,18.03
+True,Bitumen Extractor Equipment,1,['bitumen extractor:machine type:specification'],bitumen extractor:machine type:specification,16.89
+True,Blow Film Extrusion Machine,1,['film:usage:specification'],film:usage:specification,26.94
+True,twin screw extruders screw element,0,[],,17.5
+True,Metal+Solvent+Extraction+Plant,0,[],,26.74
+True,bobbin extruder,1,['extruder:type:specification'],extruder:type:specification,16.84
+True,cenrtifuge oil extractor,1,['oil extractor:product:specification'],oil extractor:product:specification,18.74
+True,2kg Automatic Gold Refining Machine,3,"['2kg:capacity:specification', 'automatic:automation grade:specification', 'gold refining:usage:specification']",2kg:capacity:specification | automatic:automation grade:specification | gold refining:usage:specification,17.54
+True,coconut oil MS & SS 304 50Hz Centrifuge Extractor Automation Grade: Manual Capacity: 60,4,"['50hz:frequency:specification', '60:capacity:specification', 'manual:automation grade:specification', 'ms:material:specification']",50hz:frequency:specification | 60:capacity:specification | manual:automation grade:specification | ms:material:specification,46.79
+True,bitumen extractorelectrical gew,1,['bitumen:machine type:specification'],bitumen:machine type:specification,17.15
+True,labscale extruder machine,1,['extruder:type:specification'],extruder:type:specification,17.2
+True,Single Pipe Twin Screw Extruder Line,1,['screw extruder:type:specification'],screw extruder:type:specification,19.68
+True,Two Layer Blown Film Extrusion Machinery,1,['two layer:layer:specification'],two layer:layer:specification,18.32
+True,MEGA 65 Twin Screw Extruder,1,['mega 65:model name/number:specification'],mega 65:model name/number:specification,16.61
+True,Main Solvent Extraction Plant,1,['solvent extraction:product:specification'],solvent extraction:product:specification,17.63
+True,no 300 kg/hr manual Single Pipe Twin Screw Extruder Line,1,['300 kg/hr:capacity:specification'],300 kg/hr:capacity:specification,17.85
+True,chemical extraction,0,[],,16.84
+True,Silicon Cable Extruder,2,"['extruder:type:specification', 'silicon:material:specification']",extruder:type:specification | silicon:material:specification,20.94
+True,blown film extrusion machine capacity 30 kg,1,['30 kg:capacity:specification'],30 kg:capacity:specification,17.25
+True,extruder machine for plastic reuse,2,"['extruder:machine name:specification', 'plastic:usage:specification']",extruder:machine name:specification | plastic:usage:specification,17.56
+True,gew bitumen extractor,1,['bitumen extractor:machine type:specification'],bitumen extractor:machine type:specification,26.1
+True,blow film extruder gedget box,1,['box:packaging type:specification'],box:packaging type:specification,27.74
+True,Gold Refinery Touch screen,2,"['gold refinery:usage:specification', 'touch screen:screen type:specification']",gold refinery:usage:specification | touch screen:screen type:specification,17.3
+True,nicotine extraction plant,1,['nicotine extraction:usage:specification'],nicotine extraction:usage:specification,16.67
+True,foam excuder machine,0,[],,31.42
+True,eps plate excuder machine,1,['eps:material:specification'],eps:material:specification,16.51
+True,polyurethane tube extruder,1,['polyurethane:material:specification'],polyurethane:material:specification,15.56
+True,pvc medical tube extrusion machine,3,"['extrusion:machine type:specification', 'medical:usage:specification', 'pvc:material:specification']",extrusion:machine type:specification | medical:usage:specification | pvc:material:specification,18.51
+True,foam sheet excuder machine,0,[],,22.19
+True,eps sheet excuder machine,1,['eps:material:specification'],eps:material:specification,16.68
+True,herbal extraction unit,1,['herbal:medicine type:specification'],herbal:medicine type:specification,18.15
+True,Aluminium Extrusion Plant Service Provider,1,['aluminium:material:specification'],aluminium:material:specification,17.07
+True,5 Kg Gold Refinery Filter,3,"['5 kg:weight:specification', 'gold:usage:specification', 'refinery filter:filter type:specification']",5 kg:weight:specification | gold:usage:specification | refinery filter:filter type:specification,17.75
+True,extruder machine in varanasi,0,[],,31.0
+True,Gold Electrowinning Equipment,0,[],,21.54
+True,Gold & Silver Electro Winning Refinery Plant,1,['electro winning refinery plant:type:specification'],electro winning refinery plant:type:specification,26.27
+True,5 10 kg per day gold refining machine,1,['10 kg per day:capacity:specification'],10 kg per day:capacity:specification,17.86
+True,45 50 Cable Extruder Clamp,3,"['45 50:size:specification', 'cable extruder:usage:specification', 'clamp:type:specification']",45 50:size:specification | cable extruder:usage:specification | clamp:type:specification,19.38
+True,SS-D300 EPE High Density Foam Sheet Extruder,4,"['epe:material:specification', 'extruder:type:specification', 'high density:density:specification', 'ss-d300:model name/number:specification']",epe:material:specification | extruder:type:specification | high density:density:specification | ss-d300:model name/number:specification,28.04
+True,Film Extruding Covering Machine.,1,['film extruding:usage:specification'],film extruding:usage:specification,17.93
+True,aluminium extrusion factory,3,"['aluminium:material:specification', 'extrusion:process:specification', 'factory:usage:specification']",aluminium:material:specification | extrusion:process:specification | factory:usage:specification,26.51
+True,EPE Foam Yoga Stick Extrusion Machine,2,"['epe foam:material:specification', 'yoga stick:usage:specification']",epe foam:material:specification | yoga stick:usage:specification,17.32
+True,vemiwas liquid,1,['liquid:form:specification'],liquid:form:specification,16.41
+True,rice dorb plant,2,"['plant:product:specification', 'rice:fruit type:specification']",plant:product:specification | rice:fruit type:specification,26.7
+True,self nutracer,0,[],,18.1
+True,Double Die Extruder,1,['double die:number of dies:specification'],double die:number of dies:specification,17.55
+True,EPE Foam Bag Extrusion Machine,2,"['bag:usage:specification', 'epe foam:bag material:specification']",bag:usage:specification | epe foam:bag material:specification,17.4
+True,consulting copper electrowinning plant,1,['copper:material:specification'],copper:material:specification,15.55
+True,Film Extruding Covering Machine,1,['film extruding:usage:specification'],film extruding:usage:specification,16.47
+True,Film Making Unit,1,['film making:usage:specification'],film making:usage:specification,16.28
+True,Extruder Head,1,['extruder:usage:specification'],extruder:usage:specification,16.66
+True,Aluminium+Extrusion+Plant,1,['aluminium+extrusion+plant:material:specification'],aluminium+extrusion+plant:material:specification,17.7
+True,mother baby extruder machine in surat,1,['mother baby extruder:model name/number:specification'],mother baby extruder:model name/number:specification,41.09
+True,movie royal refine machine,0,[],,16.91
+True,mini solvent extraction plant,2,"['mini:size:specification', 'solvent extraction:type:specification']",mini:size:specification | solvent extraction:type:specification,24.62
+True,"Twin Screw Extruder Machine, Production Capacity: 100 kg/hr",1,['100 kg/hr:capacity:specification'],100 kg/hr:capacity:specification,17.27
+True,MURRCONTROL LIQUID,1,['liquid:form:specification'],liquid:form:specification,17.18
+True,mini blown film machine,1,['mini:size:specification'],mini:size:specification,17.72
+True,SS Silver Refinery Plant,2,"['silver refinery:usage:specification', 'ss:material:specification']",silver refinery:usage:specification | ss:material:specification,17.1
+True,200 gm gold rifinary,1,['gold:material:specification'],gold:material:specification,17.1
+True,Nucleic Acid Extraction System,1,['nucleic acid extraction:usage:specification'],nucleic acid extraction:usage:specification,17.74
+True,extruder machine 45mm,2,"['45mm:capacity:specification', 'extruder:type:specification']",45mm:capacity:specification | extruder:type:specification,17.45
+True,t dia poly film manufacturing machine,1,['t:shape:specification'],t:shape:specification,15.83
+True,Fennel Liquid Extracts,2,"['fennel:name of extract:specification', 'liquid:form:specification']",fennel:name of extract:specification | liquid:form:specification,25.26
+True,Electrically Operated Bitument Extractor,0,[],,17.01
+True,Fungo Herbal Plant Extract,2,"['extract:form:specification', 'herbal plant:product:specification']",extract:form:specification | herbal plant:product:specification,17.72
+True,Twin Screw Extruder Machine Coupling,1,['coupling:type:specification'],coupling:type:specification,24.51
+True,Manual Gold Refiner 2kg Capacity,3,"['2kg:capacity:specification', 'gold refiner:usage:specification', 'manual:automation grade:specification']",2kg:capacity:specification | gold refiner:usage:specification | manual:automation grade:specification,18.18
+True,Long Caterpillar,0,[],,16.73
+True,hydromech automation in bhopal,2,"['bhopal:location/city:specification', 'hydromech:brand:specification']",bhopal:location/city:specification | hydromech:brand:specification,17.22
+True,twin-extruder-machine,0,[],,18.27
+True,hp natural 35 film,2,"['35:model number:specification', 'hp:brand:specification']",35:model number:specification | hp:brand:specification,30.21
+True,Enervet Liquid,1,['liquid:form:specification'],liquid:form:specification,17.79
+True,solid phase microextraction,1,['microextraction:process:specification'],microextraction:process:specification,17.35
+True,choco die,1,['choco:flavour:specification'],choco:flavour:specification,16.81
+True,30 silver refinery machine plant,1,['refinery:type:specification'],refinery:type:specification,25.21
+True,aitomatic silver refinery machine near dhanbad,0,[],,30.78
+True,automatic silver refinery machine near dhanbad,2,"['automatic:automation grade:specification', 'silver refinery machine:model name/number:specification']",automatic:automation grade:specification | silver refinery machine:model name/number:specification,16.92
+True,10 kg gold refining filter,3,"['10 kg:capacity:specification', 'gold:usage:specification', 'refining filter:filter type:specification']",10 kg:capacity:specification | gold:usage:specification | refining filter:filter type:specification,16.09
+True,30 silver refining plant,2,"['refining plant:type:specification', 'silver:refining material:specification']",refining plant:type:specification | silver:refining material:specification,16.78
+True,20 kg gold refining plant,3,"['20 kg:capacity:specification', 'gold:refining material:specification', 'refining plant:type:specification']",20 kg:capacity:specification | gold:refining material:specification | refining plant:type:specification,25.76
+True,Bak Lemon,2,"['bak:brand:specification', 'lemon:variety available:specification']",bak:brand:specification | lemon:variety available:specification,22.54
+True,blow film extrusion,1,['extrusion:process:specification'],extrusion:process:specification,18.51
+True,50 kg yes gold and silver refining machine,3,"['50 kg:capacity:specification', 'refining machine:type:specification', 'yes:brand:specification']",50 kg:capacity:specification | refining machine:type:specification | yes:brand:specification,16.72
+True,extruder machine block,1,['extruder machine:usage:specification'],extruder machine:usage:specification,16.8
+True,100mm extruder pvc xlpe hopper,3,"['100mm:diameter:specification', 'extruder:type:specification', 'pvc xlpe:material:specification']",100mm:diameter:specification | extruder:type:specification | pvc xlpe:material:specification,19.96
+True,silver plant,1,['silver:color:specification'],silver:color:specification,18.23
+True,Epe Foam Sheet Extrusion Line,2,"['epe:material:specification', 'foam:usage:specification']",epe:material:specification | foam:usage:specification,17.43
+True,Co- Extruder,1,['extruder:type:specification'],extruder:type:specification,16.5
+True,Lab Model Extruder Machine,2,"['extruder:type:specification', 'lab model:model name/number:specification']",extruder:type:specification | lab model:model name/number:specification,14.41
+True,40Kw New Pesticides Basket Extruder,4,"['40kw:power consumption:specification', 'extruder:type:specification', 'new:condition:specification', 'pesticides:usage:specification']",40kw:power consumption:specification | extruder:type:specification | new:condition:specification | pesticides:usage:specification,18.25
+True,20 Hp Wdg Basket Extruder,1,['basket extruder:type:specification'],basket extruder:type:specification,17.97
+True,200 refined gold ores,1,['refined:processing type:specification'],refined:processing type:specification,17.32
+True,PP Sutali Extrusion Plant,1,['pp:material:specification'],pp:material:specification,17.34
+True,metal refining plant copper,1,['copper:material:specification'],copper:material:specification,16.55
+True,silver refinery machine 100kg capacity,2,"['100kg:capacity:specification', 'refinery:model name/number:specification']",100kg:capacity:specification | refinery:model name/number:specification,16.94
+True,borwell rod line,1,['rod:product:specification'],rod:product:specification,27.23
+True,extracting-machinery,0,[],,16.67
+True,Mulching Film Machine,1,['mulching:type:specification'],mulching:type:specification,17.35
+True,Co Extrusion Blown Film Machinery,0,[],,17.55
+True,Automatic Gold Refinery Machine And Plant,1,['automatic:automation grade:specification'],automatic:automation grade:specification,20.04
+True,Twin Screw Parallel Extruder,2,"['extruder:type:specification', 'twin screw:screw type:specification']",extruder:type:specification | twin screw:screw type:specification,16.24
+True,standard for reselling no Solvent Extraction Systems,0,[],,16.15
+True,standard for reselling no Fat Extraction System,0,[],,16.75
+True,fat extractor,0,[],,18.27
+True,Herbal Extruded Machine,0,[],,16.85
+True,Industrial Extruder,2,"['extruder:type:specification', 'industrial:usage:specification']",extruder:type:specification | industrial:usage:specification,17.46
+True,cable extuder,1,['cable:usage:specification'],cable:usage:specification,17.13
+True,Gold Refinery Plant Filter,1,['gold refinery plant:usage:specification'],gold refinery plant:usage:specification,17.66
+True,bitumen-extractor,0,[],,15.53
+True,trans extruder machine,1,['extruder:type:specification'],extruder:type:specification,19.15
+True,lab extruder for nylon,3,"['extruder:type:specification', 'lab:usage:specification', 'nylon:material:specification']",extruder:type:specification | lab:usage:specification | nylon:material:specification,17.86
+True,extruder compound,1,['extruder:usage:specification'],extruder:usage:specification,16.59
+True,gold refining powder,0,[],,16.52
+True,extruder compound master for easy processing,1,['extruder:type:specification'],extruder:type:specification,17.68
+True,copper refining machine,1,['refining:type:specification'],refining:type:specification,17.74
+True,monolayer extruder,1,['extruder:type:specification'],extruder:type:specification,34.24
+True,Corn Starch Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,19.34
+True,scent extraction,0,[],,16.49
+True,5 KGPH Lab Sheet Extruder Machine,3,"['5 kgph:capacity:specification', 'extruder:type:specification', 'lab:usage:specification']",5 kgph:capacity:specification | extruder:type:specification | lab:usage:specification,17.96
+True,bitumen extractor electrically operated,2,"['bitumen extractor:machine type:specification', 'electrically:operation:specification']",bitumen extractor:machine type:specification | electrically:operation:specification,17.0
+True,extruder dies,1,['extruder:usage:specification'],extruder:usage:specification,16.73
+True,extruder dies kanpur,1,['kanpur:place of origin:specification'],kanpur:place of origin:specification,16.32
+True,Power Cable Extrusion Line,1,['power cable:usage:specification'],power cable:usage:specification,16.32
+True,40KW Basket Extruder Machine,2,"['40kw:power consumption:specification', 'extruder:type:specification']",40kw:power consumption:specification | extruder:type:specification,16.51
+True,Automatic  Blown Film Extrusion Machine,1,['automatic:machine type:specification'],automatic:machine type:specification,17.04
+True,silver refinery machine per day purity 97 to 98 tonch,2,"['97:purity:specification', 'silver:usage:specification']",97:purity:specification | silver:usage:specification,17.59
+True,GMS-Extruder eTrim,0,[],,17.72
+True,GMS-Extruder,0,[],,17.53
+True,silver refinery machine 150 kg per day 10lackh rupees wali purity 97 to 98 tonch wali,1,['150 kg per day:capacity:specification'],150 kg per day:capacity:specification,17.38
+True,GMS-Extruder_ETrim,0,[],,16.01
+True,Bio-degradable / Compostable Film Extrusion Machine,1,['film:usage:specification'],film:usage:specification,14.28
+True,Mulch Film Machine,1,['mulch:type:specification'],mulch:type:specification,16.29
+True,Washing Machine Tumbler,2,"['tumbler:part type:specification', 'washing machine:usage:specification']",tumbler:part type:specification | washing machine:usage:specification,16.75
+True,Bulpower Twin Screw Extruder Gearbox Counter Rotating,2,"['bulpower:brand:specification', 'twin screw extruder gearbox:product:specification']",bulpower:brand:specification | twin screw extruder gearbox:product:specification,17.19
+True,Gold Refinery Tank,2,"['gold:storage material:specification', 'refinery tank:type:specification']",gold:storage material:specification | refinery tank:type:specification,17.68
+True,Wpc Extruder Die,1,['wpc:material:specification'],wpc:material:specification,16.94
+True,Solvent Extractor Model: SPE-96,2,"['solvent extractor:type:specification', 'spe-96:model/type:specification']",solvent extractor:type:specification | spe-96:model/type:specification,19.15
+True,Extruder Machines .,1,['extruder:type:specification'],extruder:type:specification,16.09
+True,Lab Extruder Machine Production Capacity: 50 Kg/hr,3,"['50 kg/hr:capacity:specification', 'extruder:type:specification', 'lab:usage:specification']",50 kg/hr:capacity:specification | extruder:type:specification | lab:usage:specification,17.32
+True,Gold Refining Plant parts,1,['refining:usage:specification'],refining:usage:specification,16.02
+True,extruder machine in madhyapradesh,1,['extruder:model name/number:specification'],extruder:model name/number:specification,16.69
+True,Gold Refinery Service,0,[],,26.77
+True,Cabbage Liquid Extract,2,"['cabbage:name of extract:specification', 'liquid:form:specification']",cabbage:name of extract:specification | liquid:form:specification,21.79
+True,100 kg/hr no tube extrusion machine Extruder Machine,1,['100 kg/hr:capacity:specification'],100 kg/hr:capacity:specification,17.18
+True,herbal and ayurvedic Extraction pant,1,['ayurvedic:medicine type:specification'],ayurvedic:medicine type:specification,17.65
+True,twin screw extruder 50 kg/hr lab extruder machine,4,"['50 kg/hr:capacity:specification', 'extruder:type:specification', 'lab:usage:specification', 'screw:machine type:specification']",50 kg/hr:capacity:specification | extruder:type:specification | lab:usage:specification | screw:machine type:specification,17.91
+True,twin screw lab extruder,3,"['extruder:type:specification', 'lab:usage:specification', 'twin screw:screw type:specification']",extruder:type:specification | lab:usage:specification | twin screw:screw type:specification,18.39
+True,millstim liqid,0,[],,16.29
+True,10 kg automatic gold refining machine,3,"['10 kg:capacity:specification', 'automatic:automation grade:specification', 'gold refining:usage:specification']",10 kg:capacity:specification | automatic:automation grade:specification | gold refining:usage:specification,18.49
+True,10 kg gold refinery machine,2,"['10 kg:capacity:specification', 'gold refinery:usage:specification']",10 kg:capacity:specification | gold refinery:usage:specification,16.82
+True,spice oil and oleoresins extraction plant,2,"['extraction:machine type:specification', 'spice oil:usage:specification']",extraction:machine type:specification | spice oil:usage:specification,18.5
+True,aluminium extrusion plant gujarat,2,"['aluminium:material:specification', 'gujarat:place of origin:specification']",aluminium:material:specification | gujarat:place of origin:specification,18.27
+True,alluminium extrusion plant in surat gujrat,1,['alluminium:material:specification'],alluminium:material:specification,18.57
+True,Jockey Extruder For Pen Plant,2,"['extruder:type:specification', 'jockey:brand:specification']",extruder:type:specification | jockey:brand:specification,17.18
+True,200 kg/hr Semi Automatic Extruder Machine,3,"['200 kg/hr:capacity:specification', 'extruder:type:specification', 'semi automatic:automation grade:specification']",200 kg/hr:capacity:specification | extruder:type:specification | semi automatic:automation grade:specification,18.23
+True,slanty extruder,1,['extruder:type:specification'],extruder:type:specification,17.94
+True,Extrusion Process,1,['extrusion:process:specification'],extrusion:process:specification,16.12
+True,automatic 500 kg/hr no Twin Screw Extruder Machine Production Capacity: 180KG/H,2,"['500 kg/hr:capacity:specification', 'automatic:automation grade:specification']",500 kg/hr:capacity:specification | automatic:automation grade:specification,25.45
+True,automatic 1000 kg/hr yes Twin Screw Extruder,3,"['1000 kg/hr:capacity:specification', 'automatic:automation grade:specification', 'yes:brand:specification']",1000 kg/hr:capacity:specification | automatic:automation grade:specification | yes:brand:specification,18.3
+True,Silo Extraction System,1,['extraction:product:specification'],extraction:product:specification,18.67
+True,"High Speed Mono Layer Blown Film Extrusion Plant for LDPE Packaging Film (1200mm, 75kg/hr)",3,"['75kg/hr):capacity:specification', 'ldpe:material:specification', 'mono layer blown film extrusion plant:machine name:specification']",75kg/hr):capacity:specification | ldpe:material:specification | mono layer blown film extrusion plant:machine name:specification,19.46
+True,monolayer highspeed blown film machine,1,['blown film:product:specification'],blown film:product:specification,17.14
+True,extruders with standard accessories,0,[],,26.66
+True,blown film extrusion machine abc,0,[],,17.11
+True,blown film extrusion machine 3 layers,0,[],,21.28
+True,rag gold regind 670g pack of 10 near delhi,1,['670g:packaging size:specification'],670g:packaging size:specification,18.69
+True,rag gold refined 670g,2,"['670g:packaging size:specification', 'refined:processing type:specification']",670g:packaging size:specification | refined:processing type:specification,18.33
+True,gold directors machine,1,['machine:products included:specification'],machine:products included:specification,16.78
+True,gold refining case,1,['refining case:type:specification'],refining case:type:specification,17.16
+True,挤出机,0,[],,16.78
+True,pvcx,1,['pvcx:material:specification'],pvcx:material:specification,25.47
+True,cow metal extraction machine,1,['metal extraction:usage:specification'],metal extraction:usage:specification,17.5
+True,65/132 conical extruder,3,"['65/132:model name/number:specification', 'conical:shape:specification', 'extruder:type:specification']",65/132:model name/number:specification | conical:shape:specification | extruder:type:specification,27.92
+True,packan,0,[],,16.62
+True,gold silver refinery machine,0,[],,17.65
+True,Double lock die box extruder,1,['box:packaging type:specification'],box:packaging type:specification,29.75
+True,semi-automatic 100 kg/hr yes Twin Screw Extruder,3,"['100 kg/hr:capacity:specification', 'screw:machine type:specification', 'yes:brand:specification']",100 kg/hr:capacity:specification | screw:machine type:specification | yes:brand:specification,17.23
+True,gold refining plant small machine,2,"['refining:type:specification', 'small:size:specification']",refining:type:specification | small:size:specification,17.05
+True,spent earth solvent extraction plant,0,[],,22.08
+True,oil cake solvent extraction plant,2,"['oil cake:usage:specification', 'solvent extraction:type:specification']",oil cake:usage:specification | solvent extraction:type:specification,17.41
+True,soyabean seed solvent extraction plant,2,"['solvent extraction:type:specification', 'soyabean seed:usage:specification']",solvent extraction:type:specification | soyabean seed:usage:specification,20.45
+True,Wire Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,24.47
+True,Wire Extration Machine,0,[],,17.58
+True,Refined Gold,1,['refined:processing type:specification'],refined:processing type:specification,17.38
+True,Teflon Cable Extrusion Line,1,['teflon:material:specification'],teflon:material:specification,40.16
+True,SPM Extrusion Plant Equipments,2,"['extrusion plant:product:specification', 'spm:brand:specification']",extrusion plant:product:specification | spm:brand:specification,29.15
+True,रिफाइन,1,['रिफाइन:composition:specification'],रिफाइन:composition:specification,18.09
+True,SPHEGETTI EXTRUDER,1,['extruder:type:specification'],extruder:type:specification,17.87
+True,120 MM Main GHE-250 Extruder Machine,3,"['120 mm:screw diameter:specification', 'extruder:type:specification', 'ghe-250:model name/number:specification']",120 mm:screw diameter:specification | extruder:type:specification | ghe-250:model name/number:specification,24.04
+True,complete datong automatic inverter control centrifugal hydroextractor with all standard accessoreies,1,['automatic:automation grade:specification'],automatic:automation grade:specification,17.74
+True,700bak,0,[],,17.1
+True,btb15-700bak,0,[],,18.05
+True,100mm extruder pvc/xlpe hopper,3,"['100mm:diameter:specification', 'extruder:type:specification', 'pvc/xlpe:material:specification']",100mm:diameter:specification | extruder:type:specification | pvc/xlpe:material:specification,17.4
+True,v3 extruder,1,['v3:model name/number:specification'],v3:model name/number:specification,17.2
+True,centrifuge extractor 220v,2,"['220v:voltage:specification', 'centrifuge extractor:product:specification']",220v:voltage:specification | centrifuge extractor:product:specification,17.38
+True,Liquid Extraction Service in Mixer Settler Apparatus Laboratory Type,1,['liquid extraction service:service:specification'],liquid extraction service:service:specification,21.43
+True,Tomato Seed Extraction Machine,1,['extraction:machine type:specification'],extraction:machine type:specification,17.5
+True,imli extruder machine,1,['extruder:type:specification'],extruder:type:specification,17.35
+True,1 kg Automatic Gold Refining Plant(aqua regia process),2,"['1 kg:capacity:specification', 'automatic:automation grade:specification']",1 kg:capacity:specification | automatic:automation grade:specification,17.06
+True,refinery gold bar,2,"['bar:type:specification', 'gold:plating:specification']",bar:type:specification | gold:plating:specification,17.55
+True,Cognitive Health,0,[],,16.76
+True,extruder tape line spare parts name,1,['extruder:usage:specification'],extruder:usage:specification,16.67
+True,granular extruder machine,1,['extruder:type:specification'],extruder:type:specification,16.71
+True,semi-automatic Twin Screw Extruder,2,"['screw extruder:type:specification', 'semi-automatic:automation grade:specification']",screw extruder:type:specification | semi-automatic:automation grade:specification,17.99
+True,Diversified Metal Recovery,1,['metal recovery:usage:specification'],metal recovery:usage:specification,28.0
+True,yara 1 0:52:34 1 kg touch water soluble organic extracts formulation services,2,"['0:52:34:npk ratio:specification', 'yara:brand:specification']",0:52:34:npk ratio:specification | yara:brand:specification,17.8
+True,500 no Aluminium Extrusion Plant,2,"['500 no:model name/number:specification', 'aluminium:material:specification']",500 no:model name/number:specification | aluminium:material:specification,23.74
+True,1000 no Aluminium Extrusion Plant,2,"['1000 no:model name/number:specification', 'aluminium:material:specification']",1000 no:model name/number:specification | aluminium:material:specification,17.24
+True,Epe Foam Fruit Net Extruder Machine,3,"['epe foam:material:specification', 'extruder:type:specification', 'fruit:usage:specification']",epe foam:material:specification | extruder:type:specification | fruit:usage:specification,16.79
+True,rag gold full package,0,[],,16.92
+True,Extruder Machine For Medical,1,['medical:usage:specification'],medical:usage:specification,17.84
+True,Extruder Machine For Silicone Cables,1,['extruder machine:machine name:specification'],extruder machine:machine name:specification,20.3
+True,Extruder Machine For Industrial,2,"['extruder:machine name:specification', 'industrial:usage:specification']",extruder:machine name:specification | industrial:usage:specification,16.92
+True,एक्सट्रूडर मशीन,1,['एक्सट्रूडर:composition:specification'],एक्सट्रूडर:composition:specification,16.75
+True,30mm jockey extruder machine,3,"['30mm:screw diameter:specification', 'extruder:type:specification', 'jockey:brand:specification']",30mm:screw diameter:specification | extruder:type:specification | jockey:brand:specification,16.78
+True,aqua regia,0,[],,19.56
+True,Lab Twin Screw Extruder,2,"['lab:usage:specification', 'screw extruder:type:specification']",lab:usage:specification | screw extruder:type:specification,23.02
+True,100 kg/hr automatic twin screw extruder,2,"['100 kg/hr:capacity:specification', 'automatic:automation grade:specification']",100 kg/hr:capacity:specification | automatic:automation grade:specification,17.3
+True,Hydro Centrifuge,1,['centrifuge:product:specification'],centrifuge:product:specification,16.2
+True,solid phase extraction quick trace4,1,['solid phase extraction:usage:specification'],solid phase extraction:usage:specification,16.86
+True,300 kg/hr Monolayer Blown Film Machine,2,"['300 kg/hr:capacity:specification', 'monolayer blown film machine:product:specification']",300 kg/hr:capacity:specification | monolayer blown film machine:product:specification,24.25
+True,Marigold Solvent Extraction Plant Manufacturers In India,0,[],,19.21
+True,cloths water extractor,1,['water:usage:specification'],water:usage:specification,27.23
+True,Silver Extractoin Plant B,1,['silver:color:specification'],silver:color:specification,20.86
+True,Kumar Solvent Extraction Plant,2,"['kumar:brand:specification', 'solvent extraction plant:product:specification']",kumar:brand:specification | solvent extraction plant:product:specification,17.19
+True,gold silver processing machines,1,['processing:product:specification'],processing:product:specification,17.16
+True,oil solvent extraction plant,2,"['extraction:type:specification', 'oil solvent:usage:specification']",extraction:type:specification | oil solvent:usage:specification,17.35
+True,solid-phase-extraction-system,0,[],,17.88
+True,Gems Gold Refined,1,['refined:processing type:specification'],refined:processing type:specification,17.9
+True,aloe vera extraction manual machine,1,['aloe vera extraction:usage:specification'],aloe vera extraction:usage:specification,19.27
+True,bioplastic film extrusion machine,0,[],,17.04
+True,120mm Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,17.69
+True,SISISISISISIN liquid,1,['liquid:form:specification'],liquid:form:specification,26.26
+True,solvent+extraction+plant,0,[],,18.64
+True,curcumin extraction plant manufacturer in hyderabad,2,"['curcumin extraction plant:model name/number:specification', 'manufacturer:business type:specification']",curcumin extraction plant:model name/number:specification | manufacturer:business type:specification,17.85
+True,Monolayer Extruder Machines,0,[],,17.67
+True,Extruder plastic die,2,"['extruder:usage:specification', 'plastic:material:specification']",extruder:usage:specification | plastic:material:specification,17.6
+True,15000 RPM Centrifuge Extractor,2,"['15000 rpm:speed:specification', 'centrifuge extractor:product:specification']",15000 rpm:speed:specification | centrifuge extractor:product:specification,17.59
+True,chocolate extrude,1,['chocolate:flavour:specification'],chocolate:flavour:specification,18.0
+True,Silicon Cable Extrusion Line,1,['silicon:material:specification'],silicon:material:specification,18.66
+True,"Automatic Soybean Solvent Extraction Plant, 100 ton/day, 100 kW",1,"['100 ton/day, 100 kw:capacity:specification']","100 ton/day, 100 kw:capacity:specification",18.27
+True,Silver Refinery Machines,2,"['refinery:product:specification', 'silver:melting material:specification']",refinery:product:specification | silver:melting material:specification,22.21
+True,tube puncture pakane wali heater,0,[],,16.37
+True,tube extrusion machine 50 kg/hr extruder machine,1,['50 kg/hr:capacity:specification'],50 kg/hr:capacity:specification,16.95
+True,100 kg/hr Extruder Machine,2,"['100 kg/hr:capacity:specification', 'extruder:type:specification']",100 kg/hr:capacity:specification | extruder:type:specification,32.4
+True,extruder180 sqmm,0,[],,16.73
+True,catalyst extruder,1,['extruder:type:specification'],extruder:type:specification,17.21
+True,Catalyst Extruder In Ahmedabad,1,['catalyst extruder:type:specification'],catalyst extruder:type:specification,20.77
+True,Extruder  Machine,1,['extruder:type:specification'],extruder:type:specification,16.78
+True,Co Rotating Twin Screw Extruder Gearbox,0,[],,28.47
+True,Twin Screw Co Rotating Extruder Gearbox,2,"['extruder:usage:specification', 'twin:screw type:specification']",extruder:usage:specification | twin:screw type:specification,25.91
+True,Jockey Extruder Machine Production Capacity: 50 kg/hr,3,"['50 kg/hr:capacity:specification', 'extruder:type:specification', 'jockey:brand:specification']",50 kg/hr:capacity:specification | extruder:type:specification | jockey:brand:specification,29.23
+True,300 kg/hr no twin screw extruder Wire extruder machine Production Capacity: 300 kg/hr,1,['300 kg/hr:capacity:specification'],300 kg/hr:capacity:specification,18.31
+True,automatic 100 kg/hr no Two Stage Extruder Machine,4,"['100 kg/hr:capacity:specification', 'automatic:automation grade:specification', 'extruder:type:specification', 'two stage:number of stages:specification']",100 kg/hr:capacity:specification | automatic:automation grade:specification | extruder:type:specification | two stage:number of stages:specification,17.93
+True,silver refinery works,1,['refinery:service:specification'],refinery:service:specification,26.74
+True,Extruder Machine ( Sheet Line ),0,[],,17.68
+True,Acco Gold T606,1,['t606:model number:specification'],t606:model number:specification,16.11
+True,Pp extruder machine rings,3,"['extruder machine:usage:specification', 'pp:material:specification', 'rings:type:specification']",extruder machine:usage:specification | pp:material:specification | rings:type:specification,21.24
+True,Used Cable Extruder Machine,2,"['extruder:machine type:specification', 'used:condition:specification']",extruder:machine type:specification | used:condition:specification,20.98
+True,no Cable Extruder,1,['extruder:type:specification'],extruder:type:specification,16.73
+True,Hand Held Extruder Exon 1 (ACP11),2,"['exon 1 (acp11):model name/number:specification', 'hand held extruder:type:specification']",exon 1 (acp11):model name/number:specification | hand held extruder:type:specification,16.8
+True,naphtha plant,2,"['naphtha:fruit type:specification', 'plant:product:specification']",naphtha:fruit type:specification | plant:product:specification,18.61
+True,naptha plant,2,"['naptha:fruit type:specification', 'plant:product:specification']",naptha:fruit type:specification | plant:product:specification,17.86
+True,Extru,0,[],,18.0
+True,गोल्ड पिलाने वाली मशीन,1,['पिलाने वाली:book name:specification'],पिलाने वाली:book name:specification,17.87
+True,reactive extruder machine,1,['extruder:type:specification'],extruder:type:specification,19.05
+True,100 tpd solvent extraction plants manufacturer,3,"['100 tpd:capacity:specification', 'manufacturer:business type:specification', 'solvent extraction:product:specification']",100 tpd:capacity:specification | manufacturer:business type:specification | solvent extraction:product:specification,18.49
+True,pp granules extruder machine,2,"['extruder:type:specification', 'pp:material:specification']",extruder:type:specification | pp:material:specification,16.35
+True,1kg gold refinery,2,"['1kg:capacity:specification', 'gold:usage:specification']",1kg:capacity:specification | gold:usage:specification,27.2
+True,Schneider LAD9V6  Downstream Bus Bar Screw,2,"['bus bar screw:product or component type:specification', 'schneider:brand:specification']",bus bar screw:product or component type:specification | schneider:brand:specification,17.26
+True,flower extraction machine,1,['flower extraction:usage:specification'],flower extraction:usage:specification,16.83
+True,solvent extraction machine,0,[],,35.46
+True,Conical extruder heaters,2,"['conical:shape:specification', 'extruder:type:specification']",conical:shape:specification | extruder:type:specification,18.27
+True,300 kg/hr no continuous extrusion machine Extruder Machine,2,"['300 kg/hr:capacity:specification', 'extrusion:machine type:specification']",300 kg/hr:capacity:specification | extrusion:machine type:specification,23.01
+True,TCLP%20EXTRACTOR%20ROTARY%20AGITATOR(8%20SAMPLES),1,['tclp%20extractor%20rotary%20agitator(8%20samples):technical name:specification'],tclp%20extractor%20rotary%20agitator(8%20samples):technical name:specification,17.95
+True,Twin Screw Extruder for Polymer Chips,2,"['polymer chips:usage:specification', 'screw extruder:type:specification']",polymer chips:usage:specification | screw extruder:type:specification,17.71
+True,golf refining machine,2,"['golf:brand:specification', 'refining machine:product:specification']",golf:brand:specification | refining machine:product:specification,18.85
+True,no for aluminium handles adizing plant,1,['aluminium handles adizing:usage:specification'],aluminium handles adizing:usage:specification,17.0
+True,soyabean solvent extraction plant,2,"['solvent extraction:type:specification', 'soyabean:usage:specification']",solvent extraction:type:specification | soyabean:usage:specification,17.27
+True,Oxygen tube  Extrusion Machines,1,['oxygen:gas type:specification'],oxygen:gas type:specification,17.44
+True,Automatic Two Layer Blown Film Extrusion Machine,2,"['automatic:machine type:specification', 'two layer:layer:specification']",automatic:machine type:specification | two layer:layer:specification,18.14
+True,Extruders & Mixers,0,[],,23.8
+True,45x35 Aba Blown Film Extrusion Machine,2,"['45x35:size:specification', 'aba:brand:specification']",45x35:size:specification | aba:brand:specification,19.64
+True,shrink rolls no Blown Film Extrusion Machine,0,[],,16.66
+True,Extruder Gun,0,[],,17.87
+True,automatic centrifuge extractor motorised,2,"['automatic:automation grade:specification', 'centrifuge extractor:product:specification']",automatic:automation grade:specification | centrifuge extractor:product:specification,17.8
+True,centrifuge extractor motorised,2,"['centrifuge extractor:product:specification', 'motorised:type:specification']",centrifuge extractor:product:specification | motorised:type:specification,18.39
+True,"Blown Film Extrusion Machine - 40mm Screw, 700mm Film Width, 50kg/hr Capacity",1,['40mm:capacity:specification'],40mm:capacity:specification,17.87
+True,aluminum extrusions plant,1,['aluminum:material:specification'],aluminum:material:specification,23.08
+True,200 kg/hr Three Layer Blown Film Extrusion Machine,2,"['200 kg/hr:capacity:specification', 'three layer:layer:specification']",200 kg/hr:capacity:specification | three layer:layer:specification,17.54
+True,Gold Jewellery Refinery Service Provider,1,['jewellery refinery:service:specification'],jewellery refinery:service:specification,18.13
+True,Solvent Extraction System,0,[],,16.51
+True,rag refined,1,['refined:processing type:specification'],refined:processing type:specification,16.36
+True,Gold Refining Machine Tumbler Model 10kg,2,"['10kg:capacity:specification', 'gold refining:usage:specification']",10kg:capacity:specification | gold refining:usage:specification,30.25
+True,Calendula Liquid Extracts,2,"['calendula:name of extract:specification', 'liquid:form:specification']",calendula:name of extract:specification | liquid:form:specification,17.5
+True,silicon extruder machine,2,"['extruder:type:specification', 'silicon:material to be extruded:specification']",extruder:type:specification | silicon:material to be extruded:specification,18.55
+True,lab twin screw extruders,1,['lab:usage:specification'],lab:usage:specification,17.63
+True,lab tube extruders,2,"['extruders:type:specification', 'lab:usage:specification']",extruders:type:specification | lab:usage:specification,16.84
+True,lab pipe extruders,2,"['extruders:type:specification', 'lab:usage:specification']",extruders:type:specification | lab:usage:specification,16.47
+True,lab extruders,1,['lab:usage:specification'],lab:usage:specification,16.7
+True,Electrically Operated Bitumen Extractor,1,['bitumen extractor:machine type:specification'],bitumen extractor:machine type:specification,18.54
+True,lab blown film extruders,2,"['extruders:type:specification', 'lab:usage:specification']",extruders:type:specification | lab:usage:specification,18.94
+True,extruder machine 500kg/hr,2,"['500kg/hr:capacity:specification', 'extruder:type:specification']",500kg/hr:capacity:specification | extruder:type:specification,17.92
+True,aluminium extrusion fully automatic machine,2,"['aluminium:material:specification', 'automatic:automation grade:specification']",aluminium:material:specification | automatic:automation grade:specification,18.54
+True,Co- Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,17.83
+True,Twin Screw Extruder Spares,0,[],,17.69
+True,Mini Twin Screw Extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,22.21
+True,copper wire extruder machine,2,"['copper:types of metal:specification', 'extruder:type:specification']",copper:types of metal:specification | extruder:type:specification,19.78
+True,sand extracting machine,1,['sand extracting:usage:specification'],sand extracting:usage:specification,14.57
+True,windsor kts 110 twin screw extruder,3,"['kts 110:model name/number:specification', 'twin screw extruder:type:specification', 'windsor:brand:specification']",kts 110:model name/number:specification | twin screw extruder:type:specification | windsor:brand:specification,18.95
+True,"soap extruder with 2-inch screw""",0,[],,16.95
+True,milacron tc 55 conical screw extrusion system,3,"['conical screw extrusion system:product:specification', 'milacron:brand:specification', 'tc 55:series:specification']",conical screw extrusion system:product:specification | milacron:brand:specification | tc 55:series:specification,17.2
+True,Extruder Chamber,0,[],,25.97
+True,gold refining service companies,1,['refining:service:specification'],refining:service:specification,17.56
+True,Extraction plant,0,[],,18.87
+True,Curcumin Extraction Industrial Plant,2,"['extraction:machine type:specification', 'industrial:usage:specification']",extraction:machine type:specification | industrial:usage:specification,17.48
+True,water extraction system,1,['water extraction:usage:specification'],water extraction:usage:specification,18.31
+True,extrusion blown film plant dia,0,[],,17.87
+True,Gold Leaching Machine,0,[],,31.76
+True,Phytochemicals Extraction Plant,0,[],,17.03
+True,45 mm screw extruder,2,"['45 mm:screw diameter:specification', 'screw extruder:type:specification']",45 mm:screw diameter:specification | screw extruder:type:specification,17.33
+True,45 mm screw extruder near rajkot,1,['screw extruder:type:specification'],screw extruder:type:specification,18.86
+True,46 mm screw extruder,2,"['46 mm:screw diameter:specification', 'screw extruder:type:specification']",46 mm:screw diameter:specification | screw extruder:type:specification,18.63
+True,55 mm monolayer extruder machine,1,['55 mm:screw diameter:specification'],55 mm:screw diameter:specification,21.26
+True,3LPE Coating Extruder,2,"['3lpe:capacity:specification', 'extruder:type:specification']",3lpe:capacity:specification | extruder:type:specification,16.95
+True,old machine extryder for wall panel,1,['old:condition:specification'],old:condition:specification,18.96
+True,Industrial Screw Extruder,2,"['industrial:usage:specification', 'screw extruder:type:specification']",industrial:usage:specification | screw extruder:type:specification,17.18
+True,1500 centex water,1,['centex:brand:specification'],centex:brand:specification,17.62
+True,uco purificationrefining,1,['uco:brand:specification'],uco:brand:specification,17.53
+True,Hydromech gearbox,1,['hydromech:brand:specification'],hydromech:brand:specification,15.28
+True,Hand Operated Centrifuge Extractor,1,['centrifuge extractor:product:specification'],centrifuge extractor:product:specification,17.78
+True,Motorised Centrifuge Extractor,2,"['centrifuge extractor:product:specification', 'motorised:driven type:specification']",centrifuge extractor:product:specification | motorised:driven type:specification,19.64
+True,epe extruder,0,[],,17.64
+True,gpld refinery,1,['gpld:material:specification'],gpld:material:specification,17.03
+True,3-d Printing Rod Cod Wire Filament Lab Extrusion Line,0,[],,17.86
+True,silver refining mixer plant,1,['refining mixer:type:specification'],refining mixer:type:specification,17.78
+True,no Blown Film Extrusion Machine,0,[],,17.68
+True,for plastic gloves yes Blown Film Extrusion Machine,1,['plastic:material:specification'],plastic:material:specification,27.92
+True,automatic centrifuge extractor 220v,3,"['220v:voltage:specification', 'automatic:automation grade:specification', 'centrifuge extractor:product:specification']",220v:voltage:specification | automatic:automation grade:specification | centrifuge extractor:product:specification,16.98
+True,aimil bitumen centrifuge extractor,1,['aimil:brand/make:specification'],aimil:brand/make:specification,16.85
+True,aurangabad	mh	431136,0,[],,16.61
+True,AURANGABAD MH 431136,0,[],,16.73
+True,6545 extrusion,1,['extrusion:process:specification'],extrusion:process:specification,32.34
+True,6545 extrusion cable machine,1,['6545:model name/number:specification'],6545:model name/number:specification,16.41
+True,Triple Line Cable Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,18.04
+True,Extruder Machinery,1,['extruder:type:specification'],extruder:type:specification,23.79
+True,100Mm Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,17.53
+True,90Mm Extruder Machine,2,"['90mm:screw diameter:specification', 'extruder:type:specification']",90mm:screw diameter:specification | extruder:type:specification,18.76
+True,multilayer extrusion machine,1,['multilayer:layer:specification'],multilayer:layer:specification,17.38
+True,automated solvent (soxhlet) extraction system,1,['solvent:product:specification'],solvent:product:specification,17.32
+True,Extruder Dana Machine,1,['extruder:type:specification'],extruder:type:specification,17.07
+True,"""aloe vera gel extraction machine",0,[],,17.37
+True,Centex,1,['centex:brand:specification'],centex:brand:specification,18.84
+True,double screw pipe making machine,2,"['double screw:screw type:specification', 'pipe making machine:machine type:specification']",double screw:screw type:specification | pipe making machine:machine type:specification,21.28
+True,100  kg%2 fhr manual co rotating twin screw extruders,2,"['100 kg%2 fhr:capacity:specification', 'manual:automation grade:specification']",100 kg%2 fhr:capacity:specification | manual:automation grade:specification,35.07
+True,100  kg%2 fhr co rotating twin screw extruders,1,['100 kg%2 fhr:capacity:specification'],100 kg%2 fhr:capacity:specification,17.38
+True,manual co rotating twin screw extruders,1,['manual:automation grade:specification'],manual:automation grade:specification,17.34
+True,automatic co rotating twin screw extruders,1,['automatic:automation grade:specification'],automatic:automation grade:specification,17.53
+True,Tamarind Extruder Machine,2,"['extruder:type:specification', 'tamarind:suitable for:specification']",extruder:type:specification | tamarind:suitable for:specification,17.65
+True,100mm+extruder+pvc+xlpe+hopper,1,['100mm+extruder+pvc+xlpe+hopper:size:specification'],100mm+extruder+pvc+xlpe+hopper:size:specification,17.43
+True,100mm extruder pvcxlpe hopper,3,"['100mm:diameter:specification', 'extruder:type:specification', 'pvcxlpe:material:specification']",100mm:diameter:specification | extruder:type:specification | pvcxlpe:material:specification,30.56
+True,Gold Refining Machine Capacity 100gms 1 Kg,1,['100gms 1 kg:capacity:specification'],100gms 1 kg:capacity:specification,17.19
+True,hdpe twin screw extruder,2,"['hdpe:material:specification', 'screw extruder:type:specification']",hdpe:material:specification | screw extruder:type:specification,16.41
+True,hdpvc twin screw extruder near azamgarh,2,"['hdpvc:material:specification', 'twin screw extruder:machine type:specification']",hdpvc:material:specification | twin screw extruder:machine type:specification,22.15
+True,1 solvent  based  coating 250  gm perylene red,2,"['250 gm:packaging size:specification', 'red:color:specification']",250 gm:packaging size:specification | red:color:specification,16.99
+True,gold refining service,2,"['gold:metal:specification', 'refining:service:specification']",gold:metal:specification | refining:service:specification,17.33
+True,silver refining plant 50 kg,3,"['50 kg:capacity:specification', 'refining plant:type:specification', 'silver:refining material:specification']",50 kg:capacity:specification | refining plant:type:specification | silver:refining material:specification,23.08
+True,groundnuts solvent extraction plant,2,"['groundnuts:usage:specification', 'solvent extraction:type:specification']",groundnuts:usage:specification | solvent extraction:type:specification,20.93
+True,electrolytic gold refining plant,1,['gold:refining material:specification'],gold:refining material:specification,17.8
+True,10 TPD herbal extraction plant,2,"['10 tpd:capacity:specification', 'herbal extraction:product:specification']",10 tpd:capacity:specification | herbal extraction:product:specification,17.75
+True,2 kg automatic gold refinery machine,3,"['2 kg:capacity:specification', 'automatic:automation grade:specification', 'gold refinery:usage:specification']",2 kg:capacity:specification | automatic:automation grade:specification | gold refinery:usage:specification,23.79
+True,yes solvent extraction systems,2,"['solvent extraction systems:product:specification', 'yes:brand:specification']",solvent extraction systems:product:specification | yes:brand:specification,16.39
+True,soybean seed solvent extraction plant,2,"['solvent extraction:type:specification', 'soybean seed:usage:specification']",solvent extraction:type:specification | soybean seed:usage:specification,25.82
+True,oryza sativa extract (rice bran),2,"['extract:form:specification', 'oryza sativa:botanical name:specification']",extract:form:specification | oryza sativa:botanical name:specification,27.05
+True,solvent extraction,0,[],,16.39
+True,no Silver Recovery Unit,2,"['recovery unit:type:specification', 'silver:color:specification']",recovery unit:type:specification | silver:color:specification,17.55
+True,teflon wire extruder,2,"['extruder:type:specification', 'teflon:material:specification']",extruder:type:specification | teflon:material:specification,16.92
+True,chili oleoresins extraction plants,2,"['chili oleoresins:usage:specification', 'extraction:machine type:specification']",chili oleoresins:usage:specification | extraction:machine type:specification,18.45
+True,Used Gold Necklace Refining Service,2,"['necklace refining service:service:specification', 'used:condition:specification']",necklace refining service:service:specification | used:condition:specification,17.31
+True,Lava Spray Extraction Machine,2,"['lava:brand:specification', 'spray extraction machine:product:specification']",lava:brand:specification | spray extraction machine:product:specification,17.31
+True,yes no 5 kg Gold Refining Plant,1,['5 kg:capacity:specification'],5 kg:capacity:specification,18.01
+True,building wire/ jacketing extrusion lines,1,['extrusion:product:specification'],extrusion:product:specification,18.19
+True,Solid Phase Extraction Manifold,2,"['extraction:usage:specification', 'manifold:product:specification']",extraction:usage:specification | manifold:product:specification,18.02
+True,pvc profile twin screw extruders,1,['pvc:material:specification'],pvc:material:specification,21.43
+True,Twin Screw Profile Extruder,1,['twin screw:screw type:specification'],twin screw:screw type:specification,17.34
+True,Three Layers Co Extrusion Blown Film Machine,2,"['extrusion:machine type:specification', 'three layers:layer:specification']",extrusion:machine type:specification | three layers:layer:specification,30.11
+True,compostable blown film extruder,2,"['compostable:material:specification', 'extruder:type:specification']",compostable:material:specification | extruder:type:specification,17.66
+True,TPU tubing extrusion,2,"['extrusion:process:specification', 'tpu:material:specification']",extrusion:process:specification | tpu:material:specification,20.17
+True,3 layer aba blown film machine,1,['3 layer:layer:specification'],3 layer:layer:specification,19.12
+True,Cable Extrusion Plant,2,"['cable:usage:specification', 'extrusion:machine type:specification']",cable:usage:specification | extrusion:machine type:specification,22.27
+True,twin screw extruder pelletzing line machine,2,"['extruder:type:specification', 'screw:machine type:specification']",extruder:type:specification | screw:machine type:specification,17.15
+True,Industrial Cable Extrusion Machine,2,"['cable extrusion:machine type:specification', 'industrial:usage:specification']",cable extrusion:machine type:specification | industrial:usage:specification,18.27
+True,no extrusion-plant,1,['extrusion-plant:process:specification'],extrusion-plant:process:specification,18.16
+True,brass extrusion plant,1,['brass:material:specification'],brass:material:specification,16.72
+True,Soybean Extract Daidzein Powder 98% CAS 486-66-8,4,"['486-66-8:cas number:specification', '98%:purity:specification', 'powder:form:specification', 'soybean:name of extract:specification']",486-66-8:cas number:specification | 98%:purity:specification | powder:form:specification | soybean:name of extract:specification,18.69
+True,solvant plant,0,[],,17.45
+True,Gold and Silver Combined Refining Machin,1,['refining machin:type:specification'],refining machin:type:specification,17.89
+True,sulica extraction plant,0,[],,29.12
+True,Herbal Essential Oil Extraction Plant,2,"['essential oil:usage:specification', 'extraction:machine type:specification']",essential oil:usage:specification | extraction:machine type:specification,19.26
+True,beetle bakr,0,[],,16.61
+True,farsan excruder die,1,['farsan:brand:specification'],farsan:brand:specification,17.6
+True,पानी से बाजरी निकालने का मशीन,1,['बाजरी निकालने का:book name:specification'],बाजरी निकालने का:book name:specification,31.96
+True,Aluminium Extrusion Press Line Handling System,1,['aluminium:material:specification'],aluminium:material:specification,17.5
+True,single die extruder for hot melt adhesive,3,"['extruder:type:specification', 'hot melt adhesive:usage:specification', 'single die:number of dies:specification']",extruder:type:specification | hot melt adhesive:usage:specification | single die:number of dies:specification,18.72
+True,titanium Refinery Machine Container,2,"['container:type:specification', 'refinery machine:usage:specification']",container:type:specification | refinery machine:usage:specification,23.3
+True,T Die Nylon Extruder Machine,2,"['extruder:type:specification', 'nylon:material to be extruded:specification']",extruder:type:specification | nylon:material to be extruded:specification,17.6
+True,lldpe blown film extrusion plant,1,['lldpe:material:specification'],lldpe:material:specification,16.76
+True,dye gold plant,2,"['gold:color:specification', 'plant:product:specification']",gold:color:specification | plant:product:specification,18.06
+True,gold refining plant in bengaluru,0,[],,17.47
+True,Automatic Twin Screw Extruders,2,"['automatic:automation grade:specification', 'screw:type:specification']",automatic:automation grade:specification | screw:type:specification,32.67
+True,toyota prado 2.7l vt twin-screw supercharger kit  40% hp,1,['40%:power:specification'],40%:power:specification,17.82
+True,Extruder PSCE-100,2,"['extruder:type:specification', 'psce-100:model name/number:specification']",extruder:type:specification | psce-100:model name/number:specification,18.24
+True,beta scrow,0,[],,17.82
+True,65 mm mono layer extruder,3,"['65 mm:screw diameter:specification', 'extruder:type:specification', 'mono layer:layer:specification']",65 mm:screw diameter:specification | extruder:type:specification | mono layer:layer:specification,18.07
+True,cutter compactor extruders,1,['compactor:product:specification'],compactor:product:specification,16.6
+True,fat extraction machine,1,['fat extraction:usage:specification'],fat extraction:usage:specification,19.11
+True,hopper required for 100mm extruder,1,['extruder:usage:specification'],extruder:usage:specification,17.36
+True,Twin Screw Extruder For PVC Pipe Production Capacity: 180 Kg/HR,1,['180 kg/hr:capacity:specification'],180 kg/hr:capacity:specification,17.67
+True,blown film extrusion machine two layer,1,['two layer:layer:specification'],two layer:layer:specification,17.87
+True,Stomastar Liquid,1,['liquid:form:specification'],liquid:form:specification,17.84
+True,stevia extraction machinery,1,['stevia:usage:specification'],stevia:usage:specification,17.15
+True,yash bitumen extractor,2,"['bitumen extractor:machine type:specification', 'yash:brand/make:specification']",bitumen extractor:machine type:specification | yash:brand/make:specification,29.59
+True,aba filme machine,1,['aba:brand:specification'],aba:brand:specification,16.8
+True,no cable extruder machine,1,['extruder:type:specification'],extruder:type:specification,18.39
+True,prefenofs luqued,0,[],,16.76
+True,PVC Blown Film Machine - 60kg/hr Capacity,2,"['60kg/hr:capacity:specification', 'pvc:material:specification']",60kg/hr:capacity:specification | pvc:material:specification,24.4
+True,Automatic Twin Screw Corn Puffed Stick Extruder,0,[],,27.46
+True,BL Series Of High Quality Double Screw Extruder,3,"['bl series:model name/number:specification', 'high quality:features:specification', 'screw extruder:type:specification']",bl series:model name/number:specification | high quality:features:specification | screw extruder:type:specification,17.24
+True,Automatic Twin Screw Corn Pola Bamboo Extruder,1,['automatic:operation mode:specification'],automatic:operation mode:specification,17.68
+True,Twin Screw Corn Ring Production Line,1,['twin screw:screw type:specification'],twin screw:screw type:specification,21.5
+True,Twin Screw Murmure Extruder,2,"['extruder:type:specification', 'twin screw:screw type:specification']",extruder:type:specification | twin screw:screw type:specification,18.62
+True,Automatic Twin Screw Corn Puffed Ring Extruder,1,['automatic:operation mode:specification'],automatic:operation mode:specification,43.45
+True,Centrifuge Hydro Extractor,1,['hydro extractor:product:specification'],hydro extractor:product:specification,17.35
+True,Herbal_Extraction_Plant,0,[],,17.78
+True,italian gold filter,0,[],,17.85
+True,herbal extraction and distillation plants,2,"['distillation:type:specification', 'herbal:usage:specification']",distillation:type:specification | herbal:usage:specification,27.65
+True,Jockey Extruder Machine Capacity: 10 to 60 Kg/hr,3,"['10 to 60 kg/hr:capacity:specification', 'extruder:type:specification', 'jockey:brand:specification']",10 to 60 kg/hr:capacity:specification | extruder:type:specification | jockey:brand:specification,19.41
+True,kattha manufacturing plant,1,['kattha:type of namkeen:specification'],kattha:type of namkeen:specification,19.51
+True,kattha or catecheu manufacturing plant  capacity: 10 tpd,1,['10 tpd:capacity:specification'],10 tpd:capacity:specification,22.16
+True,"Kattha Or Catecheu Manufacturing Plant, Capacity: 10 TPD",1,['10 tpd:capacity:specification'],10 tpd:capacity:specification,18.0
+True,Stainless Steel Catechu Extract Manufacturing Solvent Extraction Plant (100 TPD),1,['stainless steel:material:specification'],stainless steel:material:specification,16.68
+True,Cable Extrusion Machine,0,[],,38.83
+True,250 micron twin screw extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,17.95
+True,cable wire extruder machine,1,['extruder:type:specification'],extruder:type:specification,19.09
+True,co rotating twin screw extruders polymers,1,['screw:type:specification'],screw:type:specification,17.62
+True,thiokol lp-32 alkylen polysulfide,1,['lp-32:grade:specification'],lp-32:grade:specification,17.44
+True,methico hr,1,['hr:grade:specification'],hr:grade:specification,17.56
+True,water extractor,0,[],,16.48
+True,10 kg silver refining plant,3,"['10 kg:capacity:specification', 'refining plant:type:specification', 'silver:refining material:specification']",10 kg:capacity:specification | refining plant:type:specification | silver:refining material:specification,16.51
+True,centrifugal-hydro-extractor,0,[],,18.48
+True,vikas industries fully automatic aba blown film extrusion machine,2,"['automatic:machine type:specification', 'vikas industries:brand:specification']",automatic:machine type:specification | vikas industries:brand:specification,19.24
+True,Gold Refining Plan Machine,1,['gold:refining material:specification'],gold:refining material:specification,18.87
+True,Vertical Extruders,1,['vertical:orientation:specification'],vertical:orientation:specification,17.93
+True,Jockey Extruder,2,"['extruder:type:specification', 'jockey:brand:specification']",extruder:type:specification | jockey:brand:specification,25.48
+True,Ccv Line,0,[],,17.29
+True,masterbatch twin screw extruder,1,['screw extruder:type:specification'],screw extruder:type:specification,20.84
+True,twin+screw+extruder,0,[],,16.75
+True,Profile Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,19.89
+True,Gold Refinery Consultant,0,[],,17.26
+True,Nederman BenchTop Extraction Arm FX2  50 Original,2,"['extraction arm:product:specification', 'nederman:brand:specification']",extraction arm:product:specification | nederman:brand:specification,17.47
+True,waluj,0,[],,17.74
+True,CARNIFORCYL LIQUID (,1,['liquid:form:specification'],liquid:form:specification,17.2
+True,twin-screw extruder,1,['extruder:type:specification'],extruder:type:specification,19.67
+True,gold processing machine,1,['gold:melting material:specification'],gold:melting material:specification,16.43
+True,cleaning ingre,0,[],,16.26
+True,Zinc Recovery Systems,1,['recovery:type:specification'],recovery:type:specification,18.4
+True,100 no table top extruders,2,"['100 no:model name/number:specification', 'table top:type:specification']",100 no:model name/number:specification | table top:type:specification,17.7
+True,100 table top extruders,1,['table top:type:specification'],table top:type:specification,16.17
+True,cable extruder for strip linning,2,"['cable extruder:type:specification', 'strip linning:usage:specification']",cable extruder:type:specification | strip linning:usage:specification,15.81
+True,concrete mixer patiala hammerman engg co,2,"['concrete:mixer type:specification', 'hammerman:brand:specification']",concrete:mixer type:specification | hammerman:brand:specification,19.44
+True,Milacron TC 80 Conical Screw Extrusion System,3,"['conical screw extrusion system:product:specification', 'milacron:brand:specification', 'tc 80:series:specification']",conical screw extrusion system:product:specification | milacron:brand:specification | tc 80:series:specification,27.28
+True,silver refinery bangalore,2,"['bangalore:place of origin:specification', 'silver:usage:specification']",bangalore:place of origin:specification | silver:usage:specification,17.17
+True,herbal extraction plant under 50000,1,['50000:capacity:specification'],50000:capacity:specification,21.49
+True,herbal extraction plant near kolhapur under 50000,0,[],,17.62
+True,Bopp Film Production Line,1,['bopp:material:specification'],bopp:material:specification,17.76
+True,Aqua Regia Gold Refining System Capacity(kg): 5 Kg,2,"['5 kg:capacity:specification', 'refining:type:specification']",5 kg:capacity:specification | refining:type:specification,17.26
+True,automatic stainless steel twin screw extruder  electric  production capacity: up to 100 kghr,5,"['automatic:automation grade:specification', 'electric:power source:specification', 'screw extruder:machine type:specification', 'stainless steel:material:specification', 'up to 100 kghr:capacity:specification']",automatic:automation grade:specification | electric:power source:specification | screw extruder:machine type:specification | stainless steel:material:specification | up to 100 kghr:capacity:specification,17.97
+True,"Automatic Stainless steel Twin Screw Extruder, Electric, Production Capacity: Up To 100 kg/hr",2,"['automatic:automation grade:specification', 'stainless steel:material:specification']",automatic:automation grade:specification | stainless steel:material:specification,18.18
+True,Pvc Pipe Twin Screw Extruder Machine,2,"['pvc:usage:specification', 'screw:machine type:specification']",pvc:usage:specification | screw:machine type:specification,18.92
+True,Conical Twin Screw Extruder for PVC Profile,2,"['pvc profile:usage:specification', 'screw extruder:type:specification']",pvc profile:usage:specification | screw extruder:type:specification,17.61
+True,conical twin screw extruder for pvc profile  50-100 hp  production capacity: 70- 250 kghr,2,"['50-100 hp:motor power:specification', '70- 250 kghr:capacity:specification']",50-100 hp:motor power:specification | 70- 250 kghr:capacity:specification,18.07
+True,"Conical Twin Screw Extruder for PVC Profile, 50-100 HP, Production Capacity: 70- 250 Kg/Hr",2,"['50-100 hp,:motor power:specification', '70- 250 kg/hr:capacity:specification']","50-100 hp,:motor power:specification | 70- 250 kg/hr:capacity:specification",19.35
+True,pvc twin screw extruder machine 200 mm,2,"['200 mm:capacity:specification', 'pvc:material:specification']",200 mm:capacity:specification | pvc:material:specification,16.74
+True,pvc twin screw extruder machine,2,"['pvc:material:specification', 'screw extruder:type:specification']",pvc:material:specification | screw extruder:type:specification,18.48
+True,Complete Aluminium Extrusion Plant,2,"['aluminium:material:specification', 'extrusion:machine type:specification']",aluminium:material:specification | extrusion:machine type:specification,18.4
+True,aqua regia gold refining system  capacity(kg): 5 kg,2,"['5 kg:capacity:specification', 'refining:type:specification']",5 kg:capacity:specification | refining:type:specification,18.57
+True,"Aqua Regia Gold Refining System, Capacity(kg): 5 kg",1,['5 kg:capacity:specification'],5 kg:capacity:specification,19.76
+True,full extruder for pet,2,"['extruder:type:specification', 'pet:material:specification']",extruder:type:specification | pet:material:specification,17.25
+True,Monobloc Extruder,1,['extruder:type:specification'],extruder:type:specification,19.34
+True,Soxtron Oil Estimation System,0,[],,16.51
+True,Gxtract 96 Nucleic Acid Extraction System,2,"['gxtract 96:model name/number:specification', 'nucleic acid extraction system:product:specification']",gxtract 96:model name/number:specification | nucleic acid extraction system:product:specification,16.78
+True,Bopp film machine,1,['bopp:material:specification'],bopp:material:specification,19.74
+True,cashew shell oil extraction plant,2,"['cashew shell oil:usage:specification', 'extraction:machine type:specification']",cashew shell oil:usage:specification | extraction:machine type:specification,17.69
+True,cnsl oil extraction plant,1,['oil:usage:specification'],oil:usage:specification,17.86
+True,mulching film manufacturing machine,0,[],,17.63
+True,extruder machine second hand,1,['second hand:condition:specification'],second hand:condition:specification,17.17
+True,extrusion monolayer blown warkig opreterfilm machine,0,[],,18.13
+True,"ashok plastic extrusion monolayer blown film machine, for industrial",3,"['ashok:brand:specification', 'monolayer blown film:product:specification', 'plastic:material:specification']",ashok:brand:specification | monolayer blown film:product:specification | plastic:material:specification,27.06
+True,580 kg/hr Plastic Blown Film Machine,2,"['580 kg/hr:capacity:specification', 'plastic:material:specification']",580 kg/hr:capacity:specification | plastic:material:specification,17.27
+True,WPC Deck Board Extrusion Line,1,['wpc:material:specification'],wpc:material:specification,21.65
+True,fully automatic extruder machine,2,"['automatic:automation grade:specification', 'extruder:type:specification']",automatic:automation grade:specification | extruder:type:specification,18.94
+True,compounding extruder machine,1,['extruder:type:specification'],extruder:type:specification,17.42
+True,Automatic Aqua Regia Gold Refining Plant 100gm to 5kg,2,"['100gm to 5kg:capacity:specification', 'automatic:automation grade:specification']",100gm to 5kg:capacity:specification | automatic:automation grade:specification,21.67
+True,Lutein Extraction Plant Manufacturers in India,0,[],,18.15
+True,Copper Extrusion Machine,1,['copper:material:specification'],copper:material:specification,17.07
+True,manual silver refining plant,3,"['manual:automation grade:specification', 'refining:usage:specification', 'silver:refining material:specification']",manual:automation grade:specification | refining:usage:specification | silver:refining material:specification,17.44
+True,ldpe woss masin,1,['ldpe:material:specification'],ldpe:material:specification,17.82
+True,ball pen plastic barrel tube extrusion plant,2,"['pen:usage:specification', 'plastic:material:specification']",pen:usage:specification | plastic:material:specification,17.6
+True,বালু তোলা মেশিন মডেল ১১২৫,0,[],,39.53
+True,Multilayer Blown Film Extrusion Machine,1,['multilayer:layer:specification'],multilayer:layer:specification,22.27
+True,sona pakane ki machine,1,['sona pakane:type of namkeen:specification'],sona pakane:type of namkeen:specification,27.09
+True,Co Extrusion Blown Film Machinery From India,0,[],,21.41
+True,Blown Flim Extrusion Machine,0,[],,16.94
+True,alluvial gold washing plant,1,['washing:type:specification'],washing:type:specification,22.34
+True,गोल्ड सिल्वर रिफाइनरी,0,[],,18.36
+True,गोल्ड रिफाइनरी मशीन,0,[],,17.45
+True,honeycomb paper cutting & expanding machine,3,"['cutting:type:specification', 'honeycomb:pattern:specification', 'paper:usage:specification']",cutting:type:specification | honeycomb:pattern:specification | paper:usage:specification,21.94
+True,sreaight line filler,1,['line filler:usage:specification'],line filler:usage:specification,17.33
+True,50 Kg Silver Electrolysis Refining Machine,2,"['50 kg:capacity:specification', 'refining machine:product:specification']",50 kg:capacity:specification | refining machine:product:specification,17.33
+True,Silver refinary,1,['silver:material:specification'],silver:material:specification,17.06
+True,Extraction+Plants+and+Extruders,0,[],,17.11
+True,Electrical Bitumen Extractor,2,"['bitumen extractor:machine type:specification', 'electrical:power source:specification']",bitumen extractor:machine type:specification | electrical:power source:specification,17.3
+True,semi coconut water extractor,2,"['coconut water:usage:specification', 'extractor:machine type:specification']",coconut water:usage:specification | extractor:machine type:specification,24.6
+True,Gold and Silver Combined Refining Machine,1,['refining machine:type:specification'],refining machine:type:specification,17.91
+True,5 kg gold refining machine,3,"['5 kg:capacity:specification', 'gold:refining material:specification', 'refining machine:type:specification']",5 kg:capacity:specification | gold:refining material:specification | refining machine:type:specification,28.89
+True,hand held extruder exon 3 (acp16),2,"['exon 3 (acp16):model name/number:specification', 'hand held extruder:type:specification']",exon 3 (acp16):model name/number:specification | hand held extruder:type:specification,18.26
+True,hand held extruder exon 3 acp16,1,['hand held extruder:type:specification'],hand held extruder:type:specification,16.62
+True,Aba Multilayer Blown Film Extrusion Machine,2,"['aba:brand:specification', 'multilayer blown film extrusion machine:product:specification']",aba:brand:specification | multilayer blown film extrusion machine:product:specification,31.84
+True,Curcumin+Extraction+Machinery,1,['curcumin+extraction+machinery:composition:specification'],curcumin+extraction+machinery:composition:specification,18.17
+True,Vented Extruder Machine,1,['extruder:type:specification'],extruder:type:specification,15.84
+True,seed solvent plants,1,['solvent:type:specification'],solvent:type:specification,16.72
+True,mustard oleoresin extraction plant,1,['mustard oleoresin:usage:specification'],mustard oleoresin:usage:specification,18.83
+True,1 Kilogram Automatic Gold Refining Machine,3,"['1 kilogram:capacity:specification', 'automatic:automation grade:specification', 'gold refining:usage:specification']",1 kilogram:capacity:specification | automatic:automation grade:specification | gold refining:usage:specification,18.73
+True,boroclear liquid,1,['liquid:form:specification'],liquid:form:specification,27.77
+True,tobacco extraction plant,0,[],,17.24
+True,refining machine,0,[],,17.1
+True,water-extraction-machine,1,['water-extraction-machine:usage:specification'],water-extraction-machine:usage:specification,33.54
+True,coconut water extractor,2,"['coconut water:usage:specification', 'extractor:machine type:specification']",coconut water:usage:specification | extractor:machine type:specification,18.1
+True,Automatic Coconut Water Extractor,2,"['automatic:automation grade:specification', 'coconut water:usage:specification']",automatic:automation grade:specification | coconut water:usage:specification,22.17
+True,herbal extraction plant under 50000 rs,2,"['herbal:product:specification', 'under 50000 rs:capacity:specification']",herbal:product:specification | under 50000 rs:capacity:specification,25.27
+True,herbal extraction plant under 50000 rs near kolhapur,1,['50000 rs:capacity:specification'],50000 rs:capacity:specification,17.75
+True,herbal extraction plant under 500000 rs,1,['under 500000 rs:capacity:specification'],under 500000 rs:capacity:specification,17.33
+True,oil extruder,2,"['extruder:type:specification', 'oil:storage material:specification']",extruder:type:specification | oil:storage material:specification,16.94
+True,Extruder machine backup plate,2,"['backup plate:type:specification', 'extruder machine:usage:specification']",backup plate:type:specification | extruder machine:usage:specification,19.27

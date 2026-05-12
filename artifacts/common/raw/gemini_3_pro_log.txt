@@ -1,0 +1,960 @@
+=== google/gemini-3-pro-preview Processing Log ===
+Started: 2026-02-06 03:18:27
+
+[2026-02-06 03:18:27] Parsing attribute dataset...
+[2026-02-06 03:18:27] Loaded 25 unique attribute types
+[2026-02-06 03:18:27] Total attribute values: 305
+[2026-02-06 03:18:27] Reading queries from: validation_queries.csv
+[2026-02-06 03:18:27] Processing 1000 queries with google/gemini-3-pro-preview
+[2026-02-06 03:18:27] Output file: compare/gemini_3_pro_output.csv
+[2026-02-06 03:18:27] ================================================================================
+[2026-02-06 03:18:51] Failed query #1: prism fully automatic mother baby extruder, 1 ton, 380 v, th
+[2026-02-06 03:19:18] Failed query #3: turbo semi-automatic pet extruder
+[2026-02-06 03:19:45] Failed query #4: turbo epe foam extruder
+[2026-02-06 03:20:21] Failed query #6: industrial plastic extruder unique 10 tpd 380 v manual
+[2026-02-06 03:20:49] Failed query #8: pvc foam extruder
+[2026-02-06 03:21:18] Failed query #10: co-rotating twin screw extruder for agricultural 200 kg
+[2026-02-06 03:21:44] Failed query #11: industrial bitumen extractor unique 5 ton 240 v manual
+[2026-02-06 03:22:06] Failed query #12: sheet extruder with 5 hp power 440 v
+[2026-02-06 03:22:33] Failed query #14: 5 tpd xlpe cable extruder hdpe body
+[2026-02-06 03:22:55] Failed query #15: solvent extraction plant with 25 hp power 480 v
+[2026-02-06 03:23:18] Failed query #16: looking for manual oleoresin extraction plant with specifica
+[2026-02-06 03:23:40] Failed query #17: teknik automatic film extrusion machine machine with 500 tpd
+[2026-02-06 03:24:02] Failed query #18: hdpe body film extrusion machine with 10 kg/hr capacity and 
+[2026-02-06 03:24:25] Failed query #19: high quality semi-automatic aluminium extrusion plant conica
+[2026-02-06 03:25:05] Failed query #23: 30 kg 1 phase hdpe extruder
+[2026-02-06 03:25:48] Failed query #27: high quality automatic solvent extraction plant twin screw t
+[2026-02-06 03:26:37] Failed query #32: industrial jockey extruder mahindra 500 kg/hr 240 v manual
+[2026-02-06 03:27:01] Failed query #33: semi-automatic ss wire extruder, capacity: 10 tpd, voltage: 
+[2026-02-06 03:27:27] Failed query #34: multi layer extruder - co-rotating design, 10 kg output, 440
+[2026-02-06 03:27:53] Failed query #35: pvc extruder - parallel design, 200 kg/hr output, 480 v, sin
+[2026-02-06 03:28:25] Failed query #37: semi-automatic aluminium epe foam extruder
+[2026-02-06 03:28:50] Failed query #38: cable extruder 480 v 50 hz
+[2026-02-06 03:29:41] Failed query #43: mahindra semi-automatic copper extraction plant
+[2026-02-06 03:30:20] Failed query #46: fully automatic foam extruder 220 v
+[2026-02-06 03:30:47] Failed query #47: mother baby extruder for packaging use, 50 ton, 220 v, turbo
+[2026-02-06 03:31:13] Failed query #48: ss 304 body centrifuge extractor with 300 kg/hr capacity and
+[2026-02-06 03:31:50] Failed query #51: laxmi manual silver refinery machine
+[2026-02-06 03:32:16] Failed query #52: 25 kg/hr automatic jockey extruder
+[2026-02-06 03:32:50] Failed query #54: 200 kg/hr automatic oleoresin extraction plant
+[2026-02-06 03:33:40] Failed query #58: high quality automatic wire extruder conical type, 300 kg/hr
+[2026-02-06 03:34:09] Failed query #59: monolayer extruder machine 100 liter output 400 v three phas
+[2026-02-06 03:34:40] Failed query #61: sheet extruder with 20 hp power 380 v
+[2026-02-06 03:35:13] Failed query #63: pvc lab extruder
+[2026-02-06 03:35:39] Failed query #64: industrial grade automatic film extrusion machine with twin 
+[2026-02-06 03:36:17] Failed query #67: industrial oil extraction plant unique 10 ton 440 v semi-aut
+[2026-02-06 03:36:44] Failed query #68: mother baby extruder for food processing 25 kg
+[2026-02-06 03:37:16] Failed query #70: 30 kg automatic metal refining plant 380 v 1 phase hdpe body
+[2026-02-06 03:37:46] Failed query #72: 1000 liter automatic lab extruder
+[2026-02-06 03:38:21] Failed query #74: high quality automatic basket extruder conical type, 5 kg/hr
+[2026-02-06 03:38:45] Failed query #75: semi-automatic sheet extruder 415 v
+[2026-02-06 03:39:12] Failed query #76: herbal extraction plant
+[2026-02-06 03:39:43] Failed query #78: manual sheet extruder for chemical industries applications, 
+[2026-02-06 03:40:09] Failed query #79: 500 tpd manual epe foam extruder
+[2026-02-06 03:40:42] Failed query #81: high quality automatic centrifuge extractor co-rotating type
+[2026-02-06 03:41:25] Failed query #84: automatic film extrusion machine for wire & cable applicatio
+[2026-02-06 03:42:03] Failed query #87: 20 tpd pvc extruder
+[2026-02-06 03:42:42] Failed query #90: aluminium extrusion plant 220 v
+[2026-02-06 03:43:07] Failed query #91: semi-automatic stainless steel solid phase extraction system
+[2026-02-06 03:43:38] Failed query #92: semi-automatic mother baby extruder for chemical industries 
+[2026-02-06 03:44:05] Failed query #93: used pet extruder
+[2026-02-06 03:44:36] Failed query #95: solid phase extraction system 400 v
+[2026-02-06 03:45:08] Failed query #97: rice bran extraction plant machine specifications - brand: s
+[2026-02-06 03:45:43] Failed query #99: rajco semi-automatic extruder machine
+[2026-02-06 03:46:15] Failed query #100: unique automatic bitumen extractor, 1000 liter, 230 v, 3 pha
+[2026-02-06 03:46:15] Progress: 100/1000 (10.0%) | Success: 46 | Failed: 54
+[2026-02-06 03:46:45] Failed query #102: 50 kg/hr fully automatic xlpe cable extruder 240 v 3 phase a
+[2026-02-06 03:47:11] Failed query #103: looking for automatic metal recovery plant with specificatio
+[2026-02-06 03:47:36] Failed query #104: solvent extraction plant 415 v 1 phase
+[2026-02-06 03:48:09] Failed query #106: teknik multi layer extruder 10 ton
+[2026-02-06 03:48:49] Failed query #110: kabra solvent extraction plant 1000 kg/hr
+[2026-02-06 03:49:17] Failed query #112: solvent extraction plant
+[2026-02-06 03:49:48] Failed query #113: pet extruder 380 v single phase
+[2026-02-06 03:50:10] Failed query #114: titanium body aluminium extrusion plant 1 tpd
+[2026-02-06 03:50:38] Failed query #116: co-rotating twin screw extruder with 2 kw power 440 v
+[2026-02-06 03:50:59] Failed query #117: ss twin screw extruder
+[2026-02-06 03:51:37] Failed query #121: eureka automatic zinc recovery unit machine with 200 kg/hr c
+[2026-02-06 03:52:00] Failed query #122: cable extruder 380 v 50/60 hz
+[2026-02-06 03:52:22] Failed query #123: gold refinery plant
+[2026-02-06 03:52:48] Failed query #125: industrial grade fully automatic metal refining plant with t
+[2026-02-06 03:53:11] Failed query #126: 1 ton semi-automatic gold refining machine
+[2026-02-06 03:53:33] Failed query #127: industrial cable extruder eureka 5 tpd 230 v manual
+[2026-02-06 03:53:59] Failed query #128: 200 liter semi-automatic lab extruder 380 v 3 phase pp body
+[2026-02-06 03:54:27] Failed query #129: hdpe sheet extruder 5 tpd capacity
+[2026-02-06 03:54:50] Failed query #130: industrial grade manual xlpe cable extruder with co-rotating
+[2026-02-06 03:55:32] Failed query #134: jockey extruder
+[2026-02-06 03:55:55] Failed query #135: silver refining plant 415 v
+[2026-02-06 03:56:32] Failed query #139: gold star semi-automatic pet extruder, 1 tpd, 380 v, single 
+[2026-02-06 03:57:06] Failed query #141: industrial grade automatic metal refining plant with paralle
+[2026-02-06 03:57:32] Failed query #142: hdpe extruder machine 300 kg/hr output 230 v 3 phase pp
+[2026-02-06 03:57:57] Failed query #143: cast iron body polymer extruder with 100 kg/hr capacity and 
+[2026-02-06 03:58:19] Failed query #144: twin screw xlpe cable extruder 150 kg/hr manual 440 v
+[2026-02-06 03:58:43] Failed query #145: unique plastic extruder
+[2026-02-06 03:59:34] Failed query #148: industrial co-rotating twin screw extruder prism 200 kg/hr 2
+[2026-02-06 04:00:01] Failed query #149: industrial grade semi-automatic ldpe blown film machine with
+[2026-02-06 04:00:33] Failed query #152: automatic aluminium oleoresin extraction plant, capacity: 10
+[2026-02-06 04:00:54] Failed query #153: rajco fully automatic gold refinery plant machine with 100 k
+[2026-02-06 04:01:17] Failed query #154: rajco automatic liquid extraction system
+[2026-02-06 04:01:40] Failed query #155: titanium body epe foam extruder 1000 liter
+[2026-02-06 04:02:02] Failed query #156: tube extrusion machine single screw design 100 tpd
+[2026-02-06 04:02:26] Failed query #157: pp body wpc extruder 25 kg/hr
+[2026-02-06 04:02:53] Failed query #159: automatic foam extruder 380 v
+[2026-02-06 04:03:15] Failed query #160: twin screw extruder with 5 kw power 480 v
+[2026-02-06 04:03:41] Failed query #161: conical co-rotating twin screw extruder 10 tpd fully automat
+[2026-02-06 04:04:06] Failed query #162: automatic zinc recovery unit for plastic processing, capacit
+[2026-02-06 04:04:27] Failed query #163: aluminium extrusion plant machine specifications - brand: ma
+[2026-02-06 04:04:49] Failed query #164: cable extruder for laboratory 200 liter
+[2026-02-06 04:04:56] Failed query #165: rajco blown film extrusion machine
+[2026-02-06 04:05:12] Failed query #166: twin screw extruder - conical design, 200 kg/hr output, 230 
+[2026-02-06 04:05:19] Failed query #167: automatic stainless steel tube extrusion machine, capacity: 
+[2026-02-06 04:05:34] Failed query #168: 50 kg 1 phase basket extruder
+[2026-02-06 04:05:40] Failed query #169: automatic jockey extruder 220 v
+[2026-02-06 04:05:46] Failed query #170: new pipe extrusion machine
+[2026-02-06 04:05:52] Failed query #171: 250 kg/hr extruder machine cast iron body
+[2026-02-06 04:05:58] Failed query #172: 300 kg/hr semi-automatic pvc extruder
+[2026-02-06 04:06:04] Failed query #173: automatic oleoresin extraction plant
+[2026-02-06 04:06:10] Failed query #174: semi-automatic solid phase extraction system
+[2026-02-06 04:06:16] Failed query #175: looking for automatic twin screw extruder with specification
+[2026-02-06 04:06:22] Failed query #176: 1000 liter fully automatic lab extruder
+[2026-02-06 04:06:28] Failed query #177: pvc epe foam extruder 50 kg capacity
+[2026-02-06 04:06:34] Failed query #178: mild steel xlpe cable extruder 5 ton capacity
+[2026-02-06 04:06:41] Failed query #179: automatic ms curcumin extraction plant, capacity: 200 tpd, v
+[2026-02-06 04:06:47] Failed query #180: pvc oleoresin extraction plant 200 kg capacity
+[2026-02-06 04:06:53] Failed query #181: teknik semi-automatic lab extruder machine with 300 kg/hr ca
+[2026-02-06 04:07:00] Failed query #182: single die extruder twin screw design 200 kg/hr
+[2026-02-06 04:07:06] Failed query #183: fully automatic ss 304 zinc recovery unit
+[2026-02-06 04:07:12] Failed query #184: automatic basket extruder
+[2026-02-06 04:07:19] Failed query #185: metal recovery plant with 15 hp power 230 v
+[2026-02-06 04:07:26] Failed query #186: semi-automatic pvc pipe extruder
+[2026-02-06 04:07:32] Failed query #187: unique semi-automatic zinc recovery unit machine with 200 kg
+[2026-02-06 04:07:38] Failed query #188: multi layer extruder - conical design, 1000 kg/hr output, 23
+[2026-02-06 04:07:45] Failed query #189: gold star semi-automatic aluminium extrusion plant, 25 kg, 3
+[2026-02-06 04:07:51] Failed query #190: fully automatic epe foam extruder 400 v
+[2026-02-06 04:07:58] Failed query #191: semi-automatic jockey extruder for plastic processing, capac
+[2026-02-06 04:08:04] Failed query #192: popular make fully automatic extruder machine, production ca
+[2026-02-06 04:08:10] Failed query #193: semi-automatic aluminium oil extraction plant
+[2026-02-06 04:08:17] Failed query #194: wire extruder 400 v single phase
+[2026-02-06 04:08:24] Failed query #195: semi-automatic rice bran extraction plant for recycling appl
+[2026-02-06 04:08:31] Failed query #196: pp body multi layer extruder 50 ton
+[2026-02-06 04:08:38] Failed query #197: pipe extrusion machine for research use, 500 ton, 220 v, tek
+[2026-02-06 04:08:44] Failed query #198: unique centrifuge extractor 200 liter
+[2026-02-06 04:08:51] Failed query #199: cast iron body hydro extractor 100 ton
+[2026-02-06 04:08:58] Failed query #200: industrial oleoresin extraction plant rajco 500 kg 415 v sem
+[2026-02-06 04:08:58] Progress: 200/1000 (20.0%) | Success: 69 | Failed: 131
+[2026-02-06 04:09:04] Failed query #201: labh group copper extraction plant 50 kg/hr
+[2026-02-06 04:09:11] Failed query #202: single die extruder for plastic processing use, 250 kg/hr, 4
+[2026-02-06 04:09:17] Failed query #203: automatic multi layer extruder 440 v
+[2026-02-06 04:09:24] Failed query #204: xlpe cable extruder with 1 kw power 400 v
+[2026-02-06 04:09:30] Failed query #205: automatic titanium solid phase extraction system, capacity: 
+[2026-02-06 04:09:37] Failed query #206: pvc extruder - popular make, 1000 kg/hr, cast iron, 1 phase
+[2026-02-06 04:09:44] Failed query #207: semi-automatic stainless steel lab extruder, capacity: 250 k
+[2026-02-06 04:09:50] Failed query #208: swaraj centrifuge extractor 200 liter
+[2026-02-06 04:09:57] Failed query #209: cable extruder for pharmaceutical 50 kg
+[2026-02-06 04:10:04] Failed query #210: cast iron xlpe cable extruder 10 kg/hr capacity
+[2026-02-06 04:10:11] Failed query #211: automatic ss 304 plastic extruder
+[2026-02-06 04:10:17] Failed query #212: hdpe oil extraction plant 30 kg capacity
+[2026-02-06 04:10:24] Failed query #213: oil extraction plant - mahindra make, 500 kg, aluminium, 1 p
+[2026-02-06 04:10:31] Failed query #214: pvc pipe extruder 7.5 hp motor 200 liter
+[2026-02-06 04:10:37] Failed query #215: 50 kg semi-automatic double die extruder 220 v 1 phase ms bo
+[2026-02-06 04:10:44] Failed query #216: metal recovery plant for agricultural
+[2026-02-06 04:10:51] Failed query #217: stainless steel mother baby extruder
+[2026-02-06 04:10:58] Failed query #218: plastic extruder 480 v 50/60 hz
+[2026-02-06 04:11:04] Failed query #219: industrial wpc extruder eureka 750 kg/hr 400 v fully automat
+[2026-02-06 04:11:10] Failed query #220: semi-automatic tube extrusion machine
+[2026-02-06 04:11:17] Failed query #221: automatic tube extrusion machine 240 v
+[2026-02-06 04:11:23] Failed query #222: multi layer extruder for plastic processing 10 kg/hr
+[2026-02-06 04:11:29] Failed query #223: manual hdpe extruder for plastic processing applications, 10
+[2026-02-06 04:11:35] Failed query #224: solvent extraction plant machine 20 tpd output 480 v 3 phase
+[2026-02-06 04:11:41] Failed query #225: semi-automatic plastic recycling extruder
+[2026-02-06 04:11:47] Failed query #226: pet extruder for research use, 150 kg/hr, 400 v, prism brand
+[2026-02-06 04:11:53] Failed query #227: 20 kg curcumin extraction plant pvc body
+[2026-02-06 04:11:59] Failed query #228: oleoresin extraction plant - rajco make, 100 liter, pvc, 3 p
+[2026-02-06 04:12:05] Failed query #229: oil extraction plant - conical design, 5 ton output, 415 v, 
+[2026-02-06 04:12:11] Failed query #230: semi-automatic aba blown film machine
+[2026-02-06 04:12:17] Failed query #231: 500 tpd fully automatic basket extruder
+[2026-02-06 04:12:23] Failed query #232: rajco oleoresin extraction plant 10 ton
+[2026-02-06 04:12:30] Failed query #233: ss copper extraction plant 50 tpd capacity
+[2026-02-06 04:12:36] Failed query #234: co-rotating twin screw extruder - single screw design, 20 tp
+[2026-02-06 04:12:42] Failed query #235: used pvc extruder
+[2026-02-06 04:12:49] Failed query #236: looking for fully automatic conical twin screw extruder with
+[2026-02-06 04:12:55] Failed query #237: pvc body polymer extruder 200 kg
+[2026-02-06 04:13:01] Failed query #238: 100 kg 3 phase hdpe extruder
+[2026-02-06 04:13:07] Failed query #239: automatic curcumin extraction plant for wire & cable, capaci
+[2026-02-06 04:13:13] Failed query #240: industrial grade semi-automatic liquid extraction system wit
+[2026-02-06 04:13:20] Failed query #241: ldpe blown film machine 480 v
+[2026-02-06 04:13:26] Failed query #242: refurbished conical twin screw extruder
+[2026-02-06 04:13:32] Failed query #243: manual pvc pipe extruder for pharmaceutical applications, 20
+[2026-02-06 04:13:39] Failed query #244: 10 kg/hr ldpe blown film machine
+[2026-02-06 04:13:45] Failed query #245: gold refinery plant for packaging
+[2026-02-06 04:13:52] Failed query #246: jockey extruder with 50 kw power 380 v
+[2026-02-06 04:13:58] Failed query #247: 10 kg/hr 3 phase jockey extruder
+[2026-02-06 04:14:05] Failed query #248: solid phase extraction system - laxmi make, 250 kg/hr, stain
+[2026-02-06 04:14:11] Failed query #249: centrifuge extractor single screw design 20 tpd
+[2026-02-06 04:14:18] Failed query #250: industrial copper extraction plant rajco 100 liter 400 v sem
+[2026-02-06 04:14:24] Failed query #251: 10 kg semi-automatic oil extraction plant 400 v three phase 
+[2026-02-06 04:14:30] Failed query #252: semi-automatic hdpe extruder
+[2026-02-06 04:14:36] Failed query #253: used oleoresin extraction plant
+[2026-02-06 04:14:43] Failed query #254: pet extruder for wire & cable use, 200 kg, 400 v, laxmi bran
+[2026-02-06 04:14:49] Failed query #255: industrial epe foam extruder rajco 10 ton 230 v manual
+[2026-02-06 04:14:56] Failed query #256: high quality automatic hdpe extruder twin screw type, 20 tpd
+[2026-02-06 04:15:02] Failed query #257: industrial herbal extraction plant swaraj 200 liter 380 v se
+[2026-02-06 04:15:09] Failed query #258: semi-automatic gold refining machine
+[2026-02-06 04:15:16] Failed query #259: mother baby extruder 230 v 60 hz
+[2026-02-06 04:15:22] Failed query #260: industrial grade fully automatic monolayer extruder with sin
+[2026-02-06 04:15:29] Failed query #261: lab extruder for recycling
+[2026-02-06 04:15:35] Failed query #262: fully automatic hdpe pvc pipe extruder
+[2026-02-06 04:15:41] Failed query #263: fully automatic pvc pipe extruder 230 v
+[2026-02-06 04:15:48] Failed query #264: new blown film extrusion machine
+[2026-02-06 04:15:54] Failed query #265: foam extruder 3 hp motor 25 kg/hr
+[2026-02-06 04:16:00] Failed query #266: 500 kg/hr pp extruder
+[2026-02-06 04:16:06] Failed query #267: fully automatic plastic extruder
+[2026-02-06 04:16:12] Failed query #268: polymer extruder 480 v
+[2026-02-06 04:16:19] Failed query #269: mild steel solid phase extraction system 50 ton capacity
+[2026-02-06 04:16:25] Failed query #270: manual pvc extruder 440 v
+[2026-02-06 04:16:32] Failed query #271: industrial foam extruder turbo 20 tpd 415 v fully automatic
+[2026-02-06 04:16:38] Failed query #272: co-rotating twin screw extruder for pharmaceutical
+[2026-02-06 04:16:44] Failed query #273: jockey extruder - twin screw design, 750 kg/hr output, 380 v
+[2026-02-06 04:16:50] Failed query #274: aba blown film machine 20 hp motor 100 liter
+[2026-02-06 04:16:56] Failed query #275: sheet extruder - twin screw design, 10 ton output, 415 v, th
+[2026-02-06 04:17:02] Failed query #276: cable extruder 440 v
+[2026-02-06 04:17:08] Failed query #277: unique automatic wpc extruder, 200 kg, 230 v, three phase
+[2026-02-06 04:17:14] Failed query #278: polymer extruder - kabra make, 150 kg/hr, aluminium, 1 phase
+[2026-02-06 04:17:21] Failed query #279: zinc recovery unit 220 v 50/60 hz
+[2026-02-06 04:17:27] Failed query #280: new basket extruder
+[2026-02-06 04:17:33] Failed query #281: semi-automatic single die extruder for research, capacity: 1
+[2026-02-06 04:17:40] Failed query #282: pp body silver refining plant 25 kg
+[2026-02-06 04:17:46] Failed query #283: bitumen extractor for food processing use, 1000 liter, 480 v
+[2026-02-06 04:17:52] Failed query #284: fully automatic pipe extrusion machine
+[2026-02-06 04:17:58] Failed query #285: 500 kg/hr metal refining plant
+[2026-02-06 04:18:04] Failed query #286: industrial centrifuge extractor swaraj 10 ton 240 v automati
+[2026-02-06 04:18:10] Failed query #287: used herbal extraction plant
+[2026-02-06 04:18:17] Failed query #288: manual silver refinery machine for research applications, 5 
+[2026-02-06 04:18:23] Failed query #289: stainless steel body foam extruder with 50 tpd capacity and 
+[2026-02-06 04:18:29] Failed query #290: ss 316 body centrifuge extractor with 5 tpd capacity and 400
+[2026-02-06 04:18:36] Failed query #291: fully automatic pvc multi layer extruder, capacity: 20 tpd, 
+[2026-02-06 04:18:41] Failed query #292: refurbished polymer extruder
+[2026-02-06 04:18:47] Failed query #293: refurbished xlpe cable extruder
+[2026-02-06 04:18:54] Failed query #294: gold refining machine - labh group make, 100 kg, pp, single 
+[2026-02-06 04:19:01] Failed query #295: gold refining machine 440 v
+[2026-02-06 04:19:07] Failed query #296: cable extruder single screw design 25 kg
+[2026-02-06 04:19:13] Failed query #297: manual mild steel pvc extruder, capacity: 500 kg/hr, voltage
+[2026-02-06 04:19:20] Failed query #298: fully automatic ldpe blown film machine for packaging applic
+[2026-02-06 04:19:26] Failed query #299: semi-automatic centrifuge extractor for chemical industries,
+[2026-02-06 04:19:33] Failed query #300: film extrusion machine
+[2026-02-06 04:19:33] Progress: 300/1000 (30.0%) | Success: 69 | Failed: 231
+[2026-02-06 04:19:39] Failed query #301: twin screw metal recovery plant 750 kg/hr semi-automatic 230
+[2026-02-06 04:19:46] Failed query #302: teknik fully automatic jockey extruder
+[2026-02-06 04:19:52] Failed query #303: popular basket extruder 500 kg
+[2026-02-06 04:19:59] Failed query #304: industrial silver refinery machine laxmi 5 ton 400 v automat
+[2026-02-06 04:20:06] Failed query #305: twin screw twin screw extruder 1000 liter fully automatic 48
+[2026-02-06 04:20:12] Failed query #306: high quality fully automatic basket extruder parallel type, 
+[2026-02-06 04:20:18] Failed query #307: fully automatic wire extruder for research, capacity: 100 tp
+[2026-02-06 04:20:24] Failed query #308: cast iron hdpe extruder
+[2026-02-06 04:20:31] Failed query #309: copper extraction plant - twin screw design, 50 tpd output, 
+[2026-02-06 04:20:37] Failed query #310: ss body solvent extraction plant 30 kg
+[2026-02-06 04:20:43] Failed query #311: manual co-rotating twin screw extruder for pharmaceutical ap
+[2026-02-06 04:20:49] Failed query #312: multi layer extruder 480 v 60 hz
+[2026-02-06 04:20:56] Failed query #313: teknik manual bitumen extractor machine with 500 kg/hr capac
+[2026-02-06 04:21:03] Failed query #314: 5 tpd mother baby extruder ss body
+[2026-02-06 04:21:09] Failed query #315: kabra manual gold refining machine, 5 ton, 240 v, 1 phase
+[2026-02-06 04:21:16] Failed query #316: semi-automatic ss 304 solid phase extraction system
+[2026-02-06 04:21:22] Failed query #317: industrial centrifuge extractor laxmi 25 kg 440 v manual
+[2026-02-06 04:21:29] Failed query #318: manual ms epe foam extruder, capacity: 50 ton, voltage: 415 
+[2026-02-06 04:21:35] Failed query #319: pvc pipe extruder machine 100 liter output 400 v 3 phase sta
+[2026-02-06 04:21:42] Failed query #320: 10 kg/hr 1 phase foam extruder
+[2026-02-06 04:21:48] Failed query #321: 100 tpd fully automatic hdpe extruder 400 v 3 phase ss body
+[2026-02-06 04:21:55] Failed query #322: manual aluminium xlpe cable extruder
+[2026-02-06 04:22:02] Failed query #323: semi-automatic cast iron tube extrusion machine
+[2026-02-06 04:22:08] Failed query #324: looking for manual aba blown film machine with specification
+[2026-02-06 04:22:15] Failed query #325: pet extruder machine 10 tpd output 240 v three phase titaniu
+[2026-02-06 04:22:22] Failed query #326: mahindra wire extruder 100 kg
+[2026-02-06 04:22:28] Failed query #327: new extruder machine
+[2026-02-06 04:22:35] Failed query #328: kabra make fully automatic wpc extruder, production capacity
+[2026-02-06 04:22:41] Failed query #329: semi-automatic pvc extruder 220 v
+[2026-02-06 04:22:48] Failed query #330: teknik manual plastic extruder, 10 ton, 400 v, 1 phase
+[2026-02-06 04:22:55] Failed query #331: automatic herbal extraction plant for food processing applic
+[2026-02-06 04:23:01] Failed query #332: bitumen extractor with 7.5 hp power 400 v
+[2026-02-06 04:23:08] Failed query #333: fully automatic silver refinery machine for industrial, capa
+[2026-02-06 04:23:14] Failed query #334: pet extruder machine specifications - brand: kabra, capacity
+[2026-02-06 04:23:21] Failed query #335: silver refinery machine co-rotating design 10 kg/hr
+[2026-02-06 04:23:28] Failed query #336: pp liquid extraction system 100 liter capacity
+[2026-02-06 04:23:34] Failed query #337: high quality semi-automatic wire extruder co-rotating type, 
+[2026-02-06 04:23:41] Failed query #338: fully automatic lab extruder 230 v
+[2026-02-06 04:23:48] Failed query #339: pet extruder 380 v 50 hz
+[2026-02-06 04:23:54] Failed query #340: teknik semi-automatic single die extruder, 20 kg, 440 v, 1 p
+[2026-02-06 04:24:01] Failed query #341: zinc recovery unit for laboratory
+[2026-02-06 04:24:07] Failed query #342: conical solvent extraction plant 500 kg/hr semi-automatic 38
+[2026-02-06 04:24:14] Failed query #343: pet extruder 480 v
+[2026-02-06 04:24:20] Failed query #344: swaraj make semi-automatic wire extruder, production capacit
+[2026-02-06 04:24:27] Failed query #345: oleoresin extraction plant twin screw design 500 liter
+[2026-02-06 04:24:33] Failed query #346: hydro extractor 230 v 60 hz
+[2026-02-06 04:24:40] Failed query #347: manual twin screw extruder for agricultural applications, 50
+[2026-02-06 04:24:46] Failed query #348: 500 kg/hr wpc extruder pvc body
+[2026-02-06 04:24:53] Failed query #349: stainless steel solvent extraction plant
+[2026-02-06 04:24:59] Failed query #350: industrial grade fully automatic hydro extractor with parall
+[2026-02-06 04:25:06] Failed query #351: semi-automatic mild steel zinc recovery unit, capacity: 20 t
+[2026-02-06 04:25:14] Failed query #352: new co-rotating twin screw extruder
+[2026-02-06 04:25:20] Failed query #353: semi-automatic oleoresin extraction plant for pharmaceutical
+[2026-02-06 04:25:27] Failed query #354: polymer extruder 480 v three phase
+[2026-02-06 04:25:34] Failed query #355: zinc recovery unit for research 25 kg/hr
+[2026-02-06 04:25:40] Failed query #356: metal refining plant twin screw design 250 kg/hr
+[2026-02-06 04:25:47] Failed query #357: eureka automatic pvc extruder
+[2026-02-06 04:25:54] Failed query #358: aluminium extrusion plant 240 v
+[2026-02-06 04:26:01] Failed query #359: mother baby extruder 440 v 50 hz
+[2026-02-06 04:26:07] Failed query #360: single screw oleoresin extraction plant 5 kg fully automatic
+[2026-02-06 04:26:13] Failed query #361: 200 tpd 3 phase ldpe blown film machine
+[2026-02-06 04:26:19] Failed query #362: fully automatic multi layer extruder for food processing app
+[2026-02-06 04:26:25] Failed query #363: titanium body film extrusion machine with 10 tpd capacity an
+[2026-02-06 04:26:31] Failed query #364: rajco semi-automatic hdpe extruder machine with 10 kg capaci
+[2026-02-06 04:26:37] Failed query #365: double die extruder machine specifications - brand: laxmi, c
+[2026-02-06 04:26:43] Failed query #366: curcumin extraction plant 2 kw motor 200 kg
+[2026-02-06 04:26:49] Failed query #367: centrifuge extractor - parallel design, 500 liter output, 44
+[2026-02-06 04:26:55] Failed query #368: manual co-rotating twin screw extruder for food processing, 
+[2026-02-06 04:27:01] Failed query #369: wpc extruder with 10 kw power 440 v
+[2026-02-06 04:27:07] Failed query #370: teknik semi-automatic epe foam extruder
+[2026-02-06 04:27:13] Failed query #371: 1 tpd epe foam extruder cast iron body
+[2026-02-06 04:27:19] Failed query #372: gold star aluminium extrusion plant 1 tpd
+[2026-02-06 04:27:25] Failed query #373: pp extruder machine 300 kg/hr output 415 v single phase pp
+[2026-02-06 04:27:32] Failed query #374: automatic sheet extruder for recycling applications, 500 kg/
+[2026-02-06 04:27:38] Failed query #375: swaraj make semi-automatic gold refinery plant, production c
+[2026-02-06 04:27:44] Failed query #376: pp solvent extraction plant 200 liter capacity
+[2026-02-06 04:27:50] Failed query #377: jockey extruder machine 50 tpd output 480 v three phase ss
+[2026-02-06 04:27:56] Failed query #378: automatic pp extruder
+[2026-02-06 04:28:02] Failed query #379: mild steel body gold refining machine with 50 kg capacity an
+[2026-02-06 04:28:08] Failed query #380: semi-automatic double die extruder 480 v
+[2026-02-06 04:28:14] Failed query #381: solid phase extraction system for agricultural 100 kg
+[2026-02-06 04:28:20] Failed query #382: 50 kg three phase solvent extraction plant
+[2026-02-06 04:28:26] Failed query #383: mother baby extruder machine 250 kg/hr output 240 v 1 phase 
+[2026-02-06 04:28:32] Failed query #384: teknik fully automatic pvc extruder
+[2026-02-06 04:28:38] Failed query #385: rice bran extraction plant for recycling
+[2026-02-06 04:28:44] Failed query #386: industrial grade semi-automatic tube extrusion machine with 
+[2026-02-06 04:28:50] Failed query #387: zinc recovery unit with 3 hp power 415 v
+[2026-02-06 04:28:57] Failed query #388: basket extruder for wire & cable use, 25 kg, 415 v, popular 
+[2026-02-06 04:29:02] Failed query #389: oleoresin extraction plant for laboratory use, 25 kg/hr, 440
+[2026-02-06 04:29:09] Failed query #390: automatic wpc extruder for agricultural, capacity: 20 kg, po
+[2026-02-06 04:29:14] Failed query #391: rajco manual extruder machine
+[2026-02-06 04:29:20] Failed query #392: kabra semi-automatic foam extruder
+[2026-02-06 04:29:26] Failed query #393: hydro extractor for plastic processing
+[2026-02-06 04:29:33] Failed query #394: herbal extraction plant - twin screw design, 10 kg/hr output
+[2026-02-06 04:29:39] Failed query #395: 10 tpd 1 phase conical twin screw extruder
+[2026-02-06 04:29:45] Failed query #396: ss 304 body pvc extruder 200 liter
+[2026-02-06 04:29:51] Failed query #397: titanium oil extraction plant 500 liter capacity
+[2026-02-06 04:29:57] Failed query #398: refurbished curcumin extraction plant
+[2026-02-06 04:30:03] Failed query #399: manual double die extruder for agricultural applications, 10
+[2026-02-06 04:30:09] Failed query #400: 750 kg/hr manual silver refining plant
+[2026-02-06 04:30:09] Progress: 400/1000 (40.0%) | Success: 69 | Failed: 331
+[2026-02-06 04:30:15] Failed query #401: industrial centrifuge extractor unique 500 liter 380 v fully
+[2026-02-06 04:30:21] Failed query #402: aluminium body zinc recovery unit with 100 liter capacity an
+[2026-02-06 04:30:28] Failed query #403: kabra tube extrusion machine
+[2026-02-06 04:30:34] Failed query #404: co-rotating twin screw extruder 10 kw motor 5 tpd
+[2026-02-06 04:30:40] Failed query #405: automatic ldpe blown film machine
+[2026-02-06 04:30:46] Failed query #406: hdpe body conical twin screw extruder 750 kg/hr
+[2026-02-06 04:30:52] Failed query #407: bitumen extractor machine specifications - brand: eureka, ca
+[2026-02-06 04:30:58] Failed query #408: titanium pvc extruder 5 kg/hr capacity
+[2026-02-06 04:31:04] Failed query #409: industrial grade manual multi layer extruder with single scr
+[2026-02-06 04:31:10] Failed query #410: manual ss 316 blown film extrusion machine, capacity: 100 kg
+[2026-02-06 04:31:16] Failed query #411: plastic extruder for industrial use, 300 kg/hr, 230 v, turbo
+[2026-02-06 04:31:22] Failed query #412: ss silver refining plant 5 tpd capacity
+[2026-02-06 04:31:28] Failed query #413: manual liquid extraction system
+[2026-02-06 04:31:34] Failed query #414: zinc recovery unit for wire & cable 1000 liter
+[2026-02-06 04:31:40] Failed query #415: liquid extraction system with 7.5 hp power 380 v
+[2026-02-06 04:31:47] Failed query #416: 250 kg/hr 1 phase epe foam extruder
+[2026-02-06 04:31:52] Failed query #417: manual plastic recycling extruder for laboratory, capacity: 
+[2026-02-06 04:31:58] Failed query #418: ss 304 extruder machine 500 kg capacity
+[2026-02-06 04:32:04] Failed query #419: manual pipe extrusion machine
+[2026-02-06 04:32:10] Failed query #420: unique fully automatic epe foam extruder
+[2026-02-06 04:32:16] Failed query #421: 200 tpd 3 phase epe foam extruder
+[2026-02-06 04:32:22] Failed query #422: new extruder machine
+[2026-02-06 04:32:28] Failed query #423: fully automatic copper extraction plant 415 v
+[2026-02-06 04:32:34] Failed query #424: foam extruder machine 20 kg output 400 v 3 phase mild steel
+[2026-02-06 04:32:40] Failed query #425: fully automatic metal recovery plant 230 v
+[2026-02-06 04:32:46] Failed query #426: jockey extruder machine 50 tpd output 220 v single phase hdp
+[2026-02-06 04:32:52] Failed query #427: automatic wpc extruder for packaging, capacity: 1 tpd, power
+[2026-02-06 04:32:58] Failed query #428: looking for manual hydro extractor with specifications: capa
+[2026-02-06 04:33:04] Failed query #429: conical twin screw extruder for packaging
+[2026-02-06 04:33:10] Failed query #430: industrial blown film extrusion machine prism 100 tpd 400 v 
+[2026-02-06 04:33:16] Failed query #431: semi-automatic bitumen extractor for plastic processing, cap
+[2026-02-06 04:33:22] Failed query #432: co-rotating twin screw extruder for agricultural
+[2026-02-06 04:33:28] Failed query #433: mother baby extruder machine 200 kg output 480 v three phase
+[2026-02-06 04:33:35] Failed query #434: pp body wpc extruder 50 kg
+[2026-02-06 04:33:41] Failed query #435: ms plastic extruder 500 ton capacity
+[2026-02-06 04:33:47] Failed query #436: ss body liquid extraction system 100 kg/hr
+[2026-02-06 04:33:53] Failed query #437: high quality fully automatic rice bran extraction plant coni
+[2026-02-06 04:33:59] Failed query #438: industrial oleoresin extraction plant prism 250 kg/hr 230 v 
+[2026-02-06 04:34:05] Failed query #439: 10 kg/hr twin screw extruder
+[2026-02-06 04:34:11] Failed query #440: lab extruder 20 kw motor 200 kg
+[2026-02-06 04:34:17] Failed query #441: 5 kg three phase curcumin extraction plant
+[2026-02-06 04:34:23] Failed query #442: metal recovery plant 480 v 50/60 hz
+[2026-02-06 04:34:30] Failed query #443: laxmi jockey extruder 25 kg
+[2026-02-06 04:34:36] Failed query #444: labh group automatic xlpe cable extruder, 5 ton, 400 v, 1 ph
+[2026-02-06 04:34:42] Failed query #445: 750 kg/hr wpc extruder ms body
+[2026-02-06 04:34:48] Failed query #446: 100 tpd three phase pet extruder
+[2026-02-06 04:34:55] Failed query #447: looking for automatic epe foam extruder with specifications:
+[2026-02-06 04:35:01] Failed query #448: industrial grade manual pet extruder with conical design, 50
+[2026-02-06 04:35:07] Failed query #449: industrial grade semi-automatic oil extraction plant with si
+[2026-02-06 04:35:13] Failed query #450: rajco manual multi layer extruder machine with 50 tpd capaci
+[2026-02-06 04:35:19] Failed query #451: liquid extraction system
+[2026-02-06 04:35:25] Failed query #452: sheet extruder 230 v 1 phase
+[2026-02-06 04:35:31] Failed query #453: cable extruder machine 500 ton output 400 v three phase pp
+[2026-02-06 04:35:37] Failed query #454: ss 316 body bitumen extractor 750 kg/hr
+[2026-02-06 04:35:43] Failed query #455: cast iron silver refining plant 200 kg capacity
+[2026-02-06 04:35:49] Failed query #456: fully automatic mild steel xlpe cable extruder
+[2026-02-06 04:35:55] Failed query #457: conical single die extruder 5 ton semi-automatic 480 v
+[2026-02-06 04:36:01] Failed query #458: semi-automatic mild steel film extrusion machine
+[2026-02-06 04:36:08] Failed query #459: rajco fully automatic basket extruder, 50 tpd, 415 v, three 
+[2026-02-06 04:36:14] Failed query #460: kabra pp extruder 50 tpd
+[2026-02-06 04:36:20] Failed query #461: xlpe cable extruder - conical design, 100 kg output, 220 v, 
+[2026-02-06 04:36:26] Failed query #462: rajco manual cable extruder
+[2026-02-06 04:36:32] Failed query #463: jockey extruder with 7.5 hp power 440 v
+[2026-02-06 04:36:38] Failed query #464: solvent extraction plant for plastic processing use, 5 ton, 
+[2026-02-06 04:36:44] Failed query #465: 1000 kg/hr 1 phase oil extraction plant
+[2026-02-06 04:36:51] Failed query #466: hdpe plastic extruder
+[2026-02-06 04:36:59] Failed query #467: 200 liter semi-automatic sheet extruder
+[2026-02-06 04:37:07] Failed query #468: automatic ss 304 silver refining plant, capacity: 200 liter,
+[2026-02-06 04:37:15] Failed query #469: rajco oil extraction plant 500 kg/hr
+[2026-02-06 04:37:23] Failed query #470: automatic gold refining machine for agricultural, capacity: 
+[2026-02-06 04:37:31] Failed query #471: mahindra fully automatic jockey extruder, 5 kg, 230 v, three
+[2026-02-06 04:37:40] Failed query #472: wpc extruder - turbo make, 200 kg/hr, cast iron, 1 phase
+[2026-02-06 04:37:49] Failed query #473: aluminium extrusion plant 220 v 3 phase
+[2026-02-06 04:37:57] Failed query #474: twin screw extruder for agricultural 1000 liter
+[2026-02-06 04:38:05] Failed query #475: ss 304 cable extruder
+[2026-02-06 04:38:13] Failed query #476: conical twin screw extruder with 25 hp power 220 v
+[2026-02-06 04:38:20] Failed query #477: looking for semi-automatic sheet extruder with specification
+[2026-02-06 04:38:29] Failed query #478: eureka automatic xlpe cable extruder
+[2026-02-06 04:38:37] Failed query #479: metal refining plant for plastic processing 25 kg/hr
+[2026-02-06 04:38:46] Failed query #480: conical twin screw extruder - single screw design, 200 kg/hr
+[2026-02-06 04:38:54] Failed query #481: fully automatic extruder machine
+[2026-02-06 04:39:02] Failed query #482: 750 kg/hr gold refining machine
+[2026-02-06 04:39:10] Failed query #483: lab extruder 480 v three phase
+[2026-02-06 04:39:19] Failed query #484: gold star semi-automatic plastic extruder
+[2026-02-06 04:39:27] Failed query #485: semi-automatic mild steel oleoresin extraction plant, capaci
+[2026-02-06 04:39:36] Failed query #486: solid phase extraction system
+[2026-02-06 04:39:45] Failed query #487: stainless steel copper extraction plant
+[2026-02-06 04:39:53] Failed query #488: double die extruder for laboratory use, 50 ton, 415 v, labh 
+[2026-02-06 04:40:01] Failed query #489: gold star herbal extraction plant 25 kg
+[2026-02-06 04:40:09] Failed query #490: 100 kg single phase centrifuge extractor
+[2026-02-06 04:40:17] Failed query #491: high quality semi-automatic solvent extraction plant single 
+[2026-02-06 04:40:25] Failed query #492: oleoresin extraction plant - single screw design, 50 tpd out
+[2026-02-06 04:40:33] Failed query #493: ldpe blown film machine 10 hp motor 1 ton
+[2026-02-06 04:40:42] Failed query #494: aba blown film machine 380 v 1 phase
+[2026-02-06 04:40:51] Failed query #495: solid phase extraction system 3 kw motor 20 kg
+[2026-02-06 04:40:59] Failed query #496: fully automatic basket extruder for agricultural application
+[2026-02-06 04:41:07] Failed query #497: single die extruder with 3 hp power 380 v
+[2026-02-06 04:41:15] Failed query #498: jockey extruder machine specifications - brand: gold star, c
+[2026-02-06 04:41:23] Failed query #499: gold refinery plant 400 v single phase
+[2026-02-06 04:41:31] Failed query #500: 750 kg/hr fully automatic mother baby extruder
+[2026-02-06 04:41:31] Progress: 500/1000 (50.0%) | Success: 69 | Failed: 431
+[2026-02-06 04:41:40] Failed query #501: industrial grade fully automatic metal recovery plant with s
+[2026-02-06 04:41:49] Failed query #502: semi-automatic wpc extruder 220 v
+[2026-02-06 04:41:57] Failed query #503: 5 tpd semi-automatic oil extraction plant 415 v single phase
+[2026-02-06 04:42:05] Failed query #504: mother baby extruder 240 v 1 phase
+[2026-02-06 04:42:13] Failed query #505: semi-automatic blown film extrusion machine 220 v
+[2026-02-06 04:42:21] Failed query #506: automatic film extrusion machine for agricultural, capacity:
+[2026-02-06 04:42:29] Failed query #507: bitumen extractor machine specifications - brand: prism, cap
+[2026-02-06 04:42:38] Failed query #508: copper extraction plant
+[2026-02-06 04:42:46] Failed query #509: plastic extruder - rajco make, 5 kg, cast iron, single phase
+[2026-02-06 04:42:54] Failed query #510: cable extruder
+[2026-02-06 04:43:03] Failed query #511: pp multi layer extruder 1000 kg/hr capacity
+[2026-02-06 04:43:11] Failed query #512: metal recovery plant for research use, 1 ton, 240 v, laxmi b
+[2026-02-06 04:43:19] Failed query #513: 25 kg manual zinc recovery unit 415 v 1 phase hdpe body
+[2026-02-06 04:43:27] Failed query #514: automatic hdpe hdpe extruder
+[2026-02-06 04:43:36] Failed query #515: multi layer extruder for pharmaceutical
+[2026-02-06 04:43:44] Failed query #516: 250 kg/hr 3 phase herbal extraction plant
+[2026-02-06 04:43:52] Failed query #517: liquid extraction system 2 hp motor 200 tpd
+[2026-02-06 04:44:01] Failed query #518: silver refinery machine for packaging 5 kg
+[2026-02-06 04:44:09] Failed query #519: cast iron aluminium extrusion plant
+[2026-02-06 04:44:17] Failed query #520: multi layer extruder for research use, 200 kg, 415 v, prism 
+[2026-02-06 04:44:25] Failed query #521: basket extruder 380 v 50/60 hz
+[2026-02-06 04:44:33] Failed query #522: automatic ms lab extruder
+[2026-02-06 04:44:42] Failed query #523: mahindra automatic pipe extrusion machine, 10 tpd, 220 v, 1 
+[2026-02-06 04:44:50] Failed query #524: bitumen extractor 230 v 60 hz
+[2026-02-06 04:44:58] Failed query #525: ss body tube extrusion machine 50 kg/hr
+[2026-02-06 04:45:06] Failed query #526: wpc extruder 480 v 50 hz
+[2026-02-06 04:45:14] Failed query #527: turbo semi-automatic tube extrusion machine
+[2026-02-06 04:45:22] Failed query #528: industrial hdpe extruder kabra 50 ton 240 v semi-automatic
+[2026-02-06 04:45:30] Failed query #529: 1000 kg/hr fully automatic pvc pipe extruder
+[2026-02-06 04:45:39] Failed query #530: stainless steel body copper extraction plant with 5 kg/hr ca
+[2026-02-06 04:45:47] Failed query #531: fully automatic silver refining plant 400 v
+[2026-02-06 04:45:55] Failed query #532: ss 304 liquid extraction system
+[2026-02-06 04:46:04] Failed query #533: ldpe blown film machine 7.5 kw motor 100 kg
+[2026-02-06 04:46:13] Failed query #534: 10 ton manual solid phase extraction system
+[2026-02-06 04:46:21] Failed query #535: manual pvc pipe extruder for recycling, capacity: 100 ton, p
+[2026-02-06 04:46:29] Failed query #536: 300 kg/hr monolayer extruder
+[2026-02-06 04:46:37] Failed query #537: double die extruder - unique make, 10 kg, ms, single phase
+[2026-02-06 04:46:45] Failed query #538: used twin screw extruder
+[2026-02-06 04:46:53] Failed query #539: titanium body bitumen extractor 200 liter
+[2026-02-06 04:47:00] Failed query #540: automatic stainless steel plastic recycling extruder, capaci
+[2026-02-06 04:47:08] Failed query #541: fully automatic lab extruder
+[2026-02-06 04:47:16] Failed query #542: polymer extruder 380 v single phase
+[2026-02-06 04:47:24] Failed query #543: 500 ton wpc extruder ss 316 body
+[2026-02-06 04:47:32] Failed query #544: wire extruder for chemical industries 500 ton
+[2026-02-06 04:47:40] Failed query #545: automatic ss aluminium extrusion plant
+[2026-02-06 04:47:48] Failed query #546: ss 316 rice bran extraction plant 200 kg/hr capacity
+[2026-02-06 04:47:57] Failed query #547: cast iron zinc recovery unit
+[2026-02-06 04:48:05] Failed query #548: fully automatic oil extraction plant for chemical industries
+[2026-02-06 04:48:13] Failed query #549: metal recovery plant with 10 hp power 380 v
+[2026-02-06 04:48:20] Failed query #550: automatic lab extruder for industrial, capacity: 20 tpd, pow
+[2026-02-06 04:48:29] Failed query #551: curcumin extraction plant
+[2026-02-06 04:48:37] Failed query #552: cable extruder
+[2026-02-06 04:48:45] Failed query #553: mild steel centrifuge extractor 200 liter capacity
+[2026-02-06 04:48:53] Failed query #554: 30 kg semi-automatic hydro extractor 230 v single phase hdpe
+[2026-02-06 04:49:01] Failed query #555: curcumin extraction plant conical design 750 kg/hr
+[2026-02-06 04:49:09] Failed query #556: mother baby extruder - kabra make, 10 kg/hr, ss, 1 phase
+[2026-02-06 04:49:17] Failed query #557: labh group lab extruder 200 kg
+[2026-02-06 04:49:25] Failed query #558: high quality fully automatic gold refinery plant conical typ
+[2026-02-06 04:49:33] Failed query #559: cable extruder - swaraj make, 100 kg/hr, ms, single phase
+[2026-02-06 04:49:41] Failed query #560: fully automatic tube extrusion machine for plastic processin
+[2026-02-06 04:49:49] Failed query #561: teknik semi-automatic polymer extruder
+[2026-02-06 04:49:58] Failed query #562: turbo solid phase extraction system 10 ton
+[2026-02-06 04:50:06] Failed query #563: jockey extruder 50 hp motor 100 tpd
+[2026-02-06 04:50:14] Failed query #564: industrial grade manual basket extruder with co-rotating des
+[2026-02-06 04:50:22] Failed query #565: prism semi-automatic foam extruder
+[2026-02-06 04:50:31] Failed query #566: hdpe copper extraction plant 50 ton capacity
+[2026-02-06 04:50:40] Failed query #567: rice bran extraction plant with 1 hp power 240 v
+[2026-02-06 04:50:49] Failed query #568: mother baby extruder 240 v 3 phase
+[2026-02-06 04:50:57] Failed query #569: gold refinery plant with 50 hp power 240 v
+[2026-02-06 04:51:05] Failed query #570: manual plastic recycling extruder for laboratory, capacity: 
+[2026-02-06 04:51:12] Failed query #571: cable extruder 7.5 hp motor 20 tpd
+[2026-02-06 04:51:20] Failed query #572: industrial xlpe cable extruder teknik 1 ton 380 v fully auto
+[2026-02-06 04:51:28] Failed query #573: aluminium body co-rotating twin screw extruder with 100 tpd 
+[2026-02-06 04:51:36] Failed query #574: used mother baby extruder
+[2026-02-06 04:51:44] Failed query #575: mahindra make semi-automatic pp extruder, production capacit
+[2026-02-06 04:51:53] Failed query #576: 500 kg/hr hdpe extruder cast iron body
+[2026-02-06 04:52:01] Failed query #577: high quality automatic foam extruder parallel type, 750 kg/h
+[2026-02-06 04:52:09] Failed query #578: rajco manual jockey extruder
+[2026-02-06 04:52:17] Failed query #579: semi-automatic titanium single die extruder, capacity: 100 t
+[2026-02-06 04:52:25] Failed query #580: plastic extruder machine specifications - brand: turbo, capa
+[2026-02-06 04:52:33] Failed query #581: bitumen extractor machine specifications - brand: eureka, ca
+[2026-02-06 04:52:41] Failed query #582: aba blown film machine
+[2026-02-06 04:52:49] Failed query #583: silver refining plant single screw design 25 kg/hr
+[2026-02-06 04:52:57] Failed query #584: pp wpc extruder
+[2026-02-06 04:53:05] Failed query #585: 200 kg/hr single phase conical twin screw extruder
+[2026-02-06 04:53:13] Failed query #586: rice bran extraction plant machine specifications - brand: e
+[2026-02-06 04:53:21] Failed query #587: mahindra automatic basket extruder machine with 50 ton capac
+[2026-02-06 04:53:28] Failed query #588: conical plastic extruder 200 kg automatic 400 v
+[2026-02-06 04:53:36] Failed query #589: herbal extraction plant machine 25 kg/hr output 400 v three 
+[2026-02-06 04:53:44] Failed query #590: 1000 kg/hr automatic pet extruder 400 v three phase titanium
+[2026-02-06 04:53:53] Failed query #591: gold refining machine with 2 hp power 440 v
+[2026-02-06 04:54:01] Failed query #592: hdpe blown film extrusion machine 5 tpd capacity
+[2026-02-06 04:54:09] Failed query #593: industrial grade manual curcumin extraction plant with twin 
+[2026-02-06 04:54:17] Failed query #594: manual ms pvc extruder, capacity: 100 kg/hr, voltage: 480 v,
+[2026-02-06 04:54:25] Failed query #595: titanium xlpe cable extruder
+[2026-02-06 04:54:33] Failed query #596: fully automatic pvc polymer extruder
+[2026-02-06 04:54:41] Failed query #597: foam extruder machine 10 ton output 440 v three phase ss 316
+[2026-02-06 04:54:49] Failed query #598: parallel conical twin screw extruder 500 kg fully automatic 
+[2026-02-06 04:54:57] Failed query #599: automatic mild steel pp extruder, capacity: 1000 kg/hr, volt
+[2026-02-06 04:55:05] Failed query #600: semi-automatic twin screw extruder
+[2026-02-06 04:55:05] Progress: 600/1000 (60.0%) | Success: 69 | Failed: 531
+[2026-02-06 04:55:13] Failed query #601: lab extruder machine 750 kg/hr output 400 v three phase alum
+[2026-02-06 04:55:21] Failed query #602: semi-automatic mild steel pp extruder
+[2026-02-06 04:55:29] Failed query #603: semi-automatic co-rotating twin screw extruder 380 v
+[2026-02-06 04:55:38] Failed query #604: industrial grade fully automatic extruder machine with co-ro
+[2026-02-06 04:55:46] Failed query #605: automatic pvc gold refining machine, capacity: 50 ton, volta
+[2026-02-06 04:55:54] Failed query #606: 100 kg 3 phase liquid extraction system
+[2026-02-06 04:56:03] Failed query #607: eureka manual pet extruder machine with 25 kg/hr capacity, 4
+[2026-02-06 04:56:08] Failed query #608: rajco fully automatic sheet extruder, 1 tpd, 480 v, three ph
+[2026-02-06 04:57:15] Failed query #609: 500 ton monolayer extruder
+[2026-02-06 04:57:25] Failed query #610: laxmi fully automatic plastic extruder, 200 liter, 240 v, th
+[2026-02-06 04:57:35] Failed query #611: aba blown film machine for wire & cable use, 50 ton, 220 v, 
+[2026-02-06 04:57:51] Failed query #612: fully automatic aluminium extrusion plant for laboratory app
+[2026-02-06 04:58:00] Failed query #613: industrial foam extruder gold star 5 tpd 400 v automatic
+[2026-02-06 04:58:08] Failed query #614: 1 ton xlpe cable extruder
+[2026-02-06 04:58:17] Failed query #615: semi-automatic mild steel bitumen extractor, capacity: 20 kg
+[2026-02-06 04:58:25] Failed query #616: kabra fully automatic metal recovery plant machine with 20 k
+[2026-02-06 04:58:34] Failed query #617: industrial ldpe blown film machine turbo 20 kg 480 v automat
+[2026-02-06 04:58:42] Failed query #618: single die extruder - turbo make, 50 kg, mild steel, 1 phase
+[2026-02-06 04:58:51] Failed query #619: industrial silver refinery machine laxmi 25 kg 380 v manual
+[2026-02-06 04:59:00] Failed query #620: liquid extraction system 240 v 3 phase
+[2026-02-06 04:59:08] Failed query #621: manual conical twin screw extruder for chemical industries a
+[2026-02-06 04:59:15] Failed query #622: hdpe extruder 440 v
+[2026-02-06 04:59:24] Failed query #623: industrial gold refinery plant mahindra 100 ton 240 v automa
+[2026-02-06 05:00:03] Failed query #624: centrifuge extractor 480 v
+[2026-02-06 05:00:11] Failed query #625: tube extrusion machine - labh group make, 10 ton, cast iron,
+[2026-02-06 05:00:19] Failed query #626: popular manual aluminium extrusion plant, 25 kg/hr, 400 v, 3
+[2026-02-06 05:00:26] Failed query #627: ms bitumen extractor
+[2026-02-06 05:00:34] Failed query #628: manual pvc extruder machine, capacity: 200 kg, voltage: 415 
+[2026-02-06 05:00:43] Failed query #629: fully automatic bitumen extractor 440 v
+[2026-02-06 05:00:58] Failed query #630: sheet extruder 10 kw motor 750 kg/hr
+[2026-02-06 05:01:08] Failed query #631: single die extruder for pharmaceutical
+[2026-02-06 05:01:17] Failed query #632: labh group automatic pet extruder
+[2026-02-06 05:01:26] Failed query #633: turbo manual mother baby extruder
+[2026-02-06 05:01:34] Failed query #634: automatic pvc pipe extruder
+[2026-02-06 05:01:49] Failed query #635: fully automatic zinc recovery unit for food processing appli
+[2026-02-06 05:01:59] Failed query #636: semi-automatic ss 316 metal recovery plant
+[2026-02-06 05:02:10] Failed query #637: plastic recycling extruder 440 v three phase
+[2026-02-06 05:02:24] Failed query #638: sheet extruder - co-rotating design, 50 kg/hr output, 415 v,
+[2026-02-06 05:03:06] Failed query #639: bitumen extractor with 10 hp power 440 v
+[2026-02-06 05:03:14] Failed query #640: epe foam extruder 415 v
+[2026-02-06 05:03:33] Failed query #641: swaraj plastic recycling extruder
+[2026-02-06 05:03:41] Failed query #642: swaraj fully automatic single die extruder machine with 50 k
+[2026-02-06 05:03:49] Failed query #643: industrial grade automatic silver refining plant with co-rot
+[2026-02-06 05:03:56] Failed query #644: metal recovery plant machine 250 kg/hr output 400 v three ph
+[2026-02-06 05:04:04] Failed query #645: industrial grade automatic silver refinery machine with para
+[2026-02-06 05:04:13] Failed query #646: oil extraction plant
+[2026-02-06 05:04:20] Failed query #647: manual silver refining plant
+[2026-02-06 05:04:28] Failed query #648: teknik make fully automatic pet extruder, production capacit
+[2026-02-06 05:04:36] Failed query #649: used jockey extruder
+[2026-02-06 05:04:44] Failed query #650: silver refining plant 240 v
+[2026-02-06 05:04:52] Failed query #651: looking for semi-automatic aba blown film machine with speci
+[2026-02-06 05:05:08] Failed query #652: fully automatic ss wire extruder
+[2026-02-06 05:05:20] Failed query #653: popular make semi-automatic ldpe blown film machine, product
+[2026-02-06 05:05:28] Failed query #654: film extrusion machine for pharmaceutical use, 5 tpd, 380 v,
+[2026-02-06 05:05:35] Failed query #655: semi-automatic pvc silver refinery machine, capacity: 25 kg,
+[2026-02-06 05:05:43] Failed query #656: 100 tpd single phase gold refinery plant
+[2026-02-06 05:05:58] Failed query #657: 250 kg/hr manual twin screw extruder 220 v 1 phase ms body
+[2026-02-06 05:06:06] Failed query #658: high quality automatic metal refining plant twin screw type,
+[2026-02-06 05:06:16] Failed query #659: fully automatic pp foam extruder
+[2026-02-06 05:06:23] Failed query #660: unique twin screw extruder
+[2026-02-06 05:06:31] Failed query #661: 300 kg/hr semi-automatic epe foam extruder
+[2026-02-06 05:06:41] Failed query #662: 10 kg/hr fully automatic hydro extractor
+[2026-02-06 05:06:56] Failed query #663: 1000 liter 3 phase epe foam extruder
+[2026-02-06 05:07:05] Failed query #664: ss 316 rice bran extraction plant
+[2026-02-06 05:07:13] Failed query #665: 5 ton three phase film extrusion machine
+[2026-02-06 05:07:24] Failed query #666: pvc extruder 220 v 1 phase
+[2026-02-06 05:07:32] Failed query #667: 500 kg aluminium extrusion plant ms body
+[2026-02-06 05:07:38] Failed query #668: multi layer extruder 7.5 kw motor 500 ton
+[2026-02-06 05:07:49] Failed query #669: co-rotating jockey extruder 10 kg/hr manual 440 v
+[2026-02-06 05:07:58] Failed query #670: industrial grade fully automatic oleoresin extraction plant 
+[2026-02-06 05:08:06] Failed query #671: 10 tpd fully automatic silver refinery machine
+[2026-02-06 05:08:16] Failed query #672: copper extraction plant 415 v single phase
+[2026-02-06 05:08:28] Failed query #673: stainless steel body co-rotating twin screw extruder 5 kg/hr
+[2026-02-06 05:08:40] Failed query #674: plastic recycling extruder
+[2026-02-06 05:08:48] Failed query #675: hdpe extruder - laxmi make, 50 kg/hr, stainless steel, singl
+[2026-02-06 05:08:58] Failed query #676: laxmi automatic blown film extrusion machine, 500 tpd, 220 v
+[2026-02-06 05:09:07] Failed query #677: rice bran extraction plant - kabra make, 500 tpd, ss 304, 1 
+[2026-02-06 05:09:19] Failed query #678: refurbished gold refinery plant
+[2026-02-06 05:09:28] Failed query #679: ss 316 extruder machine 25 kg capacity
+[2026-02-06 05:09:36] Failed query #680: 200 kg/hr semi-automatic xlpe cable extruder 480 v 3 phase a
+[2026-02-06 05:09:53] Failed query #681: 200 kg/hr oil extraction plant
+[2026-02-06 05:10:02] Failed query #682: high quality automatic gold refining machine parallel type, 
+[2026-02-06 05:10:11] Failed query #683: kabra gold refinery plant
+[2026-02-06 05:10:22] Failed query #684: industrial jockey extruder mahindra 5 ton 440 v semi-automat
+[2026-02-06 05:10:31] Failed query #685: double die extruder
+[2026-02-06 05:10:39] Failed query #686: cable extruder for research use, 100 liter, 230 v, popular b
+[2026-02-06 05:10:51] Failed query #687: herbal extraction plant - twin screw design, 200 kg output, 
+[2026-02-06 05:10:59] Failed query #688: automatic cable extruder for laboratory, capacity: 500 liter
+[2026-02-06 05:11:08] Failed query #689: 1 ton herbal extraction plant hdpe body
+[2026-02-06 05:11:15] Failed query #690: mild steel body twin screw extruder with 5 ton capacity and 
+[2026-02-06 05:11:27] Failed query #691: epe foam extruder for research
+[2026-02-06 05:11:35] Failed query #692: teknik automatic gold refinery plant
+[2026-02-06 05:11:48] Failed query #693: stainless steel aluminium extrusion plant
+[2026-02-06 05:12:02] Failed query #694: semi-automatic ss 304 xlpe cable extruder, capacity: 100 kg/
+[2026-02-06 05:12:14] Failed query #695: lab extruder for chemical industries 5 ton
+[2026-02-06 05:12:39] Failed query #696: conical twin screw extruder - teknik make, 50 ton, ss 304, t
+[2026-02-06 05:12:48] Failed query #697: ms ldpe blown film machine
+[2026-02-06 05:12:57] Failed query #698: rajco silver refinery machine
+[2026-02-06 05:13:05] Failed query #699: semi-automatic foam extruder 440 v
+[2026-02-06 05:13:12] Failed query #700: labh group make fully automatic cable extruder, production c
+[2026-02-06 05:13:12] Progress: 700/1000 (70.0%) | Success: 69 | Failed: 631
+[2026-02-06 05:13:22] Failed query #701: conical twin screw extruder for agricultural
+[2026-02-06 05:13:32] Failed query #702: ss 304 monolayer extruder
+[2026-02-06 05:13:42] Failed query #703: aba blown film machine 15 kw motor 25 kg
+[2026-02-06 05:13:50] Failed query #704: kabra plastic recycling extruder
+[2026-02-06 05:13:59] Failed query #705: rajco fully automatic multi layer extruder machine with 200 
+[2026-02-06 05:14:15] Failed query #706: 10 tpd automatic plastic recycling extruder
+[2026-02-06 05:14:23] Failed query #707: mahindra semi-automatic aluminium extrusion plant, 20 tpd, 3
+[2026-02-06 05:14:35] Failed query #708: 200 kg single phase double die extruder
+[2026-02-06 05:14:42] Failed query #709: liquid extraction system 380 v
+[2026-02-06 05:14:49] Failed query #710: plastic recycling extruder for wire & cable use, 200 liter, 
+[2026-02-06 05:15:02] Failed query #711: lab extruder 10 kw motor 200 kg
+[2026-02-06 05:15:10] Failed query #712: used foam extruder
+[2026-02-06 05:15:30] Failed query #713: single screw silver refinery machine 5 kg automatic 480 v
+[2026-02-06 05:15:38] Failed query #714: sheet extruder for wire & cable
+[2026-02-06 05:15:55] Failed query #715: cast iron centrifuge extractor 1000 kg/hr capacity
+[2026-02-06 05:16:02] Failed query #716: automatic blown film extrusion machine for recycling applica
+[2026-02-06 05:16:11] Failed query #717: looking for automatic pp extruder with specifications: capac
+[2026-02-06 05:16:22] Failed query #718: hdpe body xlpe cable extruder 750 kg/hr
+[2026-02-06 05:16:31] Failed query #719: rajco make fully automatic cable extruder, production capaci
+[2026-02-06 05:16:41] Failed query #720: semi-automatic copper extraction plant 230 v
+[2026-02-06 05:16:49] Failed query #721: aluminium extrusion plant 440 v
+[2026-02-06 05:16:59] Failed query #722: 150 kg/hr curcumin extraction plant
+[2026-02-06 05:17:06] Failed query #723: looking for automatic plastic extruder with specifications: 
+[2026-02-06 05:17:14] Failed query #724: labh group foam extruder
+[2026-02-06 05:17:22] Failed query #725: manual mother baby extruder
+[2026-02-06 05:17:30] Failed query #726: mild steel body bitumen extractor with 100 kg capacity and 4
+[2026-02-06 05:17:42] Failed query #727: foam extruder 10 hp motor 100 kg
+[2026-02-06 05:17:53] Failed query #728: industrial oleoresin extraction plant swaraj 50 tpd 380 v au
+[2026-02-06 05:18:00] Failed query #729: double die extruder for food processing use, 10 tpd, 240 v, 
+[2026-02-06 05:18:10] Failed query #730: industrial mother baby extruder prism 10 kg/hr 400 v semi-au
+[2026-02-06 05:18:33] Failed query #731: single die extruder 440 v 1 phase
+[2026-02-06 05:18:40] Failed query #732: conical gold refining machine 10 tpd fully automatic 400 v
+[2026-02-06 05:19:03] Failed query #733: popular pvc pipe extruder 5 kg
+[2026-02-06 05:19:11] Failed query #734: co-rotating rice bran extraction plant 100 liter automatic 2
+[2026-02-06 05:19:18] Failed query #735: pipe extrusion machine for packaging use, 100 tpd, 230 v, pr
+[2026-02-06 05:19:46] Failed query #736: polymer extruder - twin screw design, 100 ton output, 230 v,
+[2026-02-06 05:19:59] Failed query #737: monolayer extruder
+[2026-02-06 05:20:07] Failed query #738: looking for fully automatic silver refinery machine with spe
+[2026-02-06 05:20:16] Failed query #739: film extrusion machine machine 750 kg/hr output 480 v 3 phas
+[2026-02-06 05:20:24] Failed query #740: wire extruder 440 v 3 phase
+[2026-02-06 05:20:33] Failed query #741: gold star make fully automatic metal recovery plant, product
+[2026-02-06 05:20:40] Failed query #742: turbo fully automatic silver refining plant
+[2026-02-06 05:20:46] Failed query #743: turbo fully automatic twin screw extruder
+[2026-02-06 05:20:58] Failed query #744: automatic centrifuge extractor
+[2026-02-06 05:21:06] Failed query #745: epe foam extruder 440 v single phase
+[2026-02-06 05:21:21] Failed query #746: cast iron body pvc extruder 250 kg/hr
+[2026-02-06 05:21:32] Failed query #747: manual solid phase extraction system
+[2026-02-06 05:21:45] Failed query #748: 500 liter manual ldpe blown film machine 230 v 3 phase ss 31
+[2026-02-06 05:22:01] Failed query #749: solvent extraction plant
+[2026-02-06 05:22:10] Failed query #750: metal recovery plant - single screw design, 50 tpd output, 2
+[2026-02-06 05:22:18] Failed query #751: gold refining machine for pharmaceutical use, 1000 kg/hr, 41
+[2026-02-06 05:22:27] Failed query #752: automatic hdpe film extrusion machine, capacity: 100 kg/hr, 
+[2026-02-06 05:22:36] Failed query #753: 50 ton plastic recycling extruder
+[2026-02-06 05:22:43] Failed query #754: double die extruder for plastic processing 1 tpd
+[2026-02-06 05:22:51] Failed query #755: herbal extraction plant 240 v single phase
+[2026-02-06 05:22:58] Failed query #756: solid phase extraction system machine specifications - brand
+[2026-02-06 05:23:06] Failed query #757: mild steel gold refining machine 100 kg capacity
+[2026-02-06 05:23:15] Failed query #758: semi-automatic solid phase extraction system for food proces
+[2026-02-06 05:23:23] Failed query #759: multi layer extruder machine specifications - brand: rajco, 
+[2026-02-06 05:23:36] Failed query #760: ss body metal recovery plant 1000 kg/hr
+[2026-02-06 05:23:48] Failed query #761: fully automatic ss 304 liquid extraction system, capacity: 1
+[2026-02-06 05:23:56] Failed query #762: mother baby extruder for laboratory
+[2026-02-06 05:24:03] Failed query #763: 100 liter 1 phase centrifuge extractor
+[2026-02-06 05:24:11] Failed query #764: hdpe extruder 400 v
+[2026-02-06 05:24:23] Failed query #765: polymer extruder - mahindra make, 100 tpd, cast iron, 3 phas
+[2026-02-06 05:24:31] Failed query #766: twin screw extruder 240 v
+[2026-02-06 05:24:41] Failed query #767: swaraj fully automatic wire extruder
+[2026-02-06 05:24:53] Failed query #768: multi layer extruder
+[2026-02-06 05:25:01] Failed query #769: rajco semi-automatic tube extrusion machine, 5 tpd, 240 v, s
+[2026-02-06 05:25:09] Failed query #770: single screw aluminium extrusion plant 50 kg fully automatic
+[2026-02-06 05:25:19] Failed query #771: pvc body solvent extraction plant with 100 tpd capacity and 
+[2026-02-06 05:25:27] Failed query #772: epe foam extruder
+[2026-02-06 05:25:35] Failed query #773: parallel oleoresin extraction plant 10 kg manual 230 v
+[2026-02-06 05:25:42] Failed query #774: 20 tpd semi-automatic gold refinery plant
+[2026-02-06 05:25:50] Failed query #775: mild steel body herbal extraction plant with 1 ton capacity 
+[2026-02-06 05:25:58] Failed query #776: rice bran extraction plant 480 v single phase
+[2026-02-06 05:26:06] Failed query #777: mother baby extruder for plastic processing
+[2026-02-06 05:26:15] Failed query #778: titanium body plastic recycling extruder 10 tpd
+[2026-02-06 05:26:31] Failed query #779: 200 kg jockey extruder
+[2026-02-06 05:26:45] Failed query #780: ms body double die extruder with 200 liter capacity and 220 
+[2026-02-06 05:26:53] Failed query #781: cable extruder 230 v 50/60 hz
+[2026-02-06 05:27:10] Failed query #782: single die extruder 230 v 60 hz
+[2026-02-06 05:27:21] Failed query #783: eureka fully automatic film extrusion machine
+[2026-02-06 05:27:28] Failed query #784: pvc extruder 20 hp motor 5 ton
+[2026-02-06 05:27:40] Failed query #785: 50 kg/hr fully automatic blown film extrusion machine 440 v 
+[2026-02-06 05:27:54] Failed query #786: parallel hdpe extruder 200 kg automatic 230 v
+[2026-02-06 05:28:03] Failed query #787: cable extruder - labh group make, 20 tpd, ss 304, single pha
+[2026-02-06 05:28:09] Failed query #788: semi-automatic tube extrusion machine
+[2026-02-06 05:28:17] Failed query #789: metal recovery plant 240 v 1 phase
+[2026-02-06 05:28:28] Failed query #790: polymer extruder with 25 hp power 440 v
+[2026-02-06 05:28:45] Failed query #791: hydro extractor 220 v single phase
+[2026-02-06 05:28:56] Failed query #792: mother baby extruder
+[2026-02-06 05:29:07] Failed query #793: silver refinery machine
+[2026-02-06 05:29:14] Failed query #794: aluminium foam extruder
+[2026-02-06 05:29:23] Failed query #795: titanium solvent extraction plant
+[2026-02-06 05:29:37] Failed query #796: popular semi-automatic pvc extruder machine with 200 liter c
+[2026-02-06 05:29:47] Failed query #797: oil extraction plant for pharmaceutical use, 500 kg/hr, 415 
+[2026-02-06 05:29:55] Failed query #798: manual rice bran extraction plant
+[2026-02-06 05:30:07] Failed query #799: turbo epe foam extruder 100 kg
+[2026-02-06 05:30:18] Failed query #800: 100 liter pvc extruder
+[2026-02-06 05:30:18] Progress: 800/1000 (80.0%) | Success: 69 | Failed: 731
+[2026-02-06 05:30:33] Failed query #801: 50 kg/hr three phase solvent extraction plant
+[2026-02-06 05:30:39] Failed query #802: laxmi semi-automatic metal refining plant, 10 kg/hr, 480 v, 
+[2026-02-06 05:30:47] Failed query #803: sheet extruder 240 v single phase
+[2026-02-06 05:31:02] Failed query #804: hydro extractor machine specifications - brand: labh group, 
+[2026-02-06 05:31:10] Failed query #805: industrial grade fully automatic solvent extraction plant wi
+[2026-02-06 05:31:21] Failed query #806: oil extraction plant conical design 1 ton
+[2026-02-06 05:31:28] Failed query #807: single screw double die extruder 30 kg fully automatic 400 v
+[2026-02-06 05:31:37] Failed query #808: silver refinery machine for packaging
+[2026-02-06 05:31:46] Failed query #809: basket extruder parallel design 5 kg/hr
+[2026-02-06 05:31:57] Failed query #810: 5 kg/hr three phase oleoresin extraction plant
+[2026-02-06 05:32:13] Failed query #811: labh group fully automatic blown film extrusion machine
+[2026-02-06 05:32:20] Failed query #812: automatic aba blown film machine for plastic processing, cap
+[2026-02-06 05:33:09] Failed query #813: gold star manual plastic extruder, 1 tpd, 415 v, three phase
+[2026-02-06 05:33:59] Failed query #814: liquid extraction system for laboratory
+[2026-02-06 05:34:10] Failed query #815: industrial solvent extraction plant teknik 100 liter 230 v m
+[2026-02-06 05:34:22] Failed query #816: pvc extruder for food processing use, 1000 liter, 440 v, pop
+[2026-02-06 05:34:33] Failed query #817: herbal extraction plant 415 v
+[2026-02-06 05:34:43] Failed query #818: wpc extruder for chemical industries use, 100 liter, 220 v, 
+[2026-02-06 05:34:57] Failed query #819: aluminium body basket extruder with 50 tpd capacity and 415 
+[2026-02-06 05:35:11] Failed query #820: prism fully automatic zinc recovery unit, 500 kg, 440 v, 1 p
+[2026-02-06 05:35:28] Failed query #821: 20 kg single phase oleoresin extraction plant
+[2026-02-06 05:35:38] Failed query #822: cast iron body curcumin extraction plant 100 tpd
+[2026-02-06 05:35:44] Failed query #823: popular semi-automatic aba blown film machine
+[2026-02-06 05:35:51] Failed query #824: turbo automatic foam extruder
+[2026-02-06 05:35:57] Failed query #825: looking for manual curcumin extraction plant with specificat
+[2026-02-06 05:36:03] Failed query #826: industrial solid phase extraction system unique 500 kg/hr 22
+[2026-02-06 05:36:10] Failed query #827: copper extraction plant 440 v 50 hz
+[2026-02-06 05:36:16] Failed query #828: pvc polymer extruder 100 kg/hr capacity
+[2026-02-06 05:36:23] Failed query #829: 200 liter gold refinery plant
+[2026-02-06 05:36:28] Failed query #830: 20 kg ldpe blown film machine mild steel body
+[2026-02-06 05:36:35] Failed query #831: manual ss 316 aba blown film machine
+[2026-02-06 05:36:41] Failed query #832: ss 316 film extrusion machine 1000 liter capacity
+[2026-02-06 05:36:47] Failed query #833: mild steel body cable extruder 100 kg/hr
+[2026-02-06 05:36:53] Failed query #834: mahindra automatic single die extruder
+[2026-02-06 05:36:59] Failed query #835: 25 kg cable extruder ss body
+[2026-02-06 05:37:06] Failed query #836: oleoresin extraction plant 400 v 50 hz
+[2026-02-06 05:37:12] Failed query #837: 100 kg manual conical twin screw extruder
+[2026-02-06 05:37:19] Failed query #838: unique solid phase extraction system 200 tpd
+[2026-02-06 05:37:25] Failed query #839: hdpe extruder 7.5 hp motor 100 liter
+[2026-02-06 05:37:31] Failed query #840: rajco oleoresin extraction plant 30 kg
+[2026-02-06 05:37:38] Failed query #841: solid phase extraction system 2 kw motor 10 tpd
+[2026-02-06 05:37:44] Failed query #842: co-rotating solid phase extraction system 20 kg semi-automat
+[2026-02-06 05:37:50] Failed query #843: pvc extruder with 15 kw power 230 v
+[2026-02-06 05:37:57] Failed query #844: metal recovery plant 5 hp motor 500 liter
+[2026-02-06 05:38:03] Failed query #845: automatic ss 316 curcumin extraction plant
+[2026-02-06 05:38:09] Failed query #846: pvc body bitumen extractor 500 tpd
+[2026-02-06 05:38:16] Failed query #847: plastic extruder co-rotating design 50 tpd
+[2026-02-06 05:38:22] Failed query #848: monolayer extruder co-rotating design 250 kg/hr
+[2026-02-06 05:38:28] Failed query #849: manual pp bitumen extractor
+[2026-02-06 05:38:34] Failed query #850: stainless steel body monolayer extruder 200 kg
+[2026-02-06 05:38:41] Failed query #851: 50 kg/hr 3 phase conical twin screw extruder
+[2026-02-06 05:38:47] Failed query #852: gold refinery plant machine 50 ton output 440 v three phase 
+[2026-02-06 05:38:53] Failed query #853: fully automatic pp hdpe extruder, capacity: 5 ton, voltage: 
+[2026-02-06 05:38:59] Failed query #854: hydro extractor machine specifications - brand: prism, capac
+[2026-02-06 05:39:05] Failed query #855: ss 304 mother baby extruder
+[2026-02-06 05:39:12] Failed query #856: gold star semi-automatic epe foam extruder
+[2026-02-06 05:39:18] Failed query #857: aluminium extrusion plant for plastic processing
+[2026-02-06 05:39:24] Failed query #858: metal recovery plant - conical design, 30 kg output, 415 v, 
+[2026-02-06 05:39:31] Failed query #859: plastic recycling extruder for plastic processing
+[2026-02-06 05:39:37] Failed query #860: stainless steel body curcumin extraction plant 50 kg
+[2026-02-06 05:39:43] Failed query #861: cast iron body pet extruder with 750 kg/hr capacity and 415 
+[2026-02-06 05:39:49] Failed query #862: 5 kg/hr curcumin extraction plant ms body
+[2026-02-06 05:39:55] Failed query #863: turbo automatic herbal extraction plant machine with 500 ton
+[2026-02-06 05:40:02] Failed query #864: double die extruder for laboratory use, 25 kg/hr, 230 v, raj
+[2026-02-06 05:40:08] Failed query #865: automatic film extrusion machine for food processing, capaci
+[2026-02-06 05:40:14] Failed query #866: pp body centrifuge extractor 50 tpd
+[2026-02-06 05:40:20] Failed query #867: kabra foam extruder 500 kg
+[2026-02-06 05:40:26] Failed query #868: solid phase extraction system - parallel design, 150 kg/hr o
+[2026-02-06 05:40:33] Failed query #869: rice bran extraction plant for recycling use, 20 kg, 415 v, 
+[2026-02-06 05:40:39] Failed query #870: rajco extruder machine 10 ton
+[2026-02-06 05:40:45] Failed query #871: mild steel body solvent extraction plant 1 tpd
+[2026-02-06 05:40:51] Failed query #872: pp body rice bran extraction plant with 200 liter capacity a
+[2026-02-06 05:40:57] Failed query #873: pp pipe extrusion machine
+[2026-02-06 05:41:03] Failed query #874: zinc recovery unit for research use, 500 liter, 220 v, uniqu
+[2026-02-06 05:41:09] Failed query #875: pet extruder 440 v
+[2026-02-06 05:41:15] Failed query #876: ss 304 body pvc extruder 100 kg
+[2026-02-06 05:41:22] Failed query #877: laxmi make manual aluminium extrusion plant, production capa
+[2026-02-06 05:41:28] Failed query #878: wire extruder for chemical industries 500 kg/hr
+[2026-02-06 05:41:34] Failed query #879: solid phase extraction system 220 v 50 hz
+[2026-02-06 05:41:41] Failed query #880: 200 kg/hr pvc pipe extruder stainless steel body
+[2026-02-06 05:41:47] Failed query #881: ss 316 body pvc extruder 100 tpd
+[2026-02-06 05:41:53] Failed query #882: pvc pipe extruder machine specifications - brand: labh group
+[2026-02-06 05:41:59] Failed query #883: centrifuge extractor - labh group make, 100 liter, aluminium
+[2026-02-06 05:42:05] Failed query #884: aba blown film machine 220 v
+[2026-02-06 05:42:11] Failed query #885: fully automatic pet extruder
+[2026-02-06 05:42:18] Failed query #886: teknik metal refining plant 500 kg/hr
+[2026-02-06 05:42:24] Failed query #887: polymer extruder - single screw design, 500 ton output, 240 
+[2026-02-06 05:42:30] Failed query #888: wire extruder
+[2026-02-06 05:42:36] Failed query #889: new gold refining machine
+[2026-02-06 05:42:43] Failed query #890: looking for automatic solvent extraction plant with specific
+[2026-02-06 05:42:49] Failed query #891: hdpe extruder 240 v
+[2026-02-06 05:42:56] Failed query #892: hdpe body lab extruder 1000 liter
+[2026-02-06 05:43:02] Failed query #893: semi-automatic solid phase extraction system for packaging, 
+[2026-02-06 05:43:08] Failed query #894: 100 tpd double die extruder
+[2026-02-06 05:43:14] Failed query #895: 500 kg/hr metal refining plant
+[2026-02-06 05:43:20] Failed query #896: 10 tpd pvc extruder cast iron body
+[2026-02-06 05:43:27] Failed query #897: popular pet extruder 500 kg
+[2026-02-06 05:43:33] Failed query #898: pvc body metal recovery plant 500 kg
+[2026-02-06 05:43:39] Failed query #899: high quality fully automatic pp extruder parallel type, 200 
+[2026-02-06 05:43:46] Failed query #900: industrial grade semi-automatic aba blown film machine with 
+[2026-02-06 05:43:46] Progress: 900/1000 (90.0%) | Success: 69 | Failed: 831
+[2026-02-06 05:43:52] Failed query #901: metal recovery plant co-rotating design 50 ton
+[2026-02-06 05:43:58] Failed query #902: teknik make manual liquid extraction system, production capa
+[2026-02-06 05:44:04] Failed query #903: unique plastic extruder
+[2026-02-06 05:44:11] Failed query #904: ss 304 pipe extrusion machine
+[2026-02-06 05:44:17] Failed query #905: pet extruder machine 750 kg/hr output 230 v three phase mild
+[2026-02-06 05:44:23] Failed query #906: 200 kg 1 phase aluminium extrusion plant
+[2026-02-06 05:44:29] Failed query #907: parallel ldpe blown film machine 150 kg/hr manual 480 v
+[2026-02-06 05:44:36] Failed query #908: cable extruder for food processing use, 1 tpd, 415 v, teknik
+[2026-02-06 05:44:42] Failed query #909: double die extruder conical design 200 kg
+[2026-02-06 05:44:48] Failed query #910: epe foam extruder
+[2026-02-06 05:44:55] Failed query #911: semi-automatic co-rotating twin screw extruder 480 v
+[2026-02-06 05:45:01] Failed query #912: curcumin extraction plant 400 v 3 phase
+[2026-02-06 05:45:07] Failed query #913: teknik fully automatic gold refining machine machine with 10
+[2026-02-06 05:45:13] Failed query #914: bitumen extractor - parallel design, 5 tpd output, 240 v, si
+[2026-02-06 05:45:19] Failed query #915: 30 kg metal refining plant ss 304 body
+[2026-02-06 05:45:26] Failed query #916: kabra centrifuge extractor
+[2026-02-06 05:45:32] Failed query #917: pp zinc recovery unit 100 kg/hr capacity
+[2026-02-06 05:45:39] Failed query #918: liquid extraction system for laboratory
+[2026-02-06 05:45:45] Failed query #919: kabra semi-automatic gold refinery plant
+[2026-02-06 05:45:51] Failed query #920: ss body curcumin extraction plant 10 kg
+[2026-02-06 05:45:57] Failed query #921: rajco fully automatic pet extruder, 150 kg/hr, 415 v, three 
+[2026-02-06 05:46:04] Failed query #922: prism make automatic rice bran extraction plant, production 
+[2026-02-06 05:46:10] Failed query #923: mild steel single die extruder 5 tpd capacity
+[2026-02-06 05:46:16] Failed query #924: 50 tpd herbal extraction plant pp body
+[2026-02-06 05:46:22] Failed query #925: teknik semi-automatic copper extraction plant, 25 kg, 415 v,
+[2026-02-06 05:46:29] Failed query #926: semi-automatic pet extruder
+[2026-02-06 05:46:35] Failed query #927: metal refining plant
+[2026-02-06 05:46:42] Failed query #928: gold refining machine - twin screw design, 200 kg/hr output,
+[2026-02-06 05:46:48] Failed query #929: popular tube extrusion machine
+[2026-02-06 05:46:54] Failed query #930: monolayer extruder for wire & cable 200 liter
+[2026-02-06 05:47:01] Failed query #931: manual ms tube extrusion machine
+[2026-02-06 05:47:07] Failed query #932: ss 304 sheet extruder 10 tpd capacity
+[2026-02-06 05:47:13] Failed query #933: ss twin screw extruder 100 ton capacity
+[2026-02-06 05:47:20] Failed query #934: semi-automatic extruder machine
+[2026-02-06 05:47:26] Failed query #935: twin screw extruder for pharmaceutical 500 kg
+[2026-02-06 05:47:32] Failed query #936: unique zinc recovery unit 25 kg/hr
+[2026-02-06 05:47:39] Failed query #937: 50 kg/hr fully automatic pvc extruder 480 v 1 phase mild ste
+[2026-02-06 05:47:45] Failed query #938: pp body hdpe extruder 30 kg
+[2026-02-06 05:47:51] Failed query #939: gold star fully automatic monolayer extruder machine with 1 
+[2026-02-06 05:47:58] Failed query #940: used co-rotating twin screw extruder
+[2026-02-06 05:48:04] Failed query #941: automatic xlpe cable extruder for wire & cable, capacity: 10
+[2026-02-06 05:48:10] Failed query #942: industrial single die extruder teknik 25 kg/hr 440 v automat
+[2026-02-06 05:48:16] Failed query #943: 1 ton single phase silver refining plant
+[2026-02-06 05:48:22] Failed query #944: used mother baby extruder
+[2026-02-06 05:48:29] Failed query #945: fully automatic ss 316 liquid extraction system, capacity: 1
+[2026-02-06 05:48:35] Failed query #946: unique semi-automatic herbal extraction plant, 500 kg, 240 v
+[2026-02-06 05:48:41] Failed query #947: unique plastic extruder
+[2026-02-06 05:48:47] Failed query #948: fully automatic rice bran extraction plant 480 v
+[2026-02-06 05:48:54] Failed query #949: automatic pvc cable extruder, capacity: 50 tpd, voltage: 480
+[2026-02-06 05:49:00] Failed query #950: tube extrusion machine with 10 hp power 230 v
+[2026-02-06 05:49:06] Failed query #951: kabra hdpe extruder
+[2026-02-06 05:49:12] Failed query #952: metal recovery plant 380 v three phase
+[2026-02-06 05:49:18] Failed query #953: fully automatic hydro extractor
+[2026-02-06 05:49:25] Failed query #954: high quality fully automatic single die extruder co-rotating
+[2026-02-06 05:49:31] Failed query #955: double die extruder with 3 hp power 480 v
+[2026-02-06 05:49:37] Failed query #956: fully automatic hdpe liquid extraction system
+[2026-02-06 05:49:43] Failed query #957: swaraj basket extruder
+[2026-02-06 05:49:49] Failed query #958: conical multi layer extruder 25 kg/hr automatic 400 v
+[2026-02-06 05:49:55] Failed query #959: rice bran extraction plant 230 v 50 hz
+[2026-02-06 05:50:01] Failed query #960: labh group semi-automatic twin screw extruder
+[2026-02-06 05:50:08] Failed query #961: looking for automatic centrifuge extractor with specificatio
+[2026-02-06 05:50:14] Failed query #962: labh group twin screw extruder
+[2026-02-06 05:50:21] Failed query #963: pet extruder machine specifications - brand: teknik, capacit
+[2026-02-06 05:50:27] Failed query #964: solvent extraction plant for food processing
+[2026-02-06 05:50:33] Failed query #965: looking for fully automatic basket extruder with specificati
+[2026-02-06 05:50:39] Failed query #966: solvent extraction plant for industrial
+[2026-02-06 05:50:45] Failed query #967: eureka cable extruder
+[2026-02-06 05:50:52] Failed query #968: manual pp foam extruder
+[2026-02-06 05:50:58] Failed query #969: fully automatic mother baby extruder
+[2026-02-06 05:51:04] Failed query #970: epe foam extruder 25 hp motor 10 tpd
+[2026-02-06 05:51:10] Failed query #971: fully automatic ss 316 pet extruder, capacity: 30 kg, voltag
+[2026-02-06 05:51:16] Failed query #972: ss 304 pvc extruder
+[2026-02-06 05:51:23] Failed query #973: cast iron single die extruder
+[2026-02-06 05:51:30] Failed query #974: plastic recycling extruder
+[2026-02-06 05:51:36] Failed query #975: rajco fully automatic oil extraction plant, 500 tpd, 230 v, 
+[2026-02-06 05:51:42] Failed query #976: oleoresin extraction plant 240 v 3 phase
+[2026-02-06 05:51:50] Failed query #977: jockey extruder - popular make, 500 liter, ss 316, three pha
+[2026-02-06 05:51:57] Failed query #978: swaraj foam extruder 10 kg
+[2026-02-06 05:52:03] Failed query #979: aluminium extrusion plant 230 v
+[2026-02-06 05:52:09] Failed query #980: industrial grade semi-automatic foam extruder with conical d
+[2026-02-06 05:52:15] Failed query #981: manual cast iron solid phase extraction system
+[2026-02-06 05:52:21] Failed query #982: 200 liter aluminium extrusion plant ms body
+[2026-02-06 05:52:28] Failed query #983: titanium oil extraction plant 25 kg/hr capacity
+[2026-02-06 05:52:34] Failed query #984: tube extrusion machine with 2 kw power 400 v
+[2026-02-06 05:52:40] Failed query #985: automatic wire extruder
+[2026-02-06 05:52:47] Failed query #986: aluminium extrusion plant for pharmaceutical 500 kg
+[2026-02-06 05:52:53] Failed query #987: plastic extruder machine 5 kg output 240 v single phase pp
+[2026-02-06 05:52:59] Failed query #988: looking for manual extruder machine with specifications: cap
+[2026-02-06 05:53:05] Failed query #989: manual pvc pipe extruder 240 v
+[2026-02-06 05:53:12] Failed query #990: pipe extrusion machine 7.5 kw motor 25 kg/hr
+[2026-02-06 05:53:18] Failed query #991: stainless steel polymer extruder 500 kg capacity
+[2026-02-06 05:53:24] Failed query #992: blown film extrusion machine - parallel design, 1000 kg/hr o
+[2026-02-06 05:53:31] Failed query #993: silver refining plant - parallel design, 30 kg output, 240 v
+[2026-02-06 05:53:37] Failed query #994: 20 tpd pipe extrusion machine
+[2026-02-06 05:53:44] Failed query #995: cast iron metal refining plant
+[2026-02-06 05:53:50] Failed query #996: fully automatic plastic extruder
+[2026-02-06 05:53:56] Failed query #997: double die extruder 400 v
+[2026-02-06 05:54:03] Failed query #998: industrial grade semi-automatic blown film extrusion machine
+[2026-02-06 05:54:10] Failed query #999: ldpe blown film machine
+[2026-02-06 05:54:16] Failed query #1000: pp body ldpe blown film machine 500 kg/hr
+[2026-02-06 05:54:16] Progress: 1000/1000 (100.0%) | Success: 69 | Failed: 931
+[2026-02-06 05:54:16] ================================================================================
+[2026-02-06 05:54:16] COMPLETED - google/gemini-3-pro-preview
+[2026-02-06 05:54:16] Total requests: 1000
+[2026-02-06 05:54:16] Successful: 69 (6.9%)
+[2026-02-06 05:54:16] Failed: 931 (93.1%)
+[2026-02-06 05:54:16] Total attributes extracted: 304
+[2026-02-06 05:54:16] Average attributes per query: 0.30
+[2026-02-06 05:54:16] Results saved to: compare/gemini_3_pro_output.csv
+[2026-02-06 05:54:16] ================================================================================

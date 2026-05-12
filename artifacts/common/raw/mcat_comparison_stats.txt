@@ -1,0 +1,17 @@
+============================================================
+  MCAT Prediction Comparison Summary
+============================================================
+Total queries compared : 1000
+
+── mcat_id match (exact ID) ──────────────────────────────
+  Transformers  vs API    : 645/1000 (64.5%)
+  Unsloth       vs API    : 651/1000 (65.1%)
+  Transformers  vs Unsloth: 768/1000 (76.8%)
+  All three agree (ID)    : 595/1000 (59.5%)
+
+── mcat_name match (case-insensitive) ────────────────────
+  Transformers  vs API    : 644/1000 (64.4%)
+  Unsloth       vs API    : 653/1000 (65.3%)
+============================================================
+
+Full comparison saved to: C:\Users\IMart.LAPTOP-TSDP3RQJ\Desktop\ashish data\present\mcat_comparison_full.csv

@@ -1,0 +1,940 @@
+[
+  {
+    "query": "motor bell housing, 0.21-0.40 mnm",
+    "attributes": [
+      {
+        "attribute_key": "torque",
+        "value": "0.21-0.40 mNm",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "output_torque",
+        "value": "0.21-0.40 mNm",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "rated_torque",
+        "value": "0.21-0.40 mNm",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "maximum_torque",
+        "value": "0.21-0.40 mNm",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "type",
+        "value": "Bell Housing",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "motor_type",
+        "value": "Bell Housing",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "product_type",
+        "value": "Bell Housing",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "device_type",
+        "value": "Bell Housing",
+        "key_priority": 4,
+        "attribute_priority": 2
+      }
+    ]
+  },
+  {
+    "query": "620w any make 20 liters white 8 110 kg encoder",
+    "attributes": [
+      {
+        "attribute_key": "power",
+        "value": "620W",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "wattage",
+        "value": "620W",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "motor_power",
+        "value": "620W",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "power_rating",
+        "value": "620W",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "capacity",
+        "value": "20 liters",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "load_capacity",
+        "value": "20 liters",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "weight_capacity",
+        "value": "20 liters",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "lifting_capacity",
+        "value": "20 liters",
+        "key_priority": 4,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "brand",
+        "value": "ANY MAKE",
+        "key_priority": 1,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "company",
+        "value": "ANY MAKE",
+        "key_priority": 2,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "manufacturer",
+        "value": "ANY MAKE",
+        "key_priority": 3,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "make",
+        "value": "ANY MAKE",
+        "key_priority": 4,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "number_of_poles",
+        "value": "8",
+        "key_priority": 1,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "no_of_poles",
+        "value": "8",
+        "key_priority": 2,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "poles",
+        "value": "8",
+        "key_priority": 3,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "weight",
+        "value": "110 Kg",
+        "key_priority": 1,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "item_weight",
+        "value": "110 Kg",
+        "key_priority": 2,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "net_weight",
+        "value": "110 Kg",
+        "key_priority": 3,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "color",
+        "value": "White",
+        "key_priority": 1,
+        "attribute_priority": 6
+      },
+      {
+        "attribute_key": "colour",
+        "value": "White",
+        "key_priority": 2,
+        "attribute_priority": 6
+      },
+      {
+        "attribute_key": "body_color",
+        "value": "White",
+        "key_priority": 3,
+        "attribute_priority": 6
+      }
+    ]
+  },
+  {
+    "query": "i want &lt;0.20 mnm 5 star inverter automatic exhaust fan motor",
+    "attributes": [
+      {
+        "attribute_key": "torque",
+        "value": "&lt;0.20 mNm",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "output_torque",
+        "value": "&lt;0.20 mNm",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "rated_torque",
+        "value": "&lt;0.20 mNm",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "maximum_torque",
+        "value": "&lt;0.20 mNm",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "efficiency",
+        "value": "5 Star Inverter",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "energy_efficiency_grade",
+        "value": "5 Star Inverter",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "star_rating",
+        "value": "5 Star Inverter",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "automation_grade",
+        "value": "Automatic",
+        "key_priority": 1,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "operation_mode",
+        "value": "Automatic",
+        "key_priority": 2,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "working_mode",
+        "value": "Automatic",
+        "key_priority": 3,
+        "attribute_priority": 3
+      }
+    ]
+  },
+  {
+    "query": "i want 15hp 500 kg bldc motor",
+    "attributes": [
+      {
+        "attribute_key": "horsepower",
+        "value": "15hp",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "horse_power",
+        "value": "15hp",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "hp",
+        "value": "15hp",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "motor_horsepower",
+        "value": "15hp",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "capacity",
+        "value": "500 Kg",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "load_capacity",
+        "value": "500 Kg",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "weight_capacity",
+        "value": "500 Kg",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "lifting_capacity",
+        "value": "500 Kg",
+        "key_priority": 4,
+        "attribute_priority": 2
+      }
+    ]
+  },
+  {
+    "query": "1300 rpm mobile starter automatic 5 1 year from date of invoice motor controller",
+    "attributes": [
+      {
+        "attribute_key": "speed",
+        "value": "1300 rpm",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "rpm",
+        "value": "1300 rpm",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "motor_speed",
+        "value": "1300 rpm",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "rated_speed",
+        "value": "1300 rpm",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "number_of_poles",
+        "value": "5",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "no_of_poles",
+        "value": "5",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "poles",
+        "value": "5",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "starter_type",
+        "value": "Mobile starter",
+        "key_priority": 1,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "starting_method",
+        "value": "Mobile starter",
+        "key_priority": 2,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "starter",
+        "value": "Mobile starter",
+        "key_priority": 3,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "automation_grade",
+        "value": "Automatic",
+        "key_priority": 1,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "operation_mode",
+        "value": "Automatic",
+        "key_priority": 2,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "working_mode",
+        "value": "Automatic",
+        "key_priority": 3,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "warranty",
+        "value": "1 year from date of invoice",
+        "key_priority": 1,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "warranty_period",
+        "value": "1 year from date of invoice",
+        "key_priority": 2,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "guarantee",
+        "value": "1 year from date of invoice",
+        "key_priority": 3,
+        "attribute_priority": 5
+      }
+    ]
+  },
+  {
+    "query": "natraj super dc motor with 1hp dc brown",
+    "attributes": [
+      {
+        "attribute_key": "capacity",
+        "value": "1HP",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "load_capacity",
+        "value": "1HP",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "weight_capacity",
+        "value": "1HP",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "lifting_capacity",
+        "value": "1HP",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "brand",
+        "value": "Natraj Super",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "company",
+        "value": "Natraj Super",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "manufacturer",
+        "value": "Natraj Super",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "make",
+        "value": "Natraj Super",
+        "key_priority": 4,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "power_source",
+        "value": "DC",
+        "key_priority": 1,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "power_supply",
+        "value": "DC",
+        "key_priority": 2,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "power_type",
+        "value": "DC",
+        "key_priority": 3,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "color",
+        "value": "Brown",
+        "key_priority": 1,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "colour",
+        "value": "Brown",
+        "key_priority": 2,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "body_color",
+        "value": "Brown",
+        "key_priority": 3,
+        "attribute_priority": 4
+      }
+    ]
+  },
+  {
+    "query": "ronak 0.5-1 hp kirloskar standard flange motor pump",
+    "attributes": [
+      {
+        "attribute_key": "power",
+        "value": "0.5-1 hp",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "wattage",
+        "value": "0.5-1 hp",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "motor_power",
+        "value": "0.5-1 hp",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "power_rating",
+        "value": "0.5-1 hp",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "brand",
+        "value": "Ronak",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "company",
+        "value": "Ronak",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "manufacturer",
+        "value": "Ronak",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "make",
+        "value": "Ronak",
+        "key_priority": 4,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "ip_rating",
+        "value": "kirloskar standard",
+        "key_priority": 1,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "protection_class",
+        "value": "kirloskar standard",
+        "key_priority": 2,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "degree_of_protection",
+        "value": "kirloskar standard",
+        "key_priority": 3,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "mounting_type",
+        "value": "Flange",
+        "key_priority": 1,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "mounting",
+        "value": "Flange",
+        "key_priority": 2,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "mounting_style",
+        "value": "Flange",
+        "key_priority": 3,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "mounting_method",
+        "value": "Flange",
+        "key_priority": 4,
+        "attribute_priority": 4
+      }
+    ]
+  },
+  {
+    "query": "110-240 v single g10ss helical geared motor customzied epoxy motor drive",
+    "attributes": [
+      {
+        "attribute_key": "voltage",
+        "value": "110-240 V",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "operating_voltage",
+        "value": "110-240 V",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "supply_voltage",
+        "value": "110-240 V",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "rated_voltage",
+        "value": "110-240 V",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "model_number",
+        "value": "G10SS",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "model_name",
+        "value": "G10SS",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "model",
+        "value": "G10SS",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "model_no",
+        "value": "G10SS",
+        "key_priority": 4,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "torque",
+        "value": "Customzied",
+        "key_priority": 1,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "output_torque",
+        "value": "Customzied",
+        "key_priority": 2,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "rated_torque",
+        "value": "Customzied",
+        "key_priority": 3,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "maximum_torque",
+        "value": "Customzied",
+        "key_priority": 4,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "phase",
+        "value": "single",
+        "key_priority": 1,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "phase_type",
+        "value": "single",
+        "key_priority": 2,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "number_of_phase",
+        "value": "single",
+        "key_priority": 3,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "input_phase",
+        "value": "single",
+        "key_priority": 4,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "material",
+        "value": "EPOXY",
+        "key_priority": 1,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "body_material",
+        "value": "EPOXY",
+        "key_priority": 2,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "material_type",
+        "value": "EPOXY",
+        "key_priority": 3,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "casing_material",
+        "value": "EPOXY",
+        "key_priority": 4,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "ambient_temperature",
+        "value": "Helical Geared Motor",
+        "key_priority": 1,
+        "attribute_priority": 6
+      },
+      {
+        "attribute_key": "operating_temperature",
+        "value": "Helical Geared Motor",
+        "key_priority": 2,
+        "attribute_priority": 6
+      },
+      {
+        "attribute_key": "temperature_range",
+        "value": "Helical Geared Motor",
+        "key_priority": 3,
+        "attribute_priority": 6
+      }
+    ]
+  },
+  {
+    "query": "bldc motor one year, black, 2, 50 hz/ 60 hz, three phase",
+    "attributes": [
+      {
+        "attribute_key": "horsepower",
+        "value": "2",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "horse_power",
+        "value": "2",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "hp",
+        "value": "2",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "motor_horsepower",
+        "value": "2",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "frequency",
+        "value": "50 Hz/ 60 Hz",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "frequency_hertz",
+        "value": "50 Hz/ 60 Hz",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "operating_frequency",
+        "value": "50 Hz/ 60 Hz",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "power_source",
+        "value": "THREE PHASE",
+        "key_priority": 1,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "power_supply",
+        "value": "THREE PHASE",
+        "key_priority": 2,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "power_type",
+        "value": "THREE PHASE",
+        "key_priority": 3,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "color",
+        "value": "Black",
+        "key_priority": 1,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "colour",
+        "value": "Black",
+        "key_priority": 2,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "body_color",
+        "value": "Black",
+        "key_priority": 3,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "warranty",
+        "value": "one year",
+        "key_priority": 1,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "warranty_period",
+        "value": "one year",
+        "key_priority": 2,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "guarantee",
+        "value": "one year",
+        "key_priority": 3,
+        "attribute_priority": 5
+      }
+    ]
+  },
+  {
+    "query": "need yellow 50hz, 60hz high pressure 42 w 0.1 nm linear actuator",
+    "attributes": [
+      {
+        "attribute_key": "voltage",
+        "value": "42 W",
+        "key_priority": 1,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "operating_voltage",
+        "value": "42 W",
+        "key_priority": 2,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "supply_voltage",
+        "value": "42 W",
+        "key_priority": 3,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "rated_voltage",
+        "value": "42 W",
+        "key_priority": 4,
+        "attribute_priority": 1
+      },
+      {
+        "attribute_key": "torque",
+        "value": "0.1 Nm",
+        "key_priority": 1,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "output_torque",
+        "value": "0.1 Nm",
+        "key_priority": 2,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "rated_torque",
+        "value": "0.1 Nm",
+        "key_priority": 3,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "maximum_torque",
+        "value": "0.1 Nm",
+        "key_priority": 4,
+        "attribute_priority": 2
+      },
+      {
+        "attribute_key": "frequency",
+        "value": "50Hz, 60Hz",
+        "key_priority": 1,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "frequency_hertz",
+        "value": "50Hz, 60Hz",
+        "key_priority": 2,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "operating_frequency",
+        "value": "50Hz, 60Hz",
+        "key_priority": 3,
+        "attribute_priority": 3
+      },
+      {
+        "attribute_key": "pressure",
+        "value": "High Pressure",
+        "key_priority": 1,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "working_pressure",
+        "value": "High Pressure",
+        "key_priority": 2,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "max_pressure",
+        "value": "High Pressure",
+        "key_priority": 3,
+        "attribute_priority": 4
+      },
+      {
+        "attribute_key": "color",
+        "value": "Yellow",
+        "key_priority": 1,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "colour",
+        "value": "Yellow",
+        "key_priority": 2,
+        "attribute_priority": 5
+      },
+      {
+        "attribute_key": "body_color",
+        "value": "Yellow",
+        "key_priority": 3,
+        "attribute_priority": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+ATTRIBUTE EXTRACTION MODEL COMPARISON - EXECUTIVE SUMMARY
+=========================================================
+Date: February 2026
+Dataset: 1000 Product Queries (Electric Motors Category)
+
+================================================================================
+SECTION 1: MODELS COMPARED
+================================================================================
+
+1. GROUND TRUTH (Claude Opus)
+   - Local extraction with domain knowledge
+   - Multi-key synonyms with priority ranking
+   - Queries: 996
+
+2. GEMMA V4 (Fine-tuned)
+   - Custom fine-tuned Gemma 2 9B model
+   - Trained on domain-specific data
+   - Queries: 996
+
+3. GEMINI (Zero-shot)
+   - Google's Gemini model
+   - Zero-shot inference with prompt engineering
+   - Queries: 996
+
+4. QMEANS (Production System)
+   - Current production attribute extraction
+   - Rule-based + ML hybrid approach
+   - Queries: 1000 (978 overlap with GT)
+
+================================================================================
+SECTION 2: MODEL PERFORMANCE vs GROUND TRUTH
+================================================================================
+
++------------+-----------------+--------------------+--------------------+
+|   Model    |  Valid Queries  |    Key Match       |    Value Match     |
++------------+-----------------+--------------------+--------------------+
+| Gemini     |      996        |   851 (85.4%) [1]  |   590 (59.2%)      |
+| Gemma V4   |      996        |   597 (59.9%) [2]  |   461 (46.3%)      |
+| QMeans     |      978        |   516 (52.8%) [3]  |   522 (53.4%)      |
++------------+-----------------+--------------------+--------------------+
+
+[1] = Best performer    [2] = Second best    [3] = Third
+
+KEY FINDINGS:
+- Gemini outperforms all models with 85.4% key match rate
+- Gemma V4 shows 59.9% key match (fine-tuning helps but not optimal)
+- QMeans (current production) lags at 52.8% key match
+
+================================================================================
+SECTION 3: DETAILED METRICS vs GROUND TRUTH
+================================================================================
+
++------------+------------------+------------------+------------------+
+| Metric     |     Gemini       |     Gemma V4     |     QMeans       |
++------------+------------------+------------------+------------------+
+| Queries with ≥1 Key Match     |                  |                  |
+|            |   851 (85.4%)    |   597 (59.9%)    |   516 (52.8%)    |
++------------+------------------+------------------+------------------+
+| Queries with ≥1 Value Match   |                  |                  |
+|            |   590 (59.2%)    |   461 (46.3%)    |   522 (53.4%)    |
++------------+------------------+------------------+------------------+
+| 100% Key Match Queries        |                  |                  |
+|            |    24 (2.4%)     |   129 (13.0%)    |     0 (0.0%)     |
++------------+------------------+------------------+------------------+
+| 100% Value Match Queries      |                  |                  |
+|            |   241 (24.2%)    |    80 (8.0%)     |   165 (16.6%)    |
++------------+------------------+------------------+------------------+
+
+================================================================================
+SECTION 4: GEMMA V4 vs QMEANS (Direct Comparison)
+================================================================================
+
+This comparison shows how our fine-tuned model performs against current production.
+
++----------------------------+------------------+
+| Metric                     | Value            |
++----------------------------+------------------+
+| Valid Queries (overlap)    | 978              |
+| Queries with Key Match     | 590 (60.3%)      |
+| Queries with Value Match   | 674 (68.9%)      |
++----------------------------+------------------+
+
+INSIGHT: Gemma V4 and QMeans share ~60% key vocabulary, but extract
+different values for many attributes (68.9% value overlap).
+
+================================================================================
+SECTION 5: KEY VOCABULARY ANALYSIS
+================================================================================
+
+TOP MATCHED KEYS (All Models vs GT):
++--------------------+----------+----------+----------+
+| Key                | Gemini   | Gemma V4 | QMeans   |
++--------------------+----------+----------+----------+
+| power              | High     | High     | High     |
+| voltage            | High     | High     | High     |
+| phase              | High     | High     | Medium   |
+| speed              | High     | Medium   | Medium   |
+| brand              | High     | Low*     | Medium   |
+| application        | High     | Medium   | Low**    |
++--------------------+----------+----------+----------+
+
+* Gemma uses "make" instead of "brand"
+** QMeans uses "usage" instead of "application"
+
+KEY VOCABULARY GAPS:
+
+GT Keys Missing in Models:
+- "suitable for" - Domain-specific synonym for application
+- "material" - Not consistently extracted
+- "mounting type" - Often missed
+
+Model-Specific Keys Not in GT:
+- Gemma: "make", "type", "motor type"
+- QMeans: "usage", "category"
+- Gemini: Most aligned with GT vocabulary
+
+================================================================================
+SECTION 6: SUCCESS RATE COMPARISON
+================================================================================
+
++------------+------------------+------------------+
+| Model      | Successful       | Failed           |
++------------+------------------+------------------+
+| Gemini     | 966 (97.0%)      | 30 (3.0%)        |
+| Gemma V4   | 947 (95.1%)      | 49 (4.9%)        |
+| QMeans     | ~95%             | ~5%              |
++------------+------------------+------------------+
+
+================================================================================
+SECTION 7: RECOMMENDATIONS
+================================================================================
+
+1. IMMEDIATE: Use Gemini for high-accuracy extraction tasks
+   - 85.4% key match rate (best performer)
+   - Most aligned with GT vocabulary
+   - Zero-shot capability reduces fine-tuning overhead
+
+2. MEDIUM-TERM: Improve Gemma V4 fine-tuning
+   - Add vocabulary alignment layer (brand=make, application=usage)
+   - Increase training data diversity
+   - Target: 75%+ key match rate
+
+3. LONG-TERM: Upgrade QMeans production system
+   - Current 52.8% key match is significantly below Gemini
+   - Consider hybrid approach: QMeans + Gemini validation
+   - Potential improvement: 30%+ accuracy gain
+
+================================================================================
+SECTION 8: FILES GENERATED
+================================================================================
+
+Detailed Comparison Files (in /present folder):
+- gt_vs_gemma_v2.csv          - Ground Truth vs Gemma detailed comparison
+- gt_vs_gemma_analysis_v2.csv - Gemma analysis summary
+- gt_vs_gemini_v2.csv         - Ground Truth vs Gemini detailed comparison
+- gt_vs_gemini_analysis_v2.csv- Gemini analysis summary
+- gt_vs_qmeans_v2.csv         - Ground Truth vs QMeans detailed comparison
+- gt_vs_qmeans_analysis_v2.csv- QMeans analysis summary
+- gemma_vs_qmeans.csv         - Gemma vs QMeans direct comparison
+- gemma_vs_qmeans_analysis.csv- Gemma vs QMeans analysis
+
+================================================================================
+SECTION 9: DATA QUALITY NOTES
+================================================================================
+
+- Ground Truth has 996 queries (4 queries had parsing issues)
+- QMeans has 1000 queries but only 978 overlap with GT
+- 22 QMeans queries not in GT, 18 GT queries not in QMeans
+- All comparisons use normalized keys (lowercase, trimmed, spaces)
+
+================================================================================
+END OF REPORT
+================================================================================

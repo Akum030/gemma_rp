@@ -1,0 +1,2246 @@
+{
+  "generated_at": "2026-05-12T14:08:46",
+  "total_files": 223,
+  "by_family": {
+    "gemma3": 15,
+    "gemma4": 4,
+    "common": 204
+  },
+  "by_family_bytes": {
+    "gemma3": 1647188,
+    "gemma4": 3786983,
+    "common": 96249535
+  },
+  "files": [
+    {
+      "relative_path": "artifacts\\common\\raw\\1k_unqiue_cases_for_subcat_96.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "1k_unqiue_cases_for_subcat_96.csv",
+      "size_bytes": 39511,
+      "sha256": "cb4565dee8158fb1ce7c19fbe2fb73db517a6184558fefe3a21c80e2eb471704",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\1k_unqiue_cases_for_subcat_96.csv",
+      "modified_time": "2026-01-28T15:52:44"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\analyze_files.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "analyze_files.py",
+      "size_bytes": 1926,
+      "sha256": "2a591eac2b0eb4eff20a04c9d19ead9f004b076ccfa1914ae2f9cce1648fff1a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\analyze_files.py",
+      "modified_time": "2026-01-29T18:36:34"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\analyze_gemma_quality.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "analyze_gemma_quality.py",
+      "size_bytes": 2823,
+      "sha256": "2cb7f4dd05bcd7c76f0438a12a0414e335d47e9566dea02970f7a0764de96d8f",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\analyze_gemma_quality.py",
+      "modified_time": "2026-02-05T20:31:33"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\analyze_ground_truth_keys.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "analyze_ground_truth_keys.py",
+      "size_bytes": 979,
+      "sha256": "86dde4306d2e798b9b06cc2c7e678759f3a5b71c7b6a4d22f2ec10f191bddb61",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\analyze_ground_truth_keys.py",
+      "modified_time": "2026-02-06T18:35:22"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\analyze_key_mapping.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "analyze_key_mapping.py",
+      "size_bytes": 2471,
+      "sha256": "51cafff528d01d755d538551ad7d26eafa08f7a54b3d011e1243c447c90394c0",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\analyze_key_mapping.py",
+      "modified_time": "2026-02-06T18:54:17"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\analyze_qmeans_keys.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "analyze_qmeans_keys.py",
+      "size_bytes": 1042,
+      "sha256": "8a88dc2ce907cf684248d52e811c14889ebe3f1db41a635e83e8169bcfc91a0e",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\analyze_qmeans_keys.py",
+      "modified_time": "2026-02-06T18:32:02"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\archival_pipeline.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "archival_pipeline.py",
+      "size_bytes": 21367,
+      "sha256": "a0040adca4f6e5fdce9a06c40bb6d3e16ec18bcd39e7d8ba341ff26c7d9b72b8",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\archival_pipeline.py",
+      "modified_time": "2026-05-12T14:08:42"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\attributes_isq_format.txt",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "attributes_isq_format.txt",
+      "size_bytes": 483707,
+      "sha256": "29f9cbb7428aab38ed65a1e561b50244f393806c27f6e1af1db3fbc0910b8db2",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\attributes_isq_format.txt",
+      "modified_time": "2026-01-29T00:47:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\attr_qmeans_20260120.log.gz",
+      "family": "common",
+      "category": "logs",
+      "file_name": "attr_qmeans_20260120.log.gz",
+      "size_bytes": 23375251,
+      "sha256": "d31c5bd800763f5eae4dd55140ade67cc5ddb28149fe6d80cf39436f4b60e81d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\attr_qmeans_20260120.log.gz",
+      "modified_time": "2026-01-28T09:43:16"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\calculate_dataset2_metrics.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "calculate_dataset2_metrics.py",
+      "size_bytes": 11882,
+      "sha256": "ce436e39afc15cd46a28641c85a730a47f3fe2293ca1523a642d1f4f9d03c867",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\calculate_dataset2_metrics.py",
+      "modified_time": "2026-02-05T20:26:23"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\cat74_train.jsonl",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "cat74_train.jsonl",
+      "size_bytes": 3053698,
+      "sha256": "03a9a3da34585d44316ce851a0da6beba54b8f35b3f243f876b4ef9e2a30d7bf",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\cat74_train.jsonl",
+      "modified_time": "2026-02-13T02:37:25"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\cat74_training_data_2000.jsonl",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "cat74_training_data_2000.jsonl",
+      "size_bytes": 2761177,
+      "sha256": "cfe8779be8a33184c4a146922860d71f4c96f220d153adde62a577203ebba334",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\cat74_training_data_2000.jsonl",
+      "modified_time": "2026-02-13T02:11:00"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\cat74_training_data_sample.json",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "cat74_training_data_sample.json",
+      "size_bytes": 22511,
+      "sha256": "6a693e678e17f1c11ea2ffc480f4bd55957a6941b3d123b9d914b2eae5438902",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\cat74_training_data_sample.json",
+      "modified_time": "2026-02-13T02:11:00"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\cat74_val.jsonl",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "cat74_val.jsonl",
+      "size_bytes": 757146,
+      "sha256": "78f4a9598d2e87fe2d858bc7b3192a280049f2bd4a2bf87058f72d3d03585345",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\cat74_val.jsonl",
+      "modified_time": "2026-02-13T02:37:25"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\Cat_74_5k_data.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "Cat_74_5k_data.csv",
+      "size_bytes": 115939,
+      "sha256": "b4d85cb9f2a1f50113a9a16e3a9b66a7df85f2f72147041e3ddd015090425c81",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\Cat_74_5k_data.csv",
+      "modified_time": "2026-02-13T01:35:05"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\check_gpu_and_restart.ps1",
+      "family": "common",
+      "category": "other",
+      "file_name": "check_gpu_and_restart.ps1",
+      "size_bytes": 2005,
+      "sha256": "92883926b05b18632f83ebe2e5d22071bd2639f64f3678c58fa1990677ae4738",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\check_gpu_and_restart.ps1",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\check_gpu_performance.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "check_gpu_performance.py",
+      "size_bytes": 4722,
+      "sha256": "0c059c5d6d548516bdf1da8eb796a2fb884fa3aa369c251c2bfca17e44055242",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\check_gpu_performance.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\clarify_source.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "clarify_source.py",
+      "size_bytes": 2672,
+      "sha256": "f5b8c01033c16fa8deb394a4dee43f54c4a4a711310da8f7cf43f41090d1f27e",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\clarify_source.py",
+      "modified_time": "2026-02-06T18:48:09"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\compare_gt_qmeans_keys.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "compare_gt_qmeans_keys.py",
+      "size_bytes": 2266,
+      "sha256": "7592557a261bf52d9f9743b1b883f857808dafa03684403eadc16d35288f208c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare_gt_qmeans_keys.py",
+      "modified_time": "2026-02-06T18:36:06"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_final.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_final.csv",
+      "size_bytes": 512437,
+      "sha256": "f4266bf8a367dc27c1fc343e869feed3a24e4038e5da1f2de53e84b89c32877c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_final.csv",
+      "modified_time": "2026-01-29T18:38:21"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_final.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_final.py",
+      "size_bytes": 15496,
+      "sha256": "1731dd81fa27689cd78033fbac4a273d0b223607a392de2bca4f7374de797923",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_final.py",
+      "modified_time": "2026-01-29T18:37:52"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_full_dataset.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_full_dataset.csv",
+      "size_bytes": 446447,
+      "sha256": "bbc7e31d0f5cd88e14565df60e14b21b4c94b923f11500f14808aed97457aa25",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_full_dataset.csv",
+      "modified_time": "2026-02-05T17:02:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_full_dataset.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_full_dataset.py",
+      "size_bytes": 17109,
+      "sha256": "ff192d22f8dd120ac5b6824b3fdb3e4e385a99022878c5f3a2083cec6826b009",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_full_dataset.py",
+      "modified_time": "2026-02-05T17:01:29"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_results.csv",
+      "size_bytes": 538009,
+      "sha256": "91ad8f537f235283c003e463ab7d25dda1fc008ca5d3df0ce943cd472d50ee58",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_results.csv",
+      "modified_time": "2026-01-29T18:28:59"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_results_v2.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_results_v2.csv",
+      "size_bytes": 513321,
+      "sha256": "a6e8f8a2b53c6c00e866b0b064a0df2a36fe6e88ef1819d94607db3c6b8553e9",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_results_v2.csv",
+      "modified_time": "2026-01-29T18:14:17"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_v3.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_v3.py",
+      "size_bytes": 15742,
+      "sha256": "a77f1a59559a907880af3e5d65937a910aac74688480e9fee9ccc0a57c4a547e",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_v3.py",
+      "modified_time": "2026-01-29T18:28:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_v4.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_v4.csv",
+      "size_bytes": 508715,
+      "sha256": "f1e710ef53b54535488d01d7d11cee9b5acc064d29524199a9d427498c30704d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_v4.csv",
+      "modified_time": "2026-01-29T18:34:14"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_v4.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_v4.py",
+      "size_bytes": 16809,
+      "sha256": "90eec8f411d5b4123bad4c88df68b5c2aab2fe4ba253cdd6cee1a6d5d3022421",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_v4.py",
+      "modified_time": "2026-01-29T18:34:06"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_with_gemma.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_with_gemma.csv",
+      "size_bytes": 846870,
+      "sha256": "2a53474c23fd5bf4f161970a558f4e86fa3271b10856374b0f7470d0ce61f940",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_with_gemma.csv",
+      "modified_time": "2026-02-05T16:15:41"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_with_gemma.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_with_gemma.py",
+      "size_bytes": 21505,
+      "sha256": "decb4dc09e8050385d12dc6e748f97795d2360555be461256f2c3cd48f41525a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\comprehensive_comparison_with_gemma.py",
+      "modified_time": "2026-02-05T16:15:25"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\compressed_attributes_isq.txt",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "compressed_attributes_isq.txt",
+      "size_bytes": 132488,
+      "sha256": "d6cba1b68e8536beef2183b0a7a5f1d3ccdb372a8dc7049f7864bac609670eff",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compressed_attributes_isq.txt",
+      "modified_time": "2026-01-29T01:14:42"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\compressed_attributes_isq_fixed.txt",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "compressed_attributes_isq_fixed.txt",
+      "size_bytes": 132488,
+      "sha256": "c2081f8664e735a114ac5ca9383dcae31495912a1da27caee2ded9d67982aaba",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compressed_attributes_isq_fixed.txt",
+      "modified_time": "2026-01-29T01:21:59"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\compress_attributes.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "compress_attributes.py",
+      "size_bytes": 3270,
+      "sha256": "a1bdd81e3b0e77fa0e60eae0299a1f7ec09c9b2878f1fe862ca2ea35a27a4b79",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compress_attributes.py",
+      "modified_time": "2026-01-29T01:14:34"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\convert_attributes_to_isq.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "convert_attributes_to_isq.py",
+      "size_bytes": 2043,
+      "sha256": "f8c3a4d755d3b984698c9aa70886ff6998913bb37dd6cb49c092a46b6c6e4cfa",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\convert_attributes_to_isq.py",
+      "modified_time": "2026-01-29T00:46:15"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\create_correct_training_data.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "create_correct_training_data.py",
+      "size_bytes": 2708,
+      "sha256": "0356d01fc8df5a267ed43bca1276f133be5633de259b60b5cc59c440bdd6c79d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\create_correct_training_data.py",
+      "modified_time": "2026-02-07T00:00:21"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\create_key_mapping.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "create_key_mapping.py",
+      "size_bytes": 2959,
+      "sha256": "9d7b42974f89f745697941bc23ce3be8ddb7e532a8d15863162c14c0670627a6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\create_key_mapping.py",
+      "modified_time": "2026-02-05T20:59:17"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\create_presentation_showcase.py",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "create_presentation_showcase.py",
+      "size_bytes": 3158,
+      "sha256": "4689e8fad0fcd0c1cb99fff20a9f0e725383346fe599051861a345996805cea3",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\create_presentation_showcase.py",
+      "modified_time": "2026-02-09T13:44:48"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\create_sample_training_data.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "create_sample_training_data.py",
+      "size_bytes": 3979,
+      "sha256": "33573f5fea26052f358a56b128af62c90d467c302442ee65533eade302a845f6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\create_sample_training_data.py",
+      "modified_time": "2026-02-07T00:15:09"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\create_training_dataset.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "create_training_dataset.py",
+      "size_bytes": 1484,
+      "sha256": "28a8b16c97fa2284241f7d497c9829ddebf5ac92d3b4b61d998cc04ece6edde8",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\create_training_dataset.py",
+      "modified_time": "2026-02-06T18:32:21"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\download_gemma2_9b.py",
+      "family": "gemma3",
+      "category": "scripts",
+      "file_name": "download_gemma2_9b.py",
+      "size_bytes": 1956,
+      "sha256": "34525fc4d8b89097625f643233f202b6afc471953890040937da6debf7746c49",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\download_gemma2_9b.py",
+      "modified_time": "2026-02-01T03:36:48"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\exclusion_comparison_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "exclusion_comparison_results.csv",
+      "size_bytes": 8098,
+      "sha256": "2d0469e50d67420af6573584de59002263dbae2cd50ddb898551117fd566f00d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\exclusion_comparison_results.csv",
+      "modified_time": "2026-01-29T13:09:40"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\exclusion_gemini_script.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "exclusion_gemini_script.py",
+      "size_bytes": 1959,
+      "sha256": "6412c51aeea9cfa7c54f96f1024e7cdc24e6e82ea33a92122139060f5b9ed028",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\exclusion_gemini_script.py",
+      "modified_time": "2026-01-28T12:34:16"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\exclusion_queries.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "exclusion_queries.csv",
+      "size_bytes": 2670,
+      "sha256": "e56706ffbac56a304b4b0412a775082b0373b58c3f34c3751bbfcdd46f40f146",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\exclusion_queries.csv",
+      "modified_time": "2026-01-28T21:53:00"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\exclusion_test.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "exclusion_test.py",
+      "size_bytes": 8154,
+      "sha256": "02667755ed8f14bc22cbf93293713ae610dd6c896dbc6f447eeafb1fe7b91c08",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\exclusion_test.py",
+      "modified_time": "2026-01-28T21:53:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\exclusion_test_queries.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "exclusion_test_queries.csv",
+      "size_bytes": 2612,
+      "sha256": "4867ceb05fda506194470c3febe03e9c9607f5ad1d90651c4f52c2642f0c9239",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\exclusion_test_queries.csv",
+      "modified_time": "2026-01-29T12:31:31"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\exclusion_test_results.json",
+      "family": "common",
+      "category": "results",
+      "file_name": "exclusion_test_results.json",
+      "size_bytes": 5667,
+      "sha256": "26f6f0ff8edff06c94d56a89c40bd8b69184f0c11e4c96c0e1ac50782a81dc35",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\exclusion_test_results.json",
+      "modified_time": "2026-01-29T12:35:11"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\EXECUTIVE_SUMMARY_1PAGE.md",
+      "family": "common",
+      "category": "results",
+      "file_name": "EXECUTIVE_SUMMARY_1PAGE.md",
+      "size_bytes": 5625,
+      "sha256": "29482193b5283e60096e3a790aa607d152d43ba060cff49cd2f5072d56bd076c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\EXECUTIVE_SUMMARY_1PAGE.md",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\extract_queries.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "extract_queries.py",
+      "size_bytes": 320,
+      "sha256": "f7ab10be36409f6b8a983d542727dbe88d30e451c01443a3b5960afac760d384",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\extract_queries.py",
+      "modified_time": "2026-01-29T11:11:11"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\final_confirmation.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "final_confirmation.py",
+      "size_bytes": 2763,
+      "sha256": "97b160bf55aae9567114cd7ccfeaf23def08e95b4e685698803eed86bc021a59",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\final_confirmation.py",
+      "modified_time": "2026-02-06T18:38:31"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\find_complex_queries.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "find_complex_queries.py",
+      "size_bytes": 5052,
+      "sha256": "681dbf26ddc0f53974863a3349dea933fea893640fffca7f934b603688067dc8",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\find_complex_queries.py",
+      "modified_time": "2026-02-09T13:33:17"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\find_complex_relevance_queries.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "find_complex_relevance_queries.py",
+      "size_bytes": 2275,
+      "sha256": "ddceadb52df9e27e1c98a13143405dcd964ae401e46ece0acde3b41fe4e2a8d6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\find_complex_relevance_queries.py",
+      "modified_time": "2026-02-09T14:44:14"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\find_gemini_wins.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "find_gemini_wins.py",
+      "size_bytes": 6002,
+      "sha256": "8e90a89e36c53f0a4f8273cd4ad55851884cd9b383503d59ca5b80e24e1cb220",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\find_gemini_wins.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\finetune_gemma2_9b.py",
+      "family": "gemma3",
+      "category": "training",
+      "file_name": "finetune_gemma2_9b.py",
+      "size_bytes": 8483,
+      "sha256": "009e3af096b4bc783f5e56f96484676e98c83a8cc86d795fad87f3e526d565c9",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\finetune_gemma2_9b.py",
+      "modified_time": "2026-02-01T03:37:14"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\finetune_gemma2_9b_updated.py",
+      "family": "gemma3",
+      "category": "training",
+      "file_name": "finetune_gemma2_9b_updated.py",
+      "size_bytes": 6750,
+      "sha256": "e3333b28b7fe21304c0ef9594c0e115c3c8e41469ae8b71f43f0fca77d9a6dbd",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\finetune_gemma2_9b_updated.py",
+      "modified_time": "2026-02-07T00:40:01"
+    },
+    {
+      "relative_path": "artifacts\\gemma4\\raw\\finetune_gemma_v4.py",
+      "family": "gemma4",
+      "category": "training",
+      "file_name": "finetune_gemma_v4.py",
+      "size_bytes": 10465,
+      "sha256": "fc0b2b71245de99d32f0ffdb74a993459c4e0703875fbabe0c300fdae6f136b6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\finetune_gemma_v4.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\fix_backslashes.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "fix_backslashes.py",
+      "size_bytes": 446,
+      "sha256": "e8018fa7e88837f2c7be275b11346ee76b1aa3811325edc2f55d515d3c2b8fcb",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\fix_backslashes.py",
+      "modified_time": "2026-01-29T01:21:54"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\formatted_comparison_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "formatted_comparison_results.csv",
+      "size_bytes": 223341,
+      "sha256": "613bf0d57ebaa1399c191ec1435f8cda774bf75327c14071fcb8aa9ae05aa5b4",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\formatted_comparison_results.csv",
+      "modified_time": "2026-01-29T16:50:42"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\formatted_comparison_zeroshot.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "formatted_comparison_zeroshot.csv",
+      "size_bytes": 232016,
+      "sha256": "b0be7dfd36da201efa02fb6b45f29b522c18b4d1aa95e7e541b6ec2e27711652",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\formatted_comparison_zeroshot.csv",
+      "modified_time": "2026-01-29T16:56:02"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\format_comparison_file.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "format_comparison_file.py",
+      "size_bytes": 6272,
+      "sha256": "53ee4710c8358f87ca17dea8d6fd49c790235d1e34597221de57c0f905083d10",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\format_comparison_file.py",
+      "modified_time": "2026-01-29T16:50:20"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\format_comparison_zeroshot.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "format_comparison_zeroshot.py",
+      "size_bytes": 6827,
+      "sha256": "15b2755e0935aef8239883cf9f82ff2e3bc38b6ba342e63036a973e5ee7ba83b",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\format_comparison_zeroshot.py",
+      "modified_time": "2026-01-29T16:55:56"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini3.0_with_dataset_fixed.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini3.0_with_dataset_fixed.py",
+      "size_bytes": 142180,
+      "sha256": "3616b5b53ed393f8d7deaac5045c71e7fd1fc32549d68cdb2162854d857d3d38",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini3.0_with_dataset_fixed.py",
+      "modified_time": "2026-02-05T05:16:20"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_exclusion_list.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "gemini_exclusion_list.py",
+      "size_bytes": 137876,
+      "sha256": "cdcb32e0ca147d2b1cdfadcb3cbab0094c6944cfc31f07cac5389b78744ae43c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_exclusion_list.py",
+      "modified_time": "2026-01-29T12:33:33"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\GEMINI_WINS_EXAMPLES.md",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "GEMINI_WINS_EXAMPLES.md",
+      "size_bytes": 11084,
+      "sha256": "55c9c6ea32a5f97a41a47f79cf7e59fc824be478b7c312b9a5ccbf8c3e120e83",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\GEMINI_WINS_EXAMPLES.md",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_with_100_exclusion_queries.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini_with_100_exclusion_queries.csv",
+      "size_bytes": 27203,
+      "sha256": "92c3601b55653a004673bfc5e496863c8cccac30c8ea35ef81979238a8dade3d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_with_100_exclusion_queries.csv",
+      "modified_time": "2026-01-29T16:40:58"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_with_dataset_fixed.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini_with_dataset_fixed.py",
+      "size_bytes": 142161,
+      "sha256": "c45dfd0ea54aeb11da4c5970a947b3577bfed8f4f42bef0571dec842d90b57eb",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_with_dataset_fixed.py",
+      "modified_time": "2026-02-06T02:53:18"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_with_dataset_fixed.py_bak",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini_with_dataset_fixed.py_bak",
+      "size_bytes": 493064,
+      "sha256": "20bcacc89a2bcb882643e3053707464f62e0b98b38b8c7f89181ad56ae9e3fd7",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_with_dataset_fixed.py_bak",
+      "modified_time": "2026-01-29T01:00:46"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_with_dataset_full.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini_with_dataset_full.csv",
+      "size_bytes": 215080,
+      "sha256": "a70ead29620eb71f8f9af87f84baba196b9ba55ef10384f261b0be524dcfc9bf",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_with_dataset_full.csv",
+      "modified_time": "2026-01-29T03:03:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_with_dataset_validation_queries.csv",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "gemini_with_dataset_validation_queries.csv",
+      "size_bytes": 486972,
+      "sha256": "4047382ae33768f5074b4dffa721b75f53f89724b6f316ad94ae69c831bd62fe",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_with_dataset_validation_queries.csv",
+      "modified_time": "2026-01-29T12:55:23"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_zero_shot.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "gemini_zero_shot.py",
+      "size_bytes": 6278,
+      "sha256": "ddc273dd3a4fa31582d95df22996fa0c0dc5009fafb55735d5ea8ffada26c325",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_zero_shot.py",
+      "modified_time": "2026-02-05T05:39:57"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_zero_shot_50.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini_zero_shot_50.csv",
+      "size_bytes": 11717,
+      "sha256": "a0967c3b5ddccf8b9ae7e5df8c4e758c863a985c1dae73845cfe2210a892b4b1",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_zero_shot_50.csv",
+      "modified_time": "2026-01-28T20:58:44"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_zero_shot_exclusion_100_cases.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini_zero_shot_exclusion_100_cases.csv",
+      "size_bytes": 4779,
+      "sha256": "f262c5f96420826952beff23eb6f44f770d118226dbc5b500e253aca35f979ce",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_zero_shot_exclusion_100_cases.csv",
+      "modified_time": "2026-02-05T05:39:01"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_zero_shot_full.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini_zero_shot_full.csv",
+      "size_bytes": 359672,
+      "sha256": "87f77bb2038ed42f7c7595795ae852b27f26b4c85feb550290ebf224c849e2d6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_zero_shot_full.csv",
+      "modified_time": "2026-01-28T21:51:06"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_zero_shot_validation_queries.csv",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "gemini_zero_shot_validation_queries.csv",
+      "size_bytes": 572141,
+      "sha256": "a5bd2187d7e10d4e5dc01de9afb2574e3e8691c18623631d877d2c1676940507",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemini_zero_shot_validation_queries.csv",
+      "modified_time": "2026-01-29T11:56:32"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\gemma_1000_inference.py",
+      "family": "gemma3",
+      "category": "inference",
+      "file_name": "gemma_1000_inference.py",
+      "size_bytes": 8909,
+      "sha256": "6e520ee24b30da77ad41692851e22c9d176a48ac61d9d471a579193b7b9c695a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemma_1000_inference.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\gemma_correct_training_dataset.jsonl",
+      "family": "gemma3",
+      "category": "datasets",
+      "file_name": "gemma_correct_training_dataset.jsonl",
+      "size_bytes": 697244,
+      "sha256": "ac58d58da7e778a6cab04e3b2bbbbec813077c571e5a1e8d0d055df615afc934",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemma_correct_training_dataset.jsonl",
+      "modified_time": "2026-02-07T00:00:44"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\gemma_final_training_dataset.jsonl",
+      "family": "gemma3",
+      "category": "datasets",
+      "file_name": "gemma_final_training_dataset.jsonl",
+      "size_bytes": 153345,
+      "sha256": "fd5350d372157038d204a0473336e75828155706628c5d7a8551fdb47147244c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemma_final_training_dataset.jsonl",
+      "modified_time": "2026-02-06T18:38:58"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\gemma_training_dataset.jsonl",
+      "family": "gemma3",
+      "category": "datasets",
+      "file_name": "gemma_training_dataset.jsonl",
+      "size_bytes": 153345,
+      "sha256": "b9199b65a22c5df921d67058104e3900cbf2770b9e502c8810c8d254391718b6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\gemma_training_dataset.jsonl",
+      "modified_time": "2026-02-06T18:32:23"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_cat74_training_data.js",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "generate_cat74_training_data.js",
+      "size_bytes": 27964,
+      "sha256": "1465cb26b987c776ced8529ecda3206c8593b230c314f5a484df22ccca4005e2",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_cat74_training_data.js",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_cat74_training_data_v2.js",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "generate_cat74_training_data_v2.js",
+      "size_bytes": 26697,
+      "sha256": "8ded5dbaef877489713ea5b58dcf6c67d84d8a38a2120438f0ac477f6dbf87da",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_cat74_training_data_v2.js",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_final_dataset.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "generate_final_dataset.py",
+      "size_bytes": 1242,
+      "sha256": "ff75b5e8162aadace9e766054ab312813464f3e61f9bec1c440720b512d6d955",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_final_dataset.py",
+      "modified_time": "2026-02-06T18:38:57"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_full_training_data.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "generate_full_training_data.py",
+      "size_bytes": 4724,
+      "sha256": "9263819db60f041d65a3459fff4324742a562e5a45de3e692cb43fae2725405a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_full_training_data.py",
+      "modified_time": "2026-02-07T00:24:35"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_groundtruth_dataset2.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "generate_groundtruth_dataset2.py",
+      "size_bytes": 8112,
+      "sha256": "9c35d48acb71f0b35d1d05dc2e3d55aa0f0e1f8b3b3347dd18d340ba568ea0de",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_groundtruth_dataset2.py",
+      "modified_time": "2026-02-05T20:25:22"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_gt_qmeans_compare.js",
+      "family": "common",
+      "category": "results",
+      "file_name": "generate_gt_qmeans_compare.js",
+      "size_bytes": 29351,
+      "sha256": "3a55611392644853760007c6bdbf3461280b4ee665c8fb146d6f5494579d2e05",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_gt_qmeans_compare.js",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_gt_qmeans_compare.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "generate_gt_qmeans_compare.py",
+      "size_bytes": 36222,
+      "sha256": "e2f2af879dc88b32a403a6185f2e6c0dfd664286a1373b1d09bdb5027350d23a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_gt_qmeans_compare.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_validation_dataset.py",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "generate_validation_dataset.py",
+      "size_bytes": 20263,
+      "sha256": "83b362db14cf5ee015ed43a26809c21fc8e775cc337f3b4c9d34dce4bcb4b3c0",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_validation_dataset.py",
+      "modified_time": "2026-01-29T11:05:16"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_validation_dataset_v2.py",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "generate_validation_dataset_v2.py",
+      "size_bytes": 26626,
+      "sha256": "172232499a4cc750318605ffdb270b1334d46152499947eaabeae535b391dba5",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\generate_validation_dataset_v2.py",
+      "modified_time": "2026-01-29T11:06:48"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\ground_truth_100_queries.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "ground_truth_100_queries.csv",
+      "size_bytes": 126200,
+      "sha256": "abfbfdb3b902068551f7054c7880c5f2d11fb36c7d4bc71690862644bfb5b81c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\ground_truth_100_queries.csv",
+      "modified_time": "2026-01-29T13:10:07"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\ground_truth_extractor.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "ground_truth_extractor.py",
+      "size_bytes": 5217,
+      "sha256": "cefbefdbeeb39d9c1f1f88bffd617f303268a1b8f40a6000d422aabc3bf93e0b",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\ground_truth_extractor.py",
+      "modified_time": "2026-01-29T13:08:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\improved_attribute_prompt.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "improved_attribute_prompt.py",
+      "size_bytes": 6815,
+      "sha256": "39d3941ba46a775ac2e97ef7d875baf88f7e10d05f35ad55d1647b4e2c5b2366",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\improved_attribute_prompt.py",
+      "modified_time": "2026-01-29T16:14:24"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\industrial extruder machine data.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "industrial extruder machine data.csv",
+      "size_bytes": 1473135,
+      "sha256": "5da063842a2e24ae2e0e0fac3a5bc9ef736308e936b60725eef9ac6e68998887",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\industrial extruder machine data.csv",
+      "modified_time": "2026-01-27T15:14:30"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\industrial_motors.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "industrial_motors.csv",
+      "size_bytes": 65656,
+      "sha256": "1224c3e1001fe68c081e2978b23d48b1bdbb8b8956511a652f60584cdbbae3a0",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\industrial_motors.csv",
+      "modified_time": "2026-01-28T15:21:33"
+    },
+    {
+      "relative_path": "artifacts\\gemma4\\raw\\inference_v4.py",
+      "family": "gemma4",
+      "category": "inference",
+      "file_name": "inference_v4.py",
+      "size_bytes": 4612,
+      "sha256": "d679952d1c32414426190d37180324b11ecd3d40029320213dbb0d70ac79ece8",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\inference_v4.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\prepare_gemma2_9b_training_data.py",
+      "family": "gemma3",
+      "category": "training",
+      "file_name": "prepare_gemma2_9b_training_data.py",
+      "size_bytes": 8554,
+      "sha256": "066622a301c88885b7a5ba98a9611198c84f570533f1d3aec86d90cc4db1e78a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\prepare_gemma2_9b_training_data.py",
+      "modified_time": "2026-02-01T03:36:37"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\prepare_multitask_training_data.py",
+      "family": "common",
+      "category": "training",
+      "file_name": "prepare_multitask_training_data.py",
+      "size_bytes": 10965,
+      "sha256": "5e9e93c55dfc72735634a188812252842d0da67bbc54ef60b998b67c68bcfa56",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\prepare_multitask_training_data.py",
+      "modified_time": "2026-02-01T03:38:17"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\presentation_queries.txt",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "presentation_queries.txt",
+      "size_bytes": 3129,
+      "sha256": "d9bef973c35121ec95133c0f65b8bf0a7ed308cf25a509e6d524ded5b26abed3",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\presentation_queries.txt",
+      "modified_time": "2026-02-09T13:38:28"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\presentation_showcase_queries.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "presentation_showcase_queries.csv",
+      "size_bytes": 8430,
+      "sha256": "78d92270a08e21db519ef38bbd4f90a7dee750c197bdade7a846552202a7ae54",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\presentation_showcase_queries.csv",
+      "modified_time": "2026-02-09T13:45:01"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\product_train_with_keys.jsonl",
+      "family": "common",
+      "category": "training",
+      "file_name": "product_train_with_keys.jsonl",
+      "size_bytes": 2313384,
+      "sha256": "c03ebf5436c7489d58303ad0108ac0e20312e848ac88887f502452f143236cf9",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_train_with_keys.jsonl",
+      "modified_time": "2026-02-07T00:26:15"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\product_val_with_keys.jsonl",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "product_val_with_keys.jsonl",
+      "size_bytes": 231940,
+      "sha256": "d03195ff3a0377e03bdf499905588181f652b7bdb487c7fe286f6b63154795c3",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_val_with_keys.jsonl",
+      "modified_time": "2026-02-07T00:26:15"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\PROJECT_SUMMARY_FOR_PRESENTATION.md",
+      "family": "common",
+      "category": "results",
+      "file_name": "PROJECT_SUMMARY_FOR_PRESENTATION.md",
+      "size_bytes": 16763,
+      "sha256": "0d73408ef905ede3a3a4cf8b5425ad27b94e66260e70e7a014834b1d6a8d3aa1",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\PROJECT_SUMMARY_FOR_PRESENTATION.md",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qmeans_1000_validation.csv",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "qmeans_1000_validation.csv",
+      "size_bytes": 288916,
+      "sha256": "e782e3791867561c70281afbe6306e8b1a0a2c06b417147d117e097265e25ccb",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\qmeans_1000_validation.csv",
+      "modified_time": "2026-01-29T16:31:16"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qmeans_100_exclusion_cases.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "qmeans_100_exclusion_cases.csv",
+      "size_bytes": 14425,
+      "sha256": "324a4de737affc1cfebc2af927c858d2d0eceef30e7c31cfdecfc5ec3d0b8734",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\qmeans_100_exclusion_cases.csv",
+      "modified_time": "2026-01-29T13:16:14"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qmeans_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "qmeans_results.csv",
+      "size_bytes": 168180,
+      "sha256": "8fc47ba1b5a6e843011bd3dd09a32de707afd22a6394361af5355c597ae94521",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\qmeans_results.csv",
+      "modified_time": "2026-01-28T16:00:58"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qmeans_script.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "qmeans_script.py",
+      "size_bytes": 4043,
+      "sha256": "47103b4ca59051c238995a1179b6253e319119e2438b20678caac32fa31cbcad",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\qmeans_script.py",
+      "modified_time": "2026-01-29T16:28:45"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qmeans_vs_gemini_verified.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "qmeans_vs_gemini_verified.csv",
+      "size_bytes": 417,
+      "sha256": "02ac2ee185e01f9de4ed019a29f860fd4b2ebc1ad1e56019876e4374c79b29a8",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\qmeans_vs_gemini_verified.csv",
+      "modified_time": "2026-02-09T13:44:12"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\queries_96_subcat.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "queries_96_subcat.csv",
+      "size_bytes": 147103,
+      "sha256": "3c2ac28aaab629bea66767abc7deb365b59aea055dfe219f4de210f25a4db9f2",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\queries_96_subcat.csv",
+      "modified_time": "2026-01-29T11:01:01"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\QUICK_PRESENTATION_SLIDES.md",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "QUICK_PRESENTATION_SLIDES.md",
+      "size_bytes": 15822,
+      "sha256": "3a4d05b28c60b7da60a7fae4790a5249af4056810c92f44b26b6dbe6c63ec7fc",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\QUICK_PRESENTATION_SLIDES.md",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\quick_test.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "quick_test.py",
+      "size_bytes": 4800,
+      "sha256": "137703cbbd07bca954a749d2df61eda90ea77d1fcb7b44caf2c892666d671037",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\quick_test.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\README_dataset2_groundtruth.md",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "README_dataset2_groundtruth.md",
+      "size_bytes": 2932,
+      "sha256": "be79c29a7e75a3e6b7b60167f6945af6c3af8f77bd12e512a913763708b6c72b",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\README_dataset2_groundtruth.md",
+      "modified_time": "2026-02-05T20:26:53"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\REAL_GEMINI_WINS_EXAMPLES.md",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "REAL_GEMINI_WINS_EXAMPLES.md",
+      "size_bytes": 14769,
+      "sha256": "65ed6e04bad81da004ca44d7a43ef1e89b0736d21bae42f25cb74c277c670311",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\REAL_GEMINI_WINS_EXAMPLES.md",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\restart_inference.ps1",
+      "family": "common",
+      "category": "inference",
+      "file_name": "restart_inference.ps1",
+      "size_bytes": 1088,
+      "sha256": "85bc2bfaf900b03203d87e58fe42c4000e3650a74ed5592248ebe25df536bd2c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\restart_inference.ps1",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\retry_failed_queries.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "retry_failed_queries.py",
+      "size_bytes": 10846,
+      "sha256": "72cb6bf1a947a5f0dc5d78156417a70ccb3d887bc8821e35046cee72f25aedd9",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\retry_failed_queries.py",
+      "modified_time": "2026-02-06T04:49:45"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\run_all_models.bat",
+      "family": "common",
+      "category": "other",
+      "file_name": "run_all_models.bat",
+      "size_bytes": 879,
+      "sha256": "db85f95b0244f7f71ea349f006be82c51c369adda4a6d6af1dfffc61836e83b8",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\run_all_models.bat",
+      "modified_time": "2026-02-06T03:16:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\run_model_claude_sonnet.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "run_model_claude_sonnet.py",
+      "size_bytes": 23881,
+      "sha256": "2a4b686dc5292cfd817a52fef2445905e14320e2eb25c7085c5f7ef57aa7fabc",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\run_model_claude_sonnet.py",
+      "modified_time": "2026-02-06T03:16:09"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\run_model_gemini_3_pro.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "run_model_gemini_3_pro.py",
+      "size_bytes": 23874,
+      "sha256": "c8baa562677d86dd98a9054c9181c08595d80e933156672c19ed59cb3e661bfc",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\run_model_gemini_3_pro.py",
+      "modified_time": "2026-02-06T03:16:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\run_model_qwen_32b.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "run_model_qwen_32b.py",
+      "size_bytes": 23863,
+      "sha256": "18343f2e3df02fa99f821f5931649e2a3080b76b5b6b66874049ac3956afdfac",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\run_model_qwen_32b.py",
+      "modified_time": "2026-02-06T03:16:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\run_training.sh",
+      "family": "common",
+      "category": "other",
+      "file_name": "run_training.sh",
+      "size_bytes": 515,
+      "sha256": "dc0f5569a93a250bc68629fd461851ba7a8039611beb9a9f60c6f76722f6300d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\run_training.sh",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\sample_training_data_200.jsonl",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "sample_training_data_200.jsonl",
+      "size_bytes": 46490,
+      "sha256": "a2553410eb035f9fdf5fea38d4c513deb13bbd0d98423764171cf53dc316e0a8",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\sample_training_data_200.jsonl",
+      "modified_time": "2026-02-07T00:18:28"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\setup_gemma2_9b.sh",
+      "family": "gemma3",
+      "category": "other",
+      "file_name": "setup_gemma2_9b.sh",
+      "size_bytes": 2002,
+      "sha256": "48c4feb01359972f447c28a45b7b2b715c219428fa3ba224413b0880e1a42c7b",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\setup_gemma2_9b.sh",
+      "modified_time": "2026-02-01T03:37:39"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\show_parsing_comparison.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "show_parsing_comparison.py",
+      "size_bytes": 2378,
+      "sha256": "03a0ad075a62c377ca5e7dcfc546a39396387117aef322eb25a6fb640ac9befa",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\show_parsing_comparison.py",
+      "modified_time": "2026-02-05T20:15:27"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\speed_test_optimized.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "speed_test_optimized.py",
+      "size_bytes": 3028,
+      "sha256": "f3bd5d68cc3cc68c49f7006aa77db27d665a1d72b314aaa52641be7e08a15cd7",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\speed_test_optimized.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\synthetic_validation_dataset.csv",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "synthetic_validation_dataset.csv",
+      "size_bytes": 162733,
+      "sha256": "b205c24fa04ed1405bd3f7244be14fbc8bfa77b76300338102ea4f8ae7c917f6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\synthetic_validation_dataset.csv",
+      "modified_time": "2026-01-29T11:07:53"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\test_gemma2_9b_inference.py",
+      "family": "gemma3",
+      "category": "inference",
+      "file_name": "test_gemma2_9b_inference.py",
+      "size_bytes": 4226,
+      "sha256": "f69fa712dcc2e2c72bc91a26ef0dfb12e2febb9c0889048f59475b32dea42368",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\test_gemma2_9b_inference.py",
+      "modified_time": "2026-02-01T03:37:29"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\test_gemma_finetuned.py",
+      "family": "common",
+      "category": "training",
+      "file_name": "test_gemma_finetuned.py",
+      "size_bytes": 1951,
+      "sha256": "2bb74f50b640acdc32c3590659157c1f3e16530e105ccaf7360c85a1704a5803",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\test_gemma_finetuned.py",
+      "modified_time": "2026-02-06T18:39:40"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\test_gemma_v3.py",
+      "family": "gemma3",
+      "category": "inference",
+      "file_name": "test_gemma_v3.py",
+      "size_bytes": 6636,
+      "sha256": "71a3a18c1084662eea183b694129a563ccdcfb54925011af9281f71f5d8fbeac",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\test_gemma_v3.py",
+      "modified_time": "2026-02-09T10:25:30"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\test_models.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "test_models.py",
+      "size_bytes": 1393,
+      "sha256": "5141fd25ed3ec4cec9893da50db30958b3c193b3f18d5c29698d7578f9845097",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\test_models.py",
+      "modified_time": "2026-02-06T05:36:45"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\test_raw_output.py",
+      "family": "common",
+      "category": "inference",
+      "file_name": "test_raw_output.py",
+      "size_bytes": 5570,
+      "sha256": "a9c968b39d5137923abb779722193e8afb7fa415577d01c410665d157770cb53",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\test_raw_output.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\TRAINING_COMMANDS.md",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "TRAINING_COMMANDS.md",
+      "size_bytes": 2508,
+      "sha256": "2369a23202f17555bad19350395dd29c718dca06ff1e5380be81e2b5697a63fd",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\TRAINING_COMMANDS.md",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\train_gemma_correct.py",
+      "family": "gemma3",
+      "category": "training",
+      "file_name": "train_gemma_correct.py",
+      "size_bytes": 2799,
+      "sha256": "3169ef1f9094d39e054da6cde2febcc9bd493e55a51abb39d3b370fba82c5ebe",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\train_gemma_correct.py",
+      "modified_time": "2026-02-07T00:01:59"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\train_gemma_final.py",
+      "family": "gemma3",
+      "category": "training",
+      "file_name": "train_gemma_final.py",
+      "size_bytes": 4753,
+      "sha256": "faa98a0cffadeb33d7e7270536ec5591970393e6ebf19a678da02ca0266958b8",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\train_gemma_final.py",
+      "modified_time": "2026-02-06T18:39:23"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\unique_key_val_96_cat.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "unique_key_val_96_cat.csv",
+      "size_bytes": 326360,
+      "sha256": "c8dc80ae845fb667197ea48d586e97a337bb37a30a152ef3f86ec7b936198b35",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\unique_key_val_96_cat.csv",
+      "modified_time": "2026-01-28T20:35:46"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\unnamed.webp",
+      "family": "common",
+      "category": "other",
+      "file_name": "unnamed.webp",
+      "size_bytes": 19098,
+      "sha256": "da11d285ebcf04d4b7d54c2161ddd5c0f2aab45b74825378c327d14d0aae579d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\unnamed.webp",
+      "modified_time": "2026-01-28T11:16:02"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\validate_100_cases.py",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "validate_100_cases.py",
+      "size_bytes": 2374,
+      "sha256": "2973ea88f3d82d6ee7241a52e23ae989828df0e52c0f00c7761d0dc61b070047",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\validate_100_cases.py",
+      "modified_time": "2026-02-06T18:36:33"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\validate_200_examples.py",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "validate_200_examples.py",
+      "size_bytes": 3910,
+      "sha256": "ee899d54360b267d5ed408d8ea1d00ea56411cdd7752edbeee9f84dc50b8e875",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\validate_200_examples.py",
+      "modified_time": "2026-02-06T18:38:00"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\validate_model.py",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "validate_model.py",
+      "size_bytes": 10263,
+      "sha256": "f910ef1ee4b8819382360160902eccf088d6c5a84934f44e7d4c461bdb732486",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\validate_model.py",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\validate_vocabulary.py",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "validate_vocabulary.py",
+      "size_bytes": 2123,
+      "sha256": "956b4726fa053434d2f29b2fe92af84ea4d54675dc7cc64bf3b2a98ad15c139e",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\validate_vocabulary.py",
+      "modified_time": "2026-02-06T18:37:31"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\VALIDATION_GUIDE.md",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "VALIDATION_GUIDE.md",
+      "size_bytes": 6974,
+      "sha256": "23e8e7c2dff511c6363ce6cbc6dba4af2b22f216734c001eef95ed31587de6d1",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\VALIDATION_GUIDE.md",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\validation_queries.csv",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "validation_queries.csv",
+      "size_bytes": 63477,
+      "sha256": "8cb0eee42bdad63b71bb330d59b9e3efd6db5c19ef4740ceace486fbc592c701",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\validation_queries.csv",
+      "modified_time": "2026-01-29T11:11:18"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\VALIDATION_REPORT_200_EXAMPLES.txt",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "VALIDATION_REPORT_200_EXAMPLES.txt",
+      "size_bytes": 13320,
+      "sha256": "06d50f5c4a76b68b3a486563ce709559d13dc9507b35f0ec5a30ae154a003ca5",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\VALIDATION_REPORT_200_EXAMPLES.txt",
+      "modified_time": "2026-02-06T18:40:28"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\VALIDATION_SUMMARY.py",
+      "family": "common",
+      "category": "evaluation",
+      "file_name": "VALIDATION_SUMMARY.py",
+      "size_bytes": 4985,
+      "sha256": "ab414469a1b06c8bb466f64c0a79eb2cc1c56afb2405ea215b6d6d8006aa52ea",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\VALIDATION_SUMMARY.py",
+      "modified_time": "2026-02-06T18:40:14"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\verify_final.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "verify_final.py",
+      "size_bytes": 3124,
+      "sha256": "a6107049d0546e30fdaa21c88e6d752c8e27fe789b387dbbe0f309f7d6033669",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\verify_final.py",
+      "modified_time": "2026-02-06T18:46:00"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\verify_qmeans_vs_gemini.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "verify_qmeans_vs_gemini.py",
+      "size_bytes": 5255,
+      "sha256": "20f1057797a386cf4b6201e53b01b9deef8f2deb440ecfe114f50683a8c50a65",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\verify_qmeans_vs_gemini.py",
+      "modified_time": "2026-02-09T13:41:07"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\VISUAL_SUMMARY_QUICK_REF.md",
+      "family": "common",
+      "category": "results",
+      "file_name": "VISUAL_SUMMARY_QUICK_REF.md",
+      "size_bytes": 16670,
+      "sha256": "ac41ca469d19329a6d065646e339f1a582a90948e6b5e384ae5d9192b7ec2c96",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\VISUAL_SUMMARY_QUICK_REF.md",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\your_attributes.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "your_attributes.csv",
+      "size_bytes": 326360,
+      "sha256": "c8dc80ae845fb667197ea48d586e97a337bb37a30a152ef3f86ec7b936198b35",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\your_attributes.csv",
+      "modified_time": "2026-01-29T00:46:39"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\76cat_queries",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "76cat_queries",
+      "size_bytes": 30783,
+      "sha256": "dd959e311b788ab0fdb234efa428ea071fe0552b12a0af71daab09473141b64f",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\76cat_queries",
+      "modified_time": "2026-02-14T13:42:21"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\api_mcat_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "api_mcat_results.csv",
+      "size_bytes": 59646,
+      "sha256": "fd5ae7b4c198de834469ab60ac64b962d12b0c3f2fc61edc59d3267362ab938d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\api_mcat_results.csv",
+      "modified_time": "2026-02-23T00:42:41"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\apple_to_apple_comparison.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "apple_to_apple_comparison.py",
+      "size_bytes": 19827,
+      "sha256": "e46fd7f2f9b5848181a2cb40ea1bba6d8affd69c10cd6f56a9e9b2ca98c535c1",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\apple_to_apple_comparison.py",
+      "modified_time": "2026-02-16T16:43:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\batch_api_mcat.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "batch_api_mcat.py",
+      "size_bytes": 4268,
+      "sha256": "cbf258d240eeee9c011be162bc34e97bcf5cd37587700d355cefa6d526d786d6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\batch_api_mcat.py",
+      "modified_time": "2026-02-23T00:40:48"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\batch_inference_transformers.py",
+      "family": "common",
+      "category": "inference",
+      "file_name": "batch_inference_transformers.py",
+      "size_bytes": 4799,
+      "sha256": "ca9f50d092c358aa4b2d6b51a74967c243c51ef655023d22735b38f872a95b27",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\batch_inference_transformers.py",
+      "modified_time": "2026-02-23T00:47:39"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\batch_inference_unsloth.py",
+      "family": "common",
+      "category": "inference",
+      "file_name": "batch_inference_unsloth.py",
+      "size_bytes": 4791,
+      "sha256": "c1ced37d4f2b77108195052ff236fde391c17ed78dd7a0c8bcffeb573af2d1e3",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\batch_inference_unsloth.py",
+      "modified_time": "2026-02-23T00:47:18"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\check.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "check.py",
+      "size_bytes": 4036,
+      "sha256": "dd9305ad54c09eef049a9307bbb478746169b5f1cc69b7779f1982d96620f1ae",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\check.py",
+      "modified_time": "2026-02-05T05:47:36"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\claude_1000_inference.py",
+      "family": "common",
+      "category": "inference",
+      "file_name": "claude_1000_inference.py",
+      "size_bytes": 35340,
+      "sha256": "45f53bcd9769b1c2df877a3c0257310c785da2c3fdbdf2f92b37cea84243e7df",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\claude_1000_inference.py",
+      "modified_time": "2026-02-16T13:24:04"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\claude_1000_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "claude_1000_results.csv",
+      "size_bytes": 1164691,
+      "sha256": "9f5c3cb2d89cf1840e5088853f7a7648bf4970fe3c4b46b9fafba062715cee64",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\claude_1000_results.csv",
+      "modified_time": "2026-02-16T10:44:22"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\claude_sonnet_4_log.txt",
+      "family": "common",
+      "category": "logs",
+      "file_name": "claude_sonnet_4_log.txt",
+      "size_bytes": 12392,
+      "sha256": "b70060213bfbc860bda80ade0ab8e6a45f109d7fbe15ce389158826de51d1ba3",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\claude_sonnet_4_log.txt",
+      "modified_time": "2026-02-06T04:18:10"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\claude_sonnet_4_output.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "claude_sonnet_4_output.csv",
+      "size_bytes": 587645,
+      "sha256": "03ef43d06c123c591ddbdfc09f3c7c2adbd503bb20d21d3428f1c1ec3c3c25d0",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\claude_sonnet_4_output.csv",
+      "modified_time": "2026-02-06T05:09:56"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\claude_sonnet_4_retry_log.txt",
+      "family": "common",
+      "category": "logs",
+      "file_name": "claude_sonnet_4_retry_log.txt",
+      "size_bytes": 130,
+      "sha256": "36ce0b6ed3d17dfb349cb4b12e2fc38d0930b2be40ef1788eac98ad811176878",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\claude_sonnet_4_retry_log.txt",
+      "modified_time": "2026-02-06T05:09:56"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_4model_comparison.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_4model_comparison.csv",
+      "size_bytes": 1072814,
+      "sha256": "d26f1a69517a3cacfbd8f83caaaf5f65b4cb133dab5e10e8b3a9cde09f3ab916",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\comprehensive_4model_comparison.csv",
+      "modified_time": "2026-02-05T12:23:10"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison.py",
+      "size_bytes": 23901,
+      "sha256": "a6eb4f0acc875d92e016f2bea82f393b84b5c825df0e1f3f6297754a9bcc1760",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\comprehensive_comparison.py",
+      "modified_time": "2026-02-16T15:39:16"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comprehensive_comparison_v2.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "comprehensive_comparison_v2.py",
+      "size_bytes": 21502,
+      "sha256": "37818abcbb394e6d7b4caf6a470a7adb6e1b360971827887f22d00cd88c226f3",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\comprehensive_comparison_v2.py",
+      "modified_time": "2026-02-16T16:06:02"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\debug_output.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "debug_output.csv",
+      "size_bytes": 2774,
+      "sha256": "67cb110020dab53ae5564ce4f2020b3c67e90a8e17281f0b37871a5edd8b7551",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\debug_output.csv",
+      "modified_time": "2026-02-05T05:47:48"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_1000_inference.py",
+      "family": "common",
+      "category": "inference",
+      "file_name": "gemini_1000_inference.py",
+      "size_bytes": 24438,
+      "sha256": "5060842783e3104876ffaec7a3ddda70a40eb47f10602e98c0714ddd627ac32f",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_1000_inference.py",
+      "modified_time": "2026-02-16T13:24:04"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_1000_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gemini_1000_results.csv",
+      "size_bytes": 15547,
+      "sha256": "fb3444670d103cb9ae45fcbae4bf966a6e9e03c08cf3b24285b8090faf03be96",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_1000_results.csv",
+      "modified_time": "2026-02-15T16:15:52"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_3_pro_log.txt",
+      "family": "common",
+      "category": "logs",
+      "file_name": "gemini_3_pro_log.txt",
+      "size_bytes": 83913,
+      "sha256": "827f5be1931a6b939ad0768fc048e0aff559a4cf66def155c6ec967934a40732",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_3_pro_log.txt",
+      "modified_time": "2026-02-06T05:54:16"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_3_pro_output.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gemini_3_pro_output.csv",
+      "size_bytes": 131991,
+      "sha256": "bc7955bf188d9ada04ca88b4ba3526d533e29b46ebf77f35634f04a3b6474f17",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_3_pro_output.csv",
+      "modified_time": "2026-02-06T05:54:16"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_error.log",
+      "family": "common",
+      "category": "logs",
+      "file_name": "gemini_error.log",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_error.log",
+      "modified_time": "2026-02-15T16:13:14"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_final_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gemini_final_results.csv",
+      "size_bytes": 1282678,
+      "sha256": "8b51198a26853195649b7d0c27f345a614e307d0783d142ea9b578d175e81c9c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_final_results.csv",
+      "modified_time": "2026-02-15T18:51:56"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_output.log",
+      "family": "common",
+      "category": "results",
+      "file_name": "gemini_output.log",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_output.log",
+      "modified_time": "2026-02-15T16:13:14"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_run.log",
+      "family": "common",
+      "category": "logs",
+      "file_name": "gemini_run.log",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_run.log",
+      "modified_time": "2026-02-15T16:15:29"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemini_with_dataset.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemini_with_dataset.py",
+      "size_bytes": 493079,
+      "sha256": "6414ef36925b44c64936827f8892d58f7ad0e1c1261337dea1a78b2c9c36a613",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemini_with_dataset.py",
+      "modified_time": "2026-02-05T04:34:17"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\gemma_v1_validation_real_results.csv",
+      "family": "gemma3",
+      "category": "evaluation",
+      "file_name": "gemma_v1_validation_real_results.csv",
+      "size_bytes": 348929,
+      "sha256": "045f13367a9a39b417ced1f9634144cd851c9a058234b870fba6a5c9e6191a77",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemma_v1_validation_real_results.csv",
+      "modified_time": "2026-02-05T16:09:38"
+    },
+    {
+      "relative_path": "artifacts\\gemma3\\raw\\gemma_v1_validation_results.csv",
+      "family": "gemma3",
+      "category": "evaluation",
+      "file_name": "gemma_v1_validation_results.csv",
+      "size_bytes": 239257,
+      "sha256": "ad44d5795b4793329b18b7c03f20e412aea068e44fa25e31ffc5a6c99835a0e5",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemma_v1_validation_results.csv",
+      "modified_time": "2026-02-05T16:54:28"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemma_vs_qmeans_comparison.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "gemma_vs_qmeans_comparison.py",
+      "size_bytes": 15312,
+      "sha256": "07f4a0c645210e8382e50eb5fede947df805a2bf6eae385671e61f0c5e6edb5e",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gemma_vs_qmeans_comparison.py",
+      "modified_time": "2026-02-16T16:20:59"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_showcase_examples.py",
+      "family": "common",
+      "category": "scripts",
+      "file_name": "generate_showcase_examples.py",
+      "size_bytes": 12256,
+      "sha256": "bf0312b7248dbadd01b2c18912e9540973c1844ff5c83d1c1ebd8bba3ae61040",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\generate_showcase_examples.py",
+      "modified_time": "2026-02-16T16:50:48"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_gemini_comparison.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_gemini_comparison.py",
+      "size_bytes": 23962,
+      "sha256": "dbcc4dd1ebd43d142e7f2d041520d0127b29e31ab343cee44d953bc098c2468d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gt_gemini_comparison.py",
+      "modified_time": "2026-02-16T15:04:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_gemma_comparison.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_gemma_comparison.py",
+      "size_bytes": 23872,
+      "sha256": "730f40da15cbc447f66edc6a98891daa8eebb64896a2d3361354b86483a67398",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gt_gemma_comparison.py",
+      "modified_time": "2026-02-16T14:51:11"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_qmeans_comparison.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_qmeans_comparison.py",
+      "size_bytes": 16694,
+      "sha256": "f7a8dca4b9cd47ab8d7f8068f4fea66244c132b6b6276599571e44b004b802f9",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gt_qmeans_comparison.py",
+      "modified_time": "2026-02-16T13:50:09"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_results.json",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_results.json",
+      "size_bytes": 88810,
+      "sha256": "6290c271b09e0b5d0551ef51b947bfb5af5be0a6c70366a5e3578d6ff4f73432",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\gt_results.json",
+      "modified_time": "2026-02-14T13:47:50"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\MultipleKeysAttributes",
+      "family": "common",
+      "category": "other",
+      "file_name": "MultipleKeysAttributes",
+      "size_bytes": 37780,
+      "sha256": "c10584d0f31a03c6e29d2136da3a4a5237cd06db8f3471a7dcadcc1a239a416b",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\MultipleKeysAttributes",
+      "modified_time": "2026-02-15T15:07:58"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qmeans_results.json",
+      "family": "common",
+      "category": "results",
+      "file_name": "qmeans_results.json",
+      "size_bytes": 188730,
+      "sha256": "7f6e9a95304523c0d79f051f7ec32026580f26eeb23cb733a51cc1d36e51cd55",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\qmeans_results.json",
+      "modified_time": "2026-02-14T13:50:01"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qwen_1000_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "qwen_1000_results.csv",
+      "size_bytes": 1365715,
+      "sha256": "10ae37f15a04c90a278019132fdff1bf8abf1ce898621f716dd8535e206d7a73",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\qwen_1000_results.csv",
+      "modified_time": "2026-02-16T01:06:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qwen_32b_log.txt",
+      "family": "common",
+      "category": "logs",
+      "file_name": "qwen_32b_log.txt",
+      "size_bytes": 18754,
+      "sha256": "422f02fccf22782c10ca768cc103d6834b0014802eadde1190ddc7dbb4520c62",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\qwen_32b_log.txt",
+      "modified_time": "2026-02-06T04:26:00"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qwen_32b_output.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "qwen_32b_output.csv",
+      "size_bytes": 587882,
+      "sha256": "150c2cf7d9250cfacdd50c884bf8c5dd038eed39a8ddf7f70fb5a94a440f691a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\qwen_32b_output.csv",
+      "modified_time": "2026-02-06T05:32:29"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\qwen_32b_retry_log.txt",
+      "family": "common",
+      "category": "logs",
+      "file_name": "qwen_32b_retry_log.txt",
+      "size_bytes": 61,
+      "sha256": "a27e693f9092608559b5bd292c90c986c34eaef3b0884d97fd2eb029e5a92224",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\qwen_32b_retry_log.txt",
+      "modified_time": "2026-02-06T05:09:56"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\run_gemini_inference.ps1",
+      "family": "common",
+      "category": "inference",
+      "file_name": "run_gemini_inference.ps1",
+      "size_bytes": 1881,
+      "sha256": "7d50f41d87ca0434f5ecf62abcb50552dfc5c6f70bb222940361ff91c8c8e20d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\compare\\run_gemini_inference.ps1",
+      "modified_time": "2026-02-15T15:38:43"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\cat_74_queries.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "cat_74_queries.csv",
+      "size_bytes": 295368,
+      "sha256": "e40b7a015428a00459fa67eb7f2d19fbcbd6eb22b27d1439bce997b21e284b25",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\New_Angle\\cat_74_queries.csv",
+      "modified_time": "2026-02-10T15:48:28"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\_SELECT_a_fk_im_spec_master_desc_a_fk_im_spec_options_desc_m_glc_202602101613.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "_SELECT_a_fk_im_spec_master_desc_a_fk_im_spec_options_desc_m_glc_202602101613.csv",
+      "size_bytes": 29568756,
+      "sha256": "7aaed8293e0a07e0fe7856d0c32247e988bcff68f3f025c008ea3481455eb6e0",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\New_Angle\\_SELECT_a_fk_im_spec_master_desc_a_fk_im_spec_options_desc_m_glc_202602101613.csv",
+      "modified_time": "2026-02-10T16:23:12"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\all_models_comparison_summary.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "all_models_comparison_summary.csv",
+      "size_bytes": 558,
+      "sha256": "9751e0c859425cb8e19680a860cf1a17ff9a975f568cacad05176a44e967a954",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\all_models_comparison_summary.csv",
+      "modified_time": "2026-02-16T15:28:36"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\compare_results.py",
+      "family": "common",
+      "category": "results",
+      "file_name": "compare_results.py",
+      "size_bytes": 5995,
+      "sha256": "7ed4e19f77e59a1e93fce2113ace61eabb9da2adbfeed406bc2e8c49bc5af399",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\compare_results.py",
+      "modified_time": "2026-02-23T10:17:01"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\comparison_logic_explanation.md",
+      "family": "common",
+      "category": "results",
+      "file_name": "comparison_logic_explanation.md",
+      "size_bytes": 6704,
+      "sha256": "226882e0f4bf3d6480c3cb745bf68f2a0c9f891f5d19c5ba3a1e893dbcf12c2a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\comparison_logic_explanation.md",
+      "modified_time": "2026-02-16T13:57:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\EXECUTIVE_SUMMARY.txt",
+      "family": "common",
+      "category": "results",
+      "file_name": "EXECUTIVE_SUMMARY.txt",
+      "size_bytes": 8075,
+      "sha256": "60a9446de2579a14584618c0053f848f3455e02dd1e7e96cc8268c64e63fcfc7",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\EXECUTIVE_SUMMARY.txt",
+      "modified_time": "2026-02-16T16:21:41"
+    },
+    {
+      "relative_path": "artifacts\\gemma4\\raw\\gemma_v4_1000_results.csv",
+      "family": "gemma4",
+      "category": "results",
+      "file_name": "gemma_v4_1000_results.csv",
+      "size_bytes": 1835479,
+      "sha256": "12a3360cebf2251fc9bff8979fe21da4c42fd9cfaceafe2fa4936c1060bf9db6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gemma_v4_1000_results.csv",
+      "modified_time": "2026-02-16T14:46:36"
+    },
+    {
+      "relative_path": "artifacts\\gemma4\\raw\\gemma_v4_1000_results.json",
+      "family": "gemma4",
+      "category": "results",
+      "file_name": "gemma_v4_1000_results.json",
+      "size_bytes": 1936427,
+      "sha256": "175e08a515ce5af384955664d5f582392b1b989ba4402d90cee3cea92243afa4",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gemma_v4_1000_results.json",
+      "modified_time": "2026-02-16T14:47:22"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gemma_vs_qmeans_final.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gemma_vs_qmeans_final.csv",
+      "size_bytes": 334493,
+      "sha256": "ef9958f0189535d9412006be56344654bd1a7a6d5c58bb2ee52b323c0936bdfa",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gemma_vs_qmeans_final.csv",
+      "modified_time": "2026-02-16T16:43:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\generate_unbiased_queries.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "generate_unbiased_queries.py",
+      "size_bytes": 5994,
+      "sha256": "66a7ab60b4cd04efd771c139cb7df51378642027b24244dcc126f9af7fa6aa2d",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\generate_unbiased_queries.py",
+      "modified_time": "2026-02-23T10:32:34"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_gemini_analysis_final.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gt_vs_gemini_analysis_final.csv",
+      "size_bytes": 1116,
+      "sha256": "0e542019911b97a674659e475fd91f15ae7050816091f4d99bbfbab27a8d47fd",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_gemini_analysis_final.csv",
+      "modified_time": "2026-02-16T16:43:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_gemini_detailed_comparison.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_vs_gemini_detailed_comparison.csv",
+      "size_bytes": 1831494,
+      "sha256": "3136637d1c2155c573455c04b9d882b413bee3f687acc06da8f83df568e80d84",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_gemini_detailed_comparison.csv",
+      "modified_time": "2026-02-16T15:04:16"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_gemini_final.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gt_vs_gemini_final.csv",
+      "size_bytes": 335762,
+      "sha256": "67a78ff9d6bf1e7e9436dc20a9e5361eb92270c1a72fc3870042eb532545ba90",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_gemini_final.csv",
+      "modified_time": "2026-02-16T16:43:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_gemini_summary.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_vs_gemini_summary.csv",
+      "size_bytes": 3105,
+      "sha256": "010a501dae20d7fd27604b0831c18cd324045afd78bf5e4b8d518be645291458",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_gemini_summary.csv",
+      "modified_time": "2026-02-16T15:09:09"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_gemma_analysis_final.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gt_vs_gemma_analysis_final.csv",
+      "size_bytes": 1213,
+      "sha256": "75d7a52116ccfdf0a33b76c678d38098e007c510a0d14b1d9c72b52a2c1c99a7",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_gemma_analysis_final.csv",
+      "modified_time": "2026-02-16T16:43:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_gemma_detailed_comparison.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_vs_gemma_detailed_comparison.csv",
+      "size_bytes": 1431165,
+      "sha256": "b23ae0ea57b869ee4c682f9a1eb4c0daef4611650af7af554d9691ea1b28a281",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_gemma_detailed_comparison.csv",
+      "modified_time": "2026-02-16T14:51:14"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_gemma_final.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gt_vs_gemma_final.csv",
+      "size_bytes": 402425,
+      "sha256": "30ce139337a7909169a5f966e2cf6dc60ef803bbd4bfaec86ef05ad18f87e8bf",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_gemma_final.csv",
+      "modified_time": "2026-02-16T16:43:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_gemma_summary.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_vs_gemma_summary.csv",
+      "size_bytes": 3085,
+      "sha256": "45215dbcd2ea059f58d91d147ffefc518a1d805eaa50251bbdb84808bb383275",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_gemma_summary.csv",
+      "modified_time": "2026-02-16T14:51:14"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_qmeans_analysis_final.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gt_vs_qmeans_analysis_final.csv",
+      "size_bytes": 1091,
+      "sha256": "48c14f0230306cd72d7c65352411dbdfbdcce58ed58af6c2da47df12bf513ea2",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_qmeans_analysis_final.csv",
+      "modified_time": "2026-02-16T16:43:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_qmeans_comparison.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_vs_qmeans_comparison.csv",
+      "size_bytes": 264079,
+      "sha256": "a76815139a6676cee3937763a63889955e0ab14cfe200eb85b782b6f656cbf3a",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_qmeans_comparison.csv",
+      "modified_time": "2026-02-16T13:46:52"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_qmeans_detailed_comparison.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_vs_qmeans_detailed_comparison.csv",
+      "size_bytes": 531310,
+      "sha256": "d633ecfdb83292a80f25b01fb9d8027561bdc7e5a4e00cc4860fb8407246383b",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_qmeans_detailed_comparison.csv",
+      "modified_time": "2026-02-16T13:51:12"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_qmeans_final.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "gt_vs_qmeans_final.csv",
+      "size_bytes": 259942,
+      "sha256": "f5bf21dbb1cb1370962f35c86cab614211b6397a930a8412bb26a90379293cfd",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_qmeans_final.csv",
+      "modified_time": "2026-02-16T16:43:13"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\gt_vs_qmeans_summary.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "gt_vs_qmeans_summary.csv",
+      "size_bytes": 1691,
+      "sha256": "4b3cd59c84fa30e705e29110742adbacfc836ffac925c58ca74b03dc79b36915",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\gt_vs_qmeans_summary.csv",
+      "modified_time": "2026-02-16T13:51:12"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\mcat_comparison_full.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "mcat_comparison_full.csv",
+      "size_bytes": 140567,
+      "sha256": "81b4e5f038c6c095f6708475998db3058101b42a88acbdc93ad062e8976fc47b",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\mcat_comparison_full.csv",
+      "modified_time": "2026-02-23T10:17:25"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\mcat_comparison_stats.txt",
+      "family": "common",
+      "category": "results",
+      "file_name": "mcat_comparison_stats.txt",
+      "size_bytes": 876,
+      "sha256": "36866baaeac74f69b6a3a8e829492a392ebd7450b8cb5973fe352f3277851e34",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\mcat_comparison_stats.txt",
+      "modified_time": "2026-02-23T10:17:25"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\MOM_ISQ_Identification_Discussion.txt",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "MOM_ISQ_Identification_Discussion.txt",
+      "size_bytes": 4019,
+      "sha256": "d4a225258518050f57948e9d14dfcadc57b0dce52e3fe5fbdf80af065dcb834c",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\MOM_ISQ_Identification_Discussion.txt",
+      "modified_time": "2026-02-18T13:17:15"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\scroll_1.json",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "scroll_1.json",
+      "size_bytes": 161883,
+      "sha256": "cddbcd5a7f8b111afb429bc952d659fccc1952eee1ecba66533e3c4a92fecea9",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\scroll_1.json",
+      "modified_time": "2026-02-23T14:22:08"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\showcase_examples.json",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "showcase_examples.json",
+      "size_bytes": 66701,
+      "sha256": "f01fba76e19bed9115a9294cd5d6471598e9c16f55245bda15d0763dfae4ebc5",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\showcase_examples.json",
+      "modified_time": "2026-02-16T16:50:52"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\SUMMARY_FOR_PRESENTATION.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "SUMMARY_FOR_PRESENTATION.csv",
+      "size_bytes": 1303,
+      "sha256": "becf9484660b401a3ab020ba4ba67a2ace0e328de75ff67c00f120222663f753",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\SUMMARY_FOR_PRESENTATION.csv",
+      "modified_time": "2026-02-16T16:21:51"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\TRAINING_PROMPT_PRIORITY_VERSION.txt",
+      "family": "common",
+      "category": "paper-docs",
+      "file_name": "TRAINING_PROMPT_PRIORITY_VERSION.txt",
+      "size_bytes": 11561,
+      "sha256": "0abe948bae4b63d9eb0e7f2229828bffc507599ebd4eff66101923f7f3502bcf",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\TRAINING_PROMPT_PRIORITY_VERSION.txt",
+      "modified_time": "2026-04-20T12:24:09"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\transformers_mcat_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "transformers_mcat_results.csv",
+      "size_bytes": 54685,
+      "sha256": "dd542c104addd20a45292e4d54e077c0c0bd2b0c91b72045b99facf6279a7203",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\transformers_mcat_results.csv",
+      "modified_time": "2026-02-23T10:12:29"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\unbiased_1000_queries.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "unbiased_1000_queries.csv",
+      "size_bytes": 36315,
+      "sha256": "75c9739aca7b75e613b1743df2c89454155f031d933e32c4fe54dbe7df7a99b4",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\unbiased_1000_queries.csv",
+      "modified_time": "2026-02-23T10:32:49"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\unsloth_mcat_results.csv",
+      "family": "common",
+      "category": "results",
+      "file_name": "unsloth_mcat_results.csv",
+      "size_bytes": 54621,
+      "sha256": "c4586530cae5b8c22cc5cf1bb6917b597d193cb09bc473af8f64facf16ef92d4",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\present\\unsloth_mcat_results.csv",
+      "modified_time": "2026-02-23T10:12:18"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\50k_dataset_mcat_product.csv",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "50k_dataset_mcat_product.csv",
+      "size_bytes": 2831209,
+      "sha256": "3f54ee6dd9823939e6b8bbd465b91bfc406d3c8203ae6b7715c30ba24321f849",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_mcat\\50k_dataset_mcat_product.csv",
+      "modified_time": "2026-02-20T12:03:47"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\create_mcat_training_data.py",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "create_mcat_training_data.py",
+      "size_bytes": 6771,
+      "sha256": "6d7d7bac1f11da87b6d6ba5f1b3615c411f7ea509ebab3108f4404bbb197eb38",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_mcat\\create_mcat_training_data.py",
+      "modified_time": "2026-02-20T13:03:37"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\finetune_mcat.py",
+      "family": "common",
+      "category": "training",
+      "file_name": "finetune_mcat.py",
+      "size_bytes": 9915,
+      "sha256": "cd725d5ef8be87ad0bd1eb5656c62531434b5458b4299e64f6c35a8e22ba4d36",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_mcat\\finetune_mcat.py",
+      "modified_time": "2026-02-20T13:42:31"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\finetune_script.py",
+      "family": "common",
+      "category": "training",
+      "file_name": "finetune_script.py",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_mcat\\finetune_script.py",
+      "modified_time": "2026-02-20T12:07:46"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\inference_mcat.py",
+      "family": "common",
+      "category": "inference",
+      "file_name": "inference_mcat.py",
+      "size_bytes": 4753,
+      "sha256": "ee4cd6623147f498a3b1d8a54b15c4643ecb50b04eaf689072c3c4c803a8581b",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_mcat\\inference_mcat.py",
+      "modified_time": "2026-02-20T13:45:24"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\mcat_train.jsonl",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "mcat_train.jsonl",
+      "size_bytes": 5713570,
+      "sha256": "57eb21977e3ec96b32ad0357bd957fdde6947d481ab12053bc483d9650066fb9",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_mcat\\mcat_train.jsonl",
+      "modified_time": "2026-02-20T13:03:44"
+    },
+    {
+      "relative_path": "artifacts\\common\\raw\\mcat_val.jsonl",
+      "family": "common",
+      "category": "datasets",
+      "file_name": "mcat_val.jsonl",
+      "size_bytes": 644701,
+      "sha256": "a1d6cddd1cd4155994982554c5a13f4ece098fad72875f2413eccbffdac362b6",
+      "source_path": "c:\\Users\\IMart.LAPTOP-TSDP3RQJ\\Desktop\\ashish data\\product_mcat\\mcat_val.jsonl",
+      "modified_time": "2026-02-20T13:03:44"
+    }
+  ]
+}

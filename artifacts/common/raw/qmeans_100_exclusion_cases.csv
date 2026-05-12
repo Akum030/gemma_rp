@@ -1,0 +1,101 @@
+﻿success,query,qmeans_attr_count,qmeans_isq_list,qmeans_isq_pipe,response_time
+True,assam tea 500 gm pack,1,['500 gm:packaging size:specification'],500 gm:packaging size:specification,17.57
+True,premium assam tea loose leaf,2,"['leaf:form:specification', 'loose:packaging type:specification']",leaf:form:specification | loose:packaging type:specification,18.36
+True,organic assam tea black tea,3,"['assam:state origin:specification', 'black:color:specification', 'organic:type:specification']",assam:state origin:specification | black:color:specification | organic:type:specification,18.45
+True,assam tea gift box 1 kg,3,"['1 kg:packaging size:specification', 'box:packaging type:specification', 'gift:usage:specification']",1 kg:packaging size:specification | box:packaging type:specification | gift:usage:specification,18.18
+True,best quality assam tea online,2,"['best quality:features:specification', 'online:type:specification']",best quality:features:specification | online:type:specification,14.6
+True,assam tea ctc grade,1,['ctc:processing type:specification'],ctc:processing type:specification,22.43
+True,assam tea green pack 250 gm,2,"['250 gm:packaging size:specification', 'green:color:specification']",250 gm:packaging size:specification | green:color:specification,16.77
+True,assam tea with cardamom flavor,1,['cardamom:flavor:specification'],cardamom:flavor:specification,17.35
+True,assam tea premium blend,0,[],,19.93
+True,assam tea wholesale price,1,['wholesale:business type:specification'],wholesale:business type:specification,17.61
+True,mango bags jute material,2,"['bags:usage:specification', 'jute:material:specification']",bags:usage:specification | jute:material:specification,19.05
+True,mango bags for storage,1,['storage:usage:specification'],storage:usage:specification,31.88
+True,mango bags plastic 5 kg capacity,2,"['5 kg:capacity:specification', 'plastic:material:specification']",5 kg:capacity:specification | plastic:material:specification,26.05
+True,eco friendly mango bags,1,['eco friendly:features:specification'],eco friendly:features:specification,16.91
+True,printed mango bags wholesale,2,"['printed:pattern:specification', 'wholesale:business type:specification']",printed:pattern:specification | wholesale:business type:specification,18.01
+True,mango bags with handles,0,[],,17.58
+True,mango bags net type,0,[],,16.73
+True,mango bags paper material,2,"['bags:usage:specification', 'paper:material:specification']",bags:usage:specification | paper:material:specification,41.35
+True,mango bags exporters,1,['bags:packaging type:specification'],bags:packaging type:specification,17.92
+True,reusable mango bags set of 10,1,['10:set contains:specification'],10:set contains:specification,21.08
+True,kerala cotton saree white,2,"['kerala cotton:cotton type:specification', 'white:color:specification']",kerala cotton:cotton type:specification | white:color:specification,27.3
+True,kerala cotton saree with gold border,2,"['border:pattern:specification', 'kerala cotton:cotton type:specification']",border:pattern:specification | kerala cotton:cotton type:specification,17.19
+True,kerala cotton saree kasavu,1,['kerala cotton:cotton type:specification'],kerala cotton:cotton type:specification,19.08
+True,kerala cotton saree for wedding,3,"['kerala cotton:cotton type:specification', 'saree:category:specification', 'wedding:occasion:specification']",kerala cotton:cotton type:specification | saree:category:specification | wedding:occasion:specification,20.81
+True,kerala cotton saree set mundu,1,['kerala cotton:cotton type:specification'],kerala cotton:cotton type:specification,18.46
+True,kerala cotton saree traditional,1,['kerala cotton:cotton type:specification'],kerala cotton:cotton type:specification,21.21
+True,kerala cotton saree handloom,2,"['handloom:craft type:specification', 'kerala cotton:cotton type:specification']",handloom:craft type:specification | kerala cotton:cotton type:specification,17.3
+True,kerala cotton saree plain,2,"['kerala cotton:cotton type:specification', 'plain:pattern:specification']",kerala cotton:cotton type:specification | plain:pattern:specification,16.69
+True,pure kerala cotton saree,1,['kerala cotton:cotton type:specification'],kerala cotton:cotton type:specification,17.04
+True,kerala cotton saree with blouse,3,"['kerala cotton:cotton type:specification', 'saree:category:specification', 'with blouse:set content:specification']",kerala cotton:cotton type:specification | saree:category:specification | with blouse:set content:specification,17.51
+True,kerala saree silk blend,0,[],,17.22
+True,kerala saree onam special,1,['kerala:place of origin:specification'],kerala:place of origin:specification,16.95
+True,kerala saree cream color,1,['cream:color:specification'],cream:color:specification,17.89
+True,kerala saree with temple border,1,['border:pattern:specification'],border:pattern:specification,17.42
+True,kerala saree festive collection,1,['festive:occasion:specification'],festive:occasion:specification,17.82
+True,kerala saree women traditional,1,['women:gender:specification'],women:gender:specification,22.19
+True,kerala saree set with blouse,1,['with blouse:set content:specification'],with blouse:set content:specification,18.54
+True,kerala saree kasavu golden,2,"['golden:color:specification', 'kerala:place of origin:specification']",golden:color:specification | kerala:place of origin:specification,18.49
+True,kerala saree mundu style,2,"['kerala:place of origin:specification', 'mundu:style:specification']",kerala:place of origin:specification | mundu:style:specification,17.75
+True,kerala saree off white,1,['off white:color:specification'],off white:color:specification,29.32
+True,gota lace border,1,['gota:type of laces:specification'],gota:type of laces:specification,17.22
+True,gota lace golden color,2,"['golden:color:specification', 'gota lace:type of laces:specification']",golden:color:specification | gota lace:type of laces:specification,20.35
+True,gota lace for saree,2,"['gota lace:type of laces:specification', 'saree:usage:specification']",gota lace:type of laces:specification | saree:usage:specification,19.39
+True,gota lace 2 inch width,2,"['2 inch:width:specification', 'gota lace:type of laces:specification']",2 inch:width:specification | gota lace:type of laces:specification,18.58
+True,gota lace wholesale,2,"['gota lace:type of laces:specification', 'wholesale:business type:specification']",gota lace:type of laces:specification | wholesale:business type:specification,18.7
+True,gota lace silver shade,2,"['gota lace:type of laces:specification', 'silver:color:specification']",gota lace:type of laces:specification | silver:color:specification,17.01
+True,gota lace embroidery,2,"['embroidery:pattern:specification', 'gota lace:type of laces:specification']",embroidery:pattern:specification | gota lace:type of laces:specification,17.61
+True,gota lace designer,0,[],,16.67
+True,gota lace traditional,2,"['gota lace:type of laces:specification', 'traditional:design:specification']",gota lace:type of laces:specification | traditional:design:specification,17.31
+True,gota lace patti work,0,[],,17.92
+True,cow beef banned item,1,['banned:product:specification'],banned:product:specification,17.59
+True,beef cow not allowed,0,[],,24.3
+True,cow beef restricted product,0,[],,23.35
+True,beef cow search blocked,0,[],,22.47
+True,cow beef illegal item,0,[],,17.68
+True,beef cow prohibited,0,[],,18.04
+True,cow beef not permitted,0,[],,17.53
+True,beef cow banned search,0,[],,28.51
+True,cow beef restricted search,0,[],,16.74
+True,beef cow blocked item,0,[],,17.95
+True,dog labrador puppy,3,"['dog:animal breed:specification', 'labrador:breed:specification', 'puppy:life stages:specification']",dog:animal breed:specification | labrador:breed:specification | puppy:life stages:specification,16.36
+True,labrador dog breed,1,['labrador:breed:specification'],labrador:breed:specification,17.65
+True,dog labrador retriever,2,"['dog:animal breed:specification', 'labrador retriever:breed:specification']",dog:animal breed:specification | labrador retriever:breed:specification,18.42
+True,labrador dog golden color,3,"['dog:animal breed:specification', 'golden:color:specification', 'labrador:breed:specification']",dog:animal breed:specification | golden:color:specification | labrador:breed:specification,17.8
+True,dog labrador training,1,['dog:animal breed:specification'],dog:animal breed:specification,18.0
+True,labrador dog food,3,"['dog:pet type:specification', 'food:product:specification', 'labrador:breed:specification']",dog:pet type:specification | food:product:specification | labrador:breed:specification,18.51
+True,dog labrador accessories,1,['dog:animal breed:specification'],dog:animal breed:specification,18.3
+True,labrador dog collar,1,['collar:type:specification'],collar:type:specification,16.81
+True,dog labrador toys,1,['dog:usage:specification'],dog:usage:specification,17.37
+True,labrador dog sale,1,['labrador:breed:specification'],labrador:breed:specification,22.78
+True,vim bar 500 gm,1,['500 gm:weight:specification'],500 gm:weight:specification,27.34
+True,vim liquid dishwash,3,"['dishwash:usage:specification', 'liquid:form:specification', 'vim:brand:specification']",dishwash:usage:specification | liquid:form:specification | vim:brand:specification,17.13
+True,vim bar lemon,2,"['lemon:flavour:specification', 'vim:brand:specification']",lemon:flavour:specification | vim:brand:specification,17.41
+True,vim gel bottle,3,"['bottle:packaging type:specification', 'gel:usage:specification', 'vim:brand:specification']",bottle:packaging type:specification | gel:usage:specification | vim:brand:specification,19.41
+True,vim powder pack,2,"['powder:form:specification', 'vim:brand:specification']",powder:form:specification | vim:brand:specification,19.52
+True,vim bar multipack,0,[],,17.66
+True,vim liquid 750 ml,3,"['750 ml:packaging size:specification', 'liquid:form:specification', 'vim:brand:specification']",750 ml:packaging size:specification | liquid:form:specification | vim:brand:specification,16.66
+True,vim bar green,1,['green:color:specification'],green:color:specification,17.16
+True,vim dishwash bar,2,"['dishwash bar:detergent type:specification', 'vim:brand:specification']",dishwash bar:detergent type:specification | vim:brand:specification,17.14
+True,vim cleaning bar,2,"['cleaning bar:product:specification', 'vim:brand:specification']",cleaning bar:product:specification | vim:brand:specification,17.62
+True,radhe radhe tshirt,2,"['radhe radhe:brand:specification', 'tshirt:product:specification']",radhe radhe:brand:specification | tshirt:product:specification,16.76
+True,radhe radhe printed kurta,3,"['kurta:set contains:specification', 'printed:pattern:specification', 'radhe radhe:brand:specification']",kurta:set contains:specification | printed:pattern:specification | radhe radhe:brand:specification,21.2
+True,radhe radhe wall hanging,2,"['radhe radhe:design:specification', 'wall hanging:hanging type:specification']",radhe radhe:design:specification | wall hanging:hanging type:specification,17.95
+True,radhe radhe gift item,2,"['gift:product:specification', 'radhe radhe:brand:specification']",gift:product:specification | radhe radhe:brand:specification,25.25
+True,radhe radhe poster,2,"['poster:type:specification', 'radhe radhe:theme:specification']",poster:type:specification | radhe radhe:theme:specification,17.76
+True,radhe radhe mug print,1,['mug:product:specification'],mug:product:specification,17.96
+True,radhe radhe pendant,2,"['pendant:product:specification', 'radhe radhe:god name:specification']",pendant:product:specification | radhe radhe:god name:specification,29.91
+True,radhe radhe sticker,0,[],,16.61
+True,radhe radhe cushion cover,2,"['cushion:usage:specification', 'radhe radhe:brand:specification']",cushion:usage:specification | radhe radhe:brand:specification,26.47
+True,radhe radhe keychain,1,['radhe radhe:shape:specification'],radhe radhe:shape:specification,18.11
+True,assam tea premium 1 kg box organic,3,"['1 kg:packaging size:specification', 'box:packaging type:specification', 'organic:type:specification']",1 kg:packaging size:specification | box:packaging type:specification | organic:type:specification,18.63
+True,kerala cotton saree white gold border handloom,3,"['border:pattern:specification', 'handloom:craft type:specification', 'white:color:specification']",border:pattern:specification | handloom:craft type:specification | white:color:specification,19.87
+True,mango bags jute eco friendly large size,2,"['jute:material:specification', 'large:size:specification']",jute:material:specification | large:size:specification,18.91
+True,gota lace golden 3 inch designer border,3,"['3 inch:width:specification', 'golden:color:specification', 'gota lace:type of laces:specification']",3 inch:width:specification | golden:color:specification | gota lace:type of laces:specification,16.7
+True,vim bar lemon 200 gm pack of 3,3,"['200 gm:packaging size:specification', 'lemon:flavour:specification', 'vim:brand:specification']",200 gm:packaging size:specification | lemon:flavour:specification | vim:brand:specification,18.72
+True,radhe radhe printed cotton tshirt men,5,"['cotton:fabric:specification', 'men:gender:specification', 'printed:design:specification', 'radhe radhe:brand:specification', 'tshirt:product:specification']",cotton:fabric:specification | men:gender:specification | printed:design:specification | radhe radhe:brand:specification | tshirt:product:specification,17.58
+True,kerala saree traditional kasavu wedding special,1,['wedding:occasion:specification'],wedding:occasion:specification,17.41
+True,assam tea ctc dust grade 500 gm,3,"['500 gm:packaging size:specification', 'ctc:processing type:specification', 'dust:grade:specification']",500 gm:packaging size:specification | ctc:processing type:specification | dust:grade:specification,21.6
+True,gota lace embroidery silver patti,3,"['embroidery:pattern:specification', 'gota lace:type of laces:specification', 'silver:color:specification']",embroidery:pattern:specification | gota lace:type of laces:specification | silver:color:specification,16.95
+True,radhe radhe wooden wall frame decorative,2,"['radhe radhe:design:specification', 'wooden:material:specification']",radhe radhe:design:specification | wooden:material:specification,17.46

@@ -1,0 +1,92 @@
+﻿GROUND TRUTH (CLAUDE OPUS) VS QMEANS - COMPARISON SUMMARY
+
+=== OVERVIEW ===
+Metric,Value
+Total Queries,996
+Both Successful,961
+GT Only Success,17
+QMeans Only Success,16
+Both Failed,2
+
+=== KEY ANALYSIS ===
+Total GT Keys (with synonyms),5079
+Total QMeans Keys,1920
+Total Matched Keys,798
+Queries with at least 1 key match,516
+Queries with perfect key coverage,132
+
+=== VALUE ANALYSIS ===
+Total Matched Values,826
+Queries with at least 1 value match,522
+
+=== TOP 20 GROUND TRUTH KEYS (by frequency) ===
+Key,Count,Also in QMeans?
+motor type,741,Yes
+product type,741,No
+application,288,No
+use,288,No
+brand,272,Yes
+manufacturer,272,No
+company,272,No
+product category,243,No
+category,243,No
+power,221,Yes
+phase,123,Yes
+supply phase,123,No
+horsepower,117,Yes
+hp,117,No
+wattage,104,Yes
+current type,86,No
+supply type,86,No
+model number,86,Yes
+part number,86,No
+model,86,Yes
+
+=== TOP 20 QMEANS KEYS (by frequency) ===
+Key,Count,Also in GT?
+brand,324,Yes
+usage,243,No
+motor type,181,Yes
+model name/number,172,No
+power,172,Yes
+part type,100,No
+phase,95,Yes
+power source,67,No
+speed,60,Yes
+product,44,No
+starter type,41,No
+type,36,No
+voltage,33,Yes
+no of phase,29,No
+mounting type,26,Yes
+motor part type,23,No
+material,18,No
+actuator type,18,No
+model number,14,Yes
+rated power,14,No
+
+=== TOP MATCHED KEYS ===
+Key,Match Count
+brand,236
+motor type,181
+power,169
+phase,85
+speed,57
+voltage,32
+mounting type,15
+shaft type,9
+horsepower,5
+condition,3
+efficiency,3
+model number,1
+wattage,1
+frame size,1
+
+=== KEY MATCH RATE DISTRIBUTION ===
+Match Rate,Query Count
+0%,462
+1-25%,256
+26-50%,199
+51-75%,61
+76-99%,0
+100%,0

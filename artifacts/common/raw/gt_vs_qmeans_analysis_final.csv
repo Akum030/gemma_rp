@@ -1,0 +1,53 @@
+﻿GROUND TRUTH vs QMEANS - APPLE TO APPLE COMPARISON
+============================================================
+
+OVERVIEW
+Metric,Count,Percentage
+Total Queries Compared,978,100%
+
+KEY MATCHING
+Metric,Count,Percentage
+Total Key Matches,798,-
+Queries with ≥1 Key Match,516,52.8%
+Queries with 100% Key Match,0,0.0%
+
+VALUE MATCHING
+Metric,Count,Percentage
+Total Value Matches,826,-
+Queries with ≥1 Value Match,522,53.4%
+Queries with 100% Value Match,165,16.9%
+
+TOP 20 MATCHED KEYS
+Key,Match Count,GT Frequency,QMeans Frequency
+brand,236,265,324
+motor type,181,730,181
+power,169,210,172
+phase,85,122,95
+speed,57,66,60
+voltage,32,43,33
+mounting type,15,23,26
+shaft type,9,22,9
+horsepower,5,112,5
+efficiency,3,4,3
+condition,3,4,3
+wattage,1,98,1
+frame size,1,1,1
+model number,1,84,14
+
+GT KEYS NOT IN MODEL (Top 15)
+Key,GT Frequency
+product type,730
+application,286
+use,286
+manufacturer,265
+company,265
+product category,240
+category,240
+supply phase,122
+hp,112
+part number,84
+current type,83
+supply type,83
+rpm,66
+rated speed,66
+kilowatt,55

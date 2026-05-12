@@ -1,0 +1,2490 @@
+{
+  "report_title": "Attribute Extraction Model Comparison - Showcase Examples",
+  "date": "February 2026",
+  "best_matching_examples": [
+    {
+      "example_number": 1,
+      "query": "crompton motors 20 hp 3 phase 960 rpm",
+      "summary": {
+        "gemini_key_match": "9/13",
+        "gemma_key_match": "9/13",
+        "qmeans_key_match": "4/13",
+        "matched_keys": [
+          "brand",
+          "horsepower",
+          "hp",
+          "manufacturer",
+          "phase",
+          "power",
+          "product type",
+          "rpm",
+          "speed"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "crompton",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "crompton",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "crompton",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "20 hp",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "20 hp",
+            "key": "horsepower",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "20 hp",
+            "key": "hp",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "three phase",
+            "key": "phase",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "three phase",
+            "key": "supply_phase",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "960 rpm",
+            "key": "speed",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "960 rpm",
+            "key": "rpm",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "960 rpm",
+            "key": "rated_speed",
+            "key_priority": 3,
+            "attribute_priority": 5
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 9,
+        "value_match": 3,
+        "attributes": [
+          {
+            "value": "crompton",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "crompton",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "motors",
+            "key": "product_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "motors",
+            "key": "category",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "20 hp",
+            "key": "horsepower",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "20 hp",
+            "key": "power",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "20 hp",
+            "key": "hp",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "3 phase",
+            "key": "phase",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "3 phase",
+            "key": "phase_type",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "960 rpm",
+            "key": "rpm",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "960 rpm",
+            "key": "speed",
+            "key_priority": 2,
+            "attribute_priority": 5
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 9,
+        "value_match": 2,
+        "attributes": [
+          {
+            "value": "20 HP",
+            "key": "horsepower",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "20 HP",
+            "key": "horse_power",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "20 HP",
+            "key": "hp",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "20 HP",
+            "key": "motor_horsepower",
+            "key_priority": 4,
+            "attribute_priority": 1
+          },
+          {
+            "value": "Crompton Motors",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "Crompton Motors",
+            "key": "company",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "Crompton Motors",
+            "key": "manufacturer",
+            "key_priority": 3,
+            "attribute_priority": 2
+          },
+          {
+            "value": "Crompton Motors",
+            "key": "make",
+            "key_priority": 4,
+            "attribute_priority": 2
+          },
+          {
+            "value": "3 Phase",
+            "key": "phase",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "3 Phase",
+            "key": "phase_type",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "3 Phase",
+            "key": "number_of_phase",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "3 Phase",
+            "key": "input_phase",
+            "key_priority": 4,
+            "attribute_priority": 3
+          },
+          {
+            "value": "960 RPM",
+            "key": "speed",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "960 RPM",
+            "key": "rpm",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "960 RPM",
+            "key": "motor_speed",
+            "key_priority": 3,
+            "attribute_priority": 4
+          },
+          {
+            "value": "960 RPM",
+            "key": "rated_speed",
+            "key_priority": 4,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 4,
+        "value_match": 3,
+        "attributes": [
+          {
+            "value": "20 hp",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "3 phase",
+            "key": "phase",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "960 rpm",
+            "key": "speed",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "crompton",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "example_number": 2,
+      "query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR  1FK2106-4AF01-1SA0 2.7 kW",
+      "summary": {
+        "gemini_key_match": "8/11",
+        "gemma_key_match": "7/11",
+        "qmeans_key_match": "2/11",
+        "matched_keys": [
+          "brand",
+          "kilowatt",
+          "manufacturer",
+          "model number",
+          "motor type",
+          "part number",
+          "power",
+          "wattage"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "servo motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "servo motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "2.7 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.7 kw",
+            "key": "kilowatt",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.7 kw",
+            "key": "wattage",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "part_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 8,
+        "value_match": 4,
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "series",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "product_family",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SERVO MOTOR",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "SERVO MOTOR",
+            "key": "type",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "part_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "model_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "2.7 kW",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "2.7 kW",
+            "key": "wattage",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "2.7 kW",
+            "key": "kilowatt",
+            "key_priority": 3,
+            "attribute_priority": 5
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 7,
+        "value_match": 3,
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "company",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "make",
+            "key_priority": 4,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_name",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_no",
+            "key_priority": 4,
+            "attribute_priority": 2
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "model_name",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "model_no",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF01-1SA0",
+            "key": "model_number",
+            "key_priority": 4,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.7 kW",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "2.7 kW",
+            "key": "wattage",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "2.7 kW",
+            "key": "motor_power",
+            "key_priority": 3,
+            "attribute_priority": 4
+          },
+          {
+            "value": "2.7 kW",
+            "key": "power_rating",
+            "key_priority": 4,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 2,
+        "value_match": 4,
+        "attributes": [
+          {
+            "value": "1fk2106-4af01-1sa0",
+            "key": "model name/number",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "2.7 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "servo motor",
+            "key": "usage",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "example_number": 3,
+      "query": "Siemens 7.5 KW 2 HP Electric Motor",
+      "summary": {
+        "gemini_key_match": "8/10",
+        "gemma_key_match": "7/10",
+        "qmeans_key_match": "3/10",
+        "matched_keys": [
+          "brand",
+          "horsepower",
+          "hp",
+          "kilowatt",
+          "manufacturer",
+          "motor type",
+          "power",
+          "wattage"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "2 hp",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2 hp",
+            "key": "horsepower",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2 hp",
+            "key": "hp",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "7.5 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "7.5 kw",
+            "key": "kilowatt",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "7.5 kw",
+            "key": "wattage",
+            "key_priority": 3,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 8,
+        "value_match": 3,
+        "attributes": [
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "7.5 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "7.5 kw",
+            "key": "wattage",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "7.5 kw",
+            "key": "kilowatt",
+            "key_priority": 3,
+            "attribute_priority": 2
+          },
+          {
+            "value": "2 hp",
+            "key": "horsepower",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2 hp",
+            "key": "power",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2 hp",
+            "key": "hp",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "electric motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "electric motor",
+            "key": "type",
+            "key_priority": 2,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 7,
+        "value_match": 3,
+        "attributes": [
+          {
+            "value": "Siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "Siemens",
+            "key": "company",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "Siemens",
+            "key": "manufacturer",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "Siemens",
+            "key": "make",
+            "key_priority": 4,
+            "attribute_priority": 1
+          },
+          {
+            "value": "Electric",
+            "key": "power_source",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "Electric",
+            "key": "power_supply",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "Electric",
+            "key": "power_type",
+            "key_priority": 3,
+            "attribute_priority": 2
+          },
+          {
+            "value": "2 HP",
+            "key": "horsepower",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2 HP",
+            "key": "horse_power",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2 HP",
+            "key": "hp",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "7.5 KW",
+            "key": "wattage",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "7.5 KW",
+            "key": "power_rating",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "7.5 KW",
+            "key": "power",
+            "key_priority": 3,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 3,
+        "value_match": 3,
+        "attributes": [
+          {
+            "value": "2 hp",
+            "key": "horsepower",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "7.5 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "electric",
+            "key": "product",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "example_number": 4,
+      "query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK10-0MB0 0.57 kW",
+      "summary": {
+        "gemini_key_match": "8/11",
+        "gemma_key_match": "6/11",
+        "qmeans_key_match": "2/11",
+        "matched_keys": [
+          "brand",
+          "kilowatt",
+          "manufacturer",
+          "model number",
+          "motor type",
+          "part number",
+          "power",
+          "wattage"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "servo motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "servo motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "0.57 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "0.57 kw",
+            "key": "kilowatt",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "0.57 kw",
+            "key": "wattage",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "part_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 8,
+        "value_match": 4,
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "series",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "product_family",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SERVO MOTOR",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "SERVO MOTOR",
+            "key": "type",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "part_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "mpn",
+            "key_priority": 3,
+            "attribute_priority": 4
+          },
+          {
+            "value": "0.57 kW",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "0.57 kW",
+            "key": "wattage",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "0.57 kW",
+            "key": "kilowatt",
+            "key_priority": 3,
+            "attribute_priority": 5
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 6,
+        "value_match": 3,
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "company",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "make",
+            "key_priority": 4,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_name",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_no",
+            "key_priority": 4,
+            "attribute_priority": 2
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "model_name",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "model_no",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "model_name",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2204-5AK10-0MB0",
+            "key": "model_number",
+            "key_priority": 4,
+            "attribute_priority": 3
+          },
+          {
+            "value": "0.57 kW",
+            "key": "power_source",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "0.57 kW",
+            "key": "power_supply",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "0.57 kW",
+            "key": "power_type",
+            "key_priority": 3,
+            "attribute_priority": 4
+          },
+          {
+            "value": "0.57 kW",
+            "key": "power",
+            "key_priority": 4,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 2,
+        "value_match": 4,
+        "attributes": [
+          {
+            "value": "0.57 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "1fk2204-5ak10-0mb0",
+            "key": "model name/number",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "servo motor",
+            "key": "usage",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 4
+          }
+        ]
+      }
+    },
+    {
+      "example_number": 5,
+      "query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-5AK00-0SB0 0.12 kW",
+      "summary": {
+        "gemini_key_match": "8/11",
+        "gemma_key_match": "6/11",
+        "qmeans_key_match": "2/11",
+        "matched_keys": [
+          "brand",
+          "kilowatt",
+          "manufacturer",
+          "model number",
+          "motor type",
+          "part number",
+          "power",
+          "wattage"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "servo motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "servo motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "0.12 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "0.12 kw",
+            "key": "kilowatt",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "0.12 kw",
+            "key": "wattage",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "part_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 8,
+        "value_match": 4,
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "series",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "product_family",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SERVO MOTOR",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "SERVO MOTOR",
+            "key": "type",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "part_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "model_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "mpn",
+            "key_priority": 3,
+            "attribute_priority": 4
+          },
+          {
+            "value": "0.12 kW",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "0.12 kW",
+            "key": "wattage",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "0.12 kW",
+            "key": "kilowatt",
+            "key_priority": 3,
+            "attribute_priority": 5
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 6,
+        "value_match": 3,
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "company",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "make",
+            "key_priority": 4,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_name",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_no",
+            "key_priority": 4,
+            "attribute_priority": 2
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "model_name",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "model_no",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2104-5AK00-0SB0",
+            "key": "model_number",
+            "key_priority": 4,
+            "attribute_priority": 3
+          },
+          {
+            "value": "0.12 kW",
+            "key": "power_source",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "0.12 kW",
+            "key": "power_supply",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "0.12 kW",
+            "key": "power_type",
+            "key_priority": 3,
+            "attribute_priority": 4
+          },
+          {
+            "value": "0.12 kW",
+            "key": "power",
+            "key_priority": 4,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 2,
+        "value_match": 4,
+        "attributes": [
+          {
+            "value": "0.12 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "1fk2104-5ak00-0sb0",
+            "key": "model name/number",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "servo motor",
+            "key": "usage",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 4
+          }
+        ]
+      }
+    }
+  ],
+  "mismatch_examples": [
+    {
+      "example_number": 1,
+      "query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-4AF10-0SA0 2.7 kW",
+      "issue": "Gemma and QMeans have low key match compared to Gemini",
+      "summary": {
+        "gemini_key_match": "8/11 (Good)",
+        "gemma_key_match": "0/11 (Poor)",
+        "qmeans_key_match": "1/11 (Poor)",
+        "gemini_matched_keys": [
+          "brand",
+          "kilowatt",
+          "manufacturer",
+          "model number",
+          "motor type",
+          "part number",
+          "power",
+          "wattage"
+        ],
+        "gemma_matched_keys": [],
+        "qmeans_matched_keys": [
+          "brand"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "2.7 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.7 kw",
+            "key": "kilowatt",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.7 kw",
+            "key": "wattage",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF10-0SA0",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF10-0SA0",
+            "key": "part_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF10-0SA0",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 8,
+        "value_match": 3,
+        "status": "GOOD MATCH",
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "series",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_series",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SERVO MOTER",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "SERVO MOTER",
+            "key": "type",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF10-0SA0",
+            "key": "part_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF10-0SA0",
+            "key": "model_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "2.7 kW",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "2.7 kW",
+            "key": "wattage",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "2.7 kW",
+            "key": "kilowatt",
+            "key_priority": 3,
+            "attribute_priority": 5
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 0,
+        "value_match": 0,
+        "status": "POOR MATCH",
+        "attributes": []
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 1,
+        "value_match": 2,
+        "status": "POOR MATCH",
+        "attributes": [
+          {
+            "value": "2.7 kw",
+            "key": "output power",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 2
+          }
+        ]
+      }
+    },
+    {
+      "example_number": 2,
+      "query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-4AF00-1MA0 2.7 kW",
+      "issue": "Gemma and QMeans have low key match compared to Gemini",
+      "summary": {
+        "gemini_key_match": "8/11 (Good)",
+        "gemma_key_match": "0/11 (Poor)",
+        "qmeans_key_match": "1/11 (Poor)",
+        "gemini_matched_keys": [
+          "brand",
+          "kilowatt",
+          "manufacturer",
+          "model number",
+          "motor type",
+          "part number",
+          "power",
+          "wattage"
+        ],
+        "gemma_matched_keys": [],
+        "qmeans_matched_keys": [
+          "brand"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "2.7 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.7 kw",
+            "key": "kilowatt",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.7 kw",
+            "key": "wattage",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF00-1MA0",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF00-1MA0",
+            "key": "part_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF00-1MA0",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 8,
+        "value_match": 3,
+        "status": "GOOD MATCH",
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "series",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "product_family",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SERVO MOTER",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "SERVO MOTER",
+            "key": "servo",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-4AF00-1MA0",
+            "key": "part_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-4AF00-1MA0",
+            "key": "model_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "2.7 kW",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "2.7 kW",
+            "key": "wattage",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "2.7 kW",
+            "key": "kilowatt",
+            "key_priority": 3,
+            "attribute_priority": 5
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 0,
+        "value_match": 0,
+        "status": "POOR MATCH",
+        "attributes": []
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 1,
+        "value_match": 2,
+        "status": "POOR MATCH",
+        "attributes": [
+          {
+            "value": "2.7 kw",
+            "key": "output power",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "s-1fk2",
+            "key": "model name/number",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 3
+          }
+        ]
+      }
+    },
+    {
+      "example_number": 3,
+      "query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-3AF11-1SA0 2.3 kW",
+      "issue": "Gemma and QMeans have low key match compared to Gemini",
+      "summary": {
+        "gemini_key_match": "8/11 (Good)",
+        "gemma_key_match": "0/11 (Poor)",
+        "qmeans_key_match": "1/11 (Poor)",
+        "gemini_matched_keys": [
+          "brand",
+          "kilowatt",
+          "manufacturer",
+          "model number",
+          "motor type",
+          "part number",
+          "power",
+          "wattage"
+        ],
+        "gemma_matched_keys": [],
+        "qmeans_matched_keys": [
+          "brand"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "2.3 kw",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.3 kw",
+            "key": "kilowatt",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "2.3 kw",
+            "key": "wattage",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-3AF11-1SA0",
+            "key": "model_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-3AF11-1SA0",
+            "key": "part_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-3AF11-1SA0",
+            "key": "model",
+            "key_priority": 3,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 8,
+        "value_match": 3,
+        "status": "GOOD MATCH",
+        "attributes": [
+          {
+            "value": "SIEMENS",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIEMENS",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "series",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SIMOTICS S-1FK2",
+            "key": "model_family",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "SERVO MOTER",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "SERVO MOTER",
+            "key": "type",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "1FK2106-3AF11-1SA0",
+            "key": "part_number",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-3AF11-1SA0",
+            "key": "model_number",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "1FK2106-3AF11-1SA0",
+            "key": "sku",
+            "key_priority": 3,
+            "attribute_priority": 4
+          },
+          {
+            "value": "2.3 kW",
+            "key": "power",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "2.3 kW",
+            "key": "wattage",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "2.3 kW",
+            "key": "kilowatt",
+            "key_priority": 3,
+            "attribute_priority": 5
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 0,
+        "value_match": 0,
+        "status": "POOR MATCH",
+        "attributes": []
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 1,
+        "value_match": 2,
+        "status": "POOR MATCH",
+        "attributes": [
+          {
+            "value": "2.3 kw",
+            "key": "output power",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "siemens",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 2
+          }
+        ]
+      }
+    },
+    {
+      "example_number": 4,
+      "query": "bonfiglioli riduttori motor be71-b4 230/400-50 ip55 clf b5",
+      "issue": "Gemma and QMeans have low key match compared to Gemini",
+      "summary": {
+        "gemini_key_match": "6/9 (Good)",
+        "gemma_key_match": "0/9 (Poor)",
+        "qmeans_key_match": "1/9 (Poor)",
+        "gemini_matched_keys": [
+          "brand",
+          "manufacturer",
+          "mounting",
+          "mounting type",
+          "product type",
+          "protection"
+        ],
+        "gemma_matched_keys": [],
+        "qmeans_matched_keys": [
+          "brand"
+        ]
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "bonfiglioli",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "bonfiglioli",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "bonfiglioli",
+            "key": "company",
+            "key_priority": 3,
+            "attribute_priority": 1
+          },
+          {
+            "value": "motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "b5 flange mount",
+            "key": "mounting_type",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "b5 flange mount",
+            "key": "mounting",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "ip55",
+            "key": "enclosure",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "ip55",
+            "key": "protection",
+            "key_priority": 2,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 6,
+        "value_match": 2,
+        "status": "GOOD MATCH",
+        "attributes": [
+          {
+            "value": "bonfiglioli riduttori",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "bonfiglioli riduttori",
+            "key": "manufacturer",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "motor",
+            "key": "product_type",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "be71-b4",
+            "key": "model",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "be71-b4",
+            "key": "series",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "230/400v",
+            "key": "voltage",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "230/400v",
+            "key": "volt",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "50 hz",
+            "key": "frequency",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "50 hz",
+            "key": "hz",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "ip55",
+            "key": "protection",
+            "key_priority": 1,
+            "attribute_priority": 6
+          },
+          {
+            "value": "ip55",
+            "key": "ip_rating",
+            "key_priority": 2,
+            "attribute_priority": 6
+          },
+          {
+            "value": "clf",
+            "key": "insulation_class",
+            "key_priority": 1,
+            "attribute_priority": 7
+          },
+          {
+            "value": "clf",
+            "key": "class",
+            "key_priority": 2,
+            "attribute_priority": 7
+          },
+          {
+            "value": "b5",
+            "key": "mounting",
+            "key_priority": 1,
+            "attribute_priority": 8
+          },
+          {
+            "value": "b5",
+            "key": "mounting_type",
+            "key_priority": 2,
+            "attribute_priority": 8
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 0,
+        "value_match": 0,
+        "status": "POOR MATCH",
+        "attributes": []
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 1,
+        "value_match": 2,
+        "status": "POOR MATCH",
+        "attributes": [
+          {
+            "value": "be71-b4",
+            "key": "model",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "bonfiglioli",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "ip55",
+            "key": "ip rating",
+            "key_priority": 1,
+            "attribute_priority": 3
+          }
+        ]
+      }
+    },
+    {
+      "example_number": 5,
+      "query": "Rhino+12V+DC+30RPM+70Kgcm+IG32+Heavy+Duty+Planetary+Geared+Motor",
+      "issue": "Gemma and QMeans have low key match compared to Gemini",
+      "summary": {
+        "gemini_key_match": "5/9 (Good)",
+        "gemma_key_match": "0/9 (Poor)",
+        "qmeans_key_match": "0/9 (Poor)",
+        "gemini_matched_keys": [
+          "current type",
+          "motor type",
+          "rpm",
+          "speed",
+          "voltage"
+        ],
+        "gemma_matched_keys": [],
+        "qmeans_matched_keys": []
+      },
+      "ground_truth": {
+        "source": "Claude Opus",
+        "attributes": [
+          {
+            "value": "gear motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "gear motor",
+            "key": "product_type",
+            "key_priority": 2,
+            "attribute_priority": 1
+          },
+          {
+            "value": "12v",
+            "key": "voltage",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "12v",
+            "key": "supply_voltage",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "30 rpm",
+            "key": "speed",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "30 rpm",
+            "key": "rpm",
+            "key_priority": 2,
+            "attribute_priority": 3
+          },
+          {
+            "value": "30 rpm",
+            "key": "rated_speed",
+            "key_priority": 3,
+            "attribute_priority": 3
+          },
+          {
+            "value": "dc",
+            "key": "current_type",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "dc",
+            "key": "supply_type",
+            "key_priority": 2,
+            "attribute_priority": 4
+          }
+        ]
+      },
+      "gemini": {
+        "source": "Gemini Zero-shot",
+        "key_match": 5,
+        "value_match": 2,
+        "status": "GOOD MATCH",
+        "attributes": [
+          {
+            "value": "rhino",
+            "key": "brand",
+            "key_priority": 1,
+            "attribute_priority": 1
+          },
+          {
+            "value": "12v",
+            "key": "voltage",
+            "key_priority": 1,
+            "attribute_priority": 2
+          },
+          {
+            "value": "12v",
+            "key": "volt",
+            "key_priority": 2,
+            "attribute_priority": 2
+          },
+          {
+            "value": "dc",
+            "key": "current_type",
+            "key_priority": 1,
+            "attribute_priority": 3
+          },
+          {
+            "value": "30rpm",
+            "key": "rpm",
+            "key_priority": 1,
+            "attribute_priority": 4
+          },
+          {
+            "value": "30rpm",
+            "key": "speed",
+            "key_priority": 2,
+            "attribute_priority": 4
+          },
+          {
+            "value": "70kgcm",
+            "key": "torque",
+            "key_priority": 1,
+            "attribute_priority": 5
+          },
+          {
+            "value": "70kgcm",
+            "key": "load_torque",
+            "key_priority": 2,
+            "attribute_priority": 5
+          },
+          {
+            "value": "ig32",
+            "key": "model",
+            "key_priority": 1,
+            "attribute_priority": 6
+          },
+          {
+            "value": "ig32",
+            "key": "series",
+            "key_priority": 2,
+            "attribute_priority": 6
+          },
+          {
+            "value": "heavy duty",
+            "key": "grade",
+            "key_priority": 1,
+            "attribute_priority": 7
+          },
+          {
+            "value": "heavy duty",
+            "key": "feature",
+            "key_priority": 2,
+            "attribute_priority": 7
+          },
+          {
+            "value": "planetary geared motor",
+            "key": "motor_type",
+            "key_priority": 1,
+            "attribute_priority": 8
+          },
+          {
+            "value": "planetary geared motor",
+            "key": "gearbox_type",
+            "key_priority": 2,
+            "attribute_priority": 8
+          }
+        ]
+      },
+      "gemma_v4": {
+        "source": "Gemma 2 9B Fine-tuned",
+        "key_match": 0,
+        "value_match": 0,
+        "status": "POOR MATCH",
+        "attributes": []
+      },
+      "qmeans": {
+        "source": "QMeans Production",
+        "key_match": 0,
+        "value_match": 0,
+        "status": "POOR MATCH",
+        "attributes": []
+      }
+    }
+  ]
+}

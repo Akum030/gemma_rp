@@ -1,0 +1,1001 @@
+keyword,api_mcat_name,api_mcat_id,api_accuracy,trans_mcat_name,trans_mcat_id,trans_vs_api_id,trans_vs_api_name,unsloth_mcat_name,unsloth_mcat_id,unsloth_vs_api_id,unsloth_vs_api_name,trans_vs_unsloth_id,all_three_agree
+Cooler Motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Actuators,Actuators,3148,High,Valve Actuators,40795,DIFF,DIFF,Valve Actuators,40795,DIFF,DIFF,MATCH,NO
+130 Flat Motor,DC Motor,445,Medium,Cooler Motor,52897,DIFF,DIFF,Cooler Motor,52897,DIFF,DIFF,MATCH,NO
+ap fan motor & fresh air moter,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+a.c. induction motor,AC Induction Motor,21550,High,AC Induction Motor,21550,MATCH,MATCH,AC Induction Motor,21550,MATCH,MATCH,MATCH,YES
+Siemens Sipart Ps2 Positioner Model 6dr5,Pneumatic Positioner,20641,High,Siemens Actuators,203382,DIFF,DIFF,Siemens Actuators,193967,DIFF,DIFF,DIFF,NO
+Ac Outdoor Fan Motor,AC Fan Motor,146600,High,AC Fan Motor,146600,MATCH,MATCH,AC Fan Motor,146600,MATCH,MATCH,MATCH,YES
+siemens-electric-motors,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF01-1MB0 1 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+yako tech ms s3,AC Servo Motor,14970,Medium,Servo Motor,448,DIFF,DIFF,Cooler Motor,52897,DIFF,DIFF,DIFF,NO
+brushless dc motor,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+ABB Electric Motor,ABB Electric Motor,181114,High,ABB Electric Motor,181114,MATCH,MATCH,ABB Electric Motor,181114,MATCH,MATCH,MATCH,YES
+sensor plate,Motor Plate,190101,High,Motor Plate,190101,MATCH,MATCH,Motor Plate,190101,MATCH,MATCH,MATCH,YES
+electronic components bo moters,Battery Operated Motor,52893,High,Servo Motor,448,DIFF,DIFF,DC Motor,445,DIFF,DIFF,DIFF,NO
+1500 kv ccw multirotor motor,Rotor mounted Motor,36904,High,Brushless Motors,23616,DIFF,DIFF,Brushless Motors,23616,DIFF,DIFF,MATCH,NO
+Panasonic Geared Motor,Panasonic Geared Motor,193206,High,Panasonic AC Geared Motor,193206,MATCH,DIFF,Panasonic AC Geared Motor,193239,DIFF,DIFF,DIFF,NO
+worm geared brake motor,Worm Geared Motor,41500,High,Geared Brake Motors,44652,DIFF,DIFF,Geared Brake Motors,44652,DIFF,DIFF,MATCH,NO
+eletical motors 40hp,Electric Motor,1274,High,Electric Motor,1274,MATCH,MATCH,Three Phase Motor,2415,DIFF,DIFF,DIFF,NO
+Rotomotive Induction Motor 3 Phase,Three Phase Induction Motor,131725,High,Three Phase Induction Motor,131725,MATCH,MATCH,Three Phase Induction Motor,131725,MATCH,MATCH,MATCH,YES
+100 W Chimney Motor,Chimney Motor,446121,High,Chimney Motors,186074,DIFF,DIFF,Chimney Motors,443256,DIFF,DIFF,DIFF,NO
+1 for reselling piece Panasonic Geared Motor,Panasonic Geared Motor,193206,High,Panasonic Geared Motor,187161,DIFF,MATCH,Panasonic AC Geared Motor,187161,DIFF,DIFF,MATCH,NO
+Motor Cover,Motor Cover,117875,High,Motor Cover,117875,MATCH,MATCH,Motor Cover,117875,MATCH,MATCH,MATCH,YES
+b04420065,Pneumatic Actuators,5084,Medium,Cooler Motor,52897,DIFF,DIFF,Single Phase Induction Motor,9483,DIFF,DIFF,DIFF,NO
+1 piece Slip Rings,Slip Rings,37229,High,Slip Rings,37229,MATCH,MATCH,Slip Rings,37229,MATCH,MATCH,MATCH,YES
+venex 3 phase dol motor starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+Used Crompton Greaves Motor,Crompton Greaves Motor,126348,High,Used Motors,60115,DIFF,DIFF,Used Motors,178664,DIFF,DIFF,DIFF,NO
+Mobile Starter Prime,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+1kw( 1.3hp) bldc motor,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+1kw( 1.3hp) bldc motor near jharsuguda,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+spg motor,Gear Motor,29373,High,Single Phase Motors,9484,DIFF,DIFF,Single Phase Motors,9484,DIFF,DIFF,MATCH,NO
+crompton greaves motor 5 hp 3.70 kw 3 phase 1450 rpm foot mount,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+Vacuum Cleaner Motors,Vacuum Cleaner Motors,40749,High,Vacuum Cleaner Motors,40749,MATCH,MATCH,Vacuum Cleaner Motors,40749,MATCH,MATCH,MATCH,YES
+Siemens Electric Three Phase Motor,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+panasonic gear box MY9G30B,Panasonic Geared Motor,193206,High,Panasonic Geared Motor,193206,MATCH,MATCH,Panasonic AC Servo Motor,187161,DIFF,DIFF,DIFF,NO
+Three Phase Dol Starter (elcw-s-digi),DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+Motor Plate,Motor Plate,190101,High,Motor Plate,190101,MATCH,MATCH,Motor Plate,190101,MATCH,MATCH,MATCH,YES
+three phase dol dry run motor starter,DOL Starter,26266,High,3 Phase Motor Starter,226794,DIFF,DIFF,DOL Starter,26266,MATCH,MATCH,DIFF,NO
+Single Phase Electric Motor,Single Phase Electric Motor,52927,High,Single Phase Electric Motor,52927,MATCH,MATCH,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+auto switch,Motor Automatic Switch,140407,High,Motor Automatic Switch,140407,MATCH,MATCH,Motor Automatic Switch,140407,MATCH,MATCH,MATCH,YES
+Mdt Knx Actuator Automation Products Dealer,KNX Actuators,653163,High,Knx Actuator,184089,DIFF,DIFF,Knx Actuators,184101,DIFF,MATCH,DIFF,NO
+Three Phase DOL  Auto Switch With Timer With Connector (Rocker Switch),Motor Automatic Switch,140407,High,DOL Starter,26266,DIFF,DIFF,DOL Starter,26266,DIFF,DIFF,MATCH,NO
+Hydraulic Motor,Hydraulic Motor,10834,High,Hydraulic Motor,10834,MATCH,MATCH,Hydraulic Motor,10834,MATCH,MATCH,MATCH,YES
+sliding door motor,Door Motor,52902,High,Automatic Door Motor,52891,DIFF,DIFF,Door Motor,52902,MATCH,MATCH,DIFF,NO
+solenoid-switches,Solenoid Switches,7646,High,Solenoid Switches,7646,MATCH,MATCH,Solenoid Switches,7646,MATCH,MATCH,MATCH,YES
+symphony air cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+PBL Geared Motors,PBL Geared Motors,206096,High,PBL Geared Motors,206096,MATCH,MATCH,PBL Geared Motors,206096,MATCH,MATCH,MATCH,YES
+super max oil immersed dol motor starter,DOL Starter,26266,High,Motor Starter,33567,DIFF,DIFF,DOL Starter,26266,MATCH,MATCH,DIFF,NO
+Sunflag Table Fan Motor,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+Industrial Motors,Industrial Motors,52915,High,Industrial Motors,52915,MATCH,MATCH,Industrial Motors,52915,MATCH,MATCH,MATCH,YES
+crompton 3 phase motor 7.5 hp i3,Crompton Greaves Motor,126348,Medium,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+linear actuator control board,Linear Actuator,32181,High,Linear Actuator Controller,183593,DIFF,DIFF,Linear Actuator Controller,166531,DIFF,DIFF,DIFF,NO
+panasonic gar box,Panasonic Geared Motor,193206,Medium,Gear Motor,29373,DIFF,DIFF,Gear Motor,29373,DIFF,DIFF,MATCH,NO
+ड्रोन डीसी मोटर,DC Motor,445,Medium,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+single phase servo motor,Servo Motor,448,High,Single Phase Servo Motor,184116,DIFF,DIFF,DC Servo Motor,13275,DIFF,DIFF,DIFF,NO
+single phase mild steel geared motor,Gear Motor,29373,High,Electric Gear Motor,52906,DIFF,DIFF,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+Gold Power Single Phase Induction Motor,Single Phase Induction Motor,9483,High,Single Phase Induction Motor,9483,MATCH,MATCH,Single Phase Induction Motor,9483,MATCH,MATCH,MATCH,YES
+Siemens 3TW72911AW78,Siemens DOL Starter,654653,High,Siemens Servo Motors,184102,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,MATCH,NO
+Siemens 3TW72911AW74,Siemens DOL Starter,654653,High,Siemens Servo Motors,184102,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,MATCH,NO
+Siemens 3TW72911AW72,Siemens DOL Starter,654653,High,Siemens Servo Motors,184102,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,MATCH,NO
+Siemens 3TW72911AW71,Siemens DOL Starter,654653,High,Siemens Servo Motors,184102,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,MATCH,NO
+Vertical Hollow Shaft Motor Service,Vertical Hollow Shaft Motor,44655,High,Vertical Hollow Shaft Motor,44655,MATCH,MATCH,Vertical Hollow Shaft Motor,44655,MATCH,MATCH,MATCH,YES
+Siemens 3TW72911AW69,Siemens DOL Starter,654653,High,Siemens Servo Motors,184102,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,MATCH,NO
+Siemens 3TW72911AW68,Siemens DOL Starter,654653,High,Siemens Servo Motors,184102,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,MATCH,NO
+Siemens 3TW72911AW66,Siemens DOL Starter,654653,High,Siemens Servo Motors,184102,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,MATCH,NO
+Siemens 3TW72911AW64,Siemens DOL Starter,654653,High,Siemens Servo Motors,184102,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,MATCH,NO
+100 HP to 2000 HP  Slip Ring Motor Starter,Slip Ring Starter,149795,High,Slip Ring Motor Starter,653300,DIFF,DIFF,Slip Ring Motor Starter,446528,DIFF,DIFF,DIFF,NO
+Crompton Single Phase Electric Motor,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+6 for business use piece electronic Valve Positioners,Valve Positioners,40629,High,Valve Positioners,40629,MATCH,MATCH,Valve Positioners,40629,MATCH,MATCH,MATCH,YES
+drondch motor,Electric Motor,1274,High,Brushless Motors,23616,DIFF,DIFF,DC Motor,445,DIFF,DIFF,DIFF,NO
+STP-43D2035 Stepper Motor,Stepper Motor,18794,High,Bipolar Stepper Motors,4423,DIFF,DIFF,Stepper Motor,18794,MATCH,MATCH,DIFF,NO
+SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF01-1MB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Crompton 0.5hp Motor,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Motors,446133,MATCH,MATCH,DIFF,NO
+Jencode Hollow Shaft Encoder,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+AC MOTARS,AC Motor,444,High,AC Motor,444,MATCH,MATCH,AC Motor,444,MATCH,MATCH,MATCH,YES
+Hadrulicl Power motar,Hydraulic Motor,10834,High,Hydraulic Motor,10834,MATCH,MATCH,Hydraulic Motor,10834,MATCH,MATCH,MATCH,YES
+RC Car Brushless ESC Platinum Edition 120A,Brushless Motors,23616,High,Brushless ESC,121391,DIFF,DIFF,Brushless Speed Controller,15240,DIFF,DIFF,DIFF,NO
+RPG15Q Motor,Air Conditioner Motor,186009,High,Three Phase Electric Motor,52930,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,DIFF,NO
+Honeywell V4055 Fuild Power Actuator,Fluid Power Actuators,28339,High,Honeywell Actuators,203382,DIFF,DIFF,Honeywell Actuators,203382,DIFF,DIFF,MATCH,NO
+servo motor .,Servo Motor,448,High,AC Servo Motor,14970,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,MATCH,NO
+L & T SOFT STARTOR,Soft Starters,12256,High,Soft Starters,12256,MATCH,MATCH,Soft Starters,12256,MATCH,MATCH,MATCH,YES
+775 dc motor,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+Brake Motors,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+1FK2104-6AF01-1MB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Electric Motor,Three Phase Electric Motor,52930,Medium,Electric Motor,1274,DIFF,DIFF,Electric Motor,1274,DIFF,DIFF,MATCH,NO
+3 phase 415 V 0.09KW Motor,Three Phase Motor,2415,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+crompton motors crompton motor 5 hp single phase near patna,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+12v 775 Dc Motor,DC Motor,445,High,DC Micro Motors,25372,DIFF,DIFF,DC Micro Motors,25372,DIFF,DIFF,MATCH,NO
+Linear Actuator,Linear Actuator,32181,High,Linear Actuator,32181,MATCH,MATCH,Linear Actuator,32181,MATCH,MATCH,MATCH,YES
+Gold Power Single Phase Induction Motor,Single Phase Induction Motor,9483,High,Single Phase Induction Motor,9483,MATCH,MATCH,Single Phase Induction Motor,9483,MATCH,MATCH,MATCH,YES
+dc motors,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+dol starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+Wages Patti,Mixer Grinder Motor,84526,Medium,Industrial Motors,52915,DIFF,DIFF,Industrial Motors,52915,DIFF,DIFF,MATCH,NO
+Lift Motor,Lift Motor,77611,High,Lift Motor,77611,MATCH,MATCH,Lift Motor,77611,MATCH,MATCH,MATCH,YES
+0.25HP Single Phase Electric Motor,Single Phase Electric Motor,52927,High,Single Phase Electric Motor,52927,MATCH,MATCH,Single Phase Electric Motor,52927,MATCH,MATCH,MATCH,YES
+12v dc dual shaft motor,Double Shaft Motor,139590,High,Double Shaft Motor,139590,MATCH,MATCH,Dual Shaft Motor,139590,MATCH,DIFF,MATCH,YES
+single phase submersible pump starter,Pump Starter,146491,High,Pump Starter,146491,MATCH,MATCH,Pump Starter,146491,MATCH,MATCH,MATCH,YES
+Bharat Bijlee Ie3 Motor,Bharat Bijlee AC Motor,203388,High,Bharat Bijlee AC Motor,203388,MATCH,MATCH,Bharat Bijlee AC Motor,203388,MATCH,MATCH,MATCH,YES
+Crompton Single Phase Vibrator,Single Phase Motors,9484,High,Vibration Motor,2743,DIFF,DIFF,Vibration Motor,2743,DIFF,DIFF,MATCH,NO
+Telescopic Brushes,Telescopic Brush,136910,High,Telescopic Brush,136910,MATCH,MATCH,Telescopic Brush,136910,MATCH,MATCH,MATCH,YES
+Carbon Brush,Carbon Brush,903,High,Carbon Brush,903,MATCH,MATCH,Carbon Brush,903,MATCH,MATCH,MATCH,YES
+electric gate motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Electric Sliding Gate Motor,52905,MATCH,MATCH,MATCH,YES
+101-200 KW 1 HP Bharat Bijlee Ac Motor,Bharat Bijlee AC Motor,203388,High,Bharat Bijlee AC Motor,203388,MATCH,MATCH,Bharat Bijlee AC Motor,203388,MATCH,MATCH,MATCH,YES
+Auto Switch for 3 Phase Motor,Motor Automatic Switch,140407,High,Motor Automatic Switch,140407,MATCH,MATCH,Motor Automatic Switch,140407,MATCH,MATCH,MATCH,YES
+crompton motors crompton motor 5 hp single phase,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+Motors,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+electrical motor,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+0.37 KW 0.5 HP Bharat Bijlee Electric Motor,Bharat Bijlee AC Motor,203388,High,Bharat Bijlee AC Motor,203388,MATCH,MATCH,Bharat Bijlee AC Motor,203388,MATCH,MATCH,MATCH,YES
+Three Phase Bharat Bijlee Motor,Bharat Bijlee AC Motor,203388,High,Bharat Bijlee AC Motor,203388,MATCH,MATCH,Bharat Bijlee AC Motor,203388,MATCH,MATCH,MATCH,YES
+peco pk1 3 phase dol motor starter,DOL Starter,26266,High,3 Phase Motor Starter,226794,DIFF,DIFF,DOL Starter,26266,MATCH,MATCH,DIFF,NO
+Dol Motor Starter Dmc,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+tower-fan-motor,Tower Fan Motor,443716,High,Fan Motor,28231,DIFF,DIFF,Tower Fan Motor,443716,MATCH,MATCH,DIFF,NO
+11 KW 15 HP Crompton Greaves Electric Motor,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+3 Phase Induction Motor,Three Phase Induction Motor,131725,High,Three Phase Induction Motor,131725,MATCH,MATCH,Three Phase Induction Motor,131725,MATCH,MATCH,MATCH,YES
+Siemens Electric Motor,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+3.7 KW 5 HP Crompton Greaves AC motor,Crompton Greaves Motor,126348,High,Crompton Greaves Industrial Motors,193884,DIFF,DIFF,Crompton Greaves Industrial Motors,193884,DIFF,DIFF,MATCH,NO
+Crompton,Crompton Greaves Motor,126348,High,Crompton Motors,446133,DIFF,DIFF,Crompton Motors,446133,DIFF,DIFF,MATCH,NO
+Crompton Greaves Industrial Motors,Crompton Greaves Industrial Motors,193884,High,Crompton Greaves Industrial Motors,193884,MATCH,MATCH,Crompton Greaves Industrial Motors,193884,MATCH,MATCH,MATCH,YES
+White Motor Starter,Motor Starter,33567,Medium,Motor Starter,33567,MATCH,MATCH,Single Phase Motor Starter,226793,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF10-1MA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+CG Three Phase Crompton Greaves Flameproof Motor,Flame Proof Motors,21079,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+Makita HR-2440 Armature By PowerSpeed,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+bldc 50w 24v 3000rpm,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+Mixer Grinder Motor,Mixer Grinder Motor,84526,High,Mixer Grinder Motor,84526,MATCH,MATCH,Mixer Grinder Motor,84526,MATCH,MATCH,MATCH,YES
+3000 rpm 24 v bldc 50w 24v 3000rpm,Brushless DC Motor,15240,High,BLDC Motor,154416,DIFF,DIFF,Brushless DC Motor,15240,MATCH,MATCH,DIFF,NO
+three phase 5 ac induction motor piece 10 hp 1440 rpm Three Phase Induction Motor Cg Make 3 HP,Three Phase Induction Motor,131725,High,Three Phase Induction Motor,131725,MATCH,MATCH,Three Phase Induction Motor,131725,MATCH,MATCH,MATCH,YES
+motor protection cover,Motor Cover,117875,High,Motor Cover,117875,MATCH,MATCH,Motor Cover,117875,MATCH,MATCH,MATCH,YES
+Dwe4235 Armature,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+AM Gold Motor Starter,3 Phase Motor Starter,226794,High,Motor Starter,33567,DIFF,DIFF,Motor Starter,33567,DIFF,DIFF,MATCH,NO
+R. S. Series Geared Motors,Gear Motor,29373,High,Helical Geared Motor,43308,DIFF,DIFF,Gear Motor,29373,MATCH,MATCH,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF01-1SB0 1 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+3000  rpm 24  v 10 bldc 50w 24v 3000rpm,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+24  v 10 bldc 50w 24v 3000rpm,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+makita mt240 cb203a cut off carbon brush,Power Tool Carbon Brush,190885,High,Carbon Brush,903,DIFF,DIFF,Makita Carbon Brushes,194885,DIFF,DIFF,DIFF,NO
+2 hp gear motor,Gear Motor,29373,High,Three Phase Gear Motor,150167,DIFF,DIFF,Gear Motor,29373,MATCH,MATCH,DIFF,NO
+Induction Motor Cg Make,Induction Motors,10971,High,Induction Motors,10971,MATCH,MATCH,Induction Motors,10971,MATCH,MATCH,MATCH,YES
+Dual shaft Motor,Motor Shaft,43182,High,Double Shaft Motor,139590,DIFF,DIFF,Double Shaft Motor,139590,DIFF,DIFF,MATCH,NO
+ac servo motor 750w,AC Servo Motor,14970,High,AC Servo Motor,14970,MATCH,MATCH,AC Servo Motor,14970,MATCH,MATCH,MATCH,YES
+ats480c66y,Soft Starters,12256,High,Soft Starters,12256,MATCH,MATCH,Servo Motor,448,DIFF,DIFF,DIFF,NO
+Kirloskar Electric Motor,Kirloskar Electric Motor,185261,High,Kirloskar Electric Motor,185261,MATCH,MATCH,Kirloskar Electric Motor,185261,MATCH,MATCH,MATCH,YES
+three  phase 1 ATS480C66Y,Schneider Soft Starters,220183,High,Siemens Electric Motor,184089,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,DIFF,NO
+l and t mpower pro mobile motor starter,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+zd motor 25 w small ac geared motors 220v,AC Geared Motor,21549,High,AC Geared Motor,21549,MATCH,MATCH,AC Geared Motor,21549,MATCH,MATCH,MATCH,YES
+kitchen hood motor,Chimney Motor,446121,High,Kitchen Hood Motor,132955,DIFF,DIFF,Kitchen Hood Motor,9483,DIFF,DIFF,DIFF,NO
+kapcon simi cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Jayashree Rotory Encoder Hollow Shaft,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+20w fan dc motor,Fan Motor,28231,High,DC Motor,445,DIFF,DIFF,Fan Motor,28231,MATCH,MATCH,DIFF,NO
+Wet Rice Grinders AUE Motors,Wet Grinder Motor,188519,High,Wet Grinder Motor,188519,MATCH,MATCH,Wet Grinder Motor,188519,MATCH,MATCH,MATCH,YES
+Electronic Starter,Electronic Starter,27659,High,Electronic Starter,27659,MATCH,MATCH,Electronic Starter,27659,MATCH,MATCH,MATCH,YES
+AC Synchronous Motors,AC Synchronous Motor,45525,High,AC Synchronous Motor,45525,MATCH,MATCH,AC Synchronous Motor,45525,MATCH,MATCH,MATCH,YES
+Jayashree Encoder  : Hollow Shaft  J-50T,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+Motor,Electric Motor,1274,High,Single Phase Motors,9484,DIFF,DIFF,Single Phase Motors,9484,DIFF,DIFF,MATCH,NO
+Remi Centrifuge Carbon Brush,Carbon Brush,903,High,Carbon Brush,903,MATCH,MATCH,Carbon Brush,903,MATCH,MATCH,MATCH,YES
+High po re,HT Motor,52914,Medium,High Voltage Motor,177165,DIFF,DIFF,High Voltage Motor,177165,DIFF,DIFF,MATCH,NO
+volvo & ir l&t case vibration motor shaft,Vibration Motor,2743,Medium,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+Rawat+Induction+Motors,Rawat Induction Motors,213981,High,Single Phase Induction Motor,9483,DIFF,DIFF,Single Phase Induction Motor,9483,DIFF,DIFF,MATCH,NO
+havells single phase motor,Havells Electric Motor,189725,High,Havells Electric Motor,189725,MATCH,MATCH,Havells Electric Motor,189725,MATCH,MATCH,MATCH,YES
+HAVELLS 3 PHASE MOTORSIE2/IE3,Havells Electric Motor,189725,High,Three Phase Electric Motor,52930,DIFF,DIFF,Havells Electric Motor,189725,MATCH,MATCH,DIFF,NO
+DHARMENDRA,Rawat Induction Motors,213981,Medium,Three Phase Electric Motor,52930,DIFF,DIFF,AC Motor,444,DIFF,DIFF,DIFF,NO
+vertical helical gear motor 5 hp,Helical Geared Motor,43308,High,Helical Geared Motor,43308,MATCH,MATCH,Helical Geared Motor,43308,MATCH,MATCH,MATCH,YES
+Bosch parts,Bosch Motor Parts,206770,High,Bosch Parts,187165,DIFF,DIFF,Bosch Parts,181114,DIFF,DIFF,DIFF,NO
+Panasonic AC Servo Motor,Panasonic AC Servo Motor,187161,High,Panasonic AC Servo Motor,187161,MATCH,MATCH,Panasonic AC Servo Motor,187161,MATCH,MATCH,MATCH,YES
+squirrel-cage-motors,Squirrel Cage Motors,38675,High,Squirrel Cage Motors,38675,MATCH,MATCH,Squirrel Cage Motors,38675,MATCH,MATCH,MATCH,YES
+Belimo Damper Actuator,Belimo Actuator,189943,High,Belimo Actuator,189943,MATCH,MATCH,Belimo Actuator,189943,MATCH,MATCH,MATCH,YES
+Squirrel Cage Induction Motor tefc type,Squirrel Cage Motors,38675,High,Squirrel Cage Motors,38675,MATCH,MATCH,Squirrel Cage Motors,38675,MATCH,MATCH,MATCH,YES
+fn20c motor,Air Conditioner Motor,186009,High,Cooler Motor,52897,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,DIFF,NO
+fireproof motor,Flame Proof Motors,21079,High,Fire Damper Actuators,184063,DIFF,DIFF,Flame Proof Motors,21079,MATCH,MATCH,DIFF,NO
+Minas A6 Panasonic  Servo Motor & Driver,Panasonic AC Servo Motor,187161,High,Panasonic AC Servo Motor,187161,MATCH,MATCH,Panasonic AC Servo Motor,187161,MATCH,MATCH,MATCH,YES
+Planetary Gear Motor,Planetary Gear Motor,153816,High,Planetary Gear Motor,153816,MATCH,MATCH,Planetary Gear Motor,153816,MATCH,MATCH,MATCH,YES
+Squirrel Cage Induction Motor tefc type 415v,Squirrel Cage Motors,38675,High,Squirrel Cage Motors,38675,MATCH,MATCH,Squirrel Cage Motors,38675,MATCH,MATCH,MATCH,YES
+vertical helical gear motor,Helical Geared Motor,43308,High,Helical Geared Motor,43308,MATCH,MATCH,Helical Geared Motor,43308,MATCH,MATCH,MATCH,YES
+2 advanced features 2 10 hp mobile starter,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+Helical Geared Motor,Helical Geared Motor,43308,High,Helical Geared Motor,43308,MATCH,MATCH,Helical Geared Motor,43308,MATCH,MATCH,MATCH,YES
+dvd motor,DC Motor,445,High,SPU Motor,17644,DIFF,DIFF,Spindle Motors,38084,DIFF,DIFF,DIFF,NO
+2 hp three phase induction motor,Three Phase Induction Motor,131725,High,Three Phase Induction Motor,131725,MATCH,MATCH,Three Phase Induction Motor,131725,MATCH,MATCH,MATCH,YES
+Direct oil immersed starter skn Kelson U Kit Set,Oil Starter,142116,High,Oil Starter,142116,MATCH,MATCH,Oil Starter,142116,MATCH,MATCH,MATCH,YES
+Rolling Shutter Motor,Rolling Shutter Motor,77612,High,Rolling Shutter Motor,77612,MATCH,MATCH,Rolling Shutter Motor,77612,MATCH,MATCH,MATCH,YES
+Delton Three Single Phase Oil Starter,Oil Starter,142116,High,Oil Starter,142116,MATCH,MATCH,Oil Starter,142116,MATCH,MATCH,MATCH,YES
+Shaft Encoder,Shaft Encoder,44166,High,Shaft Encoder,44166,MATCH,MATCH,Shaft Encoder,44166,MATCH,MATCH,MATCH,YES
+CTV 110 Unimotion Servo Motor,Servo Motor,448,High,AC Servo Motor,14970,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,MATCH,NO
+Crompton Single Phase Motor,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+crompton single phase cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+crompton greaves energy efficient motor,Crompton Greaves Motor,126348,High,Energy Efficient Motor,184340,DIFF,DIFF,Energy Efficient Motor,184340,DIFF,DIFF,MATCH,NO
+180 Watt Electro Magnetic Brake Motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-5AK00-0SB0 0.12 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-4AF10-0SA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Servo Motor,Servo Motor,448,High,AC Servo Motor,14970,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,MATCH,NO
+copper sewing machine motor armature,Sewing Machine Motor Armature,312874,High,Motor Armature,167444,DIFF,DIFF,Motor Armature,167444,DIFF,DIFF,MATCH,NO
+cooler motor high speed,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+cooler hee motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Kerovit Ege Actuation Plate,Actuators,3148,High,Actuator,40795,DIFF,DIFF,Motor Parts,150022,DIFF,DIFF,DIFF,NO
+ABB Soft Starters,ABB Soft Starters,220182,High,ABB Soft Starters,220182,MATCH,MATCH,ABB Soft Starters,220182,MATCH,MATCH,MATCH,YES
+Bullet Farrata Fan Motor,Fan Motor,28231,Medium,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+happymodel motor,Mitsubishi Servo Motors,184101,Medium,Brushless Motors,23616,DIFF,DIFF,Brushless Motors,23616,DIFF,DIFF,MATCH,NO
+Double Shaft Motor,Double Shaft Motor,139590,High,Double Shaft Motor,139590,MATCH,MATCH,Double Shaft Motor,139590,MATCH,MATCH,MATCH,YES
+incubator turning motor,Electric Motor,1274,High,Motor,1274,MATCH,DIFF,Motor,6624,DIFF,DIFF,DIFF,NO
+abb motor,ABB Electric Motor,181114,High,ABB Electric Motor,181114,MATCH,MATCH,ABB Electric Motor,181114,MATCH,MATCH,MATCH,YES
+2hp single phase motor cg model gf7010,Single Phase Motors,9484,High,Single Phase Motors,9484,MATCH,MATCH,Single Phase Motors,9484,MATCH,MATCH,MATCH,YES
+2hp single phase motor near kolkata cg model no gf7010,Single Phase Motors,9484,High,Single Phase Electric Motor,52927,DIFF,DIFF,Single Phase Electric Motor,52927,DIFF,DIFF,MATCH,NO
+100 HP Slip Ring Motor Starter,Slip Ring Starter,149795,High,Slip Ring Motor Starter,653300,DIFF,DIFF,Slip Ring Motor Starter,443929,DIFF,DIFF,DIFF,NO
+battery operated pmdc motor,PMDC Motor,52920,High,PMDC Motor,52920,MATCH,MATCH,PMDC Motor,52920,MATCH,MATCH,MATCH,YES
+Automatic Door Motor,Automatic Door Motor,52891,High,Automatic Door Motor,52891,MATCH,MATCH,Automatic Door Motor,52891,MATCH,MATCH,MATCH,YES
+Automatic Rolling Shutters Motor,Rolling Shutter Motor,77612,High,Rolling Shutter Motor,77612,MATCH,MATCH,Rolling Shutter Motor,77612,MATCH,MATCH,MATCH,YES
+Nxu Gear Brake Motor In Pune,Geared Brake Motors,44652,High,Geared Brake Motors,44652,MATCH,MATCH,Geared Brake Motors,44652,MATCH,MATCH,MATCH,YES
+Bosch Carbon Brushes,Bosch Carbon Brushes,204469,High,Bosch Carbon Brushes,204469,MATCH,MATCH,Bosch Carbon Brushes,204469,MATCH,MATCH,MATCH,YES
+1 piece 750 watt 3000 rpm AC Servo Motor,AC Servo Motor,14970,High,AC Servo Motor,14970,MATCH,MATCH,AC Servo Motor,14970,MATCH,MATCH,MATCH,YES
+Arun D O L Motor Starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+v12 mobile starter,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+1 hp motor,Electric Motor,1274,High,Three Phase Induction Motor,131725,DIFF,DIFF,Three Phase Induction Motor,131725,DIFF,DIFF,MATCH,NO
+angle grinder armature,Power Tool Armature,653304,Medium,Armature,25,DIFF,DIFF,Grinder Armature,652454,DIFF,DIFF,DIFF,NO
+ola motor,Electric Motor,1274,Medium,Gear Motor,29373,DIFF,DIFF,Single Phase Electric Motor,52927,DIFF,DIFF,DIFF,NO
+altistart 22 soft starters,Schneider Soft Starters,220183,High,Soft Starters,12256,DIFF,DIFF,Soft Starters,12256,DIFF,DIFF,MATCH,NO
+tawagawa hollow encoder ts 5700n8500,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+tawagawa hollow encoder ts-5700n8500,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+actuator model %3A rr a50 d,Actuators,3148,High,Linear Actuator,32181,DIFF,DIFF,Linear Actuator,32181,DIFF,DIFF,MATCH,NO
+86HS120 Two Phase Stepper Motor,Bipolar Stepper Motors,4423,High,Stepper Motor,18794,DIFF,DIFF,Stepper Motor,18794,DIFF,DIFF,MATCH,NO
+86 HS 65 Two Phase Stepper Motor,Bipolar Stepper Motors,4423,High,Stepper Motor,18794,DIFF,DIFF,Two Phase Stepper Motor,13374,DIFF,DIFF,DIFF,NO
+Ola motot,Electric Motor,1274,Medium,Electric Motor,1274,MATCH,MATCH,Ola Electric Motor Parts,205465,DIFF,DIFF,DIFF,NO
+Swing Gate Motor,Gate Motor,29337,High,Electric Sliding Gate Motor,52905,DIFF,DIFF,Electric Sliding Gate Motor,52905,DIFF,DIFF,MATCH,NO
+COPCARBON BRUSH 25X40X10,Carbon Brush,903,High,Industrial Carbon Brushes,145615,DIFF,DIFF,Power Tool Carbon Brush,190885,DIFF,DIFF,DIFF,NO
+DC GEAR MOTOR,DC Geared Motor,25556,High,DC Geared Motor,25556,MATCH,MATCH,DC Geared Motor,25556,MATCH,MATCH,MATCH,YES
+motor-armature,Motor Armature,167444,High,Armature,25,DIFF,DIFF,Motor Armature,167444,MATCH,MATCH,DIFF,NO
+57 HS 22 Two Phase Stepper Motor,Bipolar Stepper Motors,4423,High,Stepper Motor,18794,DIFF,DIFF,Two Phase Stepper Motor,13374,DIFF,DIFF,DIFF,NO
+57 HS 13 Two Phase Stepper Motor,Bipolar Stepper Motors,4423,High,Stepper Motor,18794,DIFF,DIFF,Two Phase Stepper Motor,13374,DIFF,DIFF,DIFF,NO
+57 HS 09 Two Phase Stepper Motor,Bipolar Stepper Motors,4423,High,Stepper Motor,18794,DIFF,DIFF,Two Phase Stepper Motor,13374,DIFF,DIFF,DIFF,NO
+el%20tech%20motors,Series Motor,52924,Medium,Electric Motor,1274,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,DIFF,NO
+Leadshine ISV5713V36 1000 AC Servo Motor,AC Servo Motor,14970,Medium,AC Servo Motor,14970,MATCH,MATCH,AC Servo Motor,14970,MATCH,MATCH,MATCH,YES
+PDA Sliding Gate Motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Electric Sliding Gate Motor,52905,MATCH,MATCH,MATCH,YES
+42 HS 02 Two Phase Stepper Motor,Stepper Motor,18794,High,Stepper Motor,18794,MATCH,MATCH,Two Phase Stepper Motor,13374,DIFF,DIFF,DIFF,NO
+Jencoder Hollow Type  Rotary Encoder J-50T,Rotary Encoders,36883,Medium,Hollow Shaft Encoders,30451,DIFF,DIFF,Hollow Shaft Encoders,30451,DIFF,DIFF,MATCH,NO
+Inverter Duty Induction Motors,Inverter Duty Motor,131724,High,Inverter Duty Motor,131724,MATCH,MATCH,Inverter Duty Motor,131724,MATCH,MATCH,MATCH,YES
+39 HS 02 Two Phase Stepper Motor,Bipolar Stepper Motors,4423,High,Stepper Motor,18794,DIFF,DIFF,Stepper Motor,18794,DIFF,DIFF,MATCH,NO
+aluminium bell,Bell Housing,136623,Medium,Die Cast Aluminum Rotors,120951,DIFF,DIFF,Aluminium Die Cast Rotors,120951,DIFF,DIFF,MATCH,NO
+spindle-motors,Spindle Motors,38084,High,AC Spindle Motor,180727,DIFF,DIFF,Spindle Motors,38084,MATCH,MATCH,DIFF,NO
+Schneider Ats48 Soft Starter Repairs,Schneider Soft Starters,220183,High,Soft Starter Repair,168060,DIFF,DIFF,Starters Repair Service,174217,DIFF,DIFF,DIFF,NO
+Jencoder Rotory Encoder : Hollow Type,Hollow Shaft Encoders,30451,Medium,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+swing starter,Starters,7853,Medium,Electronic Starter,27659,DIFF,DIFF,Electronic Starter,27659,DIFF,DIFF,MATCH,NO
+Rhino 12V DC 30RPM 70Kgcm IG32 Heavy Duty Planetary Geared Motor,Planetary Gear Motor,153816,High,Heavy Duty Motor,55774,DIFF,DIFF,Heavy Duty Motor,55774,DIFF,DIFF,MATCH,NO
+18 inch g c exhaust fan motor housing,Motor Housings,33555,High,Exhaust Fan Motor,28080,DIFF,DIFF,Motor Housings,33555,MATCH,MATCH,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF01-1SB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+12v bldc,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+1 Inch Kit Cooler Motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Jencoder Hollow Shaft Rotary Encoder J-50T,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+110HS20 Two Phase Stepper Motor,Bipolar Stepper Motors,4423,High,Stepper Motor,18794,DIFF,DIFF,Two Phase Stepper Motor,13374,DIFF,DIFF,DIFF,NO
+Toothed Belt Axis Egc-tb,Festo Actuators,203380,Medium,DC Motor,445,DIFF,DIFF,Tooth Belt,40629,DIFF,DIFF,DIFF,NO
+lifting-column-actuator,Linear Actuator,32181,High,Linear Actuator,32181,MATCH,MATCH,Linear Actuator,32181,MATCH,MATCH,MATCH,YES
+Electric Rotary Actuators,Electric Rotary Actuators,183590,High,Electric Rotary Actuators,183590,MATCH,MATCH,Rotary Actuators,36873,DIFF,DIFF,DIFF,NO
+Single Phase Motors,Single Phase Motors,9484,High,Single Phase Motors,9484,MATCH,MATCH,Single Phase Motors,9484,MATCH,MATCH,MATCH,YES
+AC Servo Motor,AC Servo Motor,14970,High,AC Servo Motor,14970,MATCH,MATCH,AC Servo Motor,14970,MATCH,MATCH,MATCH,YES
+Unbalance Motors,Vibration Motor,2743,High,Unbalanced Motors,17089,DIFF,DIFF,Unbalanced Vibratory Motor,184118,DIFF,DIFF,DIFF,NO
+Starters,Starters,7853,High,Starters,7853,MATCH,MATCH,Starters,7853,MATCH,MATCH,MATCH,YES
+industrial-electric-motor,Industrial Motors,52915,High,Industrial Motors,52915,MATCH,MATCH,Three Phase Electric Motor,52930,DIFF,DIFF,DIFF,NO
+siemens motor,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+Marsh Actuators,Marsh Actuators,208012,High,Actuators,3148,DIFF,DIFF,Actuators,3148,DIFF,DIFF,MATCH,NO
+Spindle Motors,Spindle Motors,38084,High,Spindle Motors,38084,MATCH,MATCH,Spindle Motors,38084,MATCH,MATCH,MATCH,YES
+carbon brush size: 08 x 20 x 30mm,Carbon Brush,903,High,Carbon Brush,903,MATCH,MATCH,Carbon Brush,903,MATCH,MATCH,MATCH,YES
+1FK2104-6AF01-1SB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+spal blower motor,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+VDS Automatic Sliding Gate Motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Electric Sliding Gate Motor,52905,MATCH,MATCH,MATCH,YES
+BLDC Motor Sa42bld002 - 3000 Rpm 24vdc 52 Watt,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+Electric Actuator,Electric Actuator,27216,High,Electric Actuator,27216,MATCH,MATCH,Electric Actuator,27216,MATCH,MATCH,MATCH,YES
+Hollow Shaft Rotary Encoder :Jencoder,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+75 acrylic square 2 x 2 inch piece Photo print Polaroid Fridge Magnets Neodymium Acrylic,DC Motor,445,Medium,Magnet Type,25372,DIFF,DIFF,Magnet,15220,DIFF,DIFF,DIFF,NO
+double shaft encoder gear motor,Double Shaft Motor,139590,Medium,Encoder Shaft Motors,35216,DIFF,DIFF,Double Shaft Motor,139590,MATCH,MATCH,DIFF,NO
+960 rpm 1 foot mounted 15 hp three phase electric motor,Three Phase Electric Motor,52930,Medium,Three Phase Electric Motor,52930,MATCH,MATCH,Three Phase Electric Motor,52930,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-0MB0 1 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Y07-59d1-17155 Stepper Motor,Laser Equipment Parts,80634,High,Bipolar Stepper Motors,4423,DIFF,DIFF,Stepper Motor,18794,DIFF,DIFF,DIFF,NO
+Schneider Electric BSH0703P11A2A Servo Motor,Servo Motor,448,High,AC Servo Motor,14970,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,MATCH,NO
+bldc motor,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+double shaft gear motor,Double Shaft Motor,139590,High,Double Shaft Motor,139590,MATCH,MATCH,Double Shaft Gear Motor,139590,MATCH,DIFF,MATCH,YES
+ATS22 Softstarter Repair Service,Starters Repair Service,174217,High,Starters Repair Service,174217,MATCH,MATCH,Soft Starter Repair,174217,MATCH,DIFF,MATCH,YES
+ac bus blower motor 24 v spal,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+dc motor 8 watt,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+crompton-greaves-industrial-motors,Crompton Greaves Industrial Motors,193884,High,Crompton Greaves Industrial Motors,193884,MATCH,MATCH,Crompton Greaves Industrial Motors,193884,MATCH,MATCH,MATCH,YES
+bus  ac dual shaft 1330 RPM BLOWER FAN MOTOR,Blower Motors,23098,High,Double Shaft Motor,139590,DIFF,DIFF,Blower Motors,23098,MATCH,MATCH,DIFF,NO
+air  conditioning dual shaft 1330 RPM BLOWER FAN MOTOR,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+Siemens Servo Motors,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Kitchen Chimney Motor,Chimney Motor,446121,High,Chimney Motor,52897,DIFF,MATCH,Chimney Motors,443716,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF10-0MA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Slip Ring Motor,Slip Ring Motor,37228,High,Slip Ring Motor,37228,MATCH,MATCH,Slip Ring Motor,37228,MATCH,MATCH,MATCH,YES
+Break Motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+3 phase 15hp motor starter,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+DC Carbon,DC Motor Carbon Brushes,133005,High,DC Motor Carbon Brushes,133005,MATCH,MATCH,DC Motor,445,DIFF,DIFF,DIFF,NO
+external motor rotor die casting,Die Cast Rotors,120951,High,Die Cast Rotors,120951,MATCH,MATCH,Die Cast Rotors,120951,MATCH,MATCH,MATCH,YES
+c 10 micro 2900 bldc moter,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+extra power breaker 1 power tool armature,Power Tool Armature,653304,High,Power Tool Armature,653304,MATCH,MATCH,Power Tool Armature,653304,MATCH,MATCH,MATCH,YES
+Gear Motor,Gear Motor,29373,High,Gear Motor,29373,MATCH,MATCH,Gear Motor,29373,MATCH,MATCH,MATCH,YES
+Liquid Resistance Starter,Liquid Resistance Starter,163465,High,Liquid Resistance Starter,163465,MATCH,MATCH,Liquid Resistance Starter,163465,MATCH,MATCH,MATCH,YES
+a c blower motor spal,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Spal Motor,657268,DIFF,DIFF,DIFF,NO
+1HP Single Phase Godrej Lawkim Foot Mounted,Single Phase Motors,9484,High,Godrej Lawkim Industrial Motors,203174,DIFF,DIFF,Single Phase Motors,9484,MATCH,MATCH,DIFF,NO
+Automatic Sliding Gate Motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Electric Sliding Gate Motor,52905,MATCH,MATCH,MATCH,YES
+fcma soft starter,Soft Starters,12256,High,Soft Starters,12256,MATCH,MATCH,Soft Starters,12256,MATCH,MATCH,MATCH,YES
+three phase 1 mini dol automatic-switch,Motor Automatic Switch,140407,High,DOL Starter,26266,DIFF,DIFF,DOL Starter,26266,DIFF,DIFF,MATCH,NO
+push button shutter motor,Rolling Shutter Motor,77612,High,Rolling Shutter Motor,77612,MATCH,MATCH,Rolling Shutter Motor,77612,MATCH,MATCH,MATCH,YES
+SIEMENS 1LE7501‑1BB23‑5AA4,Siemens Servo Motors,184102,Medium,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+blower-motors,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+Servo Motor Repairing Service,Servo Motor Repair,168060,High,Servo Motor Repair,168060,MATCH,MATCH,Servo Motor Repair,168060,MATCH,MATCH,MATCH,YES
+Petrosa Starter medium 200 Grams,Dog Food,938,High,Oil Starter,142116,DIFF,DIFF,Starters,7853,DIFF,DIFF,DIFF,NO
+automatic switch,Motor Automatic Switch,140407,High,Motor Automatic Switch,140407,MATCH,MATCH,Motor Automatic Switch,140407,MATCH,MATCH,MATCH,YES
+Telescopic Linear Actuators,Linear Actuator,32181,High,Linear Actuator,32181,MATCH,MATCH,Linear Actuator,32181,MATCH,MATCH,MATCH,YES
+speed on  outdoor motar,Air Conditioner Motor,186009,High,AC Motor,444,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,DIFF,NO
+Motor Automatic Switch,Motor Automatic Switch,140407,High,Motor Automatic Switch,140407,MATCH,MATCH,Motor Automatic Switch,140407,MATCH,MATCH,MATCH,YES
+speed on outdoor motar,Air Conditioner Motor,186009,High,Door Motor,52902,DIFF,DIFF,AC Motor,444,DIFF,DIFF,DIFF,NO
+Crompton Greaves Flameproof IE3 Motor,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+a c blower motor spal 24v,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+brake motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+star-delta-starter,Star Delta Starter,653300,High,Star Delta Starter,653300,MATCH,MATCH,Star Delta Starter,653300,MATCH,MATCH,MATCH,YES
+deep vibrator motor,Concrete Vibrator Motor,184082,High,Vibration Motor,2743,DIFF,DIFF,Vibration Motor,2743,DIFF,DIFF,MATCH,NO
+Hydromatik Rexroth A2F-12-Wp6 Hydraulic Piston Motor,Hydraulic Motor,10834,High,Hydraulic Pump Motor,141877,DIFF,DIFF,Hydraulic Pump Motor,141877,DIFF,DIFF,MATCH,NO
+vibrator cover,Motor Cover,117875,Medium,Vibration Motor,2743,DIFF,DIFF,Vibration Motor,15686,DIFF,DIFF,DIFF,NO
+Rotork Yt 3300 Smart Positioner,Valve Positioners,40629,High,Valve Positioners,40629,MATCH,MATCH,Valve Positioners,40629,MATCH,MATCH,MATCH,YES
+Concrete Vibrator Motor,Concrete Vibrator Motor,184082,High,Concrete Vibrator Motor,184082,MATCH,MATCH,Concrete Vibrator Motor,184082,MATCH,MATCH,MATCH,YES
+blower motors in port blair,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+Hydromatik A2F-107 Hydraulic Piston Pump Motor,Hydraulic Pump Motor,141877,High,Hydraulic Pump Motor,141877,MATCH,MATCH,Hydraulic Pump Motor,141877,MATCH,MATCH,MATCH,YES
+Rexroth A2Fo180,Rexroth Piston Pump,192780,Medium,Hydraulic Motor,10834,DIFF,DIFF,Hydraulic Motor,10834,DIFF,DIFF,MATCH,NO
+Brueninghaus Hydromatik Rexroth A2Fm-28/61 Hydraulic Piston Motor,Hydraulic Motor,10834,High,Hydraulic Pump Motor,141877,DIFF,DIFF,Hydraulic Pump Motor,141877,DIFF,DIFF,MATCH,NO
+parker hydraulic motor,Hydraulic Motor,10834,High,Hydraulic Motor,10834,MATCH,MATCH,Hydraulic Motor,10834,MATCH,MATCH,MATCH,YES
+Kirloskar Three Phase Induction Motor,Three Phase Induction Motor,131725,High,Kirloskar Electric Motor,185261,DIFF,DIFF,Kirloskar Electric Motor,185261,DIFF,DIFF,MATCH,NO
+Three Phase Induction Motor,Three Phase Induction Motor,131725,High,Three Phase Induction Motor,131725,MATCH,MATCH,Three Phase Induction Motor,131725,MATCH,MATCH,MATCH,YES
+Hanning Motor for Bentone Burner,Burner Servo Motors,162318,High,Burner Motors,415016,DIFF,DIFF,Burner Motors,162362,DIFF,DIFF,DIFF,NO
+hyundai/kia clutch actuator,Hyundai Car Clutch & Pressure Plate,656114,High,Clutch Actuators,167253,DIFF,DIFF,Actuators,3148,DIFF,DIFF,DIFF,NO
+Remi Centrifuge Carbon Brushes,Carbon Brush,903,High,Carbon Brush,903,MATCH,MATCH,Carbon Brush,903,MATCH,MATCH,MATCH,YES
+2hp motor,Electric Motor,1274,High,Air Conditioner Motor,186009,DIFF,DIFF,Three Phase Induction Motor,131725,DIFF,DIFF,DIFF,NO
+aluminium die cast rotors,Die Cast Rotors,120951,High,Die Cast Rotors,120951,MATCH,MATCH,Die Cast Rotors,120951,MATCH,MATCH,MATCH,YES
+bhavani induction motor,Induction Motors,10971,High,Three Phase Induction Motor,131725,DIFF,DIFF,Induction Motors,10971,MATCH,MATCH,DIFF,NO
+DC Motor,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+Intermot hydro motors 800cc,Intermot Hydraulic Motor,205463,High,Hydraulic Motor,10834,DIFF,DIFF,Hydraulic Motor,10834,DIFF,DIFF,MATCH,NO
+Mobile Starter,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK01-0MB0 0.12 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Single Phase Induction Motor,Single Phase Induction Motor,9483,High,Single Phase Induction Motor,9483,MATCH,MATCH,Single Phase Induction Motor,9483,MATCH,MATCH,MATCH,YES
+5 watts motor rexnord rec-8313-05-a2,AC Motor,444,High,DC Motor,445,DIFF,DIFF,DC Motor,445,DIFF,DIFF,MATCH,NO
+AC Fan Motor,AC Fan Motor,146600,High,AC Fan Motor,146600,MATCH,MATCH,AC Fan Motor,146600,MATCH,MATCH,MATCH,YES
+helical-geared-motor,Helical Geared Motor,43308,High,Helical Geared Motor,43308,MATCH,MATCH,Helical Geared Motor,43308,MATCH,MATCH,MATCH,YES
+three phase electric motor 20 hp 960 rpm,Three Phase Electric Motor,52930,High,Three Phase Electric Motor,52930,MATCH,MATCH,Three Phase Electric Motor,52930,MATCH,MATCH,MATCH,YES
+three phase electric motor near agra 20 hp 960 rpm,Three Phase Electric Motor,52930,High,Three Phase Electric Motor,52930,MATCH,MATCH,Three Phase Motor,2415,DIFF,DIFF,DIFF,NO
+gsm mobile starter,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+Domestic Appliance Motors,Domestic Appliance Motors,22810,High,Appliance Motor,18794,DIFF,DIFF,Domestic Motor,18608,DIFF,DIFF,DIFF,NO
+schneider soft starter,Schneider Soft Starters,220183,High,Schneider Soft Starters,220183,MATCH,MATCH,Schneider Soft Starters,220183,MATCH,MATCH,MATCH,YES
+Door han,Electric Sliding Gate Motor,52905,Medium,Door Motor,52902,DIFF,DIFF,Door Motor,52902,DIFF,DIFF,MATCH,NO
+linear-actuators,Linear Actuator,32181,High,Linear Actuator,32181,MATCH,MATCH,Linear Actuator,32181,MATCH,MATCH,MATCH,YES
+Motor Starter,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+Three Phase Electric Motor,Three Phase Electric Motor,52930,High,Three Phase Electric Motor,52930,MATCH,MATCH,Three Phase Electric Motor,52930,MATCH,MATCH,MATCH,YES
+l t mpower pro mobile motor starter,Mobile Starter,161896,Medium,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+Kenstar Air Cooler Motor With Pump,Kenstar Cooler Motor,658622,High,Cooler Motor,52897,DIFF,DIFF,Kenstar Cooler Motor,658622,MATCH,MATCH,DIFF,NO
+Three Phase Motor,Three Phase Motor,2415,High,Three Phase Motor,2415,MATCH,MATCH,Three Phase Motor,2415,MATCH,MATCH,MATCH,YES
+Pneumatic Actuators,Pneumatic Actuators,5084,High,Pneumatic Actuators,5084,MATCH,MATCH,Pneumatic Actuators,5084,MATCH,MATCH,MATCH,YES
+Crane Duty Geared Motor With Brake,Geared Brake Motors,44652,High,Geared Brake Motors,44652,MATCH,MATCH,Geared Brake Motors,44652,MATCH,MATCH,MATCH,YES
+1000 n (100 kg) 1 100 mm 24 v telescopic linear actuators,Linear Actuator,32181,High,Telescopic Actuators,23776,DIFF,DIFF,Linear Actuator,32181,MATCH,MATCH,DIFF,NO
+Pneumatic Rotary Actuators,Pneumatic Rotary Actuators,183587,High,Pneumatic Rotary Actuators,183587,MATCH,MATCH,Pneumatic Rotary Actuators,183587,MATCH,MATCH,MATCH,YES
+Petrosa Starter medium,Starters,7853,Medium,Single Phase Motor Starter,226793,DIFF,DIFF,Starters,7853,MATCH,MATCH,DIFF,NO
+Pneumatic Rotary Actuator,Pneumatic Rotary Actuators,183587,High,Pneumatic Rotary Actuators,183587,MATCH,MATCH,Pneumatic Rotary Actuators,183587,MATCH,MATCH,MATCH,YES
+Shade Pole Rexnord c Frame Motor Rec-6110-A2,Shaded Pole Motors,36931,High,Rexnord Motor,206096,DIFF,DIFF,Rexnord AC Motor,205985,DIFF,DIFF,DIFF,NO
+dc motor bush,DC Brush Motor,25364,Medium,DC Motor,445,DIFF,DIFF,Motor Brushes,52918,DIFF,DIFF,DIFF,NO
+crompton motors 20 hp 3 phase 960 rpm,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+geared motors,Gear Motor,29373,High,Gear Motor,29373,MATCH,MATCH,Gear Motor,29373,MATCH,MATCH,MATCH,YES
+ball screw or belt driven actuator,Ball Screw Actuators,22519,High,Linear Actuator,32181,DIFF,DIFF,Linear Actuator,32181,DIFF,DIFF,MATCH,NO
+Die Cast Rotors,Die Cast Rotors,120951,High,Die Cast Rotors,120951,MATCH,MATCH,Die Cast Rotors,120951,MATCH,MATCH,MATCH,YES
+Crompton Greaves Motor,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+automation switches,Motor Automatic Switch,140407,High,Motor Automatic Switch,140407,MATCH,MATCH,Motor Automatic Switch,140407,MATCH,MATCH,MATCH,YES
+क्लीनर प्रोडक्ट के लिए केमिकल कहां मिलता है,E-Learning Solution,45998,Medium,Industrial Chemicals,15064,DIFF,DIFF,Industrial Chemicals,52915,DIFF,DIFF,DIFF,NO
+Aluminium Bell Housing,Bell Housing,136623,High,Bell Housing,136623,MATCH,MATCH,Bell Housing,136623,MATCH,MATCH,MATCH,YES
+crompton motors 20 hp 3 phase near khair 960 rpm,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+SIEMENS 1FL6064-1AC61-2LA1 SIMOTICS S-1FL6-1FL6 Operating voltage 3AC 400 V,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Danfoss/Eaton Char-Lynn 2000 series,Hydraulic Motor,10834,Medium,Hydraulic Motor,10834,MATCH,MATCH,Hydraulic Motor,10834,MATCH,MATCH,MATCH,YES
+crompton greaves motors 20 hp 3 phase,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+Landt Motor Starter Mk1 Direct On Line (dol) (mk1 Dol 9-14 A.),DOL Starter,26266,High,Motor Starter,33567,DIFF,DIFF,DOL Starter,26266,MATCH,MATCH,DIFF,NO
+fdhhdfh,FHP Motor,446,Medium,Cooler Motor,52897,DIFF,DIFF,Cooler Motor,52897,DIFF,DIFF,MATCH,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR  1FK2106-4AF01-1SA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Vibration Motor,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+Remi Geared Motor,Remi Geared Motor,193182,High,Gear Motor,29373,DIFF,DIFF,Gear Motor,29373,DIFF,DIFF,MATCH,NO
+Tata Signa Bs4 Blower Motor,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+Allen Bradley SMC-3 43A Smart Motor starer,Allen Bradley Soft Starters,220186,High,Allen Bradley Soft Starters,220186,MATCH,MATCH,Allen Bradley Soft Starters,220186,MATCH,MATCH,MATCH,YES
+skill-3220-armature-powerbilt(9683),Power Tool Armature,653304,High,Armature,25,DIFF,DIFF,Armature,25,DIFF,DIFF,MATCH,NO
+50W Wall Fan Motor,Fan Motor,28231,High,Wall Fan Motor,48509,DIFF,DIFF,Fan Motor,28231,MATCH,MATCH,DIFF,NO
+m9mz90g4yga panasonic gear motor /90watt/ three phase,Panasonic Geared Motor,193206,High,Three Phase Gear Motor,150167,DIFF,DIFF,Three Phase Gear Motor,150167,DIFF,DIFF,MATCH,NO
+ll braider soft starer,Siemens Soft Starters,220184,Medium,Soft Starters,12256,DIFF,DIFF,Soft Starters,12256,DIFF,DIFF,MATCH,NO
+kollmorgen servo motors akm63k-anc2r-00,KOLLMORGEN Servo Motors,271284,High,Kollmorgen Servo Motors,205161,DIFF,MATCH,Kollmorgen Servo Motors,194006,DIFF,MATCH,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK01-1MB0 0.12 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Crane Current Collector Carbon Brush,Crane Current Collector,443328,High,Industrial Carbon Brushes,145615,DIFF,DIFF,Industrial Carbon Brushes,145615,DIFF,DIFF,MATCH,NO
+Pneumatic Actuatos,Pneumatic Actuators,5084,High,Pneumatic Actuators,5084,MATCH,MATCH,Pneumatic Actuators,5084,MATCH,MATCH,MATCH,YES
+1440 rpm three phase 9841043643 3 hp crompton greaves motor,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+horse power,FHP Motor,446,High,Horse Power,10543,DIFF,DIFF,Motor,1274,DIFF,DIFF,DIFF,NO
+Terminal plate,Motor Terminal Plate,137749,High,Motor Terminal Plate,137749,MATCH,MATCH,Motor Terminal Plate,137749,MATCH,MATCH,MATCH,YES
+dc brake motors in mumbai,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+hindustan ac motor,Hindustan AC Motor,203386,High,Hindustan AC Motor,203386,MATCH,MATCH,Hindustan AC Motor,203386,MATCH,MATCH,MATCH,YES
+24 inch three phase 4 exhaust fan fibre,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Exhaust Fan Motor,28080,MATCH,MATCH,MATCH,YES
+panasonic-ac-servo-motor,Panasonic AC Servo Motor,187161,High,Panasonic AC Servo Motor,187161,MATCH,MATCH,Panasonic AC Servo Motor,187161,MATCH,MATCH,MATCH,YES
+three phase 1 piece 5 hp 2800 rpm 3.7 KW 5HP Crompton Greaves Motor 1500 rpm,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+3 Phase Motor Starter,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+0.5 hp motor,Electric Motor,1274,High,Three Phase Induction Motor,131725,DIFF,DIFF,Three Phase Induction Motor,131725,DIFF,DIFF,MATCH,NO
+ac-fan-motor,AC Fan Motor,146600,High,AC Fan Motor,146600,MATCH,MATCH,AC Fan Motor,146600,MATCH,MATCH,MATCH,YES
+L&T Mpower Pro Mobile Motor Starter,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+linear actuator purlin,Linear Actuator,32181,High,Linear Actuator,32181,MATCH,MATCH,Linear Actuator,32181,MATCH,MATCH,MATCH,YES
+1 piece Allen Bradley Soft Starters,Allen Bradley Soft Starters,220186,High,Allen Bradley Soft Starters,220186,MATCH,MATCH,Allen Bradley Soft Starters,220186,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2210-3AB01-1SB0 4.5 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+dg geared motor,Gear Motor,29373,High,Gear Motor,29373,MATCH,MATCH,Gear Motor,29373,MATCH,MATCH,MATCH,YES
+Alternator Stator Core,Alternator Stator Core,155572,High,Stators,7863,DIFF,DIFF,Stators,7863,DIFF,DIFF,MATCH,NO
+servo motors repairs,Servo Motor Repair,168060,High,Servo Motor Repair,168060,MATCH,MATCH,Servo Motor Repair,168060,MATCH,MATCH,MATCH,YES
+Motor Carbon Brushes,Carbon Brush,903,High,Carbon Brush,903,MATCH,MATCH,Carbon Brush,903,MATCH,MATCH,MATCH,YES
+Pmdc Stirrer Motor,Stirrer Motor,142027,High,PMDC Geared Motor,183437,DIFF,DIFF,PMDC Geared Motor,183437,DIFF,DIFF,MATCH,NO
+dol-starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+Fan Motor,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+Three Phase Motors Crompton Greaves,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+TR 7 25x50 Holder,Carbon Brush Holder,55772,Medium,Motor Parts,150022,DIFF,DIFF,Motor Parts,150022,DIFF,DIFF,MATCH,NO
+End Shield Cover,Motor Cover,117875,High,Motor End Caps,43493,DIFF,DIFF,Motor End Caps,43493,DIFF,DIFF,MATCH,NO
+three phase 3.7 kw crompton greaves induction motor,Crompton Greaves Motor,126348,Medium,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+1 for business use piece 22 kw Allen Bradley 150-C43NBD SMC-3 Soft Starter 43A 480V 3-Phase 100-240V AC Control,Allen Bradley Soft Starters,220186,High,Allen Bradley Soft Starters,220186,MATCH,MATCH,Allen Bradley Soft Starters,220186,MATCH,MATCH,MATCH,YES
+3.7 kw crompton greaves induction motor,Crompton Induction Motors,203369,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+Direct On Line Starter DOL Motor Starter (DMC),DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+crompton greaves induction motor,Crompton Induction Motors,203369,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+three phase-motors,Three Phase Motor,2415,High,Three Phase Motor,2415,MATCH,MATCH,Three Phase Motor,2415,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-0MB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Stators,Stators,7863,High,Stators,7863,MATCH,MATCH,Stators,7863,MATCH,MATCH,MATCH,YES
+1 fan motor,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+Makita MT-958 Armature By PowerSpeed,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF01-1MA0  2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+KOLLMORGEN Servo Motors,KOLLMORGEN Servo Motors,271284,High,KOLLMORGEN Servo Motors,271284,MATCH,MATCH,KOLLMORGEN Servo Motors,271284,MATCH,MATCH,MATCH,YES
+10 HP Transtech Gear Electric Motor,Electric Gear Motor,52906,High,Three Phase Electric Motor,52930,DIFF,DIFF,Gear Motor,29373,DIFF,DIFF,DIFF,NO
+Hollow Shaft Type Incremental Rotary Encoder,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+Ti Motion Linear Actuator,Linear Actuator,32181,High,Linear Actuator,32181,MATCH,MATCH,Linear Actuator,32181,MATCH,MATCH,MATCH,YES
+Rhino+12V+DC+30RPM+70Kgcm+IG32+Heavy+Duty+Planetary+Geared+Motor,Planetary Gear Motor,153816,High,Heavy Duty Motor,55774,DIFF,DIFF,Heavy Duty Motor,55774,DIFF,DIFF,MATCH,NO
+1FK2104-6AF10-0MB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+dual shaft 1330 RPM BLOWER FAN MOTOR,Blower Motors,23098,Medium,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+Worm Geared Motor,Worm Geared Motor,41500,High,Worm Geared Motor,41500,MATCH,MATCH,Worm Geared Motor,41500,MATCH,MATCH,MATCH,YES
+3 Phase Electric Motor,Three Phase Electric Motor,52930,High,Three Phase Electric Motor,52930,MATCH,MATCH,Three Phase Electric Motor,52930,MATCH,MATCH,MATCH,YES
+linear 1 festo actuators,Festo Actuators,203380,High,Linear Actuator,32181,DIFF,DIFF,Linear Actuator,32181,DIFF,DIFF,MATCH,NO
+FL57BLS01-24V-10000A- Regular BLDC Motor,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+starter,Starters,7853,High,Starters,7853,MATCH,MATCH,Starters,7853,MATCH,MATCH,MATCH,YES
+motor starter controller,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+EG224 Grade DC Motor Carbon Brush,DC Motor Carbon Brushes,133005,High,DC Motor Carbon Brushes,133005,MATCH,MATCH,DC Motor Carbon Brushes,133005,MATCH,MATCH,MATCH,YES
+mini motors,Electric Motor,1274,High,Mini Motor,182584,DIFF,DIFF,DC Motor,445,DIFF,DIFF,DIFF,NO
+Air Vane Motor,Air Vane Motor,84523,High,Air Vane Motor,84523,MATCH,MATCH,Air Motors,21680,DIFF,DIFF,DIFF,NO
+1 HP Impel VGGH25 Electric Motor,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+dc fan motor 15 20 watt,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+fan motor 25 30 watt,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+3-phase-motor-starter,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+Electric Motors and Components,Motor Parts,150022,High,Electric Motor,1274,DIFF,DIFF,Electric Motor,1274,DIFF,DIFF,MATCH,NO
+three phase l&t mpower pro mobile motor starter,3 Phase Motor Starter,226794,High,Mobile Starter,161896,DIFF,DIFF,Mobile Starter,161896,DIFF,DIFF,MATCH,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-0SB0 1 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Motor Terminal Plate,Motor Terminal Plate,137749,High,Motor Terminal Plate,137749,MATCH,MATCH,Motor Terminal Plate,137749,MATCH,MATCH,MATCH,YES
+1 hp bench polisher motor,Polisher Motor,106938,High,Polisher Motor,106938,MATCH,MATCH,Polisher Motor,106938,MATCH,MATCH,MATCH,YES
+Air Conditioner Motor,Air Conditioner Motor,186009,High,Air Conditioner Motor,186009,MATCH,MATCH,Air Conditioner Motor,186009,MATCH,MATCH,MATCH,YES
+partition frames for motor,Traction Motor Frame,117965,High,Motor Parts,150022,DIFF,DIFF,Motor Frame,35297,DIFF,DIFF,DIFF,NO
+FL28STH51-0674AF-Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+Electrical carbon Brushes,Electro Graphite Carbon Brush,133002,High,DC Motor Carbon Brushes,133005,DIFF,DIFF,Industrial Carbon Brushes,145615,DIFF,DIFF,DIFF,NO
+Vibratory Motor Foot Mounted,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+Omp Series Orbital Motors,Orbit Hydraulic Motor,205464,High,Orbital Motor,52919,DIFF,DIFF,Orbital Motor,52919,DIFF,DIFF,MATCH,NO
+Hydraulic Motor bmr,Orbit Hydraulic Motor,205464,High,Hydraulic Motor,10834,DIFF,DIFF,Hydraulic Motor,10834,DIFF,DIFF,MATCH,NO
+25 Amp Motor Starter Fresh Material,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+M S Hydraulic Motor,Hydraulic Motor,10834,High,Motorized Hydraulic Pump Actuator,167393,DIFF,DIFF,Hydraulic Motor,10834,MATCH,MATCH,DIFF,NO
+Jyoti Motor Starter And Starter Oil Set,Oil Starter,142116,High,Single Phase Motor Starter,226793,DIFF,DIFF,Single Phase Motor Starter,226793,DIFF,DIFF,MATCH,NO
+FL57BL01-24V-1500AD Brushless Motor,Brushless Motors,23616,High,Brushless Motors,23616,MATCH,MATCH,Brushless Motors,23616,MATCH,MATCH,MATCH,YES
+MIG PMDC MOTOR 24V/42V,PMDC Motor,52920,High,PMDC Motor,52920,MATCH,MATCH,PMDC Motor,52920,MATCH,MATCH,MATCH,YES
+500 rpm mig pmdc motor 24v/42v,PMDC Motor,52920,High,PMDC Motor,52920,MATCH,MATCH,PMDC Motor,52920,MATCH,MATCH,MATCH,YES
+2 hp three phase motor,Three Phase Motor,2415,High,Three Phase Motor,2415,MATCH,MATCH,Three Phase Motor,2415,MATCH,MATCH,MATCH,YES
+Havells Electric Motor,Havells Electric Motor,189725,High,Havells Electric Motor,189725,MATCH,MATCH,Havells Electric Motor,189725,MATCH,MATCH,MATCH,YES
+2 200 w chimney motor,Chimney Motor,446121,High,Chimney Motors,186074,DIFF,DIFF,Chimney Motors,443256,DIFF,DIFF,DIFF,NO
+Synchronous Motor,Synchronous Motor,18917,High,AC Synchronous Motor,45525,DIFF,DIFF,Single Phase AC Synchronous Motor,19219,DIFF,DIFF,DIFF,NO
+FL57BLB60 Regular BLDC Motor,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+Cooler Motor 7 Sutt,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Vintage Industrial Motor,Industrial Motors,52915,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+fan-motors,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+mig pmdc motor 24v 42v,PMDC Motor,52920,High,PMDC Motor,52920,MATCH,MATCH,PMDC Motor,52920,MATCH,MATCH,MATCH,YES
+Single Phase AC Synchronous Motor,Single Phase AC Synchronous Motor,19219,High,Single Phase AC Synchronous Motor,19219,MATCH,MATCH,Single Phase AC Synchronous Motor,19219,MATCH,MATCH,MATCH,YES
+9607 HB / 9609 HB Makita Armature By PowerSpeed,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+parallel shaft helical geard motor,Helical Geared Motor,43308,High,Helical Geared Motor,43308,MATCH,MATCH,Helical Geared Motor,43308,MATCH,MATCH,MATCH,YES
+1 phase electric motor,Single Phase Electric Motor,52927,High,Single Phase Electric Motor,52927,MATCH,MATCH,Single Phase Electric Motor,52927,MATCH,MATCH,MATCH,YES
+Gsm Mobile Starter Pcb,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+shaded pole motors with fan,Shaded Pole Motors,36931,High,Shaded Pole Motors,36931,MATCH,MATCH,Shaded Pole Motors,36931,MATCH,MATCH,MATCH,YES
+Cooler Motor 1 Inch Kit (aluminium),Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Autonic Shaft Encoder,Shaft Encoder,44166,High,Shaft Encoder,44166,MATCH,MATCH,Shaft Encoder,44166,MATCH,MATCH,MATCH,YES
+door-motor,Door Motor,52902,High,Automatic Door Motor,52891,DIFF,DIFF,Automatic Door Motor,52891,DIFF,DIFF,MATCH,NO
+200W AC Servo Brake Motor & Drive LSELM1S-0200DH60E-SS,AC Servo Motor,14970,High,AC Servo Motor,14970,MATCH,MATCH,Servo Motor,448,DIFF,DIFF,DIFF,NO
+65X50X25MM CARBON BRUSH,Carbon Brush,903,High,Carbon Brush,903,MATCH,MATCH,Carbon Brush,903,MATCH,MATCH,MATCH,YES
+shaded+pole+motors,Shaded Pole Motors,36931,High,Shaded Pole Motors,36931,MATCH,MATCH,Shaded Pole Motors,36931,MATCH,MATCH,MATCH,YES
+Shaded Pole Motors,Shaded Pole Motors,36931,High,Shaded Pole Motors,36931,MATCH,MATCH,Shaded Pole Motors,36931,MATCH,MATCH,MATCH,YES
+105 Wat Single Phase Cooler Motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+FL60STH65-2008AF Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+FL42BLSL01- Regular BLDC Motor,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+single phase cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+4000w bldc motor / 4kw bldc motor for electric car / electric motor for gokart,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+Mitsubishi Servo Motors,Mitsubishi Servo Motors,184101,High,Mitsubishi Servo Motors,184101,MATCH,MATCH,Mitsubishi Servo Motors,184101,MATCH,MATCH,MATCH,YES
+FL42STH60-0854AF- Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+Single Phase Motor Starter,Single Phase Motor Starter,226793,High,Single Phase Motor Starter,226793,MATCH,MATCH,Single Phase Motor Starter,226793,MATCH,MATCH,MATCH,YES
+170M7167-6500A,Bussmann Semiconductor Fuses,214428,High,Siemens Servo Motors,184102,DIFF,DIFF,Allen Bradley Soft Starters,220186,DIFF,DIFF,DIFF,NO
+Chimney Motor,Chimney Motor,446121,High,Chimney Actuators,189949,DIFF,DIFF,Chimney Motors,131722,DIFF,DIFF,DIFF,NO
+sewing-machine-motor-armature,Sewing Machine Motor Armature,312874,High,Motor Armature,167444,DIFF,DIFF,Motor Armature,167444,DIFF,DIFF,MATCH,NO
+amdo cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+hindustan,Hindustan AC Motor,203386,High,Hindustan AC Motor,203386,MATCH,MATCH,Hindustan AC Motor,203386,MATCH,MATCH,MATCH,YES
+crompton greaves vfdc,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+Carbon Brush Holder,Carbon Brush Holder,55772,High,Carbon Brush Holder,55772,MATCH,MATCH,Carbon Brush Holder,55772,MATCH,MATCH,MATCH,YES
+370W Electric Sliding Gate Motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Electric Sliding Gate Motor,52905,MATCH,MATCH,MATCH,YES
+foot cum flange mounted electric motor,Foot Mounted Motor,177266,High,Flange Motors,6408,DIFF,DIFF,Flange Motors,6408,DIFF,DIFF,MATCH,NO
+FL42BLSL02- Regular BLDC Motor,Brushless DC Motor,15240,High,Brushless DC Motor,15240,MATCH,MATCH,Brushless DC Motor,15240,MATCH,MATCH,MATCH,YES
+Electro Pneumatic Valve Positioner,Electro Pneumatic Valve Positioner,147007,High,Electro Pneumatic Valve Positioner,147007,MATCH,MATCH,Electro Pneumatic Valve Positioner,147007,MATCH,MATCH,MATCH,YES
+DC motor 5.5,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+B&R 8BVI0014HWS0.000-1 ACOPOS MULTI INVERTER MODULE I0014S,B&R Servo Motors,442571,Medium,ACOPOS Servo Motor,203384,DIFF,DIFF,ACOPOS Servo Motor,205136,DIFF,DIFF,DIFF,NO
+Motor Rotor,Rotor mounted Motor,36904,High,Rotor mounted Motor,36904,MATCH,MATCH,Rotor mounted Motor,36904,MATCH,MATCH,MATCH,YES
+cooler kit motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+inline helical geared motors,Inline Geared Motor,43309,High,Helical Geared Motor,43308,DIFF,DIFF,Helical Geared Motor,43308,DIFF,DIFF,MATCH,NO
+boparai auto switch pro,Automotive Switches,27,High,Motor Automatic Switch,140407,DIFF,DIFF,Motor Automatic Switch,140407,DIFF,DIFF,MATCH,NO
+Carbon brush for AC HT Moter,Carbon Brush,903,High,Alternator Carbon Brush,106203,DIFF,DIFF,AC Carbon Brush,652540,DIFF,DIFF,DIFF,NO
+800 W Wet Dry Vacuum Cleaner Motors,Vacuum Cleaner Motors,40749,High,Vacuum Cleaner Motors,40749,MATCH,MATCH,Vacuum Motor,65116,DIFF,DIFF,DIFF,NO
+FL57STH56-2504ACF-25-ARK Hybrid Stepper Motor,Hybrid Stepper Motor,15599,Medium,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+FL57STH51-2804AF- Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+90 watt ac geared motor,AC Geared Motor,21549,High,AC Geared Motor,21549,MATCH,MATCH,AC Geared Motor,21549,MATCH,MATCH,MATCH,YES
+dwe4235 armature near udaipur,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+Electric Motor Starters,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Single Phase Motor Starter,226793,DIFF,DIFF,DIFF,NO
+ytc make smart positioner,Valve Positioners,40629,High,Pneumatic Positioner,20641,DIFF,DIFF,Valve Positioners,40629,MATCH,MATCH,DIFF,NO
+PowerSpeed Armature For Makita 3501 N,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+arma texture,Armature,25,Medium,Servo Motor,448,DIFF,DIFF,Stepper Motor,18794,DIFF,DIFF,DIFF,NO
+Single Phase Copper Slip Ring,Slip Rings,37229,High,Slip Rings,37229,MATCH,MATCH,Slip Rings,37229,MATCH,MATCH,MATCH,YES
+Venex Motor Starter,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+Mobile+Starter+Prime,Mobile Starter,161896,High,Mobile Starter,161896,MATCH,MATCH,Mobile Starter,161896,MATCH,MATCH,MATCH,YES
+havells motor,Havells Electric Motor,189725,High,Havells Electric Motor,189725,MATCH,MATCH,Havells Electric Motor,189725,MATCH,MATCH,MATCH,YES
+AC Fail and DC Fail,Brake Motors,21078,Medium,AC Motor,444,DIFF,DIFF,Motor Automatic Switch,140407,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-4AK01-0MB0 0.06 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Aluminium Winding Cooler Fan Motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+FL42STH33-0956AF- Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+Mk 1 Dol Starter,L&T DOL Starter,654303,High,DOL Starter,26266,DIFF,DIFF,DOL Starter,26266,DIFF,DIFF,MATCH,NO
+fhp motors,FHP Motor,446,High,FHP Motor,446,MATCH,MATCH,FHP Motor,446,MATCH,MATCH,MATCH,YES
+laxmi 3 hp singal fase motors,Single Phase Motors,9484,High,Single Phase Motors,9484,MATCH,MATCH,Single Phase Motors,9484,MATCH,MATCH,MATCH,YES
+0502 exhaust fan motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Exhaust Fan Motor,28080,MATCH,MATCH,MATCH,YES
+dual shaft 1300RPM BLOWER FAN MOTOR,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+105 W Alqer 16 Inch Super Cooler Motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+FL60STH65-2804AF Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+टेक्समो मोटर स्पेयर पार्ट्स,Motor Parts,150022,High,Texmo Motor Parts,203382,DIFF,DIFF,Texmo Motor Parts,182396,DIFF,DIFF,DIFF,NO
+Crompton 2hp Gf6834 Single Phase Electric Motor 1440 Rpm,Crompton Greaves Motor,126348,Medium,Crompton Greaves Motor,126348,MATCH,MATCH,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+Bch Submersible Pump Starters,Pump Starter,146491,High,Pump Starter,146491,MATCH,MATCH,Pump Starter,146491,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-0SB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+AC Geared Motor,AC Geared Motor,21549,High,AC Motor,444,DIFF,DIFF,AC Geared Motor,21549,MATCH,MATCH,DIFF,NO
+Crompton 2hp Gf6834 Single Phase Electric Motor,Crompton Greaves Motor,126348,Medium,Crompton Greaves Motor,126348,MATCH,MATCH,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF01-0SA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Ecoflam Burner Servo Motor,Burner Servo Motors,162318,High,Burner Servo Motors,162318,MATCH,MATCH,Burner Servo Motors,162318,MATCH,MATCH,MATCH,YES
+Three Phase Motor,Three Phase Motor,2415,High,Three Phase Motor,2415,MATCH,MATCH,Three Phase Motor,2415,MATCH,MATCH,MATCH,YES
+VTV YN90-120 Motor,AC Servo Motor,14970,Medium,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+Electric Motors,Electric Motor,1274,High,Electric Motor,1274,MATCH,MATCH,Electric Motor,1274,MATCH,MATCH,MATCH,YES
+induction motor,Induction Motors,10971,High,Induction Motors,10971,MATCH,MATCH,Induction Motors,10971,MATCH,MATCH,MATCH,YES
+60W Desert Cooler Motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+FL42STH47-1684AF-08- Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+electronic-starter,Electronic Starter,27659,High,Electronic Starter,27659,MATCH,MATCH,Electronic Starter,27659,MATCH,MATCH,MATCH,YES
+FL42STH38-1684AF Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+Lubi LGH90GF50H15K Gare Motor,Electric Gear Motor,52906,Medium,Three Phase Gear Motor,150167,DIFF,DIFF,Three Phase Gear Motor,150167,DIFF,DIFF,MATCH,NO
+1FK2104-6AF10-0SB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Ml 2 Dol Starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+siemens electric ac motor 75 hp 1440 rpm,Siemens AC Motor,179401,High,Siemens Electric Motor,184089,DIFF,DIFF,Siemens AC Motors,184089,DIFF,DIFF,MATCH,NO
+Vishal 8al2 Air Cooler Motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+ELLDO cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+CP - 101 ACTUATOR,Actuators,3148,High,Actuators,3148,MATCH,MATCH,Actuators,3148,MATCH,MATCH,MATCH,YES
+DZ Gear Motor Brushed DC Motor,DC Brush Motor,25364,High,DC Geared Motor,25556,DIFF,DIFF,DC Geared Motor,25556,DIFF,DIFF,MATCH,NO
+dual shaft blower fan motor,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Double Shaft Motor,139590,DIFF,DIFF,DIFF,NO
+220 v dual shaft BLOWER FAN MOTOR,Blower Motors,23098,High,Double Shaft Motor,139590,DIFF,DIFF,Double Shaft Motor,139590,DIFF,DIFF,MATCH,NO
+220  v 1 dual shaft BLOWER FAN MOTOR,Blower Motors,23098,High,Double Shaft Motor,139590,DIFF,DIFF,Blower Motors,23098,MATCH,MATCH,DIFF,NO
+Crompton 2hp Gf6834 Single Phase Electric Motor,Crompton Greaves Motor,126348,Medium,Crompton Greaves Motor,126348,MATCH,MATCH,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+AT12 Single Chain Actuator,Electric Actuator,27216,High,Actuators,3148,DIFF,DIFF,Actuators,3148,DIFF,DIFF,MATCH,NO
+SECO N 24 25 Single Chain Actuator,Electric Actuator,27216,High,Pneumatic Actuators,5084,DIFF,DIFF,Pneumatic Actuators,5084,DIFF,DIFF,MATCH,NO
+Siemens Raja+ Direct On Line Starters,DOL Starter,26266,High,Motor Starter,33567,DIFF,DIFF,DOL Starter,26266,MATCH,MATCH,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-1MB0 1 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+cg cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Makita 9047 Armature By PowerSpeed,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+Electric Motor Housing,Motor Housings,33555,High,Electric Motor Body,137795,DIFF,DIFF,Motor Housings,33555,MATCH,MATCH,DIFF,NO
+Vibro Sifter Vibratory Motors,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+FL28STH45-0674A - Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+Single Phase D.C. Motor,Single Phase Motors,9484,Medium,DC Motor,445,DIFF,DIFF,Single Phase Motors,9484,MATCH,MATCH,DIFF,NO
+electric torque,Torque Motor,19705,Medium,Torque Motor,19705,MATCH,MATCH,Torque Motors,19705,MATCH,DIFF,MATCH,YES
+Godrej Lawkim Ac Motors,Godrej Lawkim Ac Motors,206364,High,Godrej Lawkim Industrial Motors,203174,DIFF,DIFF,Godrej Lawkim AC Motor,203174,DIFF,DIFF,MATCH,NO
+dual shaft FAN MOTOR,AC Fan Motor,146600,Medium,Dual Shaft Motor,139590,DIFF,DIFF,Double Shaft Motor,139590,DIFF,DIFF,MATCH,NO
+Crompton Electric Motor,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+Mini Fan Motor,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+3d minuture,Internet Security Antivirus Software,206353,Medium,Miniature Motors,25339,DIFF,DIFF,Stepper Motor,18794,DIFF,DIFF,DIFF,NO
+Electric Motor with Gear,Electric Gear Motor,52906,High,Electric Gear Motor,52906,MATCH,MATCH,Gear Motor,29373,DIFF,DIFF,DIFF,NO
+FL28STH45-0674AF-14 - Hybrid Stepper Motor,Hybrid Stepper Motor,15599,Medium,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+mixer-grinder-motor,Mixer Grinder Motor,84526,High,Mixer Grinder Motor,84526,MATCH,MATCH,Mixer Grinder Motor,84526,MATCH,MATCH,MATCH,YES
+Sew-eurodrive servo Motor cmp50m/pk/vr/rh1m/sm1,Sew Eurodrive Servo Motors,203188,High,Servo Motor,448,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,DIFF,NO
+Sew-eurodrive,Brake Rectifier,166869,High,Servo Motor,448,DIFF,DIFF,Servo Motor,448,DIFF,DIFF,MATCH,NO
+vane pneumatic actuator,Pneumatic Actuators,5084,High,Pneumatic Actuators,5084,MATCH,MATCH,Pneumatic Actuators,5084,MATCH,MATCH,MATCH,YES
+Flange Mounted Motor,Flange Motors,6408,High,Flange Motors,6408,MATCH,MATCH,Flange Motors,6408,MATCH,MATCH,MATCH,YES
+FL57STH56-2504ACF-25 - Hybrid Stepper Motor,Hybrid Stepper Motor,15599,Medium,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+FL57STH56-2804AF-01- Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+MU2 Dol Motor Starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+power tool cm4,Power Tool Carbon Brush,190885,Medium,Power Tool Accessories,186017,DIFF,DIFF,Power Tool Carbon Brush,190885,MATCH,MATCH,DIFF,NO
+power tool near delhi cm4,Power Tool Carbon Brush,190885,Medium,Power Tools,443,DIFF,DIFF,Power Tools,78428,DIFF,DIFF,DIFF,NO
+crompton-motors,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+Voltas AC Outdoor Fan Motor,AC Fan Motor,146600,High,AC Fan Motor,146600,MATCH,MATCH,AC Fan Motor,146600,MATCH,MATCH,MATCH,YES
+Makita MT-950 Armature By PowerSpeed,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+1500 cfm FAN MOTOR,Exhaust Fan Motor,28080,Medium,Fan Motor,28231,DIFF,DIFF,Fan Motor,28231,DIFF,DIFF,MATCH,NO
+230v apex cool 410w exhaust fan motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Exhaust Fan Motor,28080,MATCH,MATCH,MATCH,YES
+FL57STH76-2504ACF-ARK Hybrid Stepper Motor,Hybrid Stepper Motor,15599,High,Hybrid Stepper Motor,15599,MATCH,MATCH,Hybrid Stepper Motor,15599,MATCH,MATCH,MATCH,YES
+Clogging Test,Clogging Indicator,86235,High,Motor Testing,183884,DIFF,DIFF,Motor Testing,178219,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-1MB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+crompton motor 1 hp,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Motors,446133,MATCH,MATCH,DIFF,NO
+crompton motor near tinsukia 1 hp,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Motors,446133,MATCH,MATCH,DIFF,NO
+motorized pulley drum motor,Drum Motors,26922,High,Pulp And Paper Machine Parts,120905,DIFF,DIFF,Motorized Pulley,162316,DIFF,DIFF,DIFF,NO
+crompton motor,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Motors,446133,MATCH,MATCH,DIFF,NO
+Belimo Damper Fire Actuator,Damper Actuators,183591,High,Damper Actuators,183591,MATCH,MATCH,Damper Actuators,183591,MATCH,MATCH,MATCH,YES
+e42 90w 2850/3450rpm motor single phase,Single Phase Motors,9484,High,Single Phase Motors,9484,MATCH,MATCH,Single Phase Motors,9484,MATCH,MATCH,MATCH,YES
+Slip Ring Assemblies,Slip Ring Assemblies,141589,High,Slip Ring Assemblies,141589,MATCH,MATCH,Slip Ring Assemblies,141589,MATCH,MATCH,MATCH,YES
+Siemens DOL Starter,Siemens DOL Starter,654653,High,Siemens DOL Starter,654653,MATCH,MATCH,Siemens DOL Starter,654653,MATCH,MATCH,MATCH,YES
+pmdc gear motor 0-25-hp 25-200rpm 12-180volt,PMDC Motor,52920,Medium,PMDC Geared Motor,183437,DIFF,DIFF,PMDC Geared Motor,183437,DIFF,DIFF,MATCH,NO
+Vertical Motors,Vertical Motors,39037,High,Vertical Motor,150107,DIFF,DIFF,Vertical Motor,186084,DIFF,DIFF,DIFF,NO
+PowerSpeed Armature For Makita 9500 NB,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+side shaft gear motor,Gear Motor,29373,High,Side Shaft Motors,13663,DIFF,DIFF,Side Shaft Gear Motor,6408,DIFF,DIFF,DIFF,NO
+FEBRICATION BLOWER 1HP SINGLE PHASE,Blower Motors,23098,Medium,Single Phase Electric Motor,52927,DIFF,DIFF,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+a40k/m566w/g7.2 (60 square pl gear),Stepper Motor,18794,High,Stepper Motor,18794,MATCH,MATCH,Electric Gear Motor,52906,DIFF,DIFF,DIFF,NO
+1400 rpm single phase 230 v flange mounted 230v apex cool 410w exhaust fan motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Exhaust Fan Motor,28080,MATCH,MATCH,MATCH,YES
+crompton 10 hp motor,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+foot mounting 1 piece 1440 rpm Single Phase Motors,Single Phase Motors,9484,High,Single Phase Motors,9484,MATCH,MATCH,Single Phase Induction Motor,9483,DIFF,DIFF,DIFF,NO
+ABB Servo Motors,ABB Servo Motors,193698,High,ABB Servo Motors,193698,MATCH,MATCH,ABB Servo Motors,193698,MATCH,MATCH,MATCH,YES
+20 HP Three Phase Electric Motor,Three Phase Electric Motor,52930,High,Three Phase Electric Motor,52930,MATCH,MATCH,Three Phase Electric Motor,52930,MATCH,MATCH,MATCH,YES
+1FK2104-6AF10-1MB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF01-0MA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+mil 37 38 diaphragm actuators,Pneumatic Diaphragm Actuator,183588,High,Diaphragm Actuators,12791,DIFF,DIFF,Diaphragm Actuators,12791,DIFF,DIFF,MATCH,NO
+Petrosa starter mini 1 KG,Motor Starter,33567,High,Electronic Starter,27659,DIFF,DIFF,Electronic Starter,27659,DIFF,DIFF,MATCH,NO
+BRUSHLESS MOTOR DYS 1800KV,Brushless Motors,23616,High,Brushless Motors,23616,MATCH,MATCH,Brushless Motors,23616,MATCH,MATCH,MATCH,YES
+Petrosa starter mini 1KG,Motor Starter,33567,High,Electronic Starter,27659,DIFF,DIFF,Single Phase Motor Starter,226793,DIFF,DIFF,DIFF,NO
+Petrosa starter mini 3 KG,Motor Starter,33567,Medium,Electronic Starter,27659,DIFF,DIFF,Single Phase Motor Starter,226793,DIFF,DIFF,DIFF,NO
+Petrosa starter mini 3KG,Motor Starter,33567,Medium,Electronic Starter,27659,DIFF,DIFF,Single Phase Motor Starter,226793,DIFF,DIFF,DIFF,NO
+Weishaupt Burner Servo Motor,Burner Servo Motors,162318,High,Burner Servo Motors,162318,MATCH,MATCH,Burner Servo Motors,162318,MATCH,MATCH,MATCH,YES
+Petrosa starter mini 8 KG,Motor Starter,33567,Medium,Single Phase Motor Starter,226793,DIFF,DIFF,Single Phase Motor Starter,226793,DIFF,DIFF,MATCH,NO
+Petrosa starter mini 8KG,Motor Starter,33567,Medium,Electronic Starter,27659,DIFF,DIFF,Single Phase Motor Starter,226793,DIFF,DIFF,DIFF,NO
+apex cool 410w single phase exhaust fan motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Single Phase Electric Motor,52927,DIFF,DIFF,DIFF,NO
+danfoss original brand new h1b80/h1b110 motor,Danfoss Hydraulic Motor,203731,High,Danfoss Actuators,208001,DIFF,DIFF,Danfoss Actuators,208001,DIFF,DIFF,MATCH,NO
+3 HP Three Phase Induction Motor 960 Rpm,Three Phase Induction Motor,131725,High,Three Phase Induction Motor,131725,MATCH,MATCH,Three Phase Induction Motor,131725,MATCH,MATCH,MATCH,YES
+gpn gear motor,Gear Motor,29373,High,Gear Motor,29373,MATCH,MATCH,Gear Motor,29373,MATCH,MATCH,MATCH,YES
+Dol Motor Starters,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+Oil Starter Magnet Call,Oil Starter,142116,High,Oil Starter,142116,MATCH,MATCH,Motor Starter,33567,DIFF,DIFF,DIFF,NO
+AC MOTAR,AC Motor,444,High,AC Motor,444,MATCH,MATCH,AC Motor,444,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK01-1SB0 0.57 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-4AK01-0SB0 0.06 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+50HP Abb Electric Motor,ABB Electric Motor,181114,High,ABB Electric Motor,181114,MATCH,MATCH,ABB Electric Motor,181114,MATCH,MATCH,MATCH,YES
+10 hp crompton motor,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+PowerSpeed Armature for Gsh-500 Bosch,Power Tool Armature,653304,Medium,Armature,25,DIFF,DIFF,Armature,25,DIFF,DIFF,MATCH,NO
+SIEMENS SINAMICS S200 Servo Motor 1FL2306-4AC01-0HB0 0.1 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+helical gear motor,Helical Geared Motor,43308,High,Helical Geared Motor,43308,MATCH,MATCH,Helical Geared Motor,43308,MATCH,MATCH,MATCH,YES
+3330601 Cummins Electronic Fuel Control Actuator,Cummins Actuators,444288,High,Cummins Actuators,444288,MATCH,MATCH,Cummins Actuators,444288,MATCH,MATCH,MATCH,YES
+Stepper Motor,Stepper Motor,18794,High,Stepper Motor,18794,MATCH,MATCH,Stepper Motor,18794,MATCH,MATCH,MATCH,YES
+desert type copper 32 mm 1 cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+9067/9069 Makita Armature By PowerSpeed,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+1 2 hp 775 12 v rs775 10000rpm 12v dc motor,DC Motor,445,High,DC Micro Motors,25372,DIFF,DIFF,DC Micro Motors,25372,DIFF,DIFF,MATCH,NO
+5hp 3phase motor,Three Phase Motor,2415,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Motor,2415,MATCH,MATCH,DIFF,NO
+Bharat Benz Aluminium Housing,Aluminium Housings,4693,Medium,Aluminium Housings,4693,MATCH,MATCH,Aluminium Housings,4693,MATCH,MATCH,MATCH,YES
+lubi three phase induction motors,Three Phase Induction Motor,131725,High,Three Phase Induction Motor,131725,MATCH,MATCH,Three Phase Induction Motor,131725,MATCH,MATCH,MATCH,YES
+Crane Geared Brake Motor,Geared Brake Motors,44652,High,Brake Motors,21078,DIFF,DIFF,Geared Brake Motors,44652,MATCH,MATCH,DIFF,NO
+1400 rpm single phase 230 v 230v apex cool 410w single phase exhaust fan motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+12v dc motor,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+1400 rpm 230 v apex cool 410w single phase exhaust fan motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+Suguna Motor Starter,Motor Starter,33567,High,Single Phase Motor Starter,226793,DIFF,DIFF,Single Phase Motor Starter,226793,DIFF,DIFF,MATCH,NO
+reverse forward 3 phase 20 3 hp starters,3 Phase Motor Starter,226794,High,Three Phase Motor Starter,226794,MATCH,DIFF,Motor Starter,33567,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2210-3AC01-0MB0 5.5 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+rexroth servo drive,Servo Drives,20912,High,Servo Motor,448,DIFF,DIFF,Servo Motor,448,DIFF,DIFF,MATCH,NO
+Valve Positioners,Valve Positioners,40629,High,Valve Positioners,40629,MATCH,MATCH,Valve Positioners,40629,MATCH,MATCH,MATCH,YES
+FOOT Mounted Motor (model Gf 6834),Foot Mounted Motor,177266,High,Foot Mounted Motor,177266,MATCH,MATCH,Foot Mounted Motor,177266,MATCH,MATCH,MATCH,YES
+1400 rpm apex cool 410w single phase exhaust fan motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+Motor Stater,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+Paragon Motor Starter,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+UR006G XGT Brushless Motor Active Feedback Sensing,Brushless Motors,23616,Medium,Brushless Motors,23616,MATCH,MATCH,Brushless Motors,23616,MATCH,MATCH,MATCH,YES
+schubert and salzer positioner,Valve Positioners,40629,High,Valve Positioners,40629,MATCH,MATCH,Valve Positioners,40629,MATCH,MATCH,MATCH,YES
+polisher-motor,Polisher Motor,106938,High,Polisher Motor,106938,MATCH,MATCH,Polisher Motor,106938,MATCH,MATCH,MATCH,YES
+Electric Vibratory Motor,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+Abb Electric Motor 50hp 1500 Rpm,ABB Electric Motor,181114,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+SIEMENS SIMOTICS S-1FK2 1FK2106-4AF11-1SA0  servo motor 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Siemens Face Mounted Induction Motor,Siemens Induction Motors,203372,High,Siemens Induction Motors,203372,MATCH,MATCH,Siemens Induction Motors,203372,MATCH,MATCH,MATCH,YES
+5 HP Three Phase Motor,Three Phase Motor,2415,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Motor,2415,MATCH,MATCH,DIFF,NO
+APEX COOL 410W MOTOR,Cooling Tower Motors,131722,Medium,Cooler Motor,52897,DIFF,DIFF,Cooler Motor,52897,DIFF,DIFF,MATCH,NO
+Motar Starter,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+Siemens 7.5 KW 2 HP Electric Motor,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+Unbalance Vibratory Motors,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+Sew Brake Motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+ABB Three Phase Induction Motor,ABB Induction Motor,193239,High,ABB Induction Motor,193239,MATCH,MATCH,ABB Induction Motor,193239,MATCH,MATCH,MATCH,YES
+Oriental motor,Electric Motor,1274,High,Stepper Motor,18794,DIFF,DIFF,Stepper Motor,18794,DIFF,DIFF,MATCH,NO
+3 phase auto starter,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+Type 200 17 Inch Copper Exhaust Fan Motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Exhaust Fan Motor,28080,MATCH,MATCH,MATCH,YES
+Openable Gate Motor,Gate Motor,29337,High,Gate Motor,29337,MATCH,MATCH,Gate Motor,29337,MATCH,MATCH,MATCH,YES
+hollow shaft encoder,Hollow Shaft Encoders,30451,High,Hollow Shaft Encoders,30451,MATCH,MATCH,Hollow Shaft Encoders,30451,MATCH,MATCH,MATCH,YES
+pbl-right-angled-helical-bevel-geared-motor,PBL Geared Motors,206096,High,Helical Geared Motor,43308,DIFF,DIFF,Helical Geared Motor,43308,DIFF,DIFF,MATCH,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-4AF00-1MA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF00-1SA0  2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Foredom Flex Shaft Motor,Flexible Shaft Motor,189999,High,Flexible Shaft Motor,189999,MATCH,MATCH,Flexible Shaft Motor,189999,MATCH,MATCH,MATCH,YES
+lift-motor,Lift Motor,77611,High,Lift Motor,77611,MATCH,MATCH,Lift Motor,77611,MATCH,MATCH,MATCH,YES
+aira mild steel pneumatic rotary actuator,Pneumatic Rotary Actuators,183587,High,Pneumatic Rotary Actuators,183587,MATCH,MATCH,Pneumatic Rotary Actuators,183587,MATCH,MATCH,MATCH,YES
+flange type 25 hp motor,Flange Motors,6408,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+3 phase dol motor starter,3 Phase Motor Starter,226794,High,DOL Starter,26266,DIFF,DIFF,DOL Starter,26266,DIFF,DIFF,MATCH,NO
+Siemens Three Phase Electric Motor,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+Lubi Electrical Motor,Electric Motor,1274,High,Electric Motor,1274,MATCH,MATCH,Three Phase Electric Motor,52930,DIFF,DIFF,DIFF,NO
+Moter stater,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+HUMSER 12V 10RPM,DC Geared Motor,25556,Medium,DC Motor,445,DIFF,DIFF,DC Micro Motors,25372,DIFF,DIFF,DIFF,NO
+geared motor,Gear Motor,29373,High,Helical Geared Motor,43308,DIFF,DIFF,Gear Motor,29373,MATCH,MATCH,DIFF,NO
+2285625342 statorhv 2030,Stators,7863,Medium,Stators,7863,MATCH,MATCH,Stators,7863,MATCH,MATCH,MATCH,YES
+slipring motor,Slip Ring Motor,37228,High,Slip Ring Motor,37228,MATCH,MATCH,Slip Ring Motor,37228,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK10-0SB0 0.12 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Kisrloskar Motar,Kirloskar Electric Motor,185261,High,Klockner Motor,203386,DIFF,DIFF,Klockner Motoren,206066,DIFF,DIFF,DIFF,NO
+Gate Motor,Gate Motor,29337,High,Electric Sliding Gate Motor,52905,DIFF,DIFF,Electric Sliding Gate Motor,52905,DIFF,DIFF,MATCH,NO
+vibratory motor,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+270Hp Siemens Motor,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+bft deimos bt a600 gate motor,Gate Motor,29337,High,Electric Sliding Gate Motor,52905,DIFF,DIFF,Electric Sliding Gate Motor,52905,DIFF,DIFF,MATCH,NO
+Panasonic Servo Motor MHMF042L1U2M  400Watt,Panasonic AC Servo Motor,187161,High,Panasonic AC Servo Motor,187161,MATCH,MATCH,Panasonic AC Servo Motor,187161,MATCH,MATCH,MATCH,YES
+3000 rpm Siemens 1FL6062-1AC61-0AA1 Servo Motor,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+fv5029 010,Rotary Actuators,36873,Medium,Hydraulic Motor,10834,DIFF,DIFF,Cooler Motor,52897,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK01-0SB0 0.57 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+fv5029-010,Rotary Actuators,36873,Medium,Servo Motor,448,DIFF,DIFF,Cooler Motor,52897,DIFF,DIFF,DIFF,NO
+DC Motor Carbon Brushes,DC Motor Carbon Brushes,133005,High,DC Motor Carbon Brushes,133005,MATCH,MATCH,DC Motor Carbon Brushes,133005,MATCH,MATCH,MATCH,YES
+Three Phase Dol Motor Starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+three phase 2800 rpm 2 0.25 hp electric vibro motor,Three Phase Electric Motor,52930,High,Concrete Vibrator Motor,184082,DIFF,DIFF,Vibration Motor,2743,DIFF,DIFF,DIFF,NO
+Motor Encoder,Motor Encoder,166373,High,Motor Encoder,166373,MATCH,MATCH,Motor Encoder,166373,MATCH,MATCH,MATCH,YES
+macwell brand motor,Electric Motor,1274,High,Macwell Electric Motor,189725,DIFF,DIFF,Macwell Motor,203386,DIFF,DIFF,DIFF,NO
+macwel brand motor,Electric Motor,1274,High,Macwel Motor,203386,DIFF,DIFF,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+gearmoter,Gear Motor,29373,High,Gear Motor,29373,MATCH,MATCH,Gear Motor,29373,MATCH,MATCH,MATCH,YES
+3 phase 40 hp oil starter,Oil Starter,142116,High,Oil Starter,142116,MATCH,MATCH,Oil Starter,142116,MATCH,MATCH,MATCH,YES
+my cool star,Cooler Motor,52897,Medium,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+DC Shunt Motor,DC Shunt Motor,190648,High,Shunt Motor,52915,DIFF,DIFF,Shunt Motor,19084,DIFF,DIFF,DIFF,NO
+Cooler Motor 1 Inch,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Stirrer Motor,Stirrer Motor,142027,High,DC Geared Motor,25556,DIFF,DIFF,Stirrer Motors,30367,DIFF,DIFF,DIFF,NO
+Acurater plate,Actuators,3148,High,Motor Plate,190101,DIFF,DIFF,Motor Plate,190101,DIFF,DIFF,MATCH,NO
+Weg- Germany 2880RPM Motor,Weg Motor,657268,High,Weg Motor,657268,MATCH,MATCH,Weg Electric Motor,184089,DIFF,DIFF,DIFF,NO
+pump-starter,Pump Starter,146491,High,Pump Starter,146491,MATCH,MATCH,Pump Starter,146491,MATCH,MATCH,MATCH,YES
+2283752193 motor6v 20a,Electric Motor,1274,Medium,DC Motor,445,DIFF,DIFF,DC Motor,445,DIFF,DIFF,MATCH,NO
+Fanuc AC Servo Motor 0.35kW 6000 A06B-0115-B103 and Pulsecoder,Fanuc Servo Motor,445329,High,Fanuc Servo Motor,445329,MATCH,MATCH,Fanuc Servo Motor,445329,MATCH,MATCH,MATCH,YES
+PowerSpeed Armature For 9005 N Makita,Armature,25,High,Armature,25,MATCH,MATCH,Armature,25,MATCH,MATCH,MATCH,YES
+Crompton Motor 10 HP 960 Rpm,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+Blower Motors,Blower Motors,23098,High,Blower Motors,23098,MATCH,MATCH,Blower Motors,23098,MATCH,MATCH,MATCH,YES
+three phase 2800 rpm 2 0.25 hp single phase vibro motors,Vibration Motor,2743,Medium,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+AC Induction Motor,AC Induction Motor,21550,High,AC Induction Motor,21550,MATCH,MATCH,AC Induction Motor,21550,MATCH,MATCH,MATCH,YES
+Siemens 1440RPM Three Phase Flange Motor,Siemens Electric Motor,184089,High,Three Phase Motor,2415,DIFF,DIFF,Siemens Electric Motor,184089,MATCH,MATCH,DIFF,NO
+Havells Induction Motors,Havells Induction Motors,203370,High,Havells Induction Motors,203370,MATCH,MATCH,Havells Induction Motors,203370,MATCH,MATCH,MATCH,YES
+cast iron general,Cast Iron,24504,High,Electric Motor,1274,DIFF,DIFF,Cast Iron Motor,122215,DIFF,DIFF,DIFF,NO
+AC Motor,AC Motor,444,High,AC Motor,444,MATCH,MATCH,AC Motor,444,MATCH,MATCH,MATCH,YES
+20 hp motor,Electric Motor,1274,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+rs 555 high speed dc motor 5000rpm,High Speed Motor,30367,High,High Speed Motor,30367,MATCH,MATCH,High Speed DC Motor,4463,DIFF,DIFF,DIFF,NO
+dc ware,DC Motor,445,Medium,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+ABB 50 HP Three Phase Electric Motors,ABB Electric Motor,181114,High,ABB Electric Motor,181114,MATCH,MATCH,ABB Electric Motor,181114,MATCH,MATCH,MATCH,YES
+electric-actuator,Electric Actuator,27216,High,Electric Actuator,27216,MATCH,MATCH,Valve Actuators,40795,DIFF,DIFF,DIFF,NO
+dc 12v gear motor,DC Geared Motor,25556,High,DC Geared Motor,25556,MATCH,MATCH,DC Geared Motor,25556,MATCH,MATCH,MATCH,YES
+CG make  electric motor,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+1le7501‑1bb23‑5aa4,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+brush for electronics,Electric Brushes,108128,Medium,Electronic Motor Brushes,133005,DIFF,DIFF,Industrial Carbon Brushes,145615,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF11-0MB0 1 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+power-tool-carbon-brush,Power Tool Carbon Brush,190885,High,Power Tool Carbon Brush,190885,MATCH,MATCH,Power Tool Carbon Brush,190885,MATCH,MATCH,MATCH,YES
+thrive architect latest version,Electric Motor,1274,Medium,AC Motor,444,DIFF,DIFF,DC Motor,445,DIFF,DIFF,DIFF,NO
+Kirloskar make electric motor,Kirloskar Electric Motor,185261,High,Kirloskar Electric Motor,185261,MATCH,MATCH,Kirloskar Electric Motor,185261,MATCH,MATCH,MATCH,YES
+SIMOTICS S synchronous motor 1FK7 1FK7081-3BF71-1RB1,Siemens Servo Motors,184102,Medium,Siemens Servo Motors,184102,MATCH,MATCH,Synchronous Motor,18917,DIFF,DIFF,DIFF,NO
+Hindustan Geared Motors,Hindustan AC Motor,203386,Medium,Hindustan AC Motor,203386,MATCH,MATCH,Hindustan AC Motor,203386,MATCH,MATCH,MATCH,YES
+vibro shift motor,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+Steper Motor,Stepper Motor,18794,High,Stepper Motor,18794,MATCH,MATCH,Stepper Motor,18794,MATCH,MATCH,MATCH,YES
+bonfiglioli riduttori motor be71-b4 230/400-50 ip55 clf b5,Bonfiglioli Geared Motor,193153,Medium,Bonfiglioli Geared Motor,193153,MATCH,MATCH,Bonfiglioli Geared Motor,193153,MATCH,MATCH,MATCH,YES
+Stater,Starters,7853,High,Stators,7863,DIFF,DIFF,Stators,7863,DIFF,DIFF,MATCH,NO
+Motor 160kw,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+Bharat Bijlee Electric Motor,Bharat Bijlee AC Motor,203388,High,Bharat Bijlee AC Motor,203388,MATCH,MATCH,Bharat Bijlee AC Motor,203388,MATCH,MATCH,MATCH,YES
+75 HP Crompton Industrial Motors,Crompton Greaves Industrial Motors,193884,High,Crompton Greaves Industrial Motors,193884,MATCH,MATCH,Crompton Greaves Industrial Motors,193884,MATCH,MATCH,MATCH,YES
+Double Motor Vacuum Cleaner,Vacuum Cleaner Motors,40749,Medium,Vacuum Cleaner Motors,40749,MATCH,MATCH,Double Side Vacuum Motor,443716,DIFF,DIFF,DIFF,NO
+synchronous-motor,Synchronous Motor,18917,High,AC Synchronous Motor,45525,DIFF,DIFF,Single Phase AC Synchronous Motor,19219,DIFF,DIFF,DIFF,NO
+C Beam Linear Actuator,Linear Actuator,32181,High,Linear Actuator,32181,MATCH,MATCH,Linear Actuator,32181,MATCH,MATCH,MATCH,YES
+Siemens Make Electric Motor,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+Abb Make Electric Motor,ABB Electric Motor,181114,High,ABB Electric Motor,181114,MATCH,MATCH,ABB Electric Motor,181114,MATCH,MATCH,MATCH,YES
+5r/min 1.5w 50/60hz motor,B&R Servo Motors,442571,Medium,DC Motor,445,DIFF,DIFF,DC Motor,445,DIFF,DIFF,MATCH,NO
+Direct Drive Motor For Juki,Hydraulic Drive Motor,29652,High,Spindle Motors,38084,DIFF,DIFF,Spindle Motors,38084,DIFF,DIFF,MATCH,NO
+5hp flour mill motor,Flour Mill Electric Motor,182597,High,Flour Mill Electric Motor,182597,MATCH,MATCH,Flour Mill Electric Motor,182597,MATCH,MATCH,MATCH,YES
+Alternator Carbon Brush,Alternator Carbon Brush,106203,High,Alternator Carbon Brush,106203,MATCH,MATCH,Carbon Brush,903,DIFF,DIFF,DIFF,NO
+5hp motor,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+Vane Type Hydraulic Motor,Vane Type Hydraulic Motor,19908,High,Vane Type Hydraulic Motor,19908,MATCH,MATCH,Vane Type Hydraulic Motor,19908,MATCH,MATCH,MATCH,YES
+Crompton Industrial Motors 75 hp,Crompton Greaves Industrial Motors,193884,High,Crompton Greaves Industrial Motors,193884,MATCH,MATCH,Crompton Greaves Industrial Motors,193884,MATCH,MATCH,MATCH,YES
+11KW Kirloskar Electric Motor,Kirloskar Electric Motor,185261,High,Kirloskar Electric Motor,185261,MATCH,MATCH,Kirloskar Electric Motor,185261,MATCH,MATCH,MATCH,YES
+3 phase 2 piece l&t Motor Starter,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+DOL STRTERS,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+ng80,Three Phase Motor,2415,Medium,Air Conditioner Motor,186009,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,DIFF,NO
+general electric sfk01,General Electric AC Motors,181196,High,Air Conditioner Motor,186009,DIFF,DIFF,Electric Motor,1274,DIFF,DIFF,DIFF,NO
+Heavy Duty Rotary Air Motor,Air Motors,21680,Medium,Air Motors,21680,MATCH,MATCH,Air Motors,21680,MATCH,MATCH,MATCH,YES
+ac motor indoor,Air Conditioner Motor,186009,High,AC Motor,444,DIFF,DIFF,AC Motor,444,DIFF,DIFF,MATCH,NO
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF00-0SA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+dc-motor-spare,DC Motor Spare,188276,High,Motor Parts,150022,DIFF,DIFF,DC Motor,445,DIFF,DIFF,DIFF,NO
+Motor Parts,Motor Parts,150022,High,Motor Parts,150022,MATCH,MATCH,Motor Parts,150022,MATCH,MATCH,MATCH,YES
+वाइब्रो शिफ्ट मोटर,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+Marathon Electric Motor,Marathon Electric Motor,181116,High,Marathon Electric Motor,181116,MATCH,MATCH,Marathon Electric Motor,181116,MATCH,MATCH,MATCH,YES
+Shakti Dol Starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+2 HP single phase,Single Phase Motors,9484,High,Single Phase Motors,9484,MATCH,MATCH,Single Phase Motors,9484,MATCH,MATCH,MATCH,YES
+6ik180gu 240 w motor,AC Geared Motor,21549,High,Three Phase Gear Motor,150167,DIFF,DIFF,Siemens Servo Motors,184102,DIFF,DIFF,DIFF,NO
+Telemetry Encoder Unit,Motor Encoder,166373,Medium,Motor Encoder,166373,MATCH,MATCH,Motor Encoder,166373,MATCH,MATCH,MATCH,YES
+dc-geared-motor,DC Geared Motor,25556,High,DC Geared Motor,25556,MATCH,MATCH,DC Geared Motor,25556,MATCH,MATCH,MATCH,YES
+Motorized Actuators,Motorized Actuators,167393,High,Motorized Actuators,167393,MATCH,MATCH,Motorized Actuators,167393,MATCH,MATCH,MATCH,YES
+Dc Brake For Electric Motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+desert type aluminum 32 mm 1 inch kit cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+1.5 kw crompton single phase motor,Single Phase Motors,9484,High,Single Phase Motors,9484,MATCH,MATCH,Single Phase Electric Motor,52927,DIFF,DIFF,DIFF,NO
+ac motor 20w,AC Motor,444,High,AC Motor,444,MATCH,MATCH,AC Motor,444,MATCH,MATCH,MATCH,YES
+Dc fan motor,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+ac motor 10w,AC Motor,444,High,AC Motor,444,MATCH,MATCH,AC Motor,444,MATCH,MATCH,MATCH,YES
+10hp motor,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Motor,2415,DIFF,DIFF,DIFF,NO
+6FC5357-0BA11-1AE0,Siemens Servo Motors,184102,Medium,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Indigo Self Armature,Self Armature,443618,High,Motor Armature,167444,DIFF,DIFF,Self Armature,443618,MATCH,MATCH,DIFF,NO
+leadshine l7 series servo ac servo motor,AC Servo Motor,14970,High,AC Servo Motor,14970,MATCH,MATCH,AC Servo Motor,14970,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK10-0MB0 0.57 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+10m3flow rate 30 mtr headpumpwith motor,Pump Head,137593,Medium,Single Phase Motors,9484,DIFF,DIFF,Pump with Motor,131722,DIFF,DIFF,DIFF,NO
+Traction Motor,Lift Motor,77611,High,Lift Motor,77611,MATCH,MATCH,Lift Motor,77611,MATCH,MATCH,MATCH,YES
+Leadshine L7 Series 750W AC Servo Motor and Driver Kit,AC Servo Motor,14970,Medium,AC Servo Motor,14970,MATCH,MATCH,AC Servo Motor,14970,MATCH,MATCH,MATCH,YES
+Dol Motor Starters Paragon,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF11-0MB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+3 phase motor start,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+oil-filled 3 hp 25 single phase motor starter,Single Phase Motor Starter,226793,High,Single Phase Motor Starter,226793,MATCH,MATCH,Single Phase Motor Starter,226793,MATCH,MATCH,MATCH,YES
+SMC Electric Actuator,SMC Actuators,203381,High,SMC Actuators,203381,MATCH,MATCH,SMC Actuators,203381,MATCH,MATCH,MATCH,YES
+1FK2104-6AF11-0MB0,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+digital dol starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+Slider Type Electric Actuator,Electric Actuator,27216,High,Electric Actuator,27216,MATCH,MATCH,Electric Actuator,27216,MATCH,MATCH,MATCH,YES
+seedprod latest version,Electric Motor,1274,Medium,Stepper Motor,18794,DIFF,DIFF,Stepper Motor,18794,DIFF,DIFF,MATCH,NO
+Siemens 75 HP Foot Mounted Electric Motors,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+Grow art 3 phase hybrid,Hybrid Stepper Motor,15599,Medium,3 Phase Motor,2415,DIFF,DIFF,Motor Starter,33567,DIFF,DIFF,DIFF,NO
+gbru 1 min auto switch,Automotive Switches,27,High,Motor Automatic Switch,140407,DIFF,DIFF,Motor Automatic Switch,140407,DIFF,DIFF,MATCH,NO
+SIEMENS SIMOTICS S-1FK2 SERVO  MOTOR 1FK2106-4AF00-0MA0 2.7 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+armature,Armature,25,High,Armature,25,MATCH,MATCH,Motor Armature,167444,DIFF,DIFF,DIFF,NO
+ecma-ca1010ss delta servo motor,Delta Servo Motors,193996,High,Delta Servo Motors,193996,MATCH,MATCH,Delta Servo Motors,193996,MATCH,MATCH,MATCH,YES
+table fan motor,Fan Motor,28231,High,Fan Motor,28231,MATCH,MATCH,Fan Motor,28231,MATCH,MATCH,MATCH,YES
+20W ALUMINUM HOUSING,Aluminium Housings,4693,High,Aluminum Housings,4693,MATCH,DIFF,Aluminium Housings,4693,MATCH,MATCH,MATCH,YES
+motor panvel,Electric Motor,1274,High,Motor Parts,150022,DIFF,DIFF,Electric Motor,1274,MATCH,MATCH,DIFF,NO
+40 HP  Siemens Electric Motors,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+hindustan package,Hindustan AC Motor,203386,High,Bharat Bijlee AC Motor,203388,DIFF,DIFF,Hindustan AC Motor,203386,MATCH,MATCH,DIFF,NO
+Electric Sliding Gate Motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Electric Sliding Gate Motor,52905,MATCH,MATCH,MATCH,YES
+800 RPM Electric Sliding Gate Motor,Electric Sliding Gate Motor,52905,High,Gate Motor,29337,DIFF,DIFF,Electric Sliding Gate Motor,52905,MATCH,MATCH,DIFF,NO
+HF-SP152 servo motor mitsubishi,Mitsubishi Servo Motors,184101,High,Mitsubishi Servo Motors,184101,MATCH,MATCH,Mitsubishi Servo Motors,184101,MATCH,MATCH,MATCH,YES
+1000 RPM Electric Sliding Gate Motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Electric Sliding Gate Motor,52905,MATCH,MATCH,MATCH,YES
+Gear and Vane Motors,Air Vane Motor,84523,High,Vane Type Hydraulic Motor,19908,DIFF,DIFF,Vane Type Hydraulic Motor,19908,DIFF,DIFF,MATCH,NO
+high power mini dc water motors project,DC Motor,445,Medium,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+high power mini dc water motors for project near badlapur,DC Motor,445,Medium,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+775 dc motor bihpuri,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+775 dc motor near agra bichpuri,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+24v dc coffee machine motor,Coffee Vending Machine Parts,139261,High,DC Motor,445,DIFF,DIFF,DC Motor,445,DIFF,DIFF,MATCH,NO
+Crompton Geared Motor,Helical Geared Motor,43308,Medium,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+l&t three phase motor starter,Motor Starter,33567,High,L&T DOL Starter,654303,DIFF,DIFF,3 Phase Motor Starter,226794,DIFF,DIFF,DIFF,NO
+Servo Motor & Variac Motor,Servo Motor,448,High,Servo Motor,448,MATCH,MATCH,Servo Motor,448,MATCH,MATCH,MATCH,YES
+Siemens Electric Motors 40 Hp,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+3 phase motor starter without oil automatic,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+3 phase motor starter near jodhpur without oilautomatic,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+HP400 Siemens Motor,Siemens Electric Motor,184089,High,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+Flange Motors,Flange Motors,6408,High,Flange Motors,6408,MATCH,MATCH,Flange Motors,6408,MATCH,MATCH,MATCH,YES
+Sew Eurodrive CMP50M AC Synchronous Motor,Sew Eurodrive Servo Motors,203188,High,AC Synchronous Motor,45525,DIFF,DIFF,Synchronous Motor,18917,DIFF,DIFF,DIFF,NO
+2 hp flange motor,Flange Motors,6408,High,Flange Motors,6408,MATCH,MATCH,Flange Motors,6408,MATCH,MATCH,MATCH,YES
+3 phase motor starter oil free automatic,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+3 phase motor starter near jodhpur oil freee automatic,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+ABB MOTOR 200KW 270HP 1500RPM FOOT IE2,ABB Electric Motor,181114,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+bonfiglioli brake motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Bonfiglioli Motors,193155,DIFF,DIFF,DIFF,NO
+1 piece ABB Soft Starters,ABB Soft Starters,220182,High,ABB Soft Starters,220182,MATCH,MATCH,ABB Soft Starters,220182,MATCH,MATCH,MATCH,YES
+kenstar desert air cooler motor,Kenstar Air Cooler,178783,Medium,Kenstar Cooler Motor,658622,DIFF,DIFF,Kenstar Cooler Motor,658622,DIFF,DIFF,MATCH,NO
+Marathon 1hp motor single phase,Marathon Electric Motor,181116,Medium,Marathon Electric Motor,181116,MATCH,MATCH,Marathon Electric Motor,181116,MATCH,MATCH,MATCH,YES
+Make - Marathon 1hp motor single phase,Single Phase Motors,9484,Medium,Marathon Electric Motor,181116,DIFF,DIFF,Marathon Electric Motor,181116,DIFF,DIFF,MATCH,NO
+Vibro Sifter Motor,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+kirloskar electric motor 10 hp 960 rpm,Kirloskar Electric Motor,185261,High,Kirloskar Electric Motor,185261,MATCH,MATCH,Kirloskar Electric Motor,185261,MATCH,MATCH,MATCH,YES
+desert cooler motor,Cooler Motor,52897,High,Cooler Motor,52897,MATCH,MATCH,Cooler Motor,52897,MATCH,MATCH,MATCH,YES
+Exhaust Fan Motor,Exhaust Fan Motor,28080,High,Exhaust Fan Motor,28080,MATCH,MATCH,Exhaust Fan Motor,28080,MATCH,MATCH,MATCH,YES
+nord gearbox spares,Gearbox Parts,11957,High,Gearbox Spare Parts,150206,DIFF,DIFF,Gearbox Spare Parts,177394,DIFF,DIFF,DIFF,NO
+MGM Varvel Brake Motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+AC Electric Motor,AC Motor,444,High,AC Motor,444,MATCH,MATCH,AC Motor,444,MATCH,MATCH,MATCH,YES
+Motor Starter .,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+c&s dol starter 15hp,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+c&s dol starter 15hp near delhi,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+10w deep freezer motor,Refrigerator Motor,186074,High,Freezer Motor,186079,DIFF,DIFF,Freezer Motors,177394,DIFF,DIFF,DIFF,NO
+bell crack assembly,Bell Housing,136623,Medium,Bell Housing,136623,MATCH,MATCH,Bell Housing,136623,MATCH,MATCH,MATCH,YES
+Simensh Hp400 Rpm1440,Siemens Electric Motor,184089,Medium,Siemens Electric Motor,184089,MATCH,MATCH,Siemens Electric Motor,184089,MATCH,MATCH,MATCH,YES
+StarDental Starter,Star Delta Starter,653300,High,Starters,7853,DIFF,DIFF,Starters,7853,DIFF,DIFF,MATCH,NO
+Start Dental Starter,Starters,7853,Medium,Dental Equipment,188856,DIFF,DIFF,Motor Starter,33567,DIFF,DIFF,DIFF,NO
+Explosion Proof Electric Motor,Explosion Proof Motors,28119,High,Explosion Proof Motors,28119,MATCH,MATCH,Explosion Proof Motors,28119,MATCH,MATCH,MATCH,YES
+Industrial dc motor,DC Motor,445,High,DC Motor,445,MATCH,MATCH,DC Motor,445,MATCH,MATCH,MATCH,YES
+High Torque Square Geared Motor,Torque Motor,19705,High,High Torque Motor,30394,DIFF,DIFF,High Torque Motor,30394,DIFF,DIFF,MATCH,NO
+सर्वो मोटर सप्लायर,Servo Motor,448,High,AC Servo Motor,14970,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,MATCH,NO
+borewell 2h starter,Motor Starter,33567,High,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-3AF11-1SA0 2.3 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Crompton Induction Motors,Crompton Induction Motors,203369,High,Crompton Induction Motors,203369,MATCH,MATCH,Crompton Induction Motors,203369,MATCH,MATCH,MATCH,YES
+nema 17 0.9 degree,Stepper Motor,18794,High,Stepper Motor,18794,MATCH,MATCH,Stepper Motor,18794,MATCH,MATCH,MATCH,YES
+ABB Auto- Lek Ail 94022 A Solenoid Switch,Solenoid Switches,7646,High,Starter Solenoid Switches,7852,DIFF,DIFF,Starter Solenoid Switches,7852,DIFF,DIFF,MATCH,NO
+Three phase,Three Phase Electric Motor,52930,Medium,Three Phase Motor,2415,DIFF,DIFF,Three Phase Motor,2415,DIFF,DIFF,MATCH,NO
+nema 17 0.9 degree 22mm lenth,Hybrid Stepper Motor,15599,Medium,Stepper Motor,18794,DIFF,DIFF,Stepper Motor,18794,DIFF,DIFF,MATCH,NO
+New Series Allen Bradley Soft Starter,Allen Bradley Soft Starters,220186,High,Allen Bradley Soft Starters,220186,MATCH,MATCH,Allen Bradley Soft Starters,220186,MATCH,MATCH,MATCH,YES
+1 for business use piece ABB Soft Starters,ABB Soft Starters,220182,High,ABB Soft Starters,220182,MATCH,MATCH,ABB Soft Starters,220182,MATCH,MATCH,MATCH,YES
+bolero ac motor,AC Motor,444,High,AC Motor,444,MATCH,MATCH,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+150c43nbd smc3 soft starter,Allen Bradley Soft Starters,220186,High,Soft Starters,12256,DIFF,DIFF,Soft Starters,12256,DIFF,DIFF,MATCH,NO
+lt mk1 dol motor starter,L&T DOL Starter,654303,High,DOL Starter,26266,DIFF,DIFF,DOL Starter,26266,DIFF,DIFF,MATCH,NO
+Eaton Orbital Motor,Orbital Motor,52919,High,Orbital Motor,52919,MATCH,MATCH,Orbital Motor,52919,MATCH,MATCH,MATCH,YES
+automatic gate motor,Automatic Door Motor,52891,High,Electric Sliding Gate Motor,52905,DIFF,DIFF,Electric Sliding Gate Motor,52905,DIFF,DIFF,MATCH,NO
+Door Motor .,Door Motor,52902,High,Door Motor,52902,MATCH,MATCH,Door Motor,52902,MATCH,MATCH,MATCH,YES
+23a paramoon motor starter,3 Phase Motor Starter,226794,High,Motor Starter,33567,DIFF,DIFF,Motor Starter,33567,DIFF,DIFF,MATCH,NO
+electrical motor for boats,Electric Motor,1274,High,Boat Motor,184089,DIFF,DIFF,DC Motor,445,DIFF,DIFF,DIFF,NO
+SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-5AF00-1SB0 0.75 kW,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+Absolute Shaft Encoder,Absolute Encoders,21534,High,Shaft Encoder,44166,DIFF,DIFF,Shaft Encoder,44166,DIFF,DIFF,MATCH,NO
+Permanent Magnet. tech,Permanent Magnet Motor,1275,Medium,Permanent Magnet Motor,1275,MATCH,MATCH,Permanent Magnet Motor,1275,MATCH,MATCH,MATCH,YES
+INVT Servo Motor,Servo Motor,448,High,AC Servo Motor,14970,DIFF,DIFF,AC Servo Motor,14970,DIFF,DIFF,MATCH,NO
+1.5 KW Halcyon Three Phase Induction Motor,Three Phase Induction Motor,131725,High,Three Phase Induction Motor,131725,MATCH,MATCH,Three Phase Induction Motor,131725,MATCH,MATCH,MATCH,YES
+5 sliding piece 800 kg Gate Motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Electric Sliding Gate Motor,52905,MATCH,MATCH,MATCH,YES
+Synchronous Transformer,Synchronous Motor,18917,High,Single Phase AC Synchronous Motor,19219,DIFF,DIFF,Synchronous Motor,19685,DIFF,MATCH,DIFF,NO
+FHP Motor,FHP Motor,446,High,FHP Motor,446,MATCH,MATCH,FHP Motor,446,MATCH,MATCH,MATCH,YES
+5HP Single Phase Buffing Machine Motor,Polisher Motor,106938,High,Three Phase Electric Motor,52930,DIFF,DIFF,Single Phase Motors,9484,DIFF,DIFF,DIFF,NO
+Motor Brakes,Motor Brakes,33323,High,Motor Brakes,33323,MATCH,MATCH,Motor Brakes,33323,MATCH,MATCH,MATCH,YES
+1hp three phase ac vibration motor,Vibration Motor,2743,High,Concrete Vibrator Motor,184082,DIFF,DIFF,Vibration Motor,2743,MATCH,MATCH,DIFF,NO
+Explosion Proof Motors,Explosion Proof Motors,28119,High,Explosion Proof Motors,28119,MATCH,MATCH,Explosion Proof Motors,28119,MATCH,MATCH,MATCH,YES
+Aei/Marathon Motor Brush Holder,Carbon Brush Holder,55772,High,Carbon Brush Holder,55772,MATCH,MATCH,Carbon Brush Holder,55772,MATCH,MATCH,MATCH,YES
+75 Hp Induction Motor,Induction Motors,10971,High,Induction Motors,10971,MATCH,MATCH,Induction Motors,10971,MATCH,MATCH,MATCH,YES
+Squirrel Cage Motors,Squirrel Cage Motors,38675,High,Squirrel Cage Motors,38675,MATCH,MATCH,Squirrel Cage Motors,38675,MATCH,MATCH,MATCH,YES
+Pneumatic Diaphragm Actuator,Pneumatic Diaphragm Actuator,183588,High,Pneumatic Diaphragm Actuator,183588,MATCH,MATCH,Pneumatic Diaphragm Actuator,183587,DIFF,MATCH,DIFF,NO
+3 phase motor starter oil free,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+3 phase motor starter near jodhpur oil free,3 Phase Motor Starter,226794,High,3 Phase Motor Starter,226794,MATCH,MATCH,3 Phase Motor Starter,226794,MATCH,MATCH,MATCH,YES
+12 Inch 3000W Scooter Brushless DC Wheel Hub Motor Controller,Brushless DC Motor,15240,Medium,Hub Motor,30337,DIFF,DIFF,Hub Motor,65116,DIFF,DIFF,DIFF,NO
+helical geared motor 2hp,Helical Geared Motor,43308,High,Helical Geared Motor,43308,MATCH,MATCH,Helical Geared Motor,43308,MATCH,MATCH,MATCH,YES
+helical geared motor 2hp near hyderabad,Helical Geared Motor,43308,High,Helical Geared Motor,43308,MATCH,MATCH,Helical Geared Motor,43308,MATCH,MATCH,MATCH,YES
+deep electricals vibrator motor,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Vibration Motor,2743,MATCH,MATCH,MATCH,YES
+Single Phase Digital Motor Starter,Single Phase Motor Starter,226793,High,Motor Starter,33567,DIFF,DIFF,Single Phase Motor Starter,226793,MATCH,MATCH,DIFF,NO
+motor starter spark,Motor Starter,33567,Medium,Motor Starter,33567,MATCH,MATCH,Motor Starter,33567,MATCH,MATCH,MATCH,YES
+Copper Carbon Brush For Slipring Motor,Carbon Brush,903,High,Carbon Brush,903,MATCH,MATCH,Carbon Brush,903,MATCH,MATCH,MATCH,YES
+750 rpm 1 0.18 kw marathon electric motor,Marathon Electric Motor,181116,High,Marathon Electric Motor,181116,MATCH,MATCH,Marathon Electric Motor,181116,MATCH,MATCH,MATCH,YES
+Moving Magnetic Linear Motor,Linear Motor,17163,High,Linear Motor,17163,MATCH,MATCH,Linear Motor,17163,MATCH,MATCH,MATCH,YES
+Abb Used Ac Motors,ABB Electric Motor,181114,High,Used AC Motor,131724,DIFF,DIFF,Used AC Motor,178664,DIFF,DIFF,DIFF,NO
+5 In 1 Magic Brush,Electric Brushes,108128,High,Electric Brushes,108128,MATCH,MATCH,Electric Brushes,108128,MATCH,MATCH,MATCH,YES
+Bonfiglioli A Series Gear Motor,Bonfiglioli Geared Motor,193153,High,Bonfiglioli Geared Motor,193153,MATCH,MATCH,Bonfiglioli Geared Motor,193153,MATCH,MATCH,MATCH,YES
+Industrial Electric Motor,Industrial Motors,52915,High,Industrial Motors,52915,MATCH,MATCH,Industrial Motors,52915,MATCH,MATCH,MATCH,YES
+High Speed Motor,High Speed Motor,30367,High,High Speed Motor,30367,MATCH,MATCH,High Speed Motor,30367,MATCH,MATCH,MATCH,YES
+7.5 kw 10 hp havells induction motor,Havells Induction Motors,203370,High,Havells Induction Motors,203370,MATCH,MATCH,Havells Induction Motors,203374,DIFF,MATCH,DIFF,NO
+Industrial%20Motors,Industrial Motors,52915,High,Industrial Motors,52915,MATCH,MATCH,Industrial Motors,52915,MATCH,MATCH,MATCH,YES
+Industrial%20Electric Motor,Industrial Motors,52915,High,Industrial Motors,52915,MATCH,MATCH,Industrial Motors,52915,MATCH,MATCH,MATCH,YES
+SIMOTICS 1FK7 1FK7043-4CH7 MOTER 1.2kW,Siemens Servo Motors,184102,High,AC Servo Motor,14970,DIFF,DIFF,Siemens Servo Motors,184102,MATCH,MATCH,DIFF,NO
+electric motorized actuator,Motorized Actuators,167393,High,Electric Actuator,27216,DIFF,DIFF,Electric Actuator,27216,DIFF,DIFF,MATCH,NO
+armature of stanley sc-16,Stanley Power Saw,203985,High,Armature,25,DIFF,DIFF,Armature,25,DIFF,DIFF,MATCH,NO
+high power dc water motors project,DC Motor,445,Medium,Air Conditioner Motor,186009,DIFF,DIFF,High Voltage Motor,177165,DIFF,DIFF,DIFF,NO
+high power dc water motors for project near badlapur,DC Motor,445,Medium,Water Motor,190484,DIFF,DIFF,DC Motor,445,MATCH,MATCH,DIFF,NO
+150HP 960 RPM ELECTRIC MOTOR,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,DIFF,NO
+30HP 960 RPM ELECTRIC MOTOR,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,DIFF,NO
+600 kg sliding gate motor,Electric Sliding Gate Motor,52905,High,Electric Sliding Gate Motor,52905,MATCH,MATCH,Gate Motor,29337,DIFF,DIFF,DIFF,NO
+75HP Face Mounted Motor Marathon,Face Mounted Motor,145548,High,Marathon Electric Motor,181116,DIFF,DIFF,Face Mounted Motor,177394,DIFF,MATCH,DIFF,NO
+high power dc motors,DC Motor,445,High,DC Motor,445,MATCH,MATCH,High Power DC Motor,216767,DIFF,DIFF,DIFF,NO
+Switch Reluctance Motor,Reluctance Motors,36192,High,Reluctance Motors,36192,MATCH,MATCH,Reluctance Motors,36192,MATCH,MATCH,MATCH,YES
+Tower Fan Motor,Tower Fan Motor,443716,High,Tower Fan Motor,443716,MATCH,MATCH,Tower Fan Motor,443716,MATCH,MATCH,MATCH,YES
+315 KW 1450 RPM ELECTEIC MOTOR,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Three Phase Electric Motor,52930,DIFF,DIFF,MATCH,NO
+SIMOTICS S synchronous motor 1FK7 1FK7081-3BF71-1QB1,Siemens Synchronous Motor,203373,High,Synchronous Motor,18917,DIFF,DIFF,Synchronous Motor,18917,DIFF,DIFF,MATCH,NO
+SIMOTICS S synchronous motor 1FK7 1FK7081-3BF71-1RH1,Siemens Synchronous Motor,203373,Medium,Synchronous Motor,18917,DIFF,DIFF,Synchronous Motor,18917,DIFF,DIFF,MATCH,NO
+three phase 1 piece 1 hp (0.75 kw) 1440 rpm 1.5 KW Sew Brake Motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+3 HP 3 Phase Induction Motor 100%copper Winding,Three Phase Motor,2415,High,Three Phase Induction Motor,131725,DIFF,DIFF,Three Phase Induction Motor,131725,DIFF,DIFF,MATCH,NO
+Refrigerator Motor,Refrigerator Motor,186074,High,Refrigerator Motor,186074,MATCH,MATCH,Refrigerator Motor,186074,MATCH,MATCH,MATCH,YES
+220hp 960 rpm ELECTRIC MOTOR,Electric Motor,1274,High,Three Phase Electric Motor,52930,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,DIFF,NO
+SIMOTICS S synchronous motor 1FK7- 1FK7103-3BC71-1QA1,Siemens Servo Motors,184102,High,Siemens Servo Motors,184102,MATCH,MATCH,Siemens Servo Motors,184102,MATCH,MATCH,MATCH,YES
+SIMOTICS S Synchronous motor 1FK7 1FK7103-2AC71-1RH1,Siemens Servo Motors,184102,Medium,Siemens Servo Motors,184102,MATCH,MATCH,Synchronous Motor,18917,DIFF,DIFF,DIFF,NO
+Face Mounted Motor marathon 75hp,Face Mounted Motor,145548,High,Marathon Electric Motor,181116,DIFF,DIFF,Marathon Electric Motor,181116,DIFF,DIFF,MATCH,NO
+Solenoid Switches,Solenoid Switches,7646,High,Solenoid Switches,7646,MATCH,MATCH,Solenoid Switches,7646,MATCH,MATCH,MATCH,YES
+Linear Motor,Linear Motor,17163,High,Linear Motor,17163,MATCH,MATCH,Linear Motor,17163,MATCH,MATCH,MATCH,YES
+200KW Flange Induction Motor,Three Phase Induction Motor,131725,Medium,Induction Motors,10971,DIFF,DIFF,Induction Motors,10971,DIFF,DIFF,MATCH,NO
+valve positioner,Valve Positioners,40629,High,Valve Positioners,40629,MATCH,MATCH,Valve Positioners,40629,MATCH,MATCH,MATCH,YES
+rotex positioner,Electro Pneumatic Valve Positioner,147007,High,Valve Positioners,40629,DIFF,DIFF,Valve Positioners,40629,DIFF,DIFF,MATCH,NO
+AC Slip Ring Induction Motor,Slip Ring Motor,37228,High,Slip Ring Motor,37228,MATCH,MATCH,Slip Ring Motor,37228,MATCH,MATCH,MATCH,YES
+4HP Single Phase Electric Motor 220-240V 50-60Hz for Air Compressor,Single Phase Electric Motor,52927,High,Single Phase Electric Motor,52927,MATCH,MATCH,Single Phase Electric Motor,52927,MATCH,MATCH,MATCH,YES
+Crompton  1.5HP 2800RPM  Foot Mounted Motor,Foot Mounted Motor,177266,High,Crompton Greaves Motor,126348,DIFF,DIFF,Foot Mounted Motor,177266,MATCH,MATCH,DIFF,NO
+Vending machine parts geair motor DC,Vending Machine Motor,132955,High,DC Geared Motor,25556,DIFF,DIFF,DC Geared Motor,25556,DIFF,DIFF,MATCH,NO
+15 hp motor,Electric Motor,1274,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+VSI motor,Diesel Engine,487,Medium,Vertical Shaft Motor,36966,DIFF,DIFF,Vane Type Air Motors,84523,DIFF,DIFF,DIFF,NO
+Indo Cooler Motor Silver line,Indo Cooler Motor,658623,High,Cooler Motor,52897,DIFF,DIFF,Cooler Motor,52897,DIFF,DIFF,MATCH,NO
+motor for toto,Electric Motor,1274,High,Air Conditioner Motor,186009,DIFF,DIFF,Replacement Motors,52891,DIFF,DIFF,DIFF,NO
+Motor Lamination V-4,Motor Lamination,33557,High,Motor Iron Core,12273,DIFF,DIFF,Motor Parts,150022,DIFF,DIFF,DIFF,NO
+DANFOSS ACTUATOR AME435,Danfoss Actuators,208001,High, dévou  Actuators,4423,DIFF,DIFF,Danfoss Actuators,208001,MATCH,MATCH,DIFF,NO
+grinding-motor,Grinding Motor,167613,High,Grinding Motor,167613,MATCH,MATCH,Grinding Motor,106938,DIFF,MATCH,DIFF,NO
+50 n 100 mm linear motor,Linear Motor,17163,High,Linear Motor,17163,MATCH,MATCH,Linear Motor,17163,MATCH,MATCH,MATCH,YES
+Toy motor 3v,Toy Motor,39979,High,Toy Motor,39979,MATCH,MATCH,Toy Motor,39979,MATCH,MATCH,MATCH,YES
+100 mm linear motor,Linear Motor,17163,High,Linear Motor,17163,MATCH,MATCH,Linear Motor,17163,MATCH,MATCH,MATCH,YES
+Crompton Greaves 15HP 960RPM  Foot Mounted  Motor,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+Crompton  2HP  2800RPM Flange Floor  Mounted  Motor,Flange Motors,6408,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+solenoid switch parts,Switch Parts,69481,High,Solenoid Switch Accessories,167466,DIFF,DIFF,Solenoid Switch Parts,132955,DIFF,DIFF,DIFF,NO
+Crompton  1 HP Mini Sergeant Motor,Crompton Greaves Motor,126348,High,Single Phase Motors,9484,DIFF,DIFF,Crompton Motors,446133,DIFF,DIFF,DIFF,NO
+1450 Rpm 1 Hp Motor Cg Make,Crompton Greaves Motor,126348,High,Three Phase Induction Motor,131725,DIFF,DIFF,Three Phase Induction Motor,131725,DIFF,DIFF,MATCH,NO
+Motor Lamination V-4,Motor Lamination,33557,High,Motor Iron Core,12273,DIFF,DIFF,Motor Parts,150022,DIFF,DIFF,DIFF,NO
+Crompton  3HP 1440RPM  Foot Cum Flange Motor,Flange Motors,6408,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+Stepper Motor Controller,Stepper Motor Controller,13374,High,Stepper Motor Controller,13374,MATCH,MATCH,Stepper Motor Controller,13374,MATCH,MATCH,MATCH,YES
+kirloskar 10 hp 1440 rpm original motor,Kirloskar Electric Motor,185261,High,Kirloskar Electric Motor,185261,MATCH,MATCH,Kirloskar Electric Motor,185261,MATCH,MATCH,MATCH,YES
+Single Phase Flange Mounted,Flange Motors,6408,High,Flange Motors,6408,MATCH,MATCH,Flange Motors,6408,MATCH,MATCH,MATCH,YES
+PANASONIC MOTOR,Panasonic AC Motor,206269,High,Panasonic AC Servo Motor,187161,DIFF,DIFF,Panasonic AC Servo Motor,187161,DIFF,DIFF,MATCH,NO
+Worm Gearbox Motors,Worm Geared Motor,41500,High,Worm Geared Motor,41500,MATCH,MATCH,Worm Geared Motor,41500,MATCH,MATCH,MATCH,YES
+Piston Nebulizer Motor,Nebulizer Motor,652872,High,Pneumatic Motor,18228,DIFF,DIFF,Piston Motor,105415,DIFF,DIFF,DIFF,NO
+Motor Lamination V-6,V6 Submersible Pump,182047,Medium,Motor Iron Core,12273,DIFF,DIFF,Motor Parts,150022,DIFF,DIFF,DIFF,NO
+Crompton 2HP  Flange Mounted  Motor,Flange Motors,6408,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+mgm brake motors,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+Crompton Single Phase 0.5 HP Flange Motor,Crompton Motors,446133,High,Crompton Greaves Motor,126348,DIFF,DIFF,Crompton Greaves Motor,126348,DIFF,DIFF,MATCH,NO
+CG Make 1hp 1440 rpm Flange Mounted Brake Motor,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+200HP Abb Induction Motor,ABB Induction Motor,193239,High,ABB Induction Motor,193239,MATCH,MATCH,ABB Induction Motor,193239,MATCH,MATCH,MATCH,YES
+2800 rpm foot mounted abb electric motor,ABB Electric Motor,181114,High,Foot Mounted Motor,177266,DIFF,DIFF,ABB Electric Motor,181114,MATCH,MATCH,DIFF,NO
+Flameproof Dol Starter,DOL Starter,26266,High,DOL Starter,26266,MATCH,MATCH,DOL Starter,26266,MATCH,MATCH,MATCH,YES
+Micromotor,DC Micro Motors,25372,High,Micromotor,167393,DIFF,DIFF,DC Micromotors,25372,MATCH,DIFF,DIFF,NO
+75 kw 100 hp induction motor,Induction Motors,10971,High,Induction Motors,10971,MATCH,MATCH,Induction Motors,10971,MATCH,MATCH,MATCH,YES
+20hp Abb Induction Motor,ABB Induction Motor,193239,High,ABB Induction Motor,193239,MATCH,MATCH,ABB Induction Motor,193239,MATCH,MATCH,MATCH,YES
+0.25 HP 1440RPM  Ft  Single Phase Double Shaft Motor,Double Shaft Motor,139590,High,Double Shaft Motor,139590,MATCH,MATCH,Double Shaft Motor,139590,MATCH,MATCH,MATCH,YES
+Non Electric Motor,Electric Motor,1274,High,Non-Electric Motor,52915,DIFF,DIFF,Non-Electric Motor,21680,DIFF,DIFF,DIFF,NO
+crompton greaves motor kv ka motor dikhlayiye,Crompton Greaves Motor,126348,High,Crompton Greaves Motor,126348,MATCH,MATCH,Crompton Greaves Motor,126348,MATCH,MATCH,MATCH,YES
+2800  rpm 4 foot  mounted abb electric motor,ABB Electric Motor,181114,High,ABB Electric Motor,181114,MATCH,MATCH,ABB Electric Motor,181114,MATCH,MATCH,MATCH,YES
+2800  rpm 4 abb electric motor,ABB Electric Motor,181114,High,ABB Electric Motor,181114,MATCH,MATCH,ABB Electric Motor,181114,MATCH,MATCH,MATCH,YES
+1 HP Texmo Taro Single Phase Motor Starter,Single Phase Motor Starter,226793,High,Single Phase Motor Starter,226793,MATCH,MATCH,Single Phase Motor Starter,226793,MATCH,MATCH,MATCH,YES
+Nebulizer Compressor Motor,Nebulizer Motor,652872,High,Compressor Motor,186074,DIFF,DIFF,Nebulizer Motor,184102,DIFF,MATCH,DIFF,NO
+0.75 KW Godrej 1158 1HP Electric Motor,Godrej Lawkim Ac Motors,206364,High,Godrej Electric Motor,189841,DIFF,DIFF,Godrej Electric Motor,206364,MATCH,DIFF,DIFF,NO
+gec 10 hp 960 rpm industrial motors,Industrial Motors,52915,High,Industrial Motors,52915,MATCH,MATCH,Three Phase Motor,2415,DIFF,DIFF,DIFF,NO
+Linear Actuator Switch,Actuator Selector Switches,69998,High,Linear Actuator Switch,178548,DIFF,DIFF,Motor Automatic Switch,140407,DIFF,DIFF,DIFF,NO
+730 Frame Slipring Induction Motor,Slip Ring Motor,37228,High,Slip Ring Motor,37228,MATCH,MATCH,Slip Ring Motor,37228,MATCH,MATCH,MATCH,YES
+noortepar manufacturing plant,TEFC Motor,2999,Medium,,,DIFF,DIFF,Motor,6652,DIFF,DIFF,DIFF,NO
+TEFC Motor,TEFC Motor,2999,High,TEFC Motor,2999,MATCH,MATCH,TEFC Motor,2999,MATCH,MATCH,MATCH,YES
+1hp single phase ac motor,Single Phase Motors,9484,High,Single Phase AC Motor,9483,DIFF,DIFF,Single Phase Motors,9484,MATCH,MATCH,DIFF,NO
+Motor Lamination V-3 70-41-22,Motor Lamination,33557,High,Motor Iron Core,12273,DIFF,DIFF,Motor Laminations,150167,DIFF,DIFF,DIFF,NO
+screed vibrator motor,Vibration Motor,2743,High,Vibration Motor,2743,MATCH,MATCH,Concrete Vibrator Motor,184082,DIFF,DIFF,DIFF,NO
+godrej lawkim motor lk 4250,HVAC Motors,177394,Medium,Godrej Lawkim Industrial Motors,203174,DIFF,DIFF,Godrej Lawkim Motors,206364,DIFF,DIFF,DIFF,NO
+Godrej Lawkim Motor LK-4250,Godrej Lawkim Industrial Motors,203174,Medium,Godrej Lawkim Industrial Motors,203174,MATCH,MATCH,Godrej Lawkim Industrial Motors,203174,MATCH,MATCH,MATCH,YES
+ABB 200HP Induction Motor,ABB Induction Motor,193239,High,ABB Induction Motor,193239,MATCH,MATCH,ABB Induction Motor,193239,MATCH,MATCH,MATCH,YES
+High Voltage Closed Air Circuit Air Cooled TP Series Vertical Mounting Induction Motors,High Voltage Motor,177165,High,Vertical  Motors,198989,DIFF,DIFF,High Voltage Motor,177165,MATCH,MATCH,DIFF,NO
+Kenstar Motor Rotor Armature,Motor Armature,167444,High,Motor Armature,167444,MATCH,MATCH,Motor Armature,167444,MATCH,MATCH,MATCH,YES
+Fire Safety Solenoid,Shut-Off Valves,1759,Medium,Solenoid Switches,7646,DIFF,DIFF,Solenoid Switches,7646,DIFF,DIFF,MATCH,NO
+Induction Brake And Motor 3Hp to 100 HP,Brake Motors,21078,High,Brake Motors,21078,MATCH,MATCH,Brake Motors,21078,MATCH,MATCH,MATCH,YES
+Printer Solenoid Switch,Solenoid Switches,7646,High,Solenoid Switches,7646,MATCH,MATCH,Solenoid Switches,7646,MATCH,MATCH,MATCH,YES
+Mini Solenoid Switches,Solenoid Switches,7646,High,Solenoid Switches,7646,MATCH,MATCH,Solenoid Switches,7646,MATCH,MATCH,MATCH,YES

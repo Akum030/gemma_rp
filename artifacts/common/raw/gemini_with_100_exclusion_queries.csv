@@ -1,0 +1,311 @@
+﻿success,query,gemini_dataset_attr_count,gemini_dataset_isq_list,gemini_dataset_isq_pipe,gemini_dataset_raw_output
+True,assam tea 500 gm pack,5,"['in the format ""value:attribute_name:specification"".', 'attributes.append(""assam:origin:specification"")', 'attributes.append(""tea:product:specification"")', 'attributes.append(""500 gm:weight:specification"")', 'attributes.append(""pack:packaging:specification"")']","in the format ""value:attribute_name:specification"". | attributes.append(""assam:origin:specification"") | attributes.append(""tea:product:specification"") | attributes.append(""500 gm:weight:specification"") | attributes.append(""pack:packaging:specification"")","```python
+def extract_attributes(query):
+    """"""
+    Extracts product attributes from a query.
+
+    Args:
+        query: The product query string.
+
+    Returns:
+        A list of strings, where each string is an attribute-value pair
+        in the format ""value:attribute_name:specification"".
+        Returns an empty list if no attributes are found.
+    """"""
+    query = query.lower()
+    attributes = []
+
+    # Define attribute extraction patterns (expand as needed)
+    if ""assam tea"" in query:
+        attributes.append(""assam:origin:specification"")
+        attributes.append(""tea:product:specification"")
+    if ""500 gm"" in query:
+        attributes.append(""500 gm:weight:specification"")
+    if ""pack"" in query:
+        attributes.append(""pack:packaging:specification"")
+
+    return attributes
+```"
+True,premium assam tea loose leaf,3,"['[""assam:origin:specification""', '""tea:product:specification""', '""loose leaf:form:specification""]']","[""assam:origin:specification"" | ""tea:product:specification"" | ""loose leaf:form:specification""]","```python
+[""assam:origin:specification"", ""tea:product:specification"", ""loose leaf:form:specification""]
+```"
+True,organic assam tea black tea,4,"['[""organic:type:specification""', '""assam:origin:specification""', '""tea:product:specification""', '""black tea:type:specification""]']","[""organic:type:specification"" | ""assam:origin:specification"" | ""tea:product:specification"" | ""black tea:type:specification""]","```python
+[""organic:type:specification"", ""assam:origin:specification"", ""tea:product:specification"", ""black tea:type:specification""]
+```"
+True,assam tea gift box 1 kg,4,"['[""assam:origin:specification""', '""tea:product:specification""', '""gift box:packaging:specification""', '""1 kg:weight:specification""]']","[""assam:origin:specification"" | ""tea:product:specification"" | ""gift box:packaging:specification"" | ""1 kg:weight:specification""]","```python
+[""assam:origin:specification"", ""tea:product:specification"", ""gift box:packaging:specification"", ""1 kg:weight:specification""]
+```"
+True,best quality assam tea online,0,[],,"```python
+[]
+```"
+True,assam tea ctc grade,3,"['[""assam:origin:specification""', '""tea:product:specification""', '""ctc:grade:specification""]']","[""assam:origin:specification"" | ""tea:product:specification"" | ""ctc:grade:specification""]","```python
+[""assam:origin:specification"", ""tea:product:specification"", ""ctc:grade:specification""]
+```"
+True,assam tea green pack 250 gm,4,"['[""assam:origin:specification""', '""tea:product:specification""', '""green:color:specification""', '""250 gm:weight:specification""]']","[""assam:origin:specification"" | ""tea:product:specification"" | ""green:color:specification"" | ""250 gm:weight:specification""]","```python
+[""assam:origin:specification"", ""tea:product:specification"", ""green:color:specification"", ""250 gm:weight:specification""]
+```"
+True,assam tea with cardamom flavor,3,"['[""assam:origin:specification""', '""tea:product:specification""', '""cardamom:flavor:specification""]']","[""assam:origin:specification"" | ""tea:product:specification"" | ""cardamom:flavor:specification""]","```python
+[""assam:origin:specification"", ""tea:product:specification"", ""cardamom:flavor:specification""]
+```"
+True,assam tea premium blend,0,[],,"```python
+[]
+```"
+True,assam tea wholesale price,0,[],,"```python
+[]
+```"
+True,mango bags jute material,3,"['[""mango:product:specification""', '""jute:material:specification""', '""bags:product type:specification""]']","[""mango:product:specification"" | ""jute:material:specification"" | ""bags:product type:specification""]","```python
+[""mango:product:specification"", ""jute:material:specification"", ""bags:product type:specification""]
+```"
+True,mango bags for storage,0,[],,"```python
+[]
+```"
+True,mango bags plastic 5 kg capacity,4,"['[""mango:product:specification""', '""bags:product type:specification""', '""plastic:material:specification""', '""5 kg:capacity:specification""]']","[""mango:product:specification"" | ""bags:product type:specification"" | ""plastic:material:specification"" | ""5 kg:capacity:specification""]","```python
+[""mango:product:specification"", ""bags:product type:specification"", ""plastic:material:specification"", ""5 kg:capacity:specification""]
+```"
+True,eco friendly mango bags,3,"['[""eco friendly:type:specification""', '""mango:material:specification""', '""bags:product:specification""]']","[""eco friendly:type:specification"" | ""mango:material:specification"" | ""bags:product:specification""]","```python
+[""eco friendly:type:specification"", ""mango:material:specification"", ""bags:product:specification""]
+```"
+True,printed mango bags wholesale,4,"['[""printed:style:specification""', '""mango:design:specification""', '""bags:product:specification""', '""wholesale:sales type:specification""]']","[""printed:style:specification"" | ""mango:design:specification"" | ""bags:product:specification"" | ""wholesale:sales type:specification""]","```python
+[""printed:style:specification"", ""mango:design:specification"", ""bags:product:specification"", ""wholesale:sales type:specification""]
+```"
+True,mango bags with handles,0,[],,"```python
+[]
+```"
+True,mango bags net type,0,[],,"```python
+[]
+```"
+True,mango bags paper material,3,"['[""mango:product:specification""', '""bags:product type:specification""', '""paper:material:specification""]']","[""mango:product:specification"" | ""bags:product type:specification"" | ""paper:material:specification""]","```python
+[""mango:product:specification"", ""bags:product type:specification"", ""paper:material:specification""]
+```"
+True,mango bags exporters,0,[],,"```python
+[]
+```"
+True,reusable mango bags set of 10,3,"['[""reusable:type:specification""', '""mango bags:product:specification""', '""set of 10:quantity:specification""]']","[""reusable:type:specification"" | ""mango bags:product:specification"" | ""set of 10:quantity:specification""]","```python
+[""reusable:type:specification"", ""mango bags:product:specification"", ""set of 10:quantity:specification""]
+```"
+True,kerala cotton saree white,4,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""white:color:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""white:color:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""white:color:specification""]
+```"
+True,kerala cotton saree with gold border,4,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""gold border:design:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""gold border:design:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""gold border:design:specification""]
+```"
+True,kerala cotton saree kasavu,4,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""kasavu:design:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""kasavu:design:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""kasavu:design:specification""]
+```"
+True,kerala cotton saree for wedding,4,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""wedding:usage/application:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""wedding:usage/application:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""wedding:usage/application:specification""]
+```"
+True,kerala cotton saree set mundu,5,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""set:product type:specification""', '""mundu:product:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""set:product type:specification"" | ""mundu:product:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""set:product type:specification"", ""mundu:product:specification""]
+```"
+True,kerala cotton saree traditional,4,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""traditional:style:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""traditional:style:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""traditional:style:specification""]
+```"
+True,kerala cotton saree handloom,4,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""handloom:type:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""handloom:type:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""handloom:type:specification""]
+```"
+True,kerala cotton saree plain,4,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""plain:design:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""plain:design:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""plain:design:specification""]
+```"
+True,pure kerala cotton saree,3,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification""]
+```"
+True,kerala cotton saree with blouse,4,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""blouse:component:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""blouse:component:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""blouse:component:specification""]
+```"
+True,kerala saree silk blend,3,"['[""kerala:origin:specification""', '""saree:product:specification""', '""silk blend:material:specification""]']","[""kerala:origin:specification"" | ""saree:product:specification"" | ""silk blend:material:specification""]","```python
+[""kerala:origin:specification"", ""saree:product:specification"", ""silk blend:material:specification""]
+```"
+True,kerala saree onam special,0,[],,"```python
+[]
+```"
+True,kerala saree cream color,3,"['[""kerala:origin:specification""', '""saree:product:specification""', '""cream:color:specification""]']","[""kerala:origin:specification"" | ""saree:product:specification"" | ""cream:color:specification""]","```python
+[""kerala:origin:specification"", ""saree:product:specification"", ""cream:color:specification""]
+```"
+True,kerala saree with temple border,3,"['[""kerala:origin:specification""', '""saree:product:specification""', '""temple border:design:specification""]']","[""kerala:origin:specification"" | ""saree:product:specification"" | ""temple border:design:specification""]","```python
+[""kerala:origin:specification"", ""saree:product:specification"", ""temple border:design:specification""]
+```"
+True,kerala saree festive collection,0,[],,"```python
+[]
+```"
+True,kerala saree women traditional,4,"['[""kerala:origin:specification""', '""saree:product:specification""', '""women:target gender:specification""', '""traditional:style:specification""]']","[""kerala:origin:specification"" | ""saree:product:specification"" | ""women:target gender:specification"" | ""traditional:style:specification""]","```python
+[""kerala:origin:specification"", ""saree:product:specification"", ""women:target gender:specification"", ""traditional:style:specification""]
+```"
+True,kerala saree set with blouse,0,[],,"```python
+[]
+```"
+True,kerala saree kasavu golden,4,"['[""kerala:origin:specification""', '""saree:product:specification""', '""kasavu:design:specification""', '""golden:color:specification""]']","[""kerala:origin:specification"" | ""saree:product:specification"" | ""kasavu:design:specification"" | ""golden:color:specification""]","```python
+[""kerala:origin:specification"", ""saree:product:specification"", ""kasavu:design:specification"", ""golden:color:specification""]
+```"
+True,kerala saree mundu style,3,"['[""kerala:origin:specification""', '""saree:product:specification""', '""mundu style:style:specification""]']","[""kerala:origin:specification"" | ""saree:product:specification"" | ""mundu style:style:specification""]","```python
+[""kerala:origin:specification"", ""saree:product:specification"", ""mundu style:style:specification""]
+```"
+True,kerala saree off white,3,"['[""kerala:origin:specification""', '""saree:product:specification""', '""off white:color:specification""]']","[""kerala:origin:specification"" | ""saree:product:specification"" | ""off white:color:specification""]","```python
+[""kerala:origin:specification"", ""saree:product:specification"", ""off white:color:specification""]
+```"
+True,gota lace border,0,[],,"```python
+[]
+```"
+True,gota lace golden color,3,"['[""gota:product:specification""', '""lace:product type:specification""', '""golden:color:specification""]']","[""gota:product:specification"" | ""lace:product type:specification"" | ""golden:color:specification""]","```python
+[""gota:product:specification"", ""lace:product type:specification"", ""golden:color:specification""]
+```"
+True,gota lace for saree,0,[],,"```python
+[]
+```"
+True,gota lace 2 inch width,2,"['[""gota lace:product:specification""', '""2 inch:width:specification""]']","[""gota lace:product:specification"" | ""2 inch:width:specification""]","```python
+[""gota lace:product:specification"", ""2 inch:width:specification""]
+```"
+True,gota lace wholesale,0,[],,"```python
+[]
+```"
+True,gota lace silver shade,4,"['[""gota:product:specification""', '""lace:product type:specification""', '""silver:color:specification""', '""shade:color:specification""]']","[""gota:product:specification"" | ""lace:product type:specification"" | ""silver:color:specification"" | ""shade:color:specification""]","```python
+[""gota:product:specification"", ""lace:product type:specification"", ""silver:color:specification"", ""shade:color:specification""]
+```"
+True,gota lace embroidery,0,[],,"```python
+[]
+```"
+True,gota lace designer,0,[],,"```python
+[]
+```"
+True,gota lace traditional,0,[],,"```python
+[]
+```"
+True,gota lace patti work,0,[],,"```python
+[]
+```"
+True,cow beef banned item,0,[],,"```python
+[]
+```"
+True,beef cow not allowed,0,[],,[]
+True,cow beef restricted product,0,[],,[]
+True,beef cow search blocked,0,[],,[]
+True,cow beef illegal item,0,[],,[]
+True,beef cow prohibited,0,[],,"```python
+[]
+```"
+True,cow beef not permitted,0,[],,[]
+True,beef cow banned search,0,[],,[]
+True,cow beef restricted search,0,[],,[]
+True,beef cow blocked item,0,[],,"```python
+[]
+```"
+True,dog labrador puppy,0,[],,"```python
+[]
+```"
+True,labrador dog breed,0,[],,"```python
+[]
+```"
+True,dog labrador retriever,0,[],,"```python
+[]
+```"
+True,labrador dog golden color,3,"['[""labrador:breed:specification""', '""dog:product:specification""', '""golden:color:specification""]']","[""labrador:breed:specification"" | ""dog:product:specification"" | ""golden:color:specification""]","```python
+[""labrador:breed:specification"", ""dog:product:specification"", ""golden:color:specification""]
+```"
+True,dog labrador training,0,[],,"```python
+[]
+```"
+True,labrador dog food,0,[],,"```python
+[]
+```"
+True,dog labrador accessories,0,[],,"```python
+[]
+```"
+True,labrador dog collar,0,[],,"```python
+[]
+```"
+True,dog labrador toys,0,[],,"```python
+[]
+```"
+True,labrador dog sale,0,[],,"```python
+[]
+```"
+True,vim bar 500 gm,3,"['[""vim:brand:specification""', '""bar:product type:specification""', '""500 gm:weight:specification""]']","[""vim:brand:specification"" | ""bar:product type:specification"" | ""500 gm:weight:specification""]","```python
+[""vim:brand:specification"", ""bar:product type:specification"", ""500 gm:weight:specification""]
+```"
+True,vim liquid dishwash,2,"['[""vim:brand:specification""', '""liquid dishwash:product:specification""]']","[""vim:brand:specification"" | ""liquid dishwash:product:specification""]","```python
+[""vim:brand:specification"", ""liquid dishwash:product:specification""]
+```"
+True,vim bar lemon,3,"['[""vim:brand:specification""', '""bar:product type:specification""', '""lemon:variant:specification""]']","[""vim:brand:specification"" | ""bar:product type:specification"" | ""lemon:variant:specification""]","```python
+[""vim:brand:specification"", ""bar:product type:specification"", ""lemon:variant:specification""]
+```"
+True,vim gel bottle,0,[],,"```python
+[]
+```"
+True,vim powder pack,3,"['[""vim:brand:specification""', '""powder:form:specification""', '""pack:packaging:specification""]']","[""vim:brand:specification"" | ""powder:form:specification"" | ""pack:packaging:specification""]","```python
+[""vim:brand:specification"", ""powder:form:specification"", ""pack:packaging:specification""]
+```"
+True,vim bar multipack,0,[],,"```python
+[]
+```"
+True,vim liquid 750 ml,3,"['[""vim:brand:specification""', '""liquid:product type:specification""', '""750 ml:capacity:specification""]']","[""vim:brand:specification"" | ""liquid:product type:specification"" | ""750 ml:capacity:specification""]","```python
+[""vim:brand:specification"", ""liquid:product type:specification"", ""750 ml:capacity:specification""]
+```"
+True,vim bar green,3,"['[""vim:brand:specification""', '""bar:product type:specification""', '""green:color:specification""]']","[""vim:brand:specification"" | ""bar:product type:specification"" | ""green:color:specification""]","```python
+[""vim:brand:specification"", ""bar:product type:specification"", ""green:color:specification""]
+```"
+True,vim dishwash bar,0,[],,"```python
+[]
+```"
+True,vim cleaning bar,0,[],,"```python
+[]
+```"
+True,radhe radhe tshirt,0,[],,"```python
+[]
+```"
+True,radhe radhe printed kurta,3,"['[""radhe radhe:print/design:specification""', '""printed:style:specification""', '""kurta:product:specification""]']","[""radhe radhe:print/design:specification"" | ""printed:style:specification"" | ""kurta:product:specification""]","```python
+[""radhe radhe:print/design:specification"", ""printed:style:specification"", ""kurta:product:specification""]
+```"
+True,radhe radhe wall hanging,0,[],,"```python
+[]
+```"
+True,radhe radhe gift item,0,[],,"```python
+[]
+```"
+True,radhe radhe poster,0,[],,"```python
+[]
+```"
+True,radhe radhe mug print,2,"['[""radhe radhe:print/design:specification""', '""mug:product:specification""]']","[""radhe radhe:print/design:specification"" | ""mug:product:specification""]","```python
+[""radhe radhe:print/design:specification"", ""mug:product:specification""]
+```"
+True,radhe radhe pendant,0,[],,"```python
+[]
+```"
+True,radhe radhe sticker,2,"['[""radhe radhe:print/design:specification""', '""sticker:product:specification""]']","[""radhe radhe:print/design:specification"" | ""sticker:product:specification""]","```python
+[""radhe radhe:print/design:specification"", ""sticker:product:specification""]
+```"
+True,radhe radhe cushion cover,0,[],,"```python
+[]
+```"
+True,radhe radhe keychain,0,[],,"```python
+[]
+```"
+True,assam tea premium 1 kg box organic,6,"['[""assam:origin:specification""', '""tea:product:specification""', '""premium:grade:specification""', '""1 kg:weight:specification""', '""box:packaging type:specification""', '""organic:type:specification""]']","[""assam:origin:specification"" | ""tea:product:specification"" | ""premium:grade:specification"" | ""1 kg:weight:specification"" | ""box:packaging type:specification"" | ""organic:type:specification""]","```python
+[""assam:origin:specification"", ""tea:product:specification"", ""premium:grade:specification"", ""1 kg:weight:specification"", ""box:packaging type:specification"", ""organic:type:specification""]
+```"
+True,kerala cotton saree white gold border handloom,6,"['[""kerala:origin:specification""', '""cotton:material:specification""', '""saree:product:specification""', '""white:color:specification""', '""gold border:design:specification""', '""handloom:type:specification""]']","[""kerala:origin:specification"" | ""cotton:material:specification"" | ""saree:product:specification"" | ""white:color:specification"" | ""gold border:design:specification"" | ""handloom:type:specification""]","```python
+[""kerala:origin:specification"", ""cotton:material:specification"", ""saree:product:specification"", ""white:color:specification"", ""gold border:design:specification"", ""handloom:type:specification""]
+```"
+True,mango bags jute eco friendly large size,5,"['[""mango:product:specification""', '""jute:material:specification""', '""eco friendly:feature:specification""', '""large size:size:specification""', '""bags:product type:specification""]']","[""mango:product:specification"" | ""jute:material:specification"" | ""eco friendly:feature:specification"" | ""large size:size:specification"" | ""bags:product type:specification""]","```python
+[""mango:product:specification"", ""jute:material:specification"", ""eco friendly:feature:specification"", ""large size:size:specification"", ""bags:product type:specification""]
+```"
+True,gota lace golden 3 inch designer border,6,"['[""gota:product:specification""', '""lace:product type:specification""', '""golden:color:specification""', '""3 inch:size:specification""', '""designer:design:specification""', '""border:product type:specification""]']","[""gota:product:specification"" | ""lace:product type:specification"" | ""golden:color:specification"" | ""3 inch:size:specification"" | ""designer:design:specification"" | ""border:product type:specification""]","```python
+[""gota:product:specification"", ""lace:product type:specification"", ""golden:color:specification"", ""3 inch:size:specification"", ""designer:design:specification"", ""border:product type:specification""]
+```"
+True,vim bar lemon 200 gm pack of 3,5,"['[""vim:brand:specification""', '""bar:product type:specification""', '""lemon:variant:specification""', '""200 gm:weight:specification""', '""pack of 3:packaging:specification""]']","[""vim:brand:specification"" | ""bar:product type:specification"" | ""lemon:variant:specification"" | ""200 gm:weight:specification"" | ""pack of 3:packaging:specification""]","```python
+[""vim:brand:specification"", ""bar:product type:specification"", ""lemon:variant:specification"", ""200 gm:weight:specification"", ""pack of 3:packaging:specification""]
+```"
+True,radhe radhe printed cotton tshirt men,5,"['[""radhe radhe:print/design:specification""', '""printed:style:specification""', '""cotton:material:specification""', '""tshirt:product:specification""', '""men:target gender:specification""]']","[""radhe radhe:print/design:specification"" | ""printed:style:specification"" | ""cotton:material:specification"" | ""tshirt:product:specification"" | ""men:target gender:specification""]","```python
+[""radhe radhe:print/design:specification"", ""printed:style:specification"", ""cotton:material:specification"", ""tshirt:product:specification"", ""men:target gender:specification""]
+```"
+True,kerala saree traditional kasavu wedding special,5,"['[""kerala:origin:specification""', '""saree:product:specification""', '""traditional:style:specification""', '""kasavu:design:specification""', '""wedding special:occasion:specification""]']","[""kerala:origin:specification"" | ""saree:product:specification"" | ""traditional:style:specification"" | ""kasavu:design:specification"" | ""wedding special:occasion:specification""]","```python
+[""kerala:origin:specification"", ""saree:product:specification"", ""traditional:style:specification"", ""kasavu:design:specification"", ""wedding special:occasion:specification""]
+```"
+True,assam tea ctc dust grade 500 gm,5,"['[""assam:origin:specification""', '""tea:product:specification""', '""ctc:grade:specification""', '""dust:form:specification""', '""500 gm:weight:specification""]']","[""assam:origin:specification"" | ""tea:product:specification"" | ""ctc:grade:specification"" | ""dust:form:specification"" | ""500 gm:weight:specification""]","```python
+[""assam:origin:specification"", ""tea:product:specification"", ""ctc:grade:specification"", ""dust:form:specification"", ""500 gm:weight:specification""]
+```"
+True,gota lace embroidery silver patti,5,"['[""gota:product type:specification""', '""lace:product type:specification""', '""embroidery:style:specification""', '""silver:color:specification""', '""patti:product type:specification""]']","[""gota:product type:specification"" | ""lace:product type:specification"" | ""embroidery:style:specification"" | ""silver:color:specification"" | ""patti:product type:specification""]","```python
+[""gota:product type:specification"", ""lace:product type:specification"", ""embroidery:style:specification"", ""silver:color:specification"", ""patti:product type:specification""]
+```"
+True,radhe radhe wooden wall frame decorative,4,"['[""radhe radhe:brand:specification""', '""wooden:material:specification""', '""wall frame:product:specification""', '""decorative:style:specification""]']","[""radhe radhe:brand:specification"" | ""wooden:material:specification"" | ""wall frame:product:specification"" | ""decorative:style:specification""]","```python
+[""radhe radhe:brand:specification"", ""wooden:material:specification"", ""wall frame:product:specification"", ""decorative:style:specification""]
+```"

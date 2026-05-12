@@ -1,0 +1,13 @@
+﻿ALL MODELS COMPARISON vs GROUND TRUTH (CLAUDE OPUS)
+
+Metric,Gemma V4,Gemini,QMeans,Winner
+
+Total Queries,996,996,1018,-
+Both Successful,930 (93.4%),952 (95.6%),961 (94.4%),QMeans
+Queries with Key Match,597 (59.9%),851 (85.4%),516 (50.7%),Gemini
+Queries with Value Match,461 (46.3%),590 (59.2%),522 (51.3%),Gemini
+Queries with Perfect Match,178 (17.9%),275 (27.6%),83 (8.2%),Gemini
+Total Matched Keys,1812,2581,798,Gemini
+Total Matched Values,619,998,826,Gemini
+Key Priority Matches,443,1026,454,Gemini
+Attr Priority Matches,569,702,91,Gemini

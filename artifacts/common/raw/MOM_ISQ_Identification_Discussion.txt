@@ -1,0 +1,116 @@
+MINUTES OF MEETING (MOM)
+====================================================================
+Date: February 18, 2026
+Subject: Attribute Extraction Model - ISQ Identification & Next Steps
+Attendees: [Team Members]
+
+====================================================================
+DISCUSSION POINTS & ACTION ITEMS
+====================================================================
+
+1. ISQ EXTRACTION STATISTICS ANALYSIS
+   --------------------------------------------------------------------
+   REQUIREMENT:
+   - Analyze ISQ extraction count by keyword token length
+     • 1-word keywords → ISQ count
+     • 2-word keywords → ISQ count  
+     • 3-word keywords → ISQ count
+     • N-word keywords → ISQ count
+   
+   - Calculate match percentage with Ground Truth (Opus) for each strategy
+   
+   ACTION: Generate token-based ISQ extraction report
+   OWNER: [TBD]
+   TIMELINE: [TBD]
+
+2. DEV DEPLOYMENT FOR LIVE TESTING
+   --------------------------------------------------------------------
+   PROPOSAL:
+   - Deploy ISQ identification on dev search environment
+   - Test current compatibility with dev scenarios
+   - Verify if correct product results are identified
+   
+   PURPOSE: Real-world validation before production
+   
+   ACTION: Setup dev search integration for ISQ testing
+   OWNER: [TBD]
+   TIMELINE: [TBD]
+
+3. GROUND TRUTH LIMITATION - MULTIPLE KEYS
+   --------------------------------------------------------------------
+   ISSUE IDENTIFIED:
+   - Current ground truth doesn't specify which key is most important
+   - User intention priority is not captured
+   - Multiple synonyms exist but relevance ranking unclear
+   
+   IMPACT: Cannot validate if extracted ISQs match actual user intent
+   
+   ACTION: Define methodology for user intention priority
+   OWNER: [TBD]
+   STATUS: Open discussion
+
+4. ISQ RELEVANCE VALIDATION & AUDIT
+   --------------------------------------------------------------------
+   REQUIREMENT:
+   - Need audit mechanism to verify ISQ relevance
+   - Best relevance cannot be confirmed without live testing
+   
+   PROPOSED SOLUTION:
+   - Deploy on dev search
+   - Conduct audit on live search results
+   - Validate ISQ-to-product mapping accuracy
+   
+   ACTION: Design audit framework for ISQ relevance
+   OWNER: [TBD]
+   TIMELINE: [TBD]
+
+5. MCAT SUGGESTION - FUTURE SCOPE
+   --------------------------------------------------------------------
+   PROPOSAL:
+   - Train model to suggest MCAT (Master Category)
+   - Auto-categorization based on extracted attributes
+   
+   PREREQUISITE:
+   - Create MCAT ground truth dataset
+   - Identify cases where current MCAT assignment is wrong
+   - Audit existing MCAT accuracy
+   
+   ACTION ITEMS:
+   a) Build MCAT ground truth dataset
+   b) Analyze wrong MCAT assignments
+   c) Design MCAT prediction training pipeline
+   
+   OWNER: [TBD]
+   TIMELINE: [TBD]
+   STATUS: Blocked - waiting for MCAT ground truth
+
+====================================================================
+NEXT STEPS
+====================================================================
+
+IMMEDIATE:
+[ ] Generate ISQ token-count statistics report
+[ ] Setup dev search integration
+[ ] Design audit framework
+
+SHORT-TERM:
+[ ] Create MCAT ground truth dataset
+[ ] Conduct live dev testing
+[ ] Run ISQ relevance audit
+
+LONG-TERM:
+[ ] Train MCAT suggestion model
+[ ] Production deployment planning
+
+====================================================================
+OPEN QUESTIONS
+====================================================================
+
+1. How to define "user intention priority" for multiple synonyms?
+2. What metrics to use for ISQ relevance audit?
+3. How to collect MCAT ground truth efficiently?
+4. What is acceptable accuracy threshold for production deployment?
+
+====================================================================
+NEXT MEETING: [TBD]
+====================================================================

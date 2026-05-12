@@ -1,0 +1,50 @@
+﻿GROUND TRUTH vs GEMINI - APPLE TO APPLE COMPARISON
+============================================================
+
+OVERVIEW
+Metric,Count,Percentage
+Total Queries Compared,996,100%
+
+KEY MATCHING
+Metric,Count,Percentage
+Total Key Matches,2581,-
+Queries with ≥1 Key Match,851,85.4%
+Queries with 100% Key Match,24,2.4%
+
+VALUE MATCHING
+Metric,Count,Percentage
+Total Value Matches,998,-
+Queries with ≥1 Value Match,590,59.2%
+Queries with 100% Value Match,241,24.2%
+
+TOP 20 MATCHED KEYS
+Key,Match Count,GT Frequency,Gemini Frequency
+motor type,528,741,541
+brand,259,272,404
+manufacturer,232,272,340
+power,196,221,208
+product type,164,741,335
+application,121,288,221
+phase,113,123,125
+horsepower,108,117,112
+hp,99,117,101
+wattage,99,104,99
+part number,76,86,141
+model number,74,86,149
+use,68,288,120
+category,66,243,156
+rpm,58,68,61
+speed,58,68,63
+kilowatt,52,60,52
+voltage,33,44,35
+company,32,272,37
+current type,28,86,29
+
+GT KEYS NOT IN MODEL (Top 15)
+Key,GT Frequency
+supply phase,123
+supply type,86
+rated speed,68
+supply voltage,44
+product condition,4
+power unit,1

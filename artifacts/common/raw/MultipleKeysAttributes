@@ -1,0 +1,1022 @@
+Query #1: siemens 1.5 kw 415v three phase motor
+==========================================================================================
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes":[{"attribute_key":"power_source","value":"Three Phase","key_priority":1,"attribute_priority":1},{"attribute_key":"power_supply","value":"Three Phase","key_priority":2,"attribute_priority":1},{"attribute_key":"power_type","value":"Three Phase","key_priority":3,"attribute_priority":1},{"attribute_key":"input_power","value":"Three Phase","key_priority":4,"attribute_priority":1},{"attribute_key":"brand","value":"Siemens","key_priority":1,"attribute_priority":2},{"attribute_key":"company","value":"Siemens","key_priority":2,"attribute_priority":2},{"attribute_key":"manufacturer","value":"Siemens","key_priority":3,"attribute_priority":2},{"attribute_key":"make","value":"Siemens","key_priority":4,"attribute_priority":2},{"attribute_key":"capacity","value":"1.5 KW","key_priority":1,"attribute_priority":3},{"attribute_key":"load_capacity","value":"1.5 KW","key_priority":2,"attribute_priority":3},{"attribute_key":"weight_capacity","value":"1.5 KW","key_priority":3,"attribute_priority":3},{"attribute_key":"lifting_capacity","value":"1.5 KW","key_priority":4,"attribute_priority":3},{"attribute_key":"voltage","value":"415V","key_priority":1,"attribute_priority":4},{"attribute_key":"operating_voltage","value":"415V","key_priority":2,"attribute_priority":4},{"attribute_key":"supply_voltage","value":"415V","key_priority":3,"attribute_priority":4},{"attribute_key":"rated_voltage","value":"415V","key_priority":4,"attribute_priority":4}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "power_source",
+      "value": "Three Phase",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_supply",
+      "value": "Three Phase",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_type",
+      "value": "Three Phase",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "input_power",
+      "value": "Three Phase",
+      "key_priority": 4,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "brand",
+      "value": "Siemens",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "company",
+      "value": "Siemens",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "manufacturer",
+      "value": "Siemens",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "make",
+      "value": "Siemens",
+      "key_priority": 4,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "capacity",
+      "value": "1.5 KW",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "load_capacity",
+      "value": "1.5 KW",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "weight_capacity",
+      "value": "1.5 KW",
+      "key_priority": 3,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "lifting_capacity",
+      "value": "1.5 KW",
+      "key_priority": 4,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "voltage",
+      "value": "415V",
+      "key_priority": 1,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "operating_voltage",
+      "value": "415V",
+      "key_priority": 2,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "supply_voltage",
+      "value": "415V",
+      "key_priority": 3,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "rated_voltage",
+      "value": "415V",
+      "key_priority": 4,
+      "attribute_priority": 4
+    }
+  ]
+}
+
+📊 Stats: 4 unique values, 16 total keys
+
+
+==========================================================================================
+Query #2: abb 3 hp single phase 230v motor
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes": [{"attribute_key": "brand", "value": "ABB", "key_priority": 1, "attribute_priority": 1}, {"attribute_key": "company", "value": "ABB", "key_priority": 2, "attribute_priority": 1}, {"attribute_key": "manufacturer", "value": "ABB", "key_priority": 3, "attribute_priority": 1}, {"attribute_key": "make", "value": "ABB", "key_priority": 4, "attribute_priority": 1}, {"attribute_key": "power_source", "value": "Single Phase", "key_priority": 1, "attribute_priority": 2}, {"attribute_key": "power_supply", "value": "Single Phase", "key_priority": 2, "attribute_priority": 2}, {"attribute_key": "power_type", "value": "Single Phase", "key_priority": 3, "attribute_priority": 2}, {"attribute_key": "power", "value": "3 HP", "key_priority": 1, "attribute_priority": 3}, {"attribute_key": "wattage", "value": "3 HP", "key_priority": 2, "attribute_priority": 3}, {"attribute_key": "motor_power", "value": "3 HP", "key_priority": 3, "attribute_priority": 3}, {"attribute_key": "voltage", "value": "230V", "key_priority": 1, "attribute_priority": 4}, {"attribute_key": "operating_voltage", "value": "230V", "key_priority": 2, "attribute_priority": 4}, {"attribute_key": "supply_voltage", "value": "230V", "key_priority": 3, "attribute_priority": 4}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "brand",
+      "value": "ABB",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "company",
+      "value": "ABB",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "manufacturer",
+      "value": "ABB",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "make",
+      "value": "ABB",
+      "key_priority": 4,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_source",
+      "value": "Single Phase",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power_supply",
+      "value": "Single Phase",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power_type",
+      "value": "Single Phase",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power",
+      "value": "3 HP",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "wattage",
+      "value": "3 HP",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "motor_power",
+      "value": "3 HP",
+      "key_priority": 3,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "voltage",
+      "value": "230V",
+      "key_priority": 1,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "operating_voltage",
+      "value": "230V",
+      "key_priority": 2,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "supply_voltage",
+      "value": "230V",
+      "key_priority": 3,
+      "attribute_priority": 4
+    }
+  ]
+}
+
+📊 Stats: 4 unique values, 13 total keys
+
+
+==========================================================================================
+Query #3: crompton 2.2 kw bldc servo motor ip55
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes":[{"attribute_key":"power_source","value":"2.2 KW","key_priority":1,"attribute_priority":1},{"attribute_key":"power_supply","value":"2.2 KW","key_priority":2,"attribute_priority":1},{"attribute_key":"power_type","value":"2.2 KW","key_priority":3,"attribute_priority":1},{"attribute_key":"ip_rating","value":"IP55","key_priority":1,"attribute_priority":2},{"attribute_key":"protection_class","value":"IP55","key_priority":2,"attribute_priority":2},{"attribute_key":"degree_of_protection","value":"IP55","key_priority":3,"attribute_priority":2},{"attribute_key":"brand","value":"Crompton","key_priority":1,"attribute_priority":3},{"attribute_key":"company","value":"Crompton","key_priority":2,"attribute_priority":3},{"attribute_key":"manufacturer","value":"Crompton","key_priority":3,"attribute_priority":3},{"attribute_key":"make","value":"Crompton","key_priority":4,"attribute_priority":3}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "power_source",
+      "value": "2.2 KW",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_supply",
+      "value": "2.2 KW",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_type",
+      "value": "2.2 KW",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "ip_rating",
+      "value": "IP55",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "protection_class",
+      "value": "IP55",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "degree_of_protection",
+      "value": "IP55",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "brand",
+      "value": "Crompton",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "company",
+      "value": "Crompton",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "manufacturer",
+      "value": "Crompton",
+      "key_priority": 3,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "make",
+      "value": "Crompton",
+      "key_priority": 4,
+      "attribute_priority": 3
+    }
+  ]
+}
+
+📊 Stats: 3 unique values, 10 total keys
+
+
+==========================================================================================
+Query #4: 5hp three phase 1440 rpm foot mounted motor
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes":[{"attribute_key":"power_source","value":"Three Phase","key_priority":1,"attribute_priority":1},{"attribute_key":"power_supply","value":"Three Phase","key_priority":2,"attribute_priority":1},{"attribute_key":"power_type","value":"Three Phase","key_priority":3,"attribute_priority":1},{"attribute_key":"power","value":"5HP","key_priority":1,"attribute_priority":2},{"attribute_key":"wattage","value":"5HP","key_priority":2,"attribute_priority":2},{"attribute_key":"motor_power","value":"5HP","key_priority":3,"attribute_priority":2},{"attribute_key":"speed","value":"1440 RPM","key_priority":1,"attribute_priority":3},{"attribute_key":"rpm","value":"1440 RPM","key_priority":2,"attribute_priority":3},{"attribute_key":"motor_speed","value":"1440 RPM","key_priority":3,"attribute_priority":3},{"attribute_key":"mounting_type","value":"Foot Mounted","key_priority":1,"attribute_priority":4},{"attribute_key":"mounting","value":"Foot Mounted","key_priority":2,"attribute_priority":4},{"attribute_key":"mounting_style","value":"Foot Mounted","key_priority":3,"attribute_priority":4}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "power_source",
+      "value": "Three Phase",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_supply",
+      "value": "Three Phase",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_type",
+      "value": "Three Phase",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power",
+      "value": "5HP",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "wattage",
+      "value": "5HP",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "motor_power",
+      "value": "5HP",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "speed",
+      "value": "1440 RPM",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "rpm",
+      "value": "1440 RPM",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "motor_speed",
+      "value": "1440 RPM",
+      "key_priority": 3,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "mounting_type",
+      "value": "Foot Mounted",
+      "key_priority": 1,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "mounting",
+      "value": "Foot Mounted",
+      "key_priority": 2,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "mounting_style",
+      "value": "Foot Mounted",
+      "key_priority": 3,
+      "attribute_priority": 4
+    }
+  ]
+}
+
+📊 Stats: 4 unique values, 12 total keys
+
+
+==========================================================================================
+Query #5: stepper motor nema 23 1.8 degree
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes":[{"attribute_key":"model_number","value":"NEMA 23","key_priority":1,"attribute_priority":1},{"attribute_key":"model_name","value":"NEMA 23","key_priority":2,"attribute_priority":1},{"attribute_key":"model","value":"NEMA 23","key_priority":3,"attribute_priority":1},{"attribute_key":"model_no","value":"NEMA 23","key_priority":4,"attribute_priority":1},{"attribute_key":"number_of_poles","value":"1.8 Degree","key_priority":1,"attribute_priority":2},{"attribute_key":"no_of_poles","value":"1.8 Degree","key_priority":2,"attribute_priority":2},{"attribute_key":"poles","value":"1.8 Degree","key_priority":3,"attribute_priority":2},{"attribute_key":"no_of_phase","value":"1.8 Degree","key_priority":1,"attribute_priority":3},{"attribute_key":"phase","value":"1.8 Degree","key_priority":2,"attribute_priority":3},{"attribute_key":"number_of_phase","value":"1.8 Degree","key_priority":3,"attribute_priority":3}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "model_number",
+      "value": "NEMA 23",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "model_name",
+      "value": "NEMA 23",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "model",
+      "value": "NEMA 23",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "model_no",
+      "value": "NEMA 23",
+      "key_priority": 4,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "number_of_poles",
+      "value": "1.8 Degree",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "no_of_poles",
+      "value": "1.8 Degree",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "poles",
+      "value": "1.8 Degree",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "no_of_phase",
+      "value": "1.8 Degree",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "phase",
+      "value": "1.8 Degree",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "number_of_phase",
+      "value": "1.8 Degree",
+      "key_priority": 3,
+      "attribute_priority": 3
+    }
+  ]
+}
+
+📊 Stats: 2 unique values, 10 total keys
+
+
+==========================================================================================
+Query #6: baldor 10 hp 3 phase 460v 1800 rpm tefc motor
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes": [{"attribute_key": "brand", "value": "Baldor", "key_priority": 1, "attribute_priority": 1}, {"attribute_key": "company", "value": "Baldor", "key_priority": 2, "attribute_priority": 1}, {"attribute_key": "manufacturer", "value": "Baldor", "key_priority": 3, "attribute_priority": 1}, {"attribute_key": "make", "value": "Baldor", "key_priority": 4, "attribute_priority": 1}, {"attribute_key": "power_source", "value": "3 Phase", "key_priority": 1, "attribute_priority": 2}, {"attribute_key": "power_supply", "value": "3 Phase", "key_priority": 2, "attribute_priority": 2}, {"attribute_key": "power_type", "value": "3 Phase", "key_priority": 3, "attribute_priority": 2}, {"attribute_key": "power", "value": "10 HP", "key_priority": 1, "attribute_priority": 3}, {"attribute_key": "wattage", "value": "10 HP", "key_priority": 2, "attribute_priority": 3}, {"attribute_key": "motor_power", "value": "10 HP", "key_priority": 3, "attribute_priority": 3}, {"attribute_key": "speed", "value": "1800 RPM", "key_priority": 1, "attribute_priority": 4}, {"attribute_key": "rpm", "value": "1800 RPM", "key_priority": 2, "attribute_priority": 4}, {"attribute_key": "motor_speed", "value": "1800 RPM", "key_priority": 3, "attribute_priority": 4}, {"attribute_key": "voltage", "value": "460V", "key_priority": 1, "attribute_priority": 5}, {"attribute_key": "operating_voltage", "value": "460V", "key_priority": 2, "attribute_priority": 5}, {"attribute_key": "supply_voltage", "value": "460V", "key_priority": 3, "attribute_priority": 5}, {"attribute_key": "enclosure", "value": "TEFC", "key_priority": 1, "attribute_priority": 6}, {"attribute_key": "body_enclosure", "value": "TEFC", "key_priority": 2, "attribute_priority": 6}, {"attribute_key": "housing_protection", "value": "TEFC", "key_priority": 3, "attribute_priority": 6}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "brand",
+      "value": "Baldor",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "company",
+      "value": "Baldor",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "manufacturer",
+      "value": "Baldor",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "make",
+      "value": "Baldor",
+      "key_priority": 4,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_source",
+      "value": "3 Phase",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power_supply",
+      "value": "3 Phase",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power_type",
+      "value": "3 Phase",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power",
+      "value": "10 HP",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "wattage",
+      "value": "10 HP",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "motor_power",
+      "value": "10 HP",
+      "key_priority": 3,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "speed",
+      "value": "1800 RPM",
+      "key_priority": 1,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "rpm",
+      "value": "1800 RPM",
+      "key_priority": 2,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "motor_speed",
+      "value": "1800 RPM",
+      "key_priority": 3,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "voltage",
+      "value": "460V",
+      "key_priority": 1,
+      "attribute_priority": 5
+    },
+    {
+      "attribute_key": "operating_voltage",
+      "value": "460V",
+      "key_priority": 2,
+      "attribute_priority": 5
+    },
+    {
+      "attribute_key": "supply_voltage",
+      "value": "460V",
+      "key_priority": 3,
+      "attribute_priority": 5
+    },
+    {
+      "attribute_key": "enclosure",
+      "value": "TEFC",
+      "key_priority": 1,
+      "attribute_priority": 6
+    },
+    {
+      "attribute_key": "body_enclosure",
+      "value": "TEFC",
+      "key_priority": 2,
+      "attribute_priority": 6
+    },
+    {
+      "attribute_key": "housing_protection",
+      "value": "TEFC",
+      "key_priority": 3,
+      "attribute_priority": 6
+    }
+  ]
+}
+
+📊 Stats: 6 unique values, 19 total keys
+
+
+==========================================================================================
+Query #7: 2 hp single phase capacitor start motor 220v
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes":[{"attribute_key":"power_source","value":"220V","key_priority":1,"attribute_priority":1},{"attribute_key":"power_supply","value":"220V","key_priority":2,"attribute_priority":1},{"attribute_key":"power_type","value":"220V","key_priority":3,"attribute_priority":1},{"attribute_key":"power_rating","value":"2 HP","key_priority":1,"attribute_priority":2},{"attribute_key":"wattage","value":"2 HP","key_priority":2,"attribute_priority":2},{"attribute_key":"motor_power","value":"2 HP","key_priority":3,"attribute_priority":2},{"attribute_key":"phase","value":"Single Phase","key_priority":1,"attribute_priority":3},{"attribute_key":"phase_type","value":"Single Phase","key_priority":2,"attribute_priority":3},{"attribute_key":"number_of_phase","value":"Single Phase","key_priority":3,"attribute_priority":3}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "power_source",
+      "value": "220V",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_supply",
+      "value": "220V",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_type",
+      "value": "220V",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_rating",
+      "value": "2 HP",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "wattage",
+      "value": "2 HP",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "motor_power",
+      "value": "2 HP",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "phase",
+      "value": "Single Phase",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "phase_type",
+      "value": "Single Phase",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "number_of_phase",
+      "value": "Single Phase",
+      "key_priority": 3,
+      "attribute_priority": 3
+    }
+  ]
+}
+
+📊 Stats: 3 unique values, 9 total keys
+
+
+==========================================================================================
+Query #8: ge 7.5 kw squirrel cage induction motor ie3
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes":[{"attribute_key":"brand","value":"GE","key_priority":1,"attribute_priority":1},{"attribute_key":"company","value":"GE","key_priority":2,"attribute_priority":1},{"attribute_key":"manufacturer","value":"GE","key_priority":3,"attribute_priority":1},{"attribute_key":"make","value":"GE","key_priority":4,"attribute_priority":1},{"attribute_key":"power_source","value":"Electric","key_priority":1,"attribute_priority":2},{"attribute_key":"power_supply","value":"Electric","key_priority":2,"attribute_priority":2},{"attribute_key":"power_type","value":"Electric","key_priority":3,"attribute_priority":2},{"attribute_key":"power_requirement","value":"Electric","key_priority":4,"attribute_priority":2},{"attribute_key":"power","value":"7.5 KW","key_priority":1,"attribute_priority":3},{"attribute_key":"wattage","value":"7.5 KW","key_priority":2,"attribute_priority":3},{"attribute_key":"motor_power","value":"7.5 KW","key_priority":3,"attribute_priority":3},{"attribute_key":"power_rating","value":"7.5 KW","key_priority":4,"attribute_priority":3},{"attribute_key":"efficiency","value":"IE3","key_priority":1,"attribute_priority":4},{"attribute_key":"energy_efficiency_grade","value":"IE3","key_priority":2,"attribute_priority":4},{"attribute_key":"star_rating","value":"IE3","key_priority":3,"attribute_priority":4},{"attribute_key":"starter_type","value":"Squirrel Cage Induction Motor","key_priority":1,"attribute_priority":5},{"attribute_key":"starting_method","value":"Squirrel Cage Induction Motor","key_priority":2,"attribute_priority":5},{"attribute_key":"starter","value":"Squirrel Cage Induction Motor","key_priority":3,"attribute_priority":5}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "brand",
+      "value": "GE",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "company",
+      "value": "GE",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "manufacturer",
+      "value": "GE",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "make",
+      "value": "GE",
+      "key_priority": 4,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_source",
+      "value": "Electric",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power_supply",
+      "value": "Electric",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power_type",
+      "value": "Electric",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power_requirement",
+      "value": "Electric",
+      "key_priority": 4,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "power",
+      "value": "7.5 KW",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "wattage",
+      "value": "7.5 KW",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "motor_power",
+      "value": "7.5 KW",
+      "key_priority": 3,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "power_rating",
+      "value": "7.5 KW",
+      "key_priority": 4,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "efficiency",
+      "value": "IE3",
+      "key_priority": 1,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "energy_efficiency_grade",
+      "value": "IE3",
+      "key_priority": 2,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "star_rating",
+      "value": "IE3",
+      "key_priority": 3,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "starter_type",
+      "value": "Squirrel Cage Induction Motor",
+      "key_priority": 1,
+      "attribute_priority": 5
+    },
+    {
+      "attribute_key": "starting_method",
+      "value": "Squirrel Cage Induction Motor",
+      "key_priority": 2,
+      "attribute_priority": 5
+    },
+    {
+      "attribute_key": "starter",
+      "value": "Squirrel Cage Induction Motor",
+      "key_priority": 3,
+      "attribute_priority": 5
+    }
+  ]
+}
+
+📊 Stats: 5 unique values, 18 total keys
+
+
+==========================================================================================
+Query #9: brushless dc motor 24v 3000 rpm encoder
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes":[{"attribute_key":"voltage","value":"24V","key_priority":1,"attribute_priority":1},{"attribute_key":"operating_voltage","value":"24V","key_priority":2,"attribute_priority":1},{"attribute_key":"supply_voltage","value":"24V","key_priority":3,"attribute_priority":1},{"attribute_key":"rated_voltage","value":"24V","key_priority":4,"attribute_priority":1},{"attribute_key":"speed","value":"3000 RPM","key_priority":1,"attribute_priority":2},{"attribute_key":"rpm","value":"3000 RPM","key_priority":2,"attribute_priority":2},{"attribute_key":"motor_speed","value":"3000 RPM","key_priority":3,"attribute_priority":2},{"attribute_key":"rated_speed","value":"3000 RPM","key_priority":4,"attribute_priority":2},{"attribute_key":"type","value":"Brushless DC Motor","key_priority":1,"attribute_priority":3},{"attribute_key":"motor_type","value":"Brushless DC Motor","key_priority":2,"attribute_priority":3},{"attribute_key":"product_type","value":"Brushless DC Motor","key_priority":3,"attribute_priority":3},{"attribute_key":"device_type","value":"Brushless DC Motor","key_priority":4,"attribute_priority":3}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "voltage",
+      "value": "24V",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "operating_voltage",
+      "value": "24V",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "supply_voltage",
+      "value": "24V",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "rated_voltage",
+      "value": "24V",
+      "key_priority": 4,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "speed",
+      "value": "3000 RPM",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "rpm",
+      "value": "3000 RPM",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "motor_speed",
+      "value": "3000 RPM",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "rated_speed",
+      "value": "3000 RPM",
+      "key_priority": 4,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "type",
+      "value": "Brushless DC Motor",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "motor_type",
+      "value": "Brushless DC Motor",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "product_type",
+      "value": "Brushless DC Motor",
+      "key_priority": 3,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "device_type",
+      "value": "Brushless DC Motor",
+      "key_priority": 4,
+      "attribute_priority": 3
+    }
+  ]
+}
+
+📊 Stats: 3 unique values, 12 total keys
+
+
+==========================================================================================
+Query #10: oriental motor gearhead 25w 200v reducer 1:10
+==========================================================================================
+
+📄 RAW MODEL OUTPUT:
+------------------------------------------------------------------------------------------
+{"attributes":[{"attribute_key":"power","value":"25W","key_priority":1,"attribute_priority":1},{"attribute_key":"wattage","value":"25W","key_priority":2,"attribute_priority":1},{"attribute_key":"motor_power","value":"25W","key_priority":3,"attribute_priority":1},{"attribute_key":"power_rating","value":"25W","key_priority":4,"attribute_priority":1},{"attribute_key":"voltage","value":"200V","key_priority":1,"attribute_priority":2},{"attribute_key":"operating_voltage","value":"200V","key_priority":2,"attribute_priority":2},{"attribute_key":"supply_voltage","value":"200V","key_priority":3,"attribute_priority":2},{"attribute_key":"rated_voltage","value":"200V","key_priority":4,"attribute_priority":2},{"attribute_key":"brand","value":"Oriental Motor","key_priority":1,"attribute_priority":3},{"attribute_key":"company","value":"Oriental Motor","key_priority":2,"attribute_priority":3},{"attribute_key":"manufacturer","value":"Oriental Motor","key_priority":3,"attribute_priority":3},{"attribute_key":"make","value":"Oriental Motor","key_priority":4,"attribute_priority":3},{"attribute_key":"model_number","value":"Gearhead","key_priority":1,"attribute_priority":4},{"attribute_key":"model_name","value":"Gearhead","key_priority":2,"attribute_priority":4},{"attribute_key":"model","value":"Gearhead","key_priority":3,"attribute_priority":4},{"attribute_key":"model_no","value":"Gearhead","key_priority":4,"attribute_priority":4},{"attribute_key":"model_name","value":"200V","key_priority":1,"attribute_priority":5},{"attribute_key":"model_no","value":"200V","key_priority":2,"attribute_priority":5},{"attribute_key":"model","value":"200V","key_priority":3,"attribute_priority":5},{"attribute_key":"model_name","value":"1:10","key_priority":1,"attribute_priority":6},{"attribute_key":"model_no","value":"1:10","key_priority":2,"attribute_priority":6},{"attribute_key":"model","value":"1:10","key_priority":3,"attribute_priority":6}]}
+------------------------------------------------------------------------------------------
+
+✅ PARSED JSON:
+{
+  "attributes": [
+    {
+      "attribute_key": "power",
+      "value": "25W",
+      "key_priority": 1,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "wattage",
+      "value": "25W",
+      "key_priority": 2,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "motor_power",
+      "value": "25W",
+      "key_priority": 3,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "power_rating",
+      "value": "25W",
+      "key_priority": 4,
+      "attribute_priority": 1
+    },
+    {
+      "attribute_key": "voltage",
+      "value": "200V",
+      "key_priority": 1,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "operating_voltage",
+      "value": "200V",
+      "key_priority": 2,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "supply_voltage",
+      "value": "200V",
+      "key_priority": 3,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "rated_voltage",
+      "value": "200V",
+      "key_priority": 4,
+      "attribute_priority": 2
+    },
+    {
+      "attribute_key": "brand",
+      "value": "Oriental Motor",
+      "key_priority": 1,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "company",
+      "value": "Oriental Motor",
+      "key_priority": 2,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "manufacturer",
+      "value": "Oriental Motor",
+      "key_priority": 3,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "make",
+      "value": "Oriental Motor",
+      "key_priority": 4,
+      "attribute_priority": 3
+    },
+    {
+      "attribute_key": "model_number",
+      "value": "Gearhead",
+      "key_priority": 1,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "model_name",
+      "value": "Gearhead",
+      "key_priority": 2,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "model",
+      "value": "Gearhead",
+      "key_priority": 3,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "model_no",
+      "value": "Gearhead",
+      "key_priority": 4,
+      "attribute_priority": 4
+    },
+    {
+      "attribute_key": "model_name",
+      "value": "200V",
+      "key_priority": 1,
+      "attribute_priority": 5
+    },
+    {
+      "attribute_key": "model_no",
+      "value": "200V",
+      "key_priority": 2,
+      "attribute_priority": 5
+    },
+    {
+      "attribute_key": "model",
+      "value": "200V",
+      "key_priority": 3,
+      "attribute_priority": 5
+    },
+    {
+      "attribute_key": "model_name",
+      "value": "1:10",
+      "key_priority": 1,
+      "attribute_priority": 6
+    },
+    {
+      "attribute_key": "model_no",
+      "value": "1:10",
+      "key_priority": 2,
+      "attribute_priority": 6
+    },
+    {
+      "attribute_key": "model",
+      "value": "1:10",
+      "key_priority": 3,
+      "attribute_priority": 6
+    }
+  ]
+}

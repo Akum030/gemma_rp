@@ -1,0 +1,142 @@
+﻿GROUND TRUTH (CLAUDE OPUS) VS GEMINI - COMPARISON SUMMARY
+
+OVERVIEW
+Metric,Value
+Total Queries,996
+Both Successful,952,95.6%
+GT Only Success,26
+Gemini Only Success,17
+Both Failed,1
+
+ KEY MATCHING ANALYSIS 
+Total GT Keys (with synonyms),5079
+Total Gemini Keys (with synonyms),5481
+Total Matched Keys,2581
+Queries with at least 1 key match,851,85.4%
+Queries with perfect key coverage,8
+
+ VALUE MATCHING ANALYSIS 
+Total Matched Values,998
+Queries with at least 1 value match,590,59.2%
+
+ PRIORITY ALIGNMENT ANALYSIS 
+Total Perfect Matches (key + value + priorities),535
+"Total Partial Matches (key + value, different priorities)",971
+Queries with at least 1 perfect match,275,27.6%
+
+ TOP 30 GROUND TRUTH KEYS (by frequency) 
+Key,Count,Also in Gemini?,Match Count
+motor type,741,Yes,528
+product type,741,Yes,164
+application,288,Yes,121
+use,288,Yes,68
+brand,272,Yes,259
+manufacturer,272,Yes,232
+company,272,Yes,32
+product category,243,Yes,3
+category,243,Yes,66
+power,221,Yes,196
+phase,123,Yes,113
+supply phase,123,No,0
+horsepower,117,Yes,108
+hp,117,Yes,99
+wattage,104,Yes,99
+current type,86,Yes,28
+supply type,86,No,0
+model number,86,Yes,74
+part number,86,Yes,76
+model,86,Yes,10
+speed,68,Yes,58
+rpm,68,Yes,58
+rated speed,68,No,0
+kilowatt,60,Yes,52
+voltage,44,Yes,33
+supply voltage,44,No,0
+mounting type,23,Yes,20
+mounting,23,Yes,20
+shaft type,22,Yes,20
+shaft,22,Yes,16
+
+ TOP 30 GEMINI KEYS (by frequency) 
+Key,Count,Also in GT?,Match Count
+motor type,541,Yes,528
+type,405,No,0
+brand,404,Yes,259
+manufacturer,340,Yes,232
+product type,335,Yes,164
+application,221,Yes,121
+power,208,Yes,196
+category,156,Yes,66
+model number,149,Yes,74
+part number,141,Yes,76
+phase,125,Yes,113
+phase type,125,No,0
+use,120,Yes,68
+series,118,No,0
+horsepower,112,Yes,108
+hp,101,Yes,99
+wattage,99,Yes,99
+model,92,Yes,10
+component,65,No,0
+mpn,64,No,0
+speed,63,Yes,58
+rpm,61,Yes,58
+kilowatt,52,Yes,52
+mounting,43,Yes,20
+product family,42,No,0
+feature,42,No,0
+starter type,42,No,0
+size,41,No,0
+servo,38,No,0
+company,37,Yes,32
+
+ TOP 30 MATCHED KEYS 
+Key,Match Count,GT Frequency,Gemini Frequency
+motor type,528,741,541
+brand,259,272,404
+manufacturer,232,272,340
+power,196,221,208
+product type,164,741,335
+application,121,288,221
+phase,113,123,125
+horsepower,108,117,112
+hp,99,117,101
+wattage,99,104,99
+part number,76,86,141
+model number,74,86,149
+use,68,288,120
+category,66,243,156
+rpm,58,68,61
+speed,58,68,63
+kilowatt,52,60,52
+voltage,33,44,35
+company,32,272,37
+current type,28,86,29
+shaft type,20,22,24
+mounting type,20,23,32
+mounting,20,23,43
+shaft,16,22,17
+model,10,86,92
+enclosure,7,9,7
+efficiency,4,4,5
+efficiency class,4,4,6
+condition,4,4,9
+product category,3,243,8
+
+ KEY MATCH RATE DISTRIBUTION 
+Match Rate Range,Query Count,Percentage
+0%,127,12.8%
+1-25%,12,1.2%
+26-50%,166,16.7%
+51-75%,514,51.6%
+76-99%,135,13.6%
+100%,24,2.4%
+
+ VALUE MATCH RATE DISTRIBUTION 
+Match Rate Range,Query Count,Percentage
+0%,388,39.0%
+1-25%,6,0.6%
+26-50%,80,8.0%
+51-75%,235,23.6%
+76-99%,28,2.8%
+100%,241,24.2%

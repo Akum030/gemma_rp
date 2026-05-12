@@ -1,0 +1,983 @@
+{"instruction":"Extract key-value attributes from this query: Blown Film Extrusion Machine","output":"{\"usage\": \"film\"}"}
+{"instruction":"Extract key-value attributes from this query: sheet extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: centrufuge Extractor For Textile Mills","output":"{\"product\": \"extractor\", \"usage\": \"textile mills\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refinery Plant","output":"{\"type\": \"refinery\", \"usage\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Solvent Extraction Plant","output":"{\"usage\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: lab extruder","output":"{\"type\": \"extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: plastic sheet plant near ahmedabad","output":"{\"material\": \"plastic\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminium Extrusion Plant Consultant","output":"{\"machine type\": \"extrusion\", \"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: sheet extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium-extrusion-plant","output":"{\"material\": \"aluminium-extrusion-plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refinery Plant","output":"{\"type\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: ilko aluminium manufactur where the plant","output":"{\"business type\": \"manufactur\", \"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: ilko aluminium manufactur, where the plant","output":"{\"business type\": \"manufactur,\", \"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: ultrasonic herbal extraction machine","output":"{\"technology\": \"ultrasonic\", \"usage\": \"herbal extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining plant Scale Model","output":"{\"type\": \"scale model\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refineing Machine Scale Model","output":"{\"type\": \"scale model\", \"usage\": \"gold refineing\"}"}
+{"instruction":"Extract key-value attributes from this query: zone refining","output":"{\"brand\": \"zone\"}"}
+{"instruction":"Extract key-value attributes from this query: tclp extractor","output":"{\"product\": \"extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: ricebran esterification plant","output":"{\"type\": \"esterification\"}"}
+{"instruction":"Extract key-value attributes from this query: ld extruder machine","output":"{\"material\": \"ld\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 65mm ld extruder machine","output":"{\"material\": \"ld\", \"screw diameter\": \"65mm\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Solvent Extraction Plant Equipment","output":"{\"usage\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: lab scale twin screw extruder","output":"{\"type\": \"screw extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refining Plant","output":"{\"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Rice Bran Oil Extraction Plant and Machinery","output":"{\"machine type\": \"extraction\", \"usage\": \"rice bran oil\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder 50 kg\/hr extruder machine","output":"{\"capacity\": \"50 kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refining machine","output":"{\"refining material\": \"gold\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: co rotating twin screw extruders","output":"{\"type\": \"screw\"}"}
+{"instruction":"Extract key-value attributes from this query: Electric Wood Shavings Extractor","output":"{\"power source\": \"electric\", \"usage\": \"wood shavings\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Monolayer Blown Film Extrusion Machine","output":"{\"machine type\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: co extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Solid Phase Extraction vacuum Manifold","output":"{\"product\": \"vacuum manifold\", \"usage\": \"solid phase extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminum Plant","output":"{\"material\": \"aluminum\"}"}
+{"instruction":"Extract key-value attributes from this query: rag gold refined","output":"{\"processing type\": \"refined\"}"}
+{"instruction":"Extract key-value attributes from this query: benchtop extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Metal Refining Plant","output":"{\"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: soap extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Gold Refining Machine","output":"{\"automation grade\": \"automatic\", \"usage\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder-machine","output":"{\"type\": \"extruder-machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Mini Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: cable extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: pv solar cable extrusion line machines - labh group","output":"{\"brand\": \"labh group\"}"}
+{"instruction":"Extract key-value attributes from this query: pvc cable extruder","output":"{\"material\": \"pvc\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder 180 sq mm cables","output":"{\"size\": \"180 sq mm\", \"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder ldpe plastic recycling line  production capacity: 500 kghr","output":"{\"capacity\": \"500 kghr\", \"material\": \"ldpe\", \"usage\": \"plastic recycling\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder Ldpe Plastic Recycling Line, Production Capacity: 500 kg\/hr","output":"{\"capacity\": \"500 kg\/hr\", \"material\": \"ldpe\", \"usage\": \"plastic recycling\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder 180 sq mm","output":"{\"capacity\": \"180 sq mm\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: ABA 2 Layer Blown Film Machine","output":"{\"brand\": \"aba\", \"layer\": \"2 layer\", \"product\": \"blown film machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Liquid Extraction Systems","output":"{\"usage\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminum Extrusion Plant","output":"{\"material\": \"aluminum\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminium Ectrusion Plant.","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminium Extrusion Plant","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: complete aluminum extrusion plant .","output":"{\"material\": \"aluminum\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining Equipment","output":"{\"refining material\": \"gold\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Cannabis Extraction Plant","output":"{\"machine type\": \"extraction\", \"usage\": \"cannabis\"}"}
+{"instruction":"Extract key-value attributes from this query: Herbal Extraction Plant Machinery","output":"{\"usage\": \"herbal\"}"}
+{"instruction":"Extract key-value attributes from this query: Basket Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 kg automatic gold refining machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"5 kg\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: food grade twin screw extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder for lab","output":"{\"type\": \"screw extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder for plastics","output":"{\"type\": \"screw extruder\", \"usage\": \"plastics\"}"}
+{"instruction":"Extract key-value attributes from this query: Metal solvent extraction plant","output":"{\"material\": \"metal\", \"type\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Hira Solvent Extraction Parts","output":"{\"brand\": \"hira\", \"product\": \"solvent extraction parts\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic no Twin Screw Extruder","output":"{\"automation grade\": \"automatic\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: एक्सट्रूडर₹1.5 – ₹ 2 लाख","output":"{\"composition\": \"एक्सट्रूडर₹1.5\"}"}
+{"instruction":"Extract key-value attributes from this query: Artificial Rice Extrusion Plant","output":"{\"type\": \"artificial\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining","output":"{\"metal\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: wire extruder head","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 25 mm wire extruder head","output":"{\"diameter\": \"25 mm\"}"}
+{"instruction":"Extract key-value attributes from this query: tube extrusion machine 500 kg\/hr extruder machine","output":"{\"capacity\": \"500 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: 14000 RPM Centrifuge Extractor","output":"{\"product\": \"centrifuge extractor\", \"speed\": \"14000 rpm\"}"}
+{"instruction":"Extract key-value attributes from this query: Hand Operated Bitumen Extractor","output":"{\"machine type\": \"bitumen extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: New Jockey Extruder","output":"{\"brand\": \"jockey\", \"condition\": \"new\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: two layer blown film extrusion machine","output":"{\"layer\": \"two layer\"}"}
+{"instruction":"Extract key-value attributes from this query: एक्सट्रूडर₹1.5 – ₹5 लाख","output":"{\"composition\": \"एक्सट्रूडर₹1.5\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminum Extrusion Laboratory Installation Service","output":"{\"material\": \"aluminum\", \"service\": \"installation service\"}"}
+{"instruction":"Extract key-value attributes from this query: oleoresin extraction plants","output":"{\"usage\": \"oleoresin\"}"}
+{"instruction":"Extract key-value attributes from this query: Steer Alpha18 Twin Screw Extruder","output":"{\"brand\": \"steer\", \"model name\/number\": \"alpha18\", \"type\": \"twin screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 2 kg automatic electrolytic gold refinery machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"2 kg\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: 2 kg fully automatic gold dust refinery machine (titanium body  aqua regia processing)","output":"{\"automation grade\": \"automatic\", \"capacity\": \"2 kg\", \"usage\": \"gold dust\"}"}
+{"instruction":"Extract key-value attributes from this query: 2 kg Fully Automatic Gold Dust Refinery Machine (Titanium Body, Aqua Regia Processing)","output":"{\"automation grade\": \"automatic\", \"capacity\": \"2 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic gold refining machine manfacturer 2kg in egypt  capacity(kg): 20 kg","output":"{\"automation grade\": \"automatic\", \"capacity\": \"2kg\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Gold Refining Machine Manfacturer 2kg In Egypt, Capacity(kg): 20 kg","output":"{\"automation grade\": \"automatic\", \"capacity\": \"2kg\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic gold refining machine 2kg","output":"{\"automation grade\": \"automatic\", \"capacity\": \"2kg\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Silver Refining Plant (50kg)","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refiningplant","output":"{\"type\": \"refiningplant\"}"}
+{"instruction":"Extract key-value attributes from this query: PP Sheet Extruder Machine","output":"{\"material\": \"pp\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic+silver+refining+plant+(50kg)","output":"{\"automation grade\": \"automatic+silver+refining+plant+(50kg)\"}"}
+{"instruction":"Extract key-value attributes from this query: 10 Silver Refining Plant","output":"{\"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: silver gold refining machine","output":"{\"refining material\": \"gold\", \"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: 5Kg Gold  Refining Machine","output":"{\"capacity\": \"5kg\", \"refining material\": \"gold\", \"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Centrifuge Extractor","output":"{\"product\": \"extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic silver refining plant","output":"{\"automation grade\": \"automatic\", \"refining material\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining System Plant","output":"{\"refining material\": \"gold\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machine mother baby","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: T Die Sheet Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 5HP Twin Screw Extruder","output":"{\"motor horsepower\": \"5hp\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: solvent plant","output":"{\"ink type\": \"solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: Two Layer Blown Film Extrusion Plant Exporter","output":"{\"business type\": \"exporter\"}"}
+{"instruction":"Extract key-value attributes from this query: PVC  Cable Extrusion Plant","output":"{\"pipe material\": \"pvc\"}"}
+{"instruction":"Extract key-value attributes from this query: gold and silver refining machine","output":"{\"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Rice Bran Preparatory Section","output":"{\"material\": \"bran\", \"type\": \"preparatory\"}"}
+{"instruction":"Extract key-value attributes from this query: lab scale twin screw extruder 40 (kw) capacity:10 - 50 (kg\/hour)","output":"{\"capacity\": \"- 50 (kg\/hour)\", \"machine type\": \"screw\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: Order Refine Machines","output":"{\"product\": \"refine\"}"}
+{"instruction":"Extract key-value attributes from this query: PP Mat Extruders","output":"{\"material\": \"pp\", \"type\": \"extruders\"}"}
+{"instruction":"Extract key-value attributes from this query: film extrusion","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: 250 kg\/hr 0.5-4 inch twin screw thibak machine","output":"{\"capacity\": \"250 kg\/hr\", \"size\": \"0.5-4 inch\"}"}
+{"instruction":"Extract key-value attributes from this query: Tape Extrusion Plant","output":"{\"usage\": \"tape extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: PVC Blister film extrusion machine","output":"{\"material\": \"pvc\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refining machine","output":"{\"refining material\": \"silver\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Solvent Extraction Plants","output":"{\"usage\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: 500 tpd solvent-extraction-plant","output":"{\"capacity\": \"500 tpd\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic gold refining equipment","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: double screw pasta extruder","output":"{\"screw type\": \"double screw\", \"usage\": \"pasta extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Power Cable Extrusion  150 Mm","output":"{\"diameter\": \"150 mm\", \"process\": \"extrusion\", \"usage\": \"power cable\"}"}
+{"instruction":"Extract key-value attributes from this query: Biodegradable Film Extrusion Machine","output":"{\"features\": \"biodegradable\"}"}
+{"instruction":"Extract key-value attributes from this query: Solid Phase Extraction System","output":"{\"product\": \"extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: flour extrooder machine","output":"{\"usage\": \"flour\"}"}
+{"instruction":"Extract key-value attributes from this query: ldpe blown film extrusion machine 20 kg\/h","output":"{\"capacity\": \"20 kg\/h\", \"material\": \"ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: ldpe blown film extrusion machine","output":"{\"material\": \"ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: gold police machine","output":"{\"products included\": \"machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining Plant","output":"{\"refining material\": \"gold\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Rice Bran Solvent Extraction Plant","output":"{\"type\": \"solvent extraction\", \"usage\": \"rice bran\"}"}
+{"instruction":"Extract key-value attributes from this query: Two Layer Blown Film Extrusion Machinery in India","output":"{\"country of origin\": \"india\", \"machine name\": \"two layer blown film extrusion machinery\"}"}
+{"instruction":"Extract key-value attributes from this query: golden refined","output":"{\"color\": \"golden\", \"processing type\": \"refined\"}"}
+{"instruction":"Extract key-value attributes from this query: clay extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: wdg basket extruder machine (pesticid ), production capacity: 200 kg\/hr","output":"{\"capacity\": \"200 kg\/hr\", \"model name\/number\": \"wdg\"}"}
+{"instruction":"Extract key-value attributes from this query: basket extruder machine pesticid","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder machine in noida","output":"{\"model name\/number\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Mini Extruder Machine 3 Inch to 20 Inch","output":"{\"capacity\": \"3 inch to 20 inch\", \"model name\/number\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: bitumen extractor hand operated","output":"{\"machine type\": \"bitumen extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: sliver refinery palnt 10 kg","output":"{\"color\": \"sliver\", \"packaging size\": \"10 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic-gold-refining-machine","output":"{\"automation grade\": \"automatic-gold-refining-machine\"}"}
+{"instruction":"Extract key-value attributes from this query: solvent turmeric extraction plant","output":"{\"usage\": \"turmeric extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic 30kg silver refining machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"30kg\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 TPH Metal Recovery Plant","output":"{\"capacity\": \"5 tph\", \"type\": \"metal recovery plant\"}"}
+{"instruction":"Extract key-value attributes from this query: 2 TPH Metal Recovery Plant","output":"{\"capacity\": \"2 tph\", \"type\": \"metal recovery plant\"}"}
+{"instruction":"Extract key-value attributes from this query: compounding twin screw extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Water Extraction Machine","output":"{\"usage\": \"water extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Oil Cooler For Solvent Extraction Plant","output":"{\"type\": \"oil cooler\", \"usage\": \"solvent extraction plant\"}"}
+{"instruction":"Extract key-value attributes from this query: second hand pp granules extruder machine","output":"{\"condition\": \"second hand\", \"material\": \"pp\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Corotating Twin Screw Extruder","output":"{\"driven type\": \"corotating\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: three layer blown film extrusion machine","output":"{\"layer\": \"three layer\"}"}
+{"instruction":"Extract key-value attributes from this query: rajangoan sp waluj aurangabad 431136","output":"{\"model name\/number\": \"431136\"}"}
+{"instruction":"Extract key-value attributes from this query: Vented Extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: plastic tube extrusion","output":"{\"material\": \"plastic\", \"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: mulch film machine manufacturers","output":"{\"type\": \"mulch\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Silver Refining Machine","output":"{\"automation grade\": \"automatic\", \"usage\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: famsun","output":"{\"brand\": \"famsun\"}"}
+{"instruction":"Extract key-value attributes from this query: semi automatic centrifugal water extractor machine","output":"{\"automation grade\": \"semi automatic\", \"product\": \"water extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: centrifugal water extractor machine","output":"{\"blower type\": \"centrifugal\"}"}
+{"instruction":"Extract key-value attributes from this query: Ergot mushroom","output":"{\"variety available\": \"mushroom\"}"}
+{"instruction":"Extract key-value attributes from this query: Barwell Eco20 Preformer","output":"{\"model name\/number\": \"eco20\"}"}
+{"instruction":"Extract key-value attributes from this query: suldin liquid 500ml","output":"{\"form\": \"liquid\", \"packaging size\": \"500ml\"}"}
+{"instruction":"Extract key-value attributes from this query: Loom Plant Winder Available for Sale","output":"{\"usage\": \"loom plant\"}"}
+{"instruction":"Extract key-value attributes from this query: लूम,प्लांट,वाइंदर एवलेबल फॉर सेल","output":"{\"composition\": \"लूम,प्लांट,वाइंदर एवलेबल\"}"}
+{"instruction":"Extract key-value attributes from this query: लूम प्लांट वाइंदर एवलेबल फॉर सेल","output":"{\"book name\": \"प्लांट\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refinery machine","output":"{\"melting material\": \"silver\", \"type\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: shilajit extract plant manufactures","output":"{\"common name\": \"shilajit\"}"}
+{"instruction":"Extract key-value attributes from this query: gold popular machine","output":"{\"products included\": \"machine\"}"}
+{"instruction":"Extract key-value attributes from this query: 45MM Monolayer Extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refinery Plant, Capacity(kg): 10","output":"{\"capacity\": \"10\"}"}
+{"instruction":"Extract key-value attributes from this query: clay extruder bolat hain","output":"{\"material\": \"clay\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr no twin screw extruder Extruder Machine","output":"{\"capacity\": \"100 kg\/hr\", \"machine type\": \"screw\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr twin screw extruder Extruder Machine","output":"{\"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: 50 kg\/hr no Extruder Machine","output":"{\"capacity\": \"50 kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr no twin screw extruder Wire Extruder Machine","output":"{\"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr no noodle extruder machine Sioplas HT - XLPE Cable Extrusion Line","output":"{\"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder installation service","output":"{\"machine type\": \"screw extruder\", \"service\": \"installation service\"}"}
+{"instruction":"Extract key-value attributes from this query: 1 piece Metal Recovery Unit","output":"{\"set contains\": \"1 piece\", \"usage\": \"metal recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: 1 for business use piece yes Metal Recovery Unit","output":"{\"usage\": \"metal recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: Mivan Shuttering Degree cutting Machine","output":"{\"brand\": \"mivan\", \"type\": \"degree cutting machine\"}"}
+{"instruction":"Extract key-value attributes from this query: pp exstruder","output":"{\"plastic type\": \"pp\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Rice Bran Solvent Extraction Plant, 100 ton\/day, 100 kW","output":"{\"automation grade\": \"automatic\", \"capacity\": \"100 ton\/day, 100\", \"usage\": \"rice bran solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: small gold refining machine","output":"{\"refining material\": \"gold\", \"size\": \"small\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extrusion Line 65-22V for the Production of Pipe","output":"{\"machine name\": \"twin screw extrusion line\", \"voltage\": \"65-22v\"}"}
+{"instruction":"Extract key-value attributes from this query: blown film double die extruder machine with double station winder for ldpe \/ld and hm","output":"{\"machine name\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: THEYsohn PVC Twin Screw Extrusion Line","output":"{\"material\": \"pvc\", \"product\": \"twin screw extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic EPE Sheet Extruder Plant","output":"{\"automation grade\": \"automatic\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Mech O Tech Mini","output":"{\"model name\/number\": \"mini\"}"}
+{"instruction":"Extract key-value attributes from this query: t die extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: metal-refining-plant","output":"{\"material\": \"metal-refining-plant\"}"}
+{"instruction":"Extract key-value attributes from this query: soxtherm rapid fat extraction system","output":"{\"product\": \"rapid fat extraction system\"}"}
+{"instruction":"Extract key-value attributes from this query: fat extraction system","output":"{\"usage\": \"fat extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: hdpe geomembrane sheets blown film machine","output":"{\"material\": \"hdpe\"}"}
+{"instruction":"Extract key-value attributes from this query: hdpe+geomembrane+sheets Blown film machine","output":"{\"material\": \"hdpe+geomembrane+sheets\"}"}
+{"instruction":"Extract key-value attributes from this query: three layer aba oscillation haul off unit blown film machine","output":"{\"brand\": \"aba\", \"layer\": \"three layer\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder 200kg per hour","output":"{\"capacity\": \"200kg per hour\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Small herbal extraction plant for domestic use","output":"{\"size\": \"small\", \"usage\": \"domestic\"}"}
+{"instruction":"Extract key-value attributes from this query: small herbal extraction plant","output":"{\"size\": \"small\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refinery machine semi automatic, capacity(kg): 80 kg","output":"{\"automation grade\": \"automatic,\", \"capacity\": \"80 kg\", \"model name\/number\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: conical twin screw extruder for cpvc machine  60hp  production capacity: 80 -150 kghr","output":"{\"capacity\": \"80 -150 kghr\", \"motor power\": \"60hp\", \"usage\": \"cpvc\"}"}
+{"instruction":"Extract key-value attributes from this query: Conical Twin Screw Extruder for CPVC Machine, 60HP, Production Capacity: 80 -150 Kg\/Hr","output":"{\"capacity\": \"80 -150 kg\/hr\", \"motor power\": \"60hp,\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: ragg gold refiend","output":"{\"color\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: GOLD Refinery Machine Semi Automatic Capacity(kg): 5 Kg","output":"{\"automation grade\": \"semi automatic\", \"capacity\": \"5 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: Supercritical Anti Solvent Systems","output":"{\"type\": \"anti solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Gold Refinery Machine","output":"{\"automation grade\": \"automatic\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: PP Stationery Sheet Extruder Machine","output":"{\"material\": \"pp\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: sunflower solvent extraction plant","output":"{\"type\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Cannabis Plant","output":"{\"fruit type\": \"cannabis\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw snack extruder machine","output":"{\"screw type\": \"twin screw\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 80 kg automatic gold refining machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"80 kg\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: gold tach machine","output":"{\"color\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: gold tach machine in ahmedabad","output":"{\"model name\/number\": \"gold tach machine\"}"}
+{"instruction":"Extract key-value attributes from this query: gold tach machin in ahmedabad","output":"{\"model name\/number\": \"gold tach machin\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refining machine advance features, capacity: 7 kg","output":"{\"capacity\": \"7 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr no Extruder Machine","output":"{\"capacity\": \"100 kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Spares","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: manual silver filter for gold refinery","output":"{\"automation grade\": \"manual\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining Machine Advance Features Capacity: 7 Kg","output":"{\"capacity\": \"7 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic gold refining machine in bareilly","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder lab model","output":"{\"model name\/number\": \"lab\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder 5 kg","output":"{\"capacity\": \"5 kg\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: aqua regis gold refinery","output":"{\"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: LD BLOWN FILM EXTRUDER MACHINE","output":"{\"material\": \"ld\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: LD BLOWN FILM EXTRUDER MACHINE INDORE","output":"{\"material\": \"ld\", \"place of origin\": \"indore\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic 110Kg\/hr Twin Screw Extrusion Plant","output":"{\"automation grade\": \"automatic\", \"capacity\": \"110kg\/hr\", \"machine type\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: 1200 kg\/hr 3 layer blown film machine","output":"{\"capacity\": \"1200 kg\/hr\", \"layer\": \"3 layer\"}"}
+{"instruction":"Extract key-value attributes from this query: 500 kg\/hr automatic three screw extruder","output":"{\"automation grade\": \"automatic\", \"capacity\": \"500 kg\/hr\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: three screw extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 500  kg%2 fhr automatic three screw extruder","output":"{\"automation grade\": \"automatic\", \"capacity\": \"500 kg%2 fhr\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 500  kg%2 fhr three screw extruder","output":"{\"capacity\": \"500 kg%2 fhr\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refinery Plant Capacity(kg): 10","output":"{\"capacity\": \"10\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refining Machine 30 Kg","output":"{\"capacity\": \"30 kg\", \"refining material\": \"silver\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: blown film extrusion machine running video","output":"{\"usage\": \"film extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Recovery Unit","output":"{\"color\": \"silver\", \"type\": \"recovery unit\"}"}
+{"instruction":"Extract key-value attributes from this query: Extrusion Plant","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium can manufacturing plant","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: Copper Electrowinning","output":"{\"material\": \"copper\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder die","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Single Die Extruder","output":"{\"number of dies\": \"single die\"}"}
+{"instruction":"Extract key-value attributes from this query: bopp films production line","output":"{\"material\": \"bopp\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining Chemical","output":"{\"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Bitumen Centrifuge Extractor Motorized","output":"{\"machine type\": \"bitumen centrifuge\", \"type\": \"motorized\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Silver Refining Plant","output":"{\"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: indian make automatic silver refining machine (10-100kg capacity, 316 ss, 3 kw, 220 v)","output":"{\"automation grade\": \"automatic\", \"brand\": \"indian\"}"}
+{"instruction":"Extract key-value attributes from this query: Sample Extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Rice Bran Solvent Extraction Plant Installation Service","output":"{\"service\": \"installation service\"}"}
+{"instruction":"Extract key-value attributes from this query: 50 business use no Silver Refining Plant","output":"{\"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: 50 business use 50 Kg Silver Refining Plant","output":"{\"capacity\": \"50\", \"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic 50 kg +silver+refining+plant","output":"{\"automation grade\": \"automatic\", \"capacity\": \"50 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic automatic+silver+refining+plant","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic+silver+refining+plant","output":"{\"automation grade\": \"automatic+silver+refining+plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Silver Refinery Machine","output":"{\"automation grade\": \"automatic\", \"usage\": \"silver refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refining plant 45TOUCH","output":"{\"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Bhuiamla Liquid Extracts","output":"{\"form\": \"liquid\", \"name of extract\": \"bhuiamla\"}"}
+{"instruction":"Extract key-value attributes from this query: Used Triple Screw Extruder","output":"{\"condition\": \"used\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Triple Screw Extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Packed Bed Type Solid Liquid Extraction Apparatus","output":"{\"type\": \"bed type\", \"usage\": \"liquid extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Caterpillar With DC Drive Control","output":"{\"brand\": \"caterpillar\"}"}
+{"instruction":"Extract key-value attributes from this query: 3 kg gole refinery machine","output":"{\"capacity\": \"3 kg\", \"type\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: Italy Type Gold Refining Machines","output":"{\"type\": \"italy\"}"}
+{"instruction":"Extract key-value attributes from this query: PPM-75FFE Extruder Force Feeder","output":"{\"model name\/number\": \"ppm-75ffe\", \"type\": \"force feeder\"}"}
+{"instruction":"Extract key-value attributes from this query: ld extruder machine nagpur","output":"{\"place of origin\": \"nagpur\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Continuous Extrusion Machine","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: mother baby extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: gr enterprises gold refined","output":"{\"brand\": \"gr enterprises\", \"color\": \"gold\", \"processing type\": \"refined\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refinery Machine 1To   100Kg","output":"{\"capacity\": \"1to 100kg\", \"model name\/number\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: 5To 50Kg Gold Refinery Machine","output":"{\"capacity\": \"5to 50kg\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: 3Kg Gold Refinery","output":"{\"capacity\": \"3kg\", \"usage\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: Laboratory Gold Refining Plant","output":"{\"usage\": \"laboratory\"}"}
+{"instruction":"Extract key-value attributes from this query: Cabbage Liquid Extracts","output":"{\"form\": \"liquid\", \"name of extract\": \"cabbage\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Silver Refining Plant Capacity(kg): 10","output":"{\"automation grade\": \"automatic\", \"capacity\": \"10\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Processing Plant","output":"{\"machine type\": \"processing\", \"melting material\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 silver-refining--plant","output":"{\"model number\": \"100\"}"}
+{"instruction":"Extract key-value attributes from this query: 250 mt aluminium extrusion plant","output":"{\"capacity\": \"250 mt\", \"machine type\": \"extrusion\", \"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: blown film extrusion die","output":"{\"product\": \"extrusion die\", \"usage\": \"film\"}"}
+{"instruction":"Extract key-value attributes from this query: manual extruder","output":"{\"automation grade\": \"manual\"}"}
+{"instruction":"Extract key-value attributes from this query: aba blown film machine","output":"{\"brand\": \"aba\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg Basket Extruder Machine","output":"{\"capacity\": \"100 kg\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Essential Oil and Oleoresin Extraction Plant Consultancy Service","output":"{\"service\": \"consultancy\", \"usage\": \"essential oil\"}"}
+{"instruction":"Extract key-value attributes from this query: FRP Mixer Settler for Liquid Extraction System","output":"{\"material\": \"frp\", \"product\": \"mixer settler\", \"usage\": \"liquid extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Curcumin Solvent Extraction Plant","output":"{\"type\": \"solvent extraction\", \"usage\": \"curcumin\"}"}
+{"instruction":"Extract key-value attributes from this query: Sheet Extrusion Plant","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: Natural Flavor Extracts Extraction Plant Capacity: 1 Tpd","output":"{\"capacity\": \"1 tpd\"}"}
+{"instruction":"Extract key-value attributes from this query: 50 silver refining plant","output":"{\"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic silver refining plant 50kgs","output":"{\"automation grade\": \"automatic\", \"capacity\": \"50kgs\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic silver refining plant near pune 50kgs","output":"{\"automation grade\": \"automatic\", \"capacity\": \"50kgs\"}"}
+{"instruction":"Extract key-value attributes from this query: Hand-Operated Hydro Extractor","output":"{\"driven type\": \"hand-operated\", \"product\": \"hydro extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: Centrifugal Hydro Extractors","output":"{\"blower type\": \"centrifugal\", \"product\": \"hydro extractors\"}"}
+{"instruction":"Extract key-value attributes from this query: no Solid Phase Extraction System","output":"{\"product\": \"extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: BITUMEN EXTRACTOR (HAND OPERATED)","output":"{\"machine type\": \"bitumen extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 tpd solvent extraction plant","output":"{\"capacity\": \"100 tpd\", \"type\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: yes Solid Phase Extraction System","output":"{\"brand\": \"yes\", \"product\": \"solid phase extraction system\"}"}
+{"instruction":"Extract key-value attributes from this query: epe machine","output":"{\"material\": \"epe\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Filter","output":"{\"color\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold  Refinery Machine Semi Automatic","output":"{\"automation grade\": \"semi automatic\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Recovery Machine","output":"{\"type\": \"recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: Bitumen Centrifuge Extractor SF00000629","output":"{\"machine type\": \"bitumen centrifuge\", \"model name\/number\": \"sf00000629\"}"}
+{"instruction":"Extract key-value attributes from this query: Curcumin Extraction Plant","output":"{\"machine type\": \"extraction\", \"usage\": \"curcumin\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruter Head 6 Inch","output":"{\"size\": \"6 inch\"}"}
+{"instruction":"Extract key-value attributes from this query: hours output extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: PCB Recycling & Metal Recovery Plant","output":"{\"type\": \"recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: Shoots - Golden Rod Brown Color Extraction Plant","output":"{\"color\": \"brown\"}"}
+{"instruction":"Extract key-value attributes from this query: Wdg Basket Extruder Granule Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: plastic wire extruder","output":"{\"material to be extruded\": \"plastic\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr ceramic extruder machine","output":"{\"capacity\": \"100 kg\/hr\", \"material\": \"ceramic\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 2 kg hours output extruder","output":"{\"capacity\": \"2 kg\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: tube extrusion machine 50 kg\/hr hours output extruder","output":"{\"capacity\": \"50 kg\/hr hours\"}"}
+{"instruction":"Extract key-value attributes from this query: 20 business use yes Silver Refining Plant","output":"{\"brand\": \"yes\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: cashew nut shell solvent extraction plant","output":"{\"type\": \"solvent extraction\", \"usage\": \"cashew nut shell\"}"}
+{"instruction":"Extract key-value attributes from this query: single Cylinder Horizontal Extruder","output":"{\"number of cylinder\": \"single cylinder\", \"orientation\": \"horizontal\"}"}
+{"instruction":"Extract key-value attributes from this query: polymer foam making exruder","output":"{\"material\": \"polymer\", \"usage\": \"foam making\"}"}
+{"instruction":"Extract key-value attributes from this query: LDPE Agro Mixture Machine for Ld hm 5w Capacity: 50kg","output":"{\"capacity\": \"50kg\", \"material\": \"ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: LDPE Agro Mixture Machine for LD,HM, 5W, Capacity: 50kg","output":"{\"capacity\": \"50kg\", \"material\": \"ldpe\", \"model name\/number\": \"agro mixture machine\"}"}
+{"instruction":"Extract key-value attributes from this query: gold tanch machine","output":"{\"color\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: 1 kg Automatic Gold Refining Machine Setup","output":"{\"automation grade\": \"automatic\", \"capacity\": \"1 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: Blown Film Extrusion Plant","output":"{\"usage\": \"film\"}"}
+{"instruction":"Extract key-value attributes from this query: 50 kg\/hr Extruder Machine","output":"{\"capacity\": \"50 kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: ldpe bag monolayer blown film extrusion machine","output":"{\"material\": \"ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: Two-layer extrusion machine for bulk packaging","output":"{\"machine name\": \"two-layer extrusion machine\", \"usage\": \"packaging\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machine .","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 1000 kg\/hr Twin Screw Extruder","output":"{\"capacity\": \"1000 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: High Recovery Rate Mobile Gold Ore Processing Plant - 40 TPH Alluvial Gold Mining Equipment","output":"{\"capacity\": \"40 tph\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Jewellery Refining Consultant","output":"{\"metal\": \"gold\", \"service\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr single die extruder","output":"{\"capacity\": \"100 kg\/hr\", \"number of dies\": \"single die\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: aero silver recovery","output":"{\"brand\": \"aero\", \"color\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: Vertical Extruder","output":"{\"orientation\": \"vertical\"}"}
+{"instruction":"Extract key-value attributes from this query: 20 kg gold and silver refinery machine","output":"{\"capacity\": \"20 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: no Aluminium Extrusion Plant","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold and Silver Refinery Machine","output":"{\"type\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: 5000 no Complete Aluminum Extrusion plant .","output":"{\"material\": \"aluminum\", \"model name\/number\": \"5000 no\"}"}
+{"instruction":"Extract key-value attributes from this query: Horizontal Rotary Extractors","output":"{\"orientation\": \"horizontal\", \"product\": \"rotary extractors\"}"}
+{"instruction":"Extract key-value attributes from this query: solvent distillerson plant menu capture of","output":"{\"type\": \"solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: Vegetable Oil Extractor","output":"{\"usage\": \"vegetable oil\"}"}
+{"instruction":"Extract key-value attributes from this query: fully automatic silver & gold refainary","output":"{\"automation grade\": \"automatic\", \"color\": \"silver & gold\"}"}
+{"instruction":"Extract key-value attributes from this query: corpa 0il cake","output":"{\"form\": \"cake\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refining plant fully automatic","output":"{\"automation grade\": \"automatic\", \"refining material\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic 100 kg\/hr Twin Screw Extruder","output":"{\"automation grade\": \"automatic\", \"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refinery","output":"{\"usage\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: sino holyson twin screw extruder machine","output":"{\"type\": \"twin screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: SINO-HOLYSON Twin Screw Extruder Machine","output":"{\"type\": \"twin screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Double Screw Extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Tube Extrusion Machine","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refining Plant Capacity(kg): 10","output":"{\"capacity\": \"10\", \"refining material\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refining Plant, Capacity(kg): 10","output":"{\"capacity\": \"10\", \"refining material\": \"silver\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium machinery","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: pp lumps extruder machine","output":"{\"material\": \"pp\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Sulver ork plant","output":"{\"botanical name\": \"sulver\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Material Processing (pre Expander)","output":"{\"usage\": \"material processing\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder 180 sqmm","output":"{\"capacity\": \"180 sqmm\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: DK platinum refining machine 30 kg","output":"{\"brand\": \"dk\", \"capacity\": \"30 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: rice bran solvent plant","output":"{\"type\": \"solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold and Silver Refinery Setup","output":"{\"type\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: namkeen machine extrusion chamber & screw","output":"{\"usage\": \"namkeen machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Mixer Extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: High Pressure Injector Hydraulic Extractor","output":"{\"pressure\": \"high pressure\", \"product\": \"hydraulic\"}"}
+{"instruction":"Extract key-value attributes from this query: 3 Layer ABA Die","output":"{\"die type\": \"aba\", \"number of layers\": \"3 layer\"}"}
+{"instruction":"Extract key-value attributes from this query: Copper Extrusion","output":"{\"material\": \"copper\", \"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: gold munual refinery","output":"{\"type\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 ton rice bran solvent extraction","output":"{\"packaging size\": \"100 ton\"}"}
+{"instruction":"Extract key-value attributes from this query: 200 tun aluminium extrusion plant","output":"{\"capacity\": \"200 tun\", \"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: निडर एक्सटरुडर मशीन","output":"{\"composition\": \"एक्सटरुडर\"}"}
+{"instruction":"Extract key-value attributes from this query: 7 kg Capacity Refining and Recycling System","output":"{\"capacity\": \"7 kg\", \"type\": \"refining and recycling system\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium plant","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: ram extruder","output":"{\"brand\": \"ram\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder Machine","output":"{\"machine type\": \"screw\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr manual twin screw extruder machine","output":"{\"automation grade\": \"manual\", \"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: Semi Automatic Mat Extruder Machine","output":"{\"automation grade\": \"semi automatic\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Die Roller Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: extrusion-plant","output":"{\"process\": \"extrusion-plant\"}"}
+{"instruction":"Extract key-value attributes from this query: 20KG GOLD REFINING MACHINE - METAL AND DUST REFINING","output":"{\"capacity\": \"20kg\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder for polymer","output":"{\"type\": \"screw extruder\", \"usage\": \"polymer\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder for pvc pipe","output":"{\"type\": \"screw extruder\", \"usage\": \"pvc pipe\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 kg aqua regia gold refinery machine","output":"{\"capacity\": \"5 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 Kg Silver Refining Plant","output":"{\"capacity\": \"100 kg\", \"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: ldpe film blown film extrusion machine","output":"{\"material\": \"ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: Used Twin Screw Machine","output":"{\"condition\": \"used\"}"}
+{"instruction":"Extract key-value attributes from this query: EPS Extruder Line","output":"{\"material\": \"eps\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder machine repair service","output":"{\"machine type\": \"extruder machine\"}"}
+{"instruction":"Extract key-value attributes from this query: ss herbal extractor  capacity: 500 ltrs and above","output":"{\"capacity\": \"500 ltrs and above\", \"material\": \"ss\"}"}
+{"instruction":"Extract key-value attributes from this query: SS Herbal Extractor, Capacity: 500 Ltrs And Above","output":"{\"capacity\": \"500 ltrs and above\", \"material\": \"ss\"}"}
+{"instruction":"Extract key-value attributes from this query: Herbal Extraction Plant, Capacity: 10 TPD","output":"{\"capacity\": \"10 tpd\"}"}
+{"instruction":"Extract key-value attributes from this query: tannin extraction plant","output":"{\"usage\": \"tannin extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: alluminium extrusion pentagon","output":"{\"material\": \"alluminium\", \"process\": \"extrusion\", \"shape\": \"pentagon\"}"}
+{"instruction":"Extract key-value attributes from this query: Floral Extraction Plants","output":"{\"usage\": \"floral\"}"}
+{"instruction":"Extract key-value attributes from this query: pvc pp pe pc abs small profile extrusion line","output":"{\"material\": \"pvc pp pe\"}"}
+{"instruction":"Extract key-value attributes from this query: co rotating twin screw extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: aero silver recovery unit","output":"{\"brand\": \"aero\", \"color\": \"silver\", \"type\": \"recovery unit\"}"}
+{"instruction":"Extract key-value attributes from this query: Industrial Deodorizing Plant Toaster","output":"{\"usage\": \"industrial\"}"}
+{"instruction":"Extract key-value attributes from this query: shock tube extrusion powder fender machine near faridabad","output":"{\"model name\/number\": \"shock tube\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold & Silver Refining Machine","output":"{\"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Commercial Industrial coffee decoction extracting machine","output":"{\"usage\": \"industrial\"}"}
+{"instruction":"Extract key-value attributes from this query: 5kg Aqua Gold Refining Machine","output":"{\"brand\": \"aqua gold\", \"capacity\": \"5kg\", \"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder, Size: 25 Mm to 250 Mm","output":"{\"capacity\": \"25 mm to 250 mm\"}"}
+{"instruction":"Extract key-value attributes from this query: Wdg Basket Extruder","output":"{\"type\": \"basket extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder Size: 25 Mm to 250 Mm","output":"{\"capacity\": \"25 mm to 250 mm\"}"}
+{"instruction":"Extract key-value attributes from this query: Ldpe Plastic Blown Film Extrusion Machine","output":"{\"material\": \"ldpe plastic\"}"}
+{"instruction":"Extract key-value attributes from this query: 35mm (10HP)  Blown Film Extrusion Machine","output":"{\"screw diameter\": \"35mm\"}"}
+{"instruction":"Extract key-value attributes from this query: Soybean Extraction Plant","output":"{\"usage\": \"soybean\"}"}
+{"instruction":"Extract key-value attributes from this query: Dried Bean - Black Beans  Natural color Extraction plant","output":"{\"color\": \"black\"}"}
+{"instruction":"Extract key-value attributes from this query: SILVER OKA PLANT","output":"{\"color\": \"silver\", \"fruit type\": \"oka\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver oka plants","output":"{\"color\": \"silver\", \"fruit type\": \"oka\", \"product\": \"plants\"}"}
+{"instruction":"Extract key-value attributes from this query: jockey extruder machine","output":"{\"brand\": \"jockey\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: MRP-Metal Recovering Plant","output":"{\"type\": \"recovering plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Soybean Solvent Extraction Plant","output":"{\"type\": \"extraction\", \"usage\": \"soybean solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 silver refining plant","output":"{\"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Metal Recovery Unit","output":"{\"type\": \"recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: 1kg gold refining machine","output":"{\"capacity\": \"1kg\", \"refining material\": \"gold\", \"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: garden extruder machine","output":"{\"type\": \"extruder\", \"usage\": \"garden\"}"}
+{"instruction":"Extract key-value attributes from this query: extuder machine","output":"{\"products included\": \"machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Extrusion Monolayer Blown Film Machine","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: Coleus Forskohlii Root Extraction Plant","output":"{\"botanical name\": \"coleus forskohlii\", \"usage\": \"root extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: manual 100 kg\/hr no Twin Screw Extruder","output":"{\"automation grade\": \"manual\", \"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: Micro Extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Coaxial Cable MOP with HMI","output":"{\"features\": \"hmi\"}"}
+{"instruction":"Extract key-value attributes from this query: Multilayer Extruder","output":"{\"layer\": \"multilayer\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: V3-Extruder","output":"{\"model name\/number\": \"v3-extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: mini automatic gold refining machine","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Gold Refining Machine 5kg Capacity Efficient  and High-Precision Refining","output":"{\"automation grade\": \"automatic\", \"capacity\": \"5kg\"}"}
+{"instruction":"Extract key-value attributes from this query: plastik fim blown extuder hdpe ldpe used","output":"{\"condition\": \"used\", \"material\": \"hdpe ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: plastik fim blown extuder hdpe ldpe","output":"{\"material\": \"hdpe ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: Steam Boiler Herbal Extraction Plant","output":"{\"type of boiler\": \"steam boiler\"}"}
+{"instruction":"Extract key-value attributes from this query: Curcumin Extraction Plants","output":"{\"machine type\": \"extraction\", \"usage\": \"curcumin\"}"}
+{"instruction":"Extract key-value attributes from this query: pet extruder machine","output":"{\"raw material\": \"pet\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: brahmi liquid extract","output":"{\"form\": \"liquid\", \"name of extract\": \"brahmi\"}"}
+{"instruction":"Extract key-value attributes from this query: Instant Tea Extraction Plant","output":"{\"usage\": \"tea extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Wok Plant","output":"{\"color\": \"silver\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: West Mobile Refining Machine","output":"{\"brand\": \"west\", \"product\": \"mobile refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: 144 Positive Pressure Manifold","output":"{\"model name\/number\": \"144\", \"product\": \"manifold\"}"}
+{"instruction":"Extract key-value attributes from this query: Centrifuge Extractor (motorised)","output":"{\"product\": \"centrifuge extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium extrusion-plant","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: gold ka plant","output":"{\"color\": \"gold\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Turmeric Curcumin Extraction Plant","output":"{\"machine type\": \"extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: yes 100 tpd Solvent Extraction Plant","output":"{\"brand\": \"yes\", \"capacity\": \"100 tpd\", \"type\": \"solvent extraction plant\"}"}
+{"instruction":"Extract key-value attributes from this query: अल्मुनियम प्लांट","output":"{\"composition\": \"अल्मुनियम\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refinery gpc","output":"{\"brand\": \"gpc\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: milk extruted machine","output":"{\"usage\": \"milk\"}"}
+{"instruction":"Extract key-value attributes from this query: twin extruder machine for upvc panel","output":"{\"machine name\": \"twin extruder machine\"}"}
+{"instruction":"Extract key-value attributes from this query: yes yes 50 kg Gold Refining Plant","output":"{\"capacity\": \"50 kg\", \"type\": \"gold refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: 45,50 Cable Extruder Clamp","output":"{\"size\": \"45,50\", \"type\": \"clamp\", \"usage\": \"cable extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: RoEx Extruder 90","output":"{\"model name\/number\": \"90\"}"}
+{"instruction":"Extract key-value attributes from this query: 32140 c bak","output":"{\"brand\": \"bak\"}"}
+{"instruction":"Extract key-value attributes from this query: BASKET EXTRUDER","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 kg west mobile refining machine","output":"{\"brand\": \"west\", \"capacity\": \"5 kg\", \"product\": \"mobile refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: powder extraction machine","output":"{\"usage\": \"powder\"}"}
+{"instruction":"Extract key-value attributes from this query: ABA Three Layer Die","output":"{\"brand\": \"aba\"}"}
+{"instruction":"Extract key-value attributes from this query: Single Die Blown Film Extruder","output":"{\"number of dies\": \"single die\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Herbal Raw materials Exraction Plant","output":"{\"type\": \"herbal\"}"}
+{"instruction":"Extract key-value attributes from this query: Compounding and Extrusion Modernization Services","output":"{\"service\": \"modernization\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruders","output":"{\"type\": \"screw\"}"}
+{"instruction":"Extract key-value attributes from this query: Industrial Extracting Systems","output":"{\"product\": \"extracting\", \"usage\": \"industrial\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder expander","output":"{\"product\": \"expander\"}"}
+{"instruction":"Extract key-value attributes from this query: xlpe foam extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Extraction 16","output":"{\"model number\": \"16\"}"}
+{"instruction":"Extract key-value attributes from this query: expander extuder","output":"{\"product\": \"expander\"}"}
+{"instruction":"Extract key-value attributes from this query: 20 kg silver refining plant","output":"{\"capacity\": \"20 kg\", \"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refinery machine - tumbler","output":"{\"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder plastic granules","output":"{\"form\": \"granules\", \"material\": \"plastic\", \"type\": \"screw\"}"}
+{"instruction":"Extract key-value attributes from this query: silver electrolysis recovery plant","output":"{\"melting material\": \"silver\", \"type\": \"electrolysis recovery plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Elovera gel nikalne wali machine","output":"{\"product\": \"gel nikalne wali machine\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw pvc pipr machine","output":"{\"material\": \"pvc\", \"product\": \"pipr\", \"screw type\": \"twin screw\"}"}
+{"instruction":"Extract key-value attributes from this query: PP HONEYCOMB BOARD EXTRUDER MACHINE","output":"{\"material\": \"pp\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machine Heater","output":"{\"type\": \"heater\", \"usage\": \"extruder machine\"}"}
+{"instruction":"Extract key-value attributes from this query: incense extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: ashwagandha extraction vessel","output":"{\"usage\": \"ashwagandha\"}"}
+{"instruction":"Extract key-value attributes from this query: centrifuge extractor acsseri","output":"{\"product\": \"centrifuge extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: cable extruder line 65\/45mm","output":"{\"capacity\": \"65\/45mm\"}"}
+{"instruction":"Extract key-value attributes from this query: Heavy Duty Extruder Machines","output":"{\"features\": \"heavy duty\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Upto 500kg Silver Refinery Plant","output":"{\"capacity\": \"upto 500kg\", \"type\": \"refinery plant\", \"usage\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: Wire extruder machine Production Capacity: 300 kg\/hr","output":"{\"capacity\": \"300 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: 1000 Kg Automatic Twin Screw Extruder","output":"{\"automation grade\": \"automatic\", \"capacity\": \"1000 kg\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 500 kg\/hr Corn Starch Extruder Production Capacity: 500 kg\/hr","output":"{\"capacity\": \"500 kg\/hr\", \"material\": \"corn starch\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Jockey Extruder Machine Production Capacity: 50 kg\/hr","output":"{\"automation grade\": \"automatic\", \"brand\": \"jockey\", \"capacity\": \"50 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: 500 kg\/hr no continuous extrusion machine Corn Starch Extruder Production Capacity: 500 kg\/hr","output":"{\"capacity\": \"500 kg\/hr\", \"machine type\": \"continuous extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder - EX T65 15 170 - 170 Kg\/hr output","output":"{\"capacity\": \"-\", \"model name\/number\": \"ex t65 15\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refining  Plant","output":"{\"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic gold refining machine video","output":"{\"automation grade\": \"automatic\", \"display function\": \"video\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder spare die”","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 20KG AQUA REGIA -GOLD REFINING MACHINE","output":"{\"capacity\": \"20kg\", \"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: bitumen sample extractor","output":"{\"usage\": \"bitumen\"}"}
+{"instruction":"Extract key-value attributes from this query: rice bran extraction machine","output":"{\"machine type\": \"extraction\", \"usage\": \"rice bran\"}"}
+{"instruction":"Extract key-value attributes from this query: blown film extrusion machine for plastic bag near aurangabad","output":"{\"machine name\": \"blown film extrusion machine\", \"packaging type\": \"bag\"}"}
+{"instruction":"Extract key-value attributes from this query: blown film extrusion machine plastic bag","output":"{\"material\": \"plastic\", \"packaging type\": \"bag\", \"usage\": \"film extrusion machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminium Extrusion Puller, 7.5 kw","output":"{\"material\": \"aluminium\", \"motor power\": \"7.5 kw\"}"}
+{"instruction":"Extract key-value attributes from this query: annatto seed extraction plant","output":"{\"usage\": \"annatto seed\"}"}
+{"instruction":"Extract key-value attributes from this query: mother baby extruder machine bimetalic","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: pet sheet extruder","output":"{\"material to be extruded\": \"pet\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Consulting - Copper Electrowinning Plant","output":"{\"material\": \"copper\", \"plant type\": \"electrowinning\"}"}
+{"instruction":"Extract key-value attributes from this query: pvc twin screw extruder","output":"{\"material\": \"pvc\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Semi Automatic Extruder Machine","output":"{\"automation grade\": \"semi automatic\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Metal Recovering plant","output":"{\"usage\": \"metal recovering\"}"}
+{"instruction":"Extract key-value attributes from this query: Metal Recovery Plant","output":"{\"usage\": \"metal recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: Metal Recovery Banificiation Plant","output":"{\"usage\": \"metal recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium extrusion plant machinery","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: FS-S55 Single Die Extruder","output":"{\"model name\/number\": \"fs-s55\", \"number of dies\": \"single die\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: copper extrusion plant","output":"{\"material\": \"copper\"}"}
+{"instruction":"Extract key-value attributes from this query: metal-recovery-unit","output":"{\"material\": \"metal-recovery-unit\"}"}
+{"instruction":"Extract key-value attributes from this query: liquid liquid extraction unit","output":"{\"product\": \"extraction\", \"usage\": \"liquid liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: white silver plant","output":"{\"color\": \"white silver\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refinery Setup(Manual)","output":"{\"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: zinc recovery unit","output":"{\"type\": \"recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: clean label extraction machinery","output":"{\"usage\": \"label extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: lab extruder near greater noida","output":"{\"type\": \"extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: Conical Twin Screw Extruder","output":"{\"shape\": \"conical\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 100% PLA PBAT Starch Compounding Lab Twin Screw Extruder Bioplastic Pellets Extrusion Machine","output":"{\"material\": \"pla\"}"}
+{"instruction":"Extract key-value attributes from this query: Double Die Extruder Machine FI-D45","output":"{\"model name\/number\": \"fi-d45\", \"number of dies\": \"double die\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Dome Extruder","output":"{\"shape\": \"dome\"}"}
+{"instruction":"Extract key-value attributes from this query: pla 100% biobased starch bottles","output":"{\"material\": \"pla\", \"packaging type\": \"bottles\"}"}
+{"instruction":"Extract key-value attributes from this query: Centrifuge Extractor Hand And Motorised","output":"{\"product\": \"centrifuge extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: Butter Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Fully Automatic Solvent Extraction Plant","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: blown film extruder machines","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Corn Germ Solvent Extraction Plant","output":"{\"type\": \"extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminium Parant","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder drum","output":"{\"packaging type\": \"drum\"}"}
+{"instruction":"Extract key-value attributes from this query: SER 158 Series Automatic Solvent Extractor","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Extraction Machine","output":"{\"melting material\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: gold panning equipment","output":"{\"usage\": \"gold panning\"}"}
+{"instruction":"Extract key-value attributes from this query: 40 Mm Blown Film Plastic Extrusion Plant","output":"{\"material\": \"plastic\", \"screw diameter\": \"40 mm\"}"}
+{"instruction":"Extract key-value attributes from this query: puja aluminium plant","output":"{\"material\": \"aluminium\", \"usage\": \"puja\"}"}
+{"instruction":"Extract key-value attributes from this query: Delhi mein Puja aluminium plant kahan hai","output":"{\"material\": \"aluminium\", \"product\": \"kahan hai\", \"usage\": \"puja\"}"}
+{"instruction":"Extract key-value attributes from this query: where is puja aluminium plant in delhi","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: 2 colour printing machine for mono layer extrusion","output":"{\"color\": \"2 colour\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refinary Machine","output":"{\"color\": \"silver\", \"products included\": \"machine\"}"}
+{"instruction":"Extract key-value attributes from this query: 2colour printing machine for mono layer extrusion","output":"{\"color\": \"2colour\"}"}
+{"instruction":"Extract key-value attributes from this query: 500 kg\/hr twin screw extruder","output":"{\"capacity\": \"500 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: yes 200 tpd Solvent Extraction Plant","output":"{\"brand\": \"yes\", \"capacity\": \"200 tpd\", \"type\": \"solvent extraction plant\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 kg automatic-gold-refining-machine","output":"{\"automation grade\": \"automatic-gold-refining-machine\", \"capacity\": \"5 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw plastic extruder","output":"{\"material to be extruded\": \"plastic\", \"screw type\": \"twin screw\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold And Silver Refining Services","output":"{\"service\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Electric Extruder Machine","output":"{\"power source\": \"electric\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Teknik Solid Liquid Extraction Unit","output":"{\"brand\": \"teknik\", \"product\": \"liquid extraction unit\"}"}
+{"instruction":"Extract key-value attributes from this query: Lab Extruder Machine","output":"{\"type\": \"extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refining liquid","output":"{\"physical state\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: lotto metal or plant blotter metal or plant","output":"{\"brand\": \"lotto\", \"material\": \"metal\", \"product\": \"blotter\"}"}
+{"instruction":"Extract key-value attributes from this query: bus master stacofil touch extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: aba blown film extrusion machine","output":"{\"brand\": \"aba\"}"}
+{"instruction":"Extract key-value attributes from this query: Textile Fire Extraction Machine","output":"{\"product\": \"fire extraction\", \"usage\": \"textile\"}"}
+{"instruction":"Extract key-value attributes from this query: Herbal Excter","output":"{\"medicine type\": \"herbal\"}"}
+{"instruction":"Extract key-value attributes from this query: taldalafil liquid","output":"{\"form\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: ss 316 herbal extraction plant","output":"{\"material grade\": \"ss 316\"}"}
+{"instruction":"Extract key-value attributes from this query: no Solvent Extraction Plant","output":"{\"type\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: ss 316 solvant extractor","output":"{\"material grade\": \"ss 316\"}"}
+{"instruction":"Extract key-value attributes from this query: ss 316 solvant extarctor","output":"{\"material grade\": \"ss 316\"}"}
+{"instruction":"Extract key-value attributes from this query: Singuway Biotech Inc Singu20 Automatic Nucleic Acid Extraction System","output":"{\"automation grade\": \"automatic\", \"model name\/number\": \"singu20\"}"}
+{"instruction":"Extract key-value attributes from this query: Bitumen Extractor Equipment","output":"{\"machine type\": \"bitumen extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: Blow Film Extrusion Machine","output":"{\"usage\": \"film\"}"}
+{"instruction":"Extract key-value attributes from this query: bobbin extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: cenrtifuge oil extractor","output":"{\"product\": \"oil extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: 2kg Automatic Gold Refining Machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"2kg\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: coconut oil MS & SS 304 50Hz Centrifuge Extractor Automation Grade: Manual Capacity: 60","output":"{\"automation grade\": \"manual\", \"capacity\": \"60\", \"frequency\": \"50hz\", \"material\": \"ms\"}"}
+{"instruction":"Extract key-value attributes from this query: bitumen extractorelectrical gew","output":"{\"machine type\": \"bitumen\"}"}
+{"instruction":"Extract key-value attributes from this query: labscale extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Single Pipe Twin Screw Extruder Line","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Two Layer Blown Film Extrusion Machinery","output":"{\"layer\": \"two layer\"}"}
+{"instruction":"Extract key-value attributes from this query: MEGA 65 Twin Screw Extruder","output":"{\"model name\/number\": \"mega 65\"}"}
+{"instruction":"Extract key-value attributes from this query: Main Solvent Extraction Plant","output":"{\"product\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: no 300 kg\/hr manual Single Pipe Twin Screw Extruder Line","output":"{\"capacity\": \"300 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: Silicon Cable Extruder","output":"{\"material\": \"silicon\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: blown film extrusion machine capacity 30 kg","output":"{\"capacity\": \"30 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder machine for plastic reuse","output":"{\"machine name\": \"extruder\", \"usage\": \"plastic\"}"}
+{"instruction":"Extract key-value attributes from this query: gew bitumen extractor","output":"{\"machine type\": \"bitumen extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: blow film extruder gedget box","output":"{\"packaging type\": \"box\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refinery Touch screen","output":"{\"screen type\": \"touch screen\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: nicotine extraction plant","output":"{\"usage\": \"nicotine extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: eps plate excuder machine","output":"{\"material\": \"eps\"}"}
+{"instruction":"Extract key-value attributes from this query: polyurethane tube extruder","output":"{\"material\": \"polyurethane\"}"}
+{"instruction":"Extract key-value attributes from this query: pvc medical tube extrusion machine","output":"{\"machine type\": \"extrusion\", \"material\": \"pvc\", \"usage\": \"medical\"}"}
+{"instruction":"Extract key-value attributes from this query: eps sheet excuder machine","output":"{\"material\": \"eps\"}"}
+{"instruction":"Extract key-value attributes from this query: herbal extraction unit","output":"{\"medicine type\": \"herbal\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminium Extrusion Plant Service Provider","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 Kg Gold Refinery Filter","output":"{\"filter type\": \"refinery filter\", \"usage\": \"gold\", \"weight\": \"5 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold & Silver Electro Winning Refinery Plant","output":"{\"type\": \"electro winning refinery plant\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 10 kg per day gold refining machine","output":"{\"capacity\": \"10 kg per day\"}"}
+{"instruction":"Extract key-value attributes from this query: 45 50 Cable Extruder Clamp","output":"{\"size\": \"45 50\", \"type\": \"clamp\", \"usage\": \"cable extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: SS-D300 EPE High Density Foam Sheet Extruder","output":"{\"density\": \"high density\", \"material\": \"epe\", \"model name\/number\": \"ss-d300\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Film Extruding Covering Machine.","output":"{\"usage\": \"film extruding\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium extrusion factory","output":"{\"material\": \"aluminium\", \"process\": \"extrusion\", \"usage\": \"factory\"}"}
+{"instruction":"Extract key-value attributes from this query: EPE Foam Yoga Stick Extrusion Machine","output":"{\"material\": \"epe foam\", \"usage\": \"yoga stick\"}"}
+{"instruction":"Extract key-value attributes from this query: vemiwas liquid","output":"{\"form\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: rice dorb plant","output":"{\"fruit type\": \"rice\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Double Die Extruder","output":"{\"number of dies\": \"double die\"}"}
+{"instruction":"Extract key-value attributes from this query: EPE Foam Bag Extrusion Machine","output":"{\"bag material\": \"epe foam\", \"usage\": \"bag\"}"}
+{"instruction":"Extract key-value attributes from this query: consulting copper electrowinning plant","output":"{\"material\": \"copper\"}"}
+{"instruction":"Extract key-value attributes from this query: Film Extruding Covering Machine","output":"{\"usage\": \"film extruding\"}"}
+{"instruction":"Extract key-value attributes from this query: Film Making Unit","output":"{\"usage\": \"film making\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Head","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminium+Extrusion+Plant","output":"{\"material\": \"aluminium+extrusion+plant\"}"}
+{"instruction":"Extract key-value attributes from this query: mother baby extruder machine in surat","output":"{\"model name\/number\": \"mother baby extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: mini solvent extraction plant","output":"{\"size\": \"mini\", \"type\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder Machine, Production Capacity: 100 kg\/hr","output":"{\"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: MURRCONTROL LIQUID","output":"{\"form\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: mini blown film machine","output":"{\"size\": \"mini\"}"}
+{"instruction":"Extract key-value attributes from this query: SS Silver Refinery Plant","output":"{\"material\": \"ss\", \"usage\": \"silver refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: 200 gm gold rifinary","output":"{\"material\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: Nucleic Acid Extraction System","output":"{\"usage\": \"nucleic acid extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder machine 45mm","output":"{\"capacity\": \"45mm\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: t dia poly film manufacturing machine","output":"{\"shape\": \"t\"}"}
+{"instruction":"Extract key-value attributes from this query: Fennel Liquid Extracts","output":"{\"form\": \"liquid\", \"name of extract\": \"fennel\"}"}
+{"instruction":"Extract key-value attributes from this query: Fungo Herbal Plant Extract","output":"{\"form\": \"extract\", \"product\": \"herbal plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder Machine Coupling","output":"{\"type\": \"coupling\"}"}
+{"instruction":"Extract key-value attributes from this query: Manual Gold Refiner 2kg Capacity","output":"{\"automation grade\": \"manual\", \"capacity\": \"2kg\", \"usage\": \"gold refiner\"}"}
+{"instruction":"Extract key-value attributes from this query: hydromech automation in bhopal","output":"{\"brand\": \"hydromech\", \"location\/city\": \"bhopal\"}"}
+{"instruction":"Extract key-value attributes from this query: hp natural 35 film","output":"{\"brand\": \"hp\", \"model number\": \"35\"}"}
+{"instruction":"Extract key-value attributes from this query: Enervet Liquid","output":"{\"form\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: solid phase microextraction","output":"{\"process\": \"microextraction\"}"}
+{"instruction":"Extract key-value attributes from this query: choco die","output":"{\"flavour\": \"choco\"}"}
+{"instruction":"Extract key-value attributes from this query: 30 silver refinery machine plant","output":"{\"type\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic silver refinery machine near dhanbad","output":"{\"automation grade\": \"automatic\", \"model name\/number\": \"silver refinery machine\"}"}
+{"instruction":"Extract key-value attributes from this query: 10 kg gold refining filter","output":"{\"capacity\": \"10 kg\", \"filter type\": \"refining filter\", \"usage\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: 30 silver refining plant","output":"{\"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: 20 kg gold refining plant","output":"{\"capacity\": \"20 kg\", \"refining material\": \"gold\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Bak Lemon","output":"{\"brand\": \"bak\", \"variety available\": \"lemon\"}"}
+{"instruction":"Extract key-value attributes from this query: blow film extrusion","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: 50 kg yes gold and silver refining machine","output":"{\"brand\": \"yes\", \"capacity\": \"50 kg\", \"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder machine block","output":"{\"usage\": \"extruder machine\"}"}
+{"instruction":"Extract key-value attributes from this query: 100mm extruder pvc xlpe hopper","output":"{\"diameter\": \"100mm\", \"material\": \"pvc xlpe\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: silver plant","output":"{\"color\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: Epe Foam Sheet Extrusion Line","output":"{\"material\": \"epe\", \"usage\": \"foam\"}"}
+{"instruction":"Extract key-value attributes from this query: Co- Extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Lab Model Extruder Machine","output":"{\"model name\/number\": \"lab model\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 40Kw New Pesticides Basket Extruder","output":"{\"condition\": \"new\", \"power consumption\": \"40kw\", \"type\": \"extruder\", \"usage\": \"pesticides\"}"}
+{"instruction":"Extract key-value attributes from this query: 20 Hp Wdg Basket Extruder","output":"{\"type\": \"basket extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 200 refined gold ores","output":"{\"processing type\": \"refined\"}"}
+{"instruction":"Extract key-value attributes from this query: PP Sutali Extrusion Plant","output":"{\"material\": \"pp\"}"}
+{"instruction":"Extract key-value attributes from this query: metal refining plant copper","output":"{\"material\": \"copper\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refinery machine 100kg capacity","output":"{\"capacity\": \"100kg\", \"model name\/number\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: borwell rod line","output":"{\"product\": \"rod\"}"}
+{"instruction":"Extract key-value attributes from this query: Mulching Film Machine","output":"{\"type\": \"mulching\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Gold Refinery Machine And Plant","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Parallel Extruder","output":"{\"screw type\": \"twin screw\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Industrial Extruder","output":"{\"type\": \"extruder\", \"usage\": \"industrial\"}"}
+{"instruction":"Extract key-value attributes from this query: cable extuder","output":"{\"usage\": \"cable\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refinery Plant Filter","output":"{\"usage\": \"gold refinery plant\"}"}
+{"instruction":"Extract key-value attributes from this query: trans extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: lab extruder for nylon","output":"{\"material\": \"nylon\", \"type\": \"extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder compound","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder compound master for easy processing","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: copper refining machine","output":"{\"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: monolayer extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Corn Starch Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 KGPH Lab Sheet Extruder Machine","output":"{\"capacity\": \"5 kgph\", \"type\": \"extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: bitumen extractor electrically operated","output":"{\"machine type\": \"bitumen extractor\", \"operation\": \"electrically\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder dies","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder dies kanpur","output":"{\"place of origin\": \"kanpur\"}"}
+{"instruction":"Extract key-value attributes from this query: Power Cable Extrusion Line","output":"{\"usage\": \"power cable\"}"}
+{"instruction":"Extract key-value attributes from this query: 40KW Basket Extruder Machine","output":"{\"power consumption\": \"40kw\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic  Blown Film Extrusion Machine","output":"{\"machine type\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refinery machine per day purity 97 to 98 tonch","output":"{\"purity\": \"97\", \"usage\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refinery machine 150 kg per day 10lackh rupees wali purity 97 to 98 tonch wali","output":"{\"capacity\": \"150 kg per day\"}"}
+{"instruction":"Extract key-value attributes from this query: Bio-degradable \/ Compostable Film Extrusion Machine","output":"{\"usage\": \"film\"}"}
+{"instruction":"Extract key-value attributes from this query: Mulch Film Machine","output":"{\"type\": \"mulch\"}"}
+{"instruction":"Extract key-value attributes from this query: Washing Machine Tumbler","output":"{\"part type\": \"tumbler\", \"usage\": \"washing machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Bulpower Twin Screw Extruder Gearbox Counter Rotating","output":"{\"brand\": \"bulpower\", \"product\": \"twin screw extruder gearbox\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refinery Tank","output":"{\"storage material\": \"gold\", \"type\": \"refinery tank\"}"}
+{"instruction":"Extract key-value attributes from this query: Wpc Extruder Die","output":"{\"material\": \"wpc\"}"}
+{"instruction":"Extract key-value attributes from this query: Solvent Extractor Model: SPE-96","output":"{\"model\/type\": \"spe-96\", \"type\": \"solvent extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machines .","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Lab Extruder Machine Production Capacity: 50 Kg\/hr","output":"{\"capacity\": \"50 kg\/hr\", \"type\": \"extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining Plant parts","output":"{\"usage\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder machine in madhyapradesh","output":"{\"model name\/number\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Cabbage Liquid Extract","output":"{\"form\": \"liquid\", \"name of extract\": \"cabbage\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr no tube extrusion machine Extruder Machine","output":"{\"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: herbal and ayurvedic Extraction pant","output":"{\"medicine type\": \"ayurvedic\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder 50 kg\/hr lab extruder machine","output":"{\"capacity\": \"50 kg\/hr\", \"machine type\": \"screw\", \"type\": \"extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw lab extruder","output":"{\"screw type\": \"twin screw\", \"type\": \"extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: 10 kg automatic gold refining machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"10 kg\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: 10 kg gold refinery machine","output":"{\"capacity\": \"10 kg\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: spice oil and oleoresins extraction plant","output":"{\"machine type\": \"extraction\", \"usage\": \"spice oil\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium extrusion plant gujarat","output":"{\"material\": \"aluminium\", \"place of origin\": \"gujarat\"}"}
+{"instruction":"Extract key-value attributes from this query: alluminium extrusion plant in surat gujrat","output":"{\"material\": \"alluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: Jockey Extruder For Pen Plant","output":"{\"brand\": \"jockey\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 200 kg\/hr Semi Automatic Extruder Machine","output":"{\"automation grade\": \"semi automatic\", \"capacity\": \"200 kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: slanty extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Extrusion Process","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic 500 kg\/hr no Twin Screw Extruder Machine Production Capacity: 180KG\/H","output":"{\"automation grade\": \"automatic\", \"capacity\": \"500 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic 1000 kg\/hr yes Twin Screw Extruder","output":"{\"automation grade\": \"automatic\", \"brand\": \"yes\", \"capacity\": \"1000 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: Silo Extraction System","output":"{\"product\": \"extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: High Speed Mono Layer Blown Film Extrusion Plant for LDPE Packaging Film (1200mm, 75kg\/hr)","output":"{\"capacity\": \"75kg\/hr)\", \"machine name\": \"mono layer blown film extrusion plant\", \"material\": \"ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: monolayer highspeed blown film machine","output":"{\"product\": \"blown film\"}"}
+{"instruction":"Extract key-value attributes from this query: rag gold regind 670g pack of 10 near delhi","output":"{\"packaging size\": \"670g\"}"}
+{"instruction":"Extract key-value attributes from this query: rag gold refined 670g","output":"{\"packaging size\": \"670g\", \"processing type\": \"refined\"}"}
+{"instruction":"Extract key-value attributes from this query: gold directors machine","output":"{\"products included\": \"machine\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refining case","output":"{\"type\": \"refining case\"}"}
+{"instruction":"Extract key-value attributes from this query: pvcx","output":"{\"material\": \"pvcx\"}"}
+{"instruction":"Extract key-value attributes from this query: cow metal extraction machine","output":"{\"usage\": \"metal extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: 65\/132 conical extruder","output":"{\"model name\/number\": \"65\/132\", \"shape\": \"conical\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Double lock die box extruder","output":"{\"packaging type\": \"box\"}"}
+{"instruction":"Extract key-value attributes from this query: semi-automatic 100 kg\/hr yes Twin Screw Extruder","output":"{\"brand\": \"yes\", \"capacity\": \"100 kg\/hr\", \"machine type\": \"screw\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refining plant small machine","output":"{\"size\": \"small\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: oil cake solvent extraction plant","output":"{\"type\": \"solvent extraction\", \"usage\": \"oil cake\"}"}
+{"instruction":"Extract key-value attributes from this query: soyabean seed solvent extraction plant","output":"{\"type\": \"solvent extraction\", \"usage\": \"soyabean seed\"}"}
+{"instruction":"Extract key-value attributes from this query: Wire Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Refined Gold","output":"{\"processing type\": \"refined\"}"}
+{"instruction":"Extract key-value attributes from this query: Teflon Cable Extrusion Line","output":"{\"material\": \"teflon\"}"}
+{"instruction":"Extract key-value attributes from this query: SPM Extrusion Plant Equipments","output":"{\"brand\": \"spm\", \"product\": \"extrusion plant\"}"}
+{"instruction":"Extract key-value attributes from this query: रिफाइन","output":"{\"composition\": \"रिफाइन\"}"}
+{"instruction":"Extract key-value attributes from this query: SPHEGETTI EXTRUDER","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 120 MM Main GHE-250 Extruder Machine","output":"{\"model name\/number\": \"ghe-250\", \"screw diameter\": \"120 mm\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: complete datong automatic inverter control centrifugal hydroextractor with all standard accessoreies","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: 100mm extruder pvc\/xlpe hopper","output":"{\"diameter\": \"100mm\", \"material\": \"pvc\/xlpe\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: v3 extruder","output":"{\"model name\/number\": \"v3\"}"}
+{"instruction":"Extract key-value attributes from this query: centrifuge extractor 220v","output":"{\"product\": \"centrifuge extractor\", \"voltage\": \"220v\"}"}
+{"instruction":"Extract key-value attributes from this query: Liquid Extraction Service in Mixer Settler Apparatus Laboratory Type","output":"{\"service\": \"liquid extraction service\"}"}
+{"instruction":"Extract key-value attributes from this query: Tomato Seed Extraction Machine","output":"{\"machine type\": \"extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: imli extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 1 kg Automatic Gold Refining Plant(aqua regia process)","output":"{\"automation grade\": \"automatic\", \"capacity\": \"1 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: refinery gold bar","output":"{\"plating\": \"gold\", \"type\": \"bar\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder tape line spare parts name","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: granular extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: semi-automatic Twin Screw Extruder","output":"{\"automation grade\": \"semi-automatic\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Diversified Metal Recovery","output":"{\"usage\": \"metal recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: yara 1 0:52:34 1 kg touch water soluble organic extracts formulation services","output":"{\"brand\": \"yara\"}"}
+{"instruction":"Extract key-value attributes from this query: 500 no Aluminium Extrusion Plant","output":"{\"material\": \"aluminium\", \"model name\/number\": \"500 no\"}"}
+{"instruction":"Extract key-value attributes from this query: 1000 no Aluminium Extrusion Plant","output":"{\"material\": \"aluminium\", \"model name\/number\": \"1000 no\"}"}
+{"instruction":"Extract key-value attributes from this query: Epe Foam Fruit Net Extruder Machine","output":"{\"material\": \"epe foam\", \"type\": \"extruder\", \"usage\": \"fruit\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machine For Medical","output":"{\"usage\": \"medical\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machine For Silicone Cables","output":"{\"machine name\": \"extruder machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machine For Industrial","output":"{\"machine name\": \"extruder\", \"usage\": \"industrial\"}"}
+{"instruction":"Extract key-value attributes from this query: एक्सट्रूडर मशीन","output":"{\"composition\": \"एक्सट्रूडर\"}"}
+{"instruction":"Extract key-value attributes from this query: 30mm jockey extruder machine","output":"{\"brand\": \"jockey\", \"screw diameter\": \"30mm\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Lab Twin Screw Extruder","output":"{\"type\": \"screw extruder\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr automatic twin screw extruder","output":"{\"automation grade\": \"automatic\", \"capacity\": \"100 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: Hydro Centrifuge","output":"{\"product\": \"centrifuge\"}"}
+{"instruction":"Extract key-value attributes from this query: solid phase extraction quick trace4","output":"{\"usage\": \"solid phase extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: 300 kg\/hr Monolayer Blown Film Machine","output":"{\"capacity\": \"300 kg\/hr\", \"product\": \"monolayer blown film machine\"}"}
+{"instruction":"Extract key-value attributes from this query: cloths water extractor","output":"{\"usage\": \"water\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Extractoin Plant B","output":"{\"color\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: Kumar Solvent Extraction Plant","output":"{\"brand\": \"kumar\", \"product\": \"solvent extraction plant\"}"}
+{"instruction":"Extract key-value attributes from this query: gold silver processing machines","output":"{\"product\": \"processing\"}"}
+{"instruction":"Extract key-value attributes from this query: oil solvent extraction plant","output":"{\"type\": \"extraction\", \"usage\": \"oil solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: Gems Gold Refined","output":"{\"processing type\": \"refined\"}"}
+{"instruction":"Extract key-value attributes from this query: aloe vera extraction manual machine","output":"{\"usage\": \"aloe vera extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: 120mm Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: SISISISISISIN liquid","output":"{\"form\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: curcumin extraction plant manufacturer in hyderabad","output":"{\"business type\": \"manufacturer\", \"model name\/number\": \"curcumin extraction plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder plastic die","output":"{\"material\": \"plastic\", \"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 15000 RPM Centrifuge Extractor","output":"{\"product\": \"centrifuge extractor\", \"speed\": \"15000 rpm\"}"}
+{"instruction":"Extract key-value attributes from this query: chocolate extrude","output":"{\"flavour\": \"chocolate\"}"}
+{"instruction":"Extract key-value attributes from this query: Silicon Cable Extrusion Line","output":"{\"material\": \"silicon\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Soybean Solvent Extraction Plant, 100 ton\/day, 100 kW","output":"{\"capacity\": \"100 ton\/day, 100 kw\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver Refinery Machines","output":"{\"melting material\": \"silver\", \"product\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: tube extrusion machine 50 kg\/hr extruder machine","output":"{\"capacity\": \"50 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 kg\/hr Extruder Machine","output":"{\"capacity\": \"100 kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: catalyst extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Catalyst Extruder In Ahmedabad","output":"{\"type\": \"catalyst extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder  Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Co Rotating Extruder Gearbox","output":"{\"screw type\": \"twin\", \"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Jockey Extruder Machine Production Capacity: 50 kg\/hr","output":"{\"brand\": \"jockey\", \"capacity\": \"50 kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 300 kg\/hr no twin screw extruder Wire extruder machine Production Capacity: 300 kg\/hr","output":"{\"capacity\": \"300 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic 100 kg\/hr no Two Stage Extruder Machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"100 kg\/hr\", \"number of stages\": \"two stage\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refinery works","output":"{\"service\": \"refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: Acco Gold T606","output":"{\"model number\": \"t606\"}"}
+{"instruction":"Extract key-value attributes from this query: Pp extruder machine rings","output":"{\"material\": \"pp\", \"type\": \"rings\", \"usage\": \"extruder machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Used Cable Extruder Machine","output":"{\"condition\": \"used\", \"machine type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: no Cable Extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Hand Held Extruder Exon 1 (ACP11)","output":"{\"model name\/number\": \"exon 1 (acp11)\", \"type\": \"hand held extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: naphtha plant","output":"{\"fruit type\": \"naphtha\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: naptha plant","output":"{\"fruit type\": \"naptha\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: गोल्ड पिलाने वाली मशीन","output":"{\"book name\": \"पिलाने वाली\"}"}
+{"instruction":"Extract key-value attributes from this query: reactive extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 tpd solvent extraction plants manufacturer","output":"{\"business type\": \"manufacturer\", \"capacity\": \"100 tpd\", \"product\": \"solvent extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: pp granules extruder machine","output":"{\"material\": \"pp\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 1kg gold refinery","output":"{\"capacity\": \"1kg\", \"usage\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: Schneider LAD9V6  Downstream Bus Bar Screw","output":"{\"brand\": \"schneider\", \"product or component type\": \"bus bar screw\"}"}
+{"instruction":"Extract key-value attributes from this query: flower extraction machine","output":"{\"usage\": \"flower extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: Conical extruder heaters","output":"{\"shape\": \"conical\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 300 kg\/hr no continuous extrusion machine Extruder Machine","output":"{\"capacity\": \"300 kg\/hr\", \"machine type\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: TCLP%20EXTRACTOR%20ROTARY%20AGITATOR(8%20SAMPLES)","output":"{\"technical name\": \"tclp%20extractor%20rotary%20agitator(8%20samples)\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder for Polymer Chips","output":"{\"type\": \"screw extruder\", \"usage\": \"polymer chips\"}"}
+{"instruction":"Extract key-value attributes from this query: golf refining machine","output":"{\"brand\": \"golf\", \"product\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: no for aluminium handles adizing plant","output":"{\"usage\": \"aluminium handles adizing\"}"}
+{"instruction":"Extract key-value attributes from this query: soyabean solvent extraction plant","output":"{\"type\": \"solvent extraction\", \"usage\": \"soyabean\"}"}
+{"instruction":"Extract key-value attributes from this query: Oxygen tube  Extrusion Machines","output":"{\"gas type\": \"oxygen\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Two Layer Blown Film Extrusion Machine","output":"{\"layer\": \"two layer\", \"machine type\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: 45x35 Aba Blown Film Extrusion Machine","output":"{\"brand\": \"aba\", \"size\": \"45x35\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic centrifuge extractor motorised","output":"{\"automation grade\": \"automatic\", \"product\": \"centrifuge extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: centrifuge extractor motorised","output":"{\"product\": \"centrifuge extractor\", \"type\": \"motorised\"}"}
+{"instruction":"Extract key-value attributes from this query: Blown Film Extrusion Machine - 40mm Screw, 700mm Film Width, 50kg\/hr Capacity","output":"{\"capacity\": \"40mm\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminum extrusions plant","output":"{\"material\": \"aluminum\"}"}
+{"instruction":"Extract key-value attributes from this query: 200 kg\/hr Three Layer Blown Film Extrusion Machine","output":"{\"capacity\": \"200 kg\/hr\", \"layer\": \"three layer\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Jewellery Refinery Service Provider","output":"{\"service\": \"jewellery refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: rag refined","output":"{\"processing type\": \"refined\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining Machine Tumbler Model 10kg","output":"{\"capacity\": \"10kg\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Calendula Liquid Extracts","output":"{\"form\": \"liquid\", \"name of extract\": \"calendula\"}"}
+{"instruction":"Extract key-value attributes from this query: silicon extruder machine","output":"{\"material to be extruded\": \"silicon\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: lab twin screw extruders","output":"{\"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: lab tube extruders","output":"{\"type\": \"extruders\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: lab pipe extruders","output":"{\"type\": \"extruders\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: lab extruders","output":"{\"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: Electrically Operated Bitumen Extractor","output":"{\"machine type\": \"bitumen extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: lab blown film extruders","output":"{\"type\": \"extruders\", \"usage\": \"lab\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder machine 500kg\/hr","output":"{\"capacity\": \"500kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: aluminium extrusion fully automatic machine","output":"{\"automation grade\": \"automatic\", \"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: Co- Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Mini Twin Screw Extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: copper wire extruder machine","output":"{\"type\": \"extruder\", \"types of metal\": \"copper\"}"}
+{"instruction":"Extract key-value attributes from this query: sand extracting machine","output":"{\"usage\": \"sand extracting\"}"}
+{"instruction":"Extract key-value attributes from this query: windsor kts 110 twin screw extruder","output":"{\"brand\": \"windsor\", \"model name\/number\": \"kts 110\", \"type\": \"twin screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: milacron tc 55 conical screw extrusion system","output":"{\"brand\": \"milacron\", \"product\": \"conical screw extrusion system\", \"series\": \"tc 55\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refining service companies","output":"{\"service\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Curcumin Extraction Industrial Plant","output":"{\"machine type\": \"extraction\", \"usage\": \"industrial\"}"}
+{"instruction":"Extract key-value attributes from this query: water extraction system","output":"{\"usage\": \"water extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: 45 mm screw extruder","output":"{\"screw diameter\": \"45 mm\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 45 mm screw extruder near rajkot","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 46 mm screw extruder","output":"{\"screw diameter\": \"46 mm\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 55 mm monolayer extruder machine","output":"{\"screw diameter\": \"55 mm\"}"}
+{"instruction":"Extract key-value attributes from this query: 3LPE Coating Extruder","output":"{\"capacity\": \"3lpe\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: old machine extryder for wall panel","output":"{\"condition\": \"old\"}"}
+{"instruction":"Extract key-value attributes from this query: Industrial Screw Extruder","output":"{\"type\": \"screw extruder\", \"usage\": \"industrial\"}"}
+{"instruction":"Extract key-value attributes from this query: 1500 centex water","output":"{\"brand\": \"centex\"}"}
+{"instruction":"Extract key-value attributes from this query: uco purificationrefining","output":"{\"brand\": \"uco\"}"}
+{"instruction":"Extract key-value attributes from this query: Hydromech gearbox","output":"{\"brand\": \"hydromech\"}"}
+{"instruction":"Extract key-value attributes from this query: Hand Operated Centrifuge Extractor","output":"{\"product\": \"centrifuge extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: Motorised Centrifuge Extractor","output":"{\"driven type\": \"motorised\", \"product\": \"centrifuge extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: gpld refinery","output":"{\"material\": \"gpld\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refining mixer plant","output":"{\"type\": \"refining mixer\"}"}
+{"instruction":"Extract key-value attributes from this query: for plastic gloves yes Blown Film Extrusion Machine","output":"{\"material\": \"plastic\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic centrifuge extractor 220v","output":"{\"automation grade\": \"automatic\", \"product\": \"centrifuge extractor\", \"voltage\": \"220v\"}"}
+{"instruction":"Extract key-value attributes from this query: aimil bitumen centrifuge extractor","output":"{\"brand\/make\": \"aimil\"}"}
+{"instruction":"Extract key-value attributes from this query: 6545 extrusion","output":"{\"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: 6545 extrusion cable machine","output":"{\"model name\/number\": \"6545\"}"}
+{"instruction":"Extract key-value attributes from this query: Triple Line Cable Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Machinery","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 100Mm Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 90Mm Extruder Machine","output":"{\"screw diameter\": \"90mm\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: multilayer extrusion machine","output":"{\"layer\": \"multilayer\"}"}
+{"instruction":"Extract key-value attributes from this query: automated solvent (soxhlet) extraction system","output":"{\"product\": \"solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder Dana Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Centex","output":"{\"brand\": \"centex\"}"}
+{"instruction":"Extract key-value attributes from this query: double screw pipe making machine","output":"{\"machine type\": \"pipe making machine\", \"screw type\": \"double screw\"}"}
+{"instruction":"Extract key-value attributes from this query: 100  kg%2 fhr manual co rotating twin screw extruders","output":"{\"automation grade\": \"manual\", \"capacity\": \"100 kg%2 fhr\"}"}
+{"instruction":"Extract key-value attributes from this query: 100  kg%2 fhr co rotating twin screw extruders","output":"{\"capacity\": \"100 kg%2 fhr\"}"}
+{"instruction":"Extract key-value attributes from this query: manual co rotating twin screw extruders","output":"{\"automation grade\": \"manual\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic co rotating twin screw extruders","output":"{\"automation grade\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: Tamarind Extruder Machine","output":"{\"suitable for\": \"tamarind\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 100mm+extruder+pvc+xlpe+hopper","output":"{\"size\": \"100mm+extruder+pvc+xlpe+hopper\"}"}
+{"instruction":"Extract key-value attributes from this query: 100mm extruder pvcxlpe hopper","output":"{\"diameter\": \"100mm\", \"material\": \"pvcxlpe\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining Machine Capacity 100gms 1 Kg","output":"{\"capacity\": \"100gms 1 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: hdpe twin screw extruder","output":"{\"material\": \"hdpe\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: hdpvc twin screw extruder near azamgarh","output":"{\"machine type\": \"twin screw extruder\", \"material\": \"hdpvc\"}"}
+{"instruction":"Extract key-value attributes from this query: 1 solvent  based  coating 250  gm perylene red","output":"{\"color\": \"red\", \"packaging size\": \"250 gm\"}"}
+{"instruction":"Extract key-value attributes from this query: gold refining service","output":"{\"metal\": \"gold\", \"service\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refining plant 50 kg","output":"{\"capacity\": \"50 kg\", \"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: groundnuts solvent extraction plant","output":"{\"type\": \"solvent extraction\", \"usage\": \"groundnuts\"}"}
+{"instruction":"Extract key-value attributes from this query: electrolytic gold refining plant","output":"{\"refining material\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: 10 TPD herbal extraction plant","output":"{\"capacity\": \"10 tpd\", \"product\": \"herbal extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: 2 kg automatic gold refinery machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"2 kg\", \"usage\": \"gold refinery\"}"}
+{"instruction":"Extract key-value attributes from this query: yes solvent extraction systems","output":"{\"brand\": \"yes\", \"product\": \"solvent extraction systems\"}"}
+{"instruction":"Extract key-value attributes from this query: soybean seed solvent extraction plant","output":"{\"type\": \"solvent extraction\", \"usage\": \"soybean seed\"}"}
+{"instruction":"Extract key-value attributes from this query: oryza sativa extract (rice bran)","output":"{\"botanical name\": \"oryza sativa\", \"form\": \"extract\"}"}
+{"instruction":"Extract key-value attributes from this query: no Silver Recovery Unit","output":"{\"color\": \"silver\", \"type\": \"recovery unit\"}"}
+{"instruction":"Extract key-value attributes from this query: teflon wire extruder","output":"{\"material\": \"teflon\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: chili oleoresins extraction plants","output":"{\"machine type\": \"extraction\", \"usage\": \"chili oleoresins\"}"}
+{"instruction":"Extract key-value attributes from this query: Used Gold Necklace Refining Service","output":"{\"condition\": \"used\", \"service\": \"necklace refining service\"}"}
+{"instruction":"Extract key-value attributes from this query: Lava Spray Extraction Machine","output":"{\"brand\": \"lava\", \"product\": \"spray extraction machine\"}"}
+{"instruction":"Extract key-value attributes from this query: yes no 5 kg Gold Refining Plant","output":"{\"capacity\": \"5 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: building wire\/ jacketing extrusion lines","output":"{\"product\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: Solid Phase Extraction Manifold","output":"{\"product\": \"manifold\", \"usage\": \"extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: pvc profile twin screw extruders","output":"{\"material\": \"pvc\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Profile Extruder","output":"{\"screw type\": \"twin screw\"}"}
+{"instruction":"Extract key-value attributes from this query: Three Layers Co Extrusion Blown Film Machine","output":"{\"layer\": \"three layers\", \"machine type\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: compostable blown film extruder","output":"{\"material\": \"compostable\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: TPU tubing extrusion","output":"{\"material\": \"tpu\", \"process\": \"extrusion\"}"}
+{"instruction":"Extract key-value attributes from this query: 3 layer aba blown film machine","output":"{\"layer\": \"3 layer\"}"}
+{"instruction":"Extract key-value attributes from this query: Cable Extrusion Plant","output":"{\"machine type\": \"extrusion\", \"usage\": \"cable\"}"}
+{"instruction":"Extract key-value attributes from this query: twin screw extruder pelletzing line machine","output":"{\"machine type\": \"screw\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Industrial Cable Extrusion Machine","output":"{\"machine type\": \"cable extrusion\", \"usage\": \"industrial\"}"}
+{"instruction":"Extract key-value attributes from this query: no extrusion-plant","output":"{\"process\": \"extrusion-plant\"}"}
+{"instruction":"Extract key-value attributes from this query: brass extrusion plant","output":"{\"material\": \"brass\"}"}
+{"instruction":"Extract key-value attributes from this query: Soybean Extract Daidzein Powder 98% CAS 486-66-8","output":"{\"cas number\": \"486-66-8\", \"form\": \"powder\", \"name of extract\": \"soybean\", \"purity\": \"98%\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold and Silver Combined Refining Machin","output":"{\"type\": \"refining machin\"}"}
+{"instruction":"Extract key-value attributes from this query: Herbal Essential Oil Extraction Plant","output":"{\"machine type\": \"extraction\", \"usage\": \"essential oil\"}"}
+{"instruction":"Extract key-value attributes from this query: farsan excruder die","output":"{\"brand\": \"farsan\"}"}
+{"instruction":"Extract key-value attributes from this query: पानी से बाजरी निकालने का मशीन","output":"{\"book name\": \"बाजरी निकालने का\"}"}
+{"instruction":"Extract key-value attributes from this query: Aluminium Extrusion Press Line Handling System","output":"{\"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: single die extruder for hot melt adhesive","output":"{\"number of dies\": \"single die\", \"type\": \"extruder\", \"usage\": \"hot melt adhesive\"}"}
+{"instruction":"Extract key-value attributes from this query: titanium Refinery Machine Container","output":"{\"type\": \"container\", \"usage\": \"refinery machine\"}"}
+{"instruction":"Extract key-value attributes from this query: T Die Nylon Extruder Machine","output":"{\"material to be extruded\": \"nylon\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: lldpe blown film extrusion plant","output":"{\"material\": \"lldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: dye gold plant","output":"{\"color\": \"gold\", \"product\": \"plant\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Twin Screw Extruders","output":"{\"automation grade\": \"automatic\", \"type\": \"screw\"}"}
+{"instruction":"Extract key-value attributes from this query: toyota prado 2.7l vt twin-screw supercharger kit  40% hp","output":"{\"power\": \"40%\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder PSCE-100","output":"{\"model name\/number\": \"psce-100\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: 65 mm mono layer extruder","output":"{\"layer\": \"mono layer\", \"screw diameter\": \"65 mm\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: cutter compactor extruders","output":"{\"product\": \"compactor\"}"}
+{"instruction":"Extract key-value attributes from this query: fat extraction machine","output":"{\"usage\": \"fat extraction\"}"}
+{"instruction":"Extract key-value attributes from this query: hopper required for 100mm extruder","output":"{\"usage\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Extruder For PVC Pipe Production Capacity: 180 Kg\/HR","output":"{\"capacity\": \"180 kg\/hr\"}"}
+{"instruction":"Extract key-value attributes from this query: blown film extrusion machine two layer","output":"{\"layer\": \"two layer\"}"}
+{"instruction":"Extract key-value attributes from this query: Stomastar Liquid","output":"{\"form\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: stevia extraction machinery","output":"{\"usage\": \"stevia\"}"}
+{"instruction":"Extract key-value attributes from this query: yash bitumen extractor","output":"{\"brand\/make\": \"yash\", \"machine type\": \"bitumen extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: aba filme machine","output":"{\"brand\": \"aba\"}"}
+{"instruction":"Extract key-value attributes from this query: no cable extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: PVC Blown Film Machine - 60kg\/hr Capacity","output":"{\"capacity\": \"60kg\/hr\", \"material\": \"pvc\"}"}
+{"instruction":"Extract key-value attributes from this query: BL Series Of High Quality Double Screw Extruder","output":"{\"features\": \"high quality\", \"model name\/number\": \"bl series\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Twin Screw Corn Pola Bamboo Extruder","output":"{\"operation mode\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Corn Ring Production Line","output":"{\"screw type\": \"twin screw\"}"}
+{"instruction":"Extract key-value attributes from this query: Twin Screw Murmure Extruder","output":"{\"screw type\": \"twin screw\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Twin Screw Corn Puffed Ring Extruder","output":"{\"operation mode\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: Centrifuge Hydro Extractor","output":"{\"product\": \"hydro extractor\"}"}
+{"instruction":"Extract key-value attributes from this query: herbal extraction and distillation plants","output":"{\"type\": \"distillation\", \"usage\": \"herbal\"}"}
+{"instruction":"Extract key-value attributes from this query: Jockey Extruder Machine Capacity: 10 to 60 Kg\/hr","output":"{\"brand\": \"jockey\", \"capacity\": \"10 to 60 kg\/hr\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: kattha manufacturing plant","output":"{\"type of namkeen\": \"kattha\"}"}
+{"instruction":"Extract key-value attributes from this query: kattha or catecheu manufacturing plant  capacity: 10 tpd","output":"{\"capacity\": \"10 tpd\"}"}
+{"instruction":"Extract key-value attributes from this query: Kattha Or Catecheu Manufacturing Plant, Capacity: 10 TPD","output":"{\"capacity\": \"10 tpd\"}"}
+{"instruction":"Extract key-value attributes from this query: Stainless Steel Catechu Extract Manufacturing Solvent Extraction Plant (100 TPD)","output":"{\"material\": \"stainless steel\"}"}
+{"instruction":"Extract key-value attributes from this query: 250 micron twin screw extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: cable wire extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: co rotating twin screw extruders polymers","output":"{\"type\": \"screw\"}"}
+{"instruction":"Extract key-value attributes from this query: thiokol lp-32 alkylen polysulfide","output":"{\"grade\": \"lp-32\"}"}
+{"instruction":"Extract key-value attributes from this query: methico hr","output":"{\"grade\": \"hr\"}"}
+{"instruction":"Extract key-value attributes from this query: 10 kg silver refining plant","output":"{\"capacity\": \"10 kg\", \"refining material\": \"silver\", \"type\": \"refining plant\"}"}
+{"instruction":"Extract key-value attributes from this query: vikas industries fully automatic aba blown film extrusion machine","output":"{\"brand\": \"vikas industries\", \"machine type\": \"automatic\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold Refining Plan Machine","output":"{\"refining material\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: Vertical Extruders","output":"{\"orientation\": \"vertical\"}"}
+{"instruction":"Extract key-value attributes from this query: Jockey Extruder","output":"{\"brand\": \"jockey\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: masterbatch twin screw extruder","output":"{\"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Profile Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Nederman BenchTop Extraction Arm FX2  50 Original","output":"{\"brand\": \"nederman\", \"product\": \"extraction arm\"}"}
+{"instruction":"Extract key-value attributes from this query: CARNIFORCYL LIQUID (","output":"{\"form\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: twin-screw extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: gold processing machine","output":"{\"melting material\": \"gold\"}"}
+{"instruction":"Extract key-value attributes from this query: Zinc Recovery Systems","output":"{\"type\": \"recovery\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 no table top extruders","output":"{\"model name\/number\": \"100 no\", \"type\": \"table top\"}"}
+{"instruction":"Extract key-value attributes from this query: 100 table top extruders","output":"{\"type\": \"table top\"}"}
+{"instruction":"Extract key-value attributes from this query: cable extruder for strip linning","output":"{\"type\": \"cable extruder\", \"usage\": \"strip linning\"}"}
+{"instruction":"Extract key-value attributes from this query: concrete mixer patiala hammerman engg co","output":"{\"brand\": \"hammerman\", \"mixer type\": \"concrete\"}"}
+{"instruction":"Extract key-value attributes from this query: Milacron TC 80 Conical Screw Extrusion System","output":"{\"brand\": \"milacron\", \"product\": \"conical screw extrusion system\", \"series\": \"tc 80\"}"}
+{"instruction":"Extract key-value attributes from this query: silver refinery bangalore","output":"{\"place of origin\": \"bangalore\", \"usage\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: herbal extraction plant under 50000","output":"{\"capacity\": \"50000\"}"}
+{"instruction":"Extract key-value attributes from this query: Bopp Film Production Line","output":"{\"material\": \"bopp\"}"}
+{"instruction":"Extract key-value attributes from this query: Aqua Regia Gold Refining System Capacity(kg): 5 Kg","output":"{\"capacity\": \"5 kg\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: automatic stainless steel twin screw extruder  electric  production capacity: up to 100 kghr","output":"{\"automation grade\": \"automatic\", \"capacity\": \"up to 100 kghr\", \"machine type\": \"screw extruder\", \"material\": \"stainless steel\", \"power source\": \"electric\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Stainless steel Twin Screw Extruder, Electric, Production Capacity: Up To 100 kg\/hr","output":"{\"automation grade\": \"automatic\", \"material\": \"stainless steel\"}"}
+{"instruction":"Extract key-value attributes from this query: Pvc Pipe Twin Screw Extruder Machine","output":"{\"machine type\": \"screw\", \"usage\": \"pvc\"}"}
+{"instruction":"Extract key-value attributes from this query: Conical Twin Screw Extruder for PVC Profile","output":"{\"type\": \"screw extruder\", \"usage\": \"pvc profile\"}"}
+{"instruction":"Extract key-value attributes from this query: conical twin screw extruder for pvc profile  50-100 hp  production capacity: 70- 250 kghr","output":"{\"capacity\": \"70- 250 kghr\", \"motor power\": \"50-100 hp\"}"}
+{"instruction":"Extract key-value attributes from this query: Conical Twin Screw Extruder for PVC Profile, 50-100 HP, Production Capacity: 70- 250 Kg\/Hr","output":"{\"capacity\": \"70- 250 kg\/hr\", \"motor power\": \"50-100 hp,\"}"}
+{"instruction":"Extract key-value attributes from this query: pvc twin screw extruder machine 200 mm","output":"{\"capacity\": \"200 mm\", \"material\": \"pvc\"}"}
+{"instruction":"Extract key-value attributes from this query: pvc twin screw extruder machine","output":"{\"material\": \"pvc\", \"type\": \"screw extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Complete Aluminium Extrusion Plant","output":"{\"machine type\": \"extrusion\", \"material\": \"aluminium\"}"}
+{"instruction":"Extract key-value attributes from this query: aqua regia gold refining system  capacity(kg): 5 kg","output":"{\"capacity\": \"5 kg\", \"type\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: Aqua Regia Gold Refining System, Capacity(kg): 5 kg","output":"{\"capacity\": \"5 kg\"}"}
+{"instruction":"Extract key-value attributes from this query: full extruder for pet","output":"{\"material\": \"pet\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Monobloc Extruder","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Gxtract 96 Nucleic Acid Extraction System","output":"{\"model name\/number\": \"gxtract 96\", \"product\": \"nucleic acid extraction system\"}"}
+{"instruction":"Extract key-value attributes from this query: Bopp film machine","output":"{\"material\": \"bopp\"}"}
+{"instruction":"Extract key-value attributes from this query: cashew shell oil extraction plant","output":"{\"machine type\": \"extraction\", \"usage\": \"cashew shell oil\"}"}
+{"instruction":"Extract key-value attributes from this query: cnsl oil extraction plant","output":"{\"usage\": \"oil\"}"}
+{"instruction":"Extract key-value attributes from this query: extruder machine second hand","output":"{\"condition\": \"second hand\"}"}
+{"instruction":"Extract key-value attributes from this query: ashok plastic extrusion monolayer blown film machine, for industrial","output":"{\"brand\": \"ashok\", \"material\": \"plastic\", \"product\": \"monolayer blown film\"}"}
+{"instruction":"Extract key-value attributes from this query: 580 kg\/hr Plastic Blown Film Machine","output":"{\"capacity\": \"580 kg\/hr\", \"material\": \"plastic\"}"}
+{"instruction":"Extract key-value attributes from this query: WPC Deck Board Extrusion Line","output":"{\"material\": \"wpc\"}"}
+{"instruction":"Extract key-value attributes from this query: fully automatic extruder machine","output":"{\"automation grade\": \"automatic\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: compounding extruder machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Aqua Regia Gold Refining Plant 100gm to 5kg","output":"{\"automation grade\": \"automatic\", \"capacity\": \"100gm to 5kg\"}"}
+{"instruction":"Extract key-value attributes from this query: Copper Extrusion Machine","output":"{\"material\": \"copper\"}"}
+{"instruction":"Extract key-value attributes from this query: manual silver refining plant","output":"{\"automation grade\": \"manual\", \"refining material\": \"silver\", \"usage\": \"refining\"}"}
+{"instruction":"Extract key-value attributes from this query: ldpe woss masin","output":"{\"material\": \"ldpe\"}"}
+{"instruction":"Extract key-value attributes from this query: ball pen plastic barrel tube extrusion plant","output":"{\"material\": \"plastic\", \"usage\": \"pen\"}"}
+{"instruction":"Extract key-value attributes from this query: Multilayer Blown Film Extrusion Machine","output":"{\"layer\": \"multilayer\"}"}
+{"instruction":"Extract key-value attributes from this query: sona pakane ki machine","output":"{\"type of namkeen\": \"sona pakane\"}"}
+{"instruction":"Extract key-value attributes from this query: alluvial gold washing plant","output":"{\"type\": \"washing\"}"}
+{"instruction":"Extract key-value attributes from this query: honeycomb paper cutting & expanding machine","output":"{\"pattern\": \"honeycomb\", \"type\": \"cutting\", \"usage\": \"paper\"}"}
+{"instruction":"Extract key-value attributes from this query: sreaight line filler","output":"{\"usage\": \"line filler\"}"}
+{"instruction":"Extract key-value attributes from this query: 50 Kg Silver Electrolysis Refining Machine","output":"{\"capacity\": \"50 kg\", \"product\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Silver refinary","output":"{\"material\": \"silver\"}"}
+{"instruction":"Extract key-value attributes from this query: Electrical Bitumen Extractor","output":"{\"machine type\": \"bitumen extractor\", \"power source\": \"electrical\"}"}
+{"instruction":"Extract key-value attributes from this query: semi coconut water extractor","output":"{\"machine type\": \"extractor\", \"usage\": \"coconut water\"}"}
+{"instruction":"Extract key-value attributes from this query: Gold and Silver Combined Refining Machine","output":"{\"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: 5 kg gold refining machine","output":"{\"capacity\": \"5 kg\", \"refining material\": \"gold\", \"type\": \"refining machine\"}"}
+{"instruction":"Extract key-value attributes from this query: hand held extruder exon 3 (acp16)","output":"{\"model name\/number\": \"exon 3 (acp16)\", \"type\": \"hand held extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: hand held extruder exon 3 acp16","output":"{\"type\": \"hand held extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Aba Multilayer Blown Film Extrusion Machine","output":"{\"brand\": \"aba\", \"product\": \"multilayer blown film extrusion machine\"}"}
+{"instruction":"Extract key-value attributes from this query: Curcumin+Extraction+Machinery","output":"{\"composition\": \"curcumin+extraction+machinery\"}"}
+{"instruction":"Extract key-value attributes from this query: Vented Extruder Machine","output":"{\"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: seed solvent plants","output":"{\"type\": \"solvent\"}"}
+{"instruction":"Extract key-value attributes from this query: mustard oleoresin extraction plant","output":"{\"usage\": \"mustard oleoresin\"}"}
+{"instruction":"Extract key-value attributes from this query: 1 Kilogram Automatic Gold Refining Machine","output":"{\"automation grade\": \"automatic\", \"capacity\": \"1 kilogram\", \"usage\": \"gold refining\"}"}
+{"instruction":"Extract key-value attributes from this query: boroclear liquid","output":"{\"form\": \"liquid\"}"}
+{"instruction":"Extract key-value attributes from this query: water-extraction-machine","output":"{\"usage\": \"water-extraction-machine\"}"}
+{"instruction":"Extract key-value attributes from this query: coconut water extractor","output":"{\"machine type\": \"extractor\", \"usage\": \"coconut water\"}"}
+{"instruction":"Extract key-value attributes from this query: Automatic Coconut Water Extractor","output":"{\"automation grade\": \"automatic\", \"usage\": \"coconut water\"}"}
+{"instruction":"Extract key-value attributes from this query: herbal extraction plant under 50000 rs","output":"{\"capacity\": \"under 50000 rs\", \"product\": \"herbal\"}"}
+{"instruction":"Extract key-value attributes from this query: herbal extraction plant under 50000 rs near kolhapur","output":"{\"capacity\": \"50000 rs\"}"}
+{"instruction":"Extract key-value attributes from this query: herbal extraction plant under 500000 rs","output":"{\"capacity\": \"under 500000 rs\"}"}
+{"instruction":"Extract key-value attributes from this query: oil extruder","output":"{\"storage material\": \"oil\", \"type\": \"extruder\"}"}
+{"instruction":"Extract key-value attributes from this query: Extruder machine backup plate","output":"{\"type\": \"backup plate\", \"usage\": \"extruder machine\"}"}

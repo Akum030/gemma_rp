@@ -1,0 +1,51 @@
+﻿query,expected_behavior,notes,qmeans_attr_count,qmeans_isq_pipe,gemini_attr_count,gemini_isq_pipe,match
+assam tea wholesale,should_identify,Original case,1,wholesale:business type:specification,2,assam tea:product:specification | wholesale:business:specification,False
+assam tea suppliers,should_identify,Variation,0,,2,assam tea:product:specification | suppliers:role:specification,False
+organic assam tea,should_identify,Variation,2,assam:state origin:specification | organic:type:specification,2,organic:quality:specification | assam tea:product:specification,False
+assam tea leaves,should_identify,Variation,2,leaves:form:specification | tea:usage:specification,2,assam tea:product:specification | leaves:form:specification,False
+darjeeling tea,should_identify,Similar product,0,,2,darjeeling:origin:specification | tea:product:specification,False
+mango bags for fruits,should_identify,Original case,1,fruits:usage:specification,2,mango:material:specification | fruits:usage:specification,False
+mango bags packaging,should_identify,Variation,2,bags:packaging type:specification | packaging:usage:specification,3,mango:material:specification | bags:product:specification | packaging:usage:specification,False
+banana bags,should_identify,Similar product,1,bags:packaging type:specification,2,banana:material:specification | bags:type:specification,False
+apple packaging bags,should_identify,Similar product,2,apple packaging:usage:specification | bags:packaging type:specification,2,apple:usage:specification | packaging bags:product:specification,False
+kerala cotton saree online,should_identify,Original case,1,kerala cotton:cotton type:specification,3,cotton saree:product:specification | kerala:origin:specification | online:availability:specification,False
+kerala saree manufacturers,should_identify,Original case variation,2,kerala:place of origin:specification | saree:category:specification,3,saree:product:specification | kerala:usage:specification | manufacturers:role:specification,False
+kerala silk saree,should_identify,Variation,1,kerala silk:silk type:specification,3,silk:material:specification | saree:product:specification | kerala:location:specification,False
+kanjivaram saree,should_identify,Similar product,1,saree:category:specification,2,kanjivaram:type:specification | saree:product:specification,False
+banarasi saree,should_identify,Similar product,1,banarasi:fabric:specification,2,banarasi:style:specification | saree:product:specification,False
+gota lace for lehenga,should_identify,Original case,2,gota lace:type of laces:specification | lehenga:usage:specification,2,gota lace:product:specification | lehenga:usage:specification,False
+gota lace wholesale,should_identify,Variation,2,gota lace:type of laces:specification | wholesale:business type:specification,2,gota lace:product:specification | wholesale:business:specification,False
+lace fabric,should_identify,Similar product,0,,2,lace:material:specification | fabric:material:specification,False
+zari lace,should_identify,Similar product,2,lace:product:specification | zari:work:specification,2,zari:material:specification | lace:product:specification,False
+cow beef suppliers,should_identify_restricted,Original case,1,beef:meat type:specification,3,beef:material:specification | cow:product:specification | suppliers:role:specification,False
+beef cow meat,should_identify_restricted,Original case variation,2,beef:meat type:specification | meat:usage:specification,3,beef:material:specification | cow:product:specification | meat:product:specification,False
+mutton meat,should_identify_restricted,Similar restricted,1,mutton:meat type:specification,2,mutton:material:specification | meat:product:specification,False
+pork meat,should_identify_restricted,Similar restricted,2,meat:usage:specification | pork:meat type:specification,2,pork:material:specification | meat:product:specification,False
+dog labrador puppies,should_identify_restricted,Original case,2,dog:animal breed:specification | labrador:breed:specification,3,dog:animal:specification | labrador:breed:specification | puppies:life stage:specification,False
+labrador dog breeders,should_identify_restricted,Variation,2,breeders:service:specification | labrador:breed:specification,3,labrador:breed:specification | dog:animal:specification | breeders:role:specification,False
+persian cat,should_identify_restricted,Similar restricted,1,persian:design:specification,2,cat:species:specification | persian:breed:specification,False
+vim dishwash bar,should_identify,Original case - brand,2,dishwash bar:detergent type:specification | vim:brand:specification,2,dishwash:product:specification | bar:form:specification,False
+vim bar 1 rupee,should_identify,Variation,2,1:coins:specification | vim:brand:specification,2,vim bar:product:specification | 1 rupee:price:numeric,False
+pril dishwash,should_identify,Similar brand case,2,dishwash:usage:specification | pril:brand:specification,1,dishwash:product:specification,False
+rin soap,should_identify,Similar brand case,2,rin:brand:specification | soap:form:specification,1,soap:product:specification,False
+radhe radhe sweets,should_not_identify_brand,Original FALSE POSITIVE case,1,radhe radhe:brand:specification,1,sweets:product:specification,False
+radhe radhe namkeen,should_not_identify_brand,Variation,2,namkeen:product:specification | radhe radhe:brand:specification,1,namkeen:product:specification,False
+jai shree ram store,should_not_identify_brand,Similar false positive,1,jai shree ram:brand:specification,1,store:type:specification,False
+om namah shivaya products,should_not_identify_brand,Similar false positive,0,,1,om namah shivaya:product:specification,False
+har har mahadev items,should_not_identify_brand,Similar false positive,0,,2,har har mahadev:product:specification | items:product:specification,False
+krishna products,ambiguous,Could be brand or religious,1,krishna:brand:specification,2,krishna:brand:specification | products:product:specification,False
+rama textiles,ambiguous,Could be brand or religious,1,rama:brand:specification,1,textiles:product:specification,False
+hanuman enterprises,ambiguous,Could be brand or religious,1,hanuman:brand:specification,1,hanuman enterprises:company:specification,False
+tobacco products,should_identify_restricted,Edge case,0,,1,tobacco:product:specification,False
+cigarette suppliers,should_identify_restricted,Edge case,0,,2,cigarette:product:specification | suppliers:role:specification,False
+herbal tea,should_identify,Normal case,1,herbal:type:specification,2,herbal:material:specification | tea:product:specification,False
+green tea wholesale,should_identify,Normal case,2,green tea:type:specification | wholesale:business type:specification,2,green tea:product:specification | wholesale:business:specification,False
+cotton fabric,should_identify,Normal case,1,cotton:fabric:specification,2,cotton:material:specification | fabric:product:specification,False
+silk material,should_identify,Normal case,1,silk:fabric:specification,1,silk:material:specification,False
+dishwash liquid,should_identify,Normal case,2,dishwash:usage:specification | liquid:form:specification,2,dishwash:usage:specification | liquid:form:specification,True
+detergent powder,should_identify,Normal case,1,powder:form:specification,2,detergent:product:specification | powder:form:specification,False
+religious books,should_identify,Normal religious product,0,,2,religious:subject:specification | books:product:specification,False
+pooja items,should_identify,Normal religious product,1,pooja:usage:specification,2,pooja:usage:specification | items:product:specification,False
+temple bells,should_identify,Normal religious product,2,bells:product:specification | temple:usage:specification,2,temple:usage:specification | bells:product:specification,False
+god statues,should_identify,Normal religious product,0,,2,god:subject:specification | statues:product:specification,False
+spiritual products,should_identify,Normal religious product,0,,2,spiritual:usage:specification | products:product:specification,False

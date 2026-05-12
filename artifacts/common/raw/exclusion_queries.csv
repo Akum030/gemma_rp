@@ -1,0 +1,51 @@
+query,expected_behavior,notes
+assam tea wholesale,should_identify,Original case
+assam tea suppliers,should_identify,Variation
+organic assam tea,should_identify,Variation
+assam tea leaves,should_identify,Variation
+darjeeling tea,should_identify,Similar product
+mango bags for fruits,should_identify,Original case
+mango bags packaging,should_identify,Variation
+banana bags,should_identify,Similar product
+apple packaging bags,should_identify,Similar product
+kerala cotton saree online,should_identify,Original case
+kerala saree manufacturers,should_identify,Original case variation
+kerala silk saree,should_identify,Variation
+kanjivaram saree,should_identify,Similar product
+banarasi saree,should_identify,Similar product
+gota lace for lehenga,should_identify,Original case
+gota lace wholesale,should_identify,Variation
+lace fabric,should_identify,Similar product
+zari lace,should_identify,Similar product
+cow beef suppliers,should_identify_restricted,Original case
+beef cow meat,should_identify_restricted,Original case variation
+mutton meat,should_identify_restricted,Similar restricted
+pork meat,should_identify_restricted,Similar restricted
+dog labrador puppies,should_identify_restricted,Original case
+labrador dog breeders,should_identify_restricted,Variation
+persian cat,should_identify_restricted,Similar restricted
+vim dishwash bar,should_identify,Original case - brand
+vim bar 1 rupee,should_identify,Variation
+pril dishwash,should_identify,Similar brand case
+rin soap,should_identify,Similar brand case
+radhe radhe sweets,should_not_identify_brand,Original FALSE POSITIVE case
+radhe radhe namkeen,should_not_identify_brand,Variation
+jai shree ram store,should_not_identify_brand,Similar false positive
+om namah shivaya products,should_not_identify_brand,Similar false positive
+har har mahadev items,should_not_identify_brand,Similar false positive
+krishna products,ambiguous,Could be brand or religious
+rama textiles,ambiguous,Could be brand or religious
+hanuman enterprises,ambiguous,Could be brand or religious
+tobacco products,should_identify_restricted,Edge case
+cigarette suppliers,should_identify_restricted,Edge case
+herbal tea,should_identify,Normal case
+green tea wholesale,should_identify,Normal case
+cotton fabric,should_identify,Normal case
+silk material,should_identify,Normal case
+dishwash liquid,should_identify,Normal case
+detergent powder,should_identify,Normal case
+religious books,should_identify,Normal religious product
+pooja items,should_identify,Normal religious product
+temple bells,should_identify,Normal religious product
+god statues,should_identify,Normal religious product
+spiritual products,should_identify,Normal religious product
