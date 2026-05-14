@@ -1,0 +1,12 @@
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+queries: 1000
+gold: 1000   qmeans: 1000
+loading adapter: /home3/indiamart/gemma_4/isq-gemma4-e4b-v8-priority
+==((====))==  Unsloth 2026.4.4: Fast Gemma4 patching. Transformers: 5.5.0. vLLM: 0.0.0.
+   \\   /|    Tesla T4. Num GPUs = 1. Max memory: 14.563 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.10.0+cu128. CUDA: 7.5. CUDA Toolkit: 12.8. Triton: 3.6.0
+\        /    Bfloat16 = FALSE. FA [Xformers = 0.0.35. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Loading weights:   0%|          | 0/2130 [00:00<?, ?it/s]Loading weights:   8%|▊         | 162/2130 [00:00<00:01, 1619.65it/s]Loading weights:  15%|█▌        | 330/2130 [00:00<00:01, 1640.69it/s]Loading weights:  24%|██▍       | 511/2130 [00:00<00:00, 1686.84it/s]Loading weights:  32%|███▏      | 690/2130 [00:00<00:00, 1702.79it/s]Loading weights:  40%|████      | 861/2130 [00:03<00:08, 144.88it/s] Loading weights:  46%|████▌     | 972/2130 [00:04<00:07, 159.00it/s]Loading weights:  49%|████▉     | 1053/2130 [00:04<00:06, 167.16it/s]Loading weights:  52%|█████▏    | 1115/2130 [00:04<00:05, 175.89it/s]Loading weights:  55%|█████▍    | 1165/2130 [00:04<00:05, 183.28it/s]Loading weights:  57%|█████▋    | 1206/2130 [00:05<00:05, 184.57it/s]Loading weights:  58%|█████▊    | 1241/2130 [00:05<00:04, 191.04it/s]Loading weights:  60%|█████▉    | 1272/2130 [00:05<00:04, 189.43it/s]Loading weights:  61%|██████    | 1302/2130 [00:05<00:04, 201.79it/s]Loading weights:  62%|██████▏   | 1330/2130 [00:05<00:03, 205.68it/s]Loading weights:  64%|██████▎   | 1356/2130 [00:05<00:03, 198.50it/s]Loading weights:  65%|██████▍   | 1384/2130 [00:05<00:03, 213.97it/s]Loading weights:  66%|██████▌   | 1409/2130 [00:06<00:03, 202.08it/s]Loading weights:  68%|██████▊   | 1438/2130 [00:06<00:03, 215.61it/s]Loading weights:  69%|██████▊   | 1462/2130 [00:06<00:03, 209.98it/s]Loading weights:  76%|███████▌  | 1623/2130 [00:06<00:00, 545.40it/s]Loading weights:  90%|████████▉ | 1912/2130 [00:06<00:00, 1143.49it/s]Loading weights: 100%|██████████| 2130/2130 [00:06<00:00, 322.50it/s] 

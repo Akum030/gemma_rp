@@ -1,0 +1,13 @@
+metric,qmeans,gemma_v6
+Total queries,1000,1000
+Total gold attribute pairs,3200,3200
+Key match (gold key found in prediction),1116,1889
+Key match %,34.9%,59.0%
+Key+Value match (both correct),867,1301
+Key+Value match %,27.1%,40.7%
+Value match ignoring key names,1456,1512
+Value match % (ignoring keys),45.5%,47.2%
+""
+--- qmeans notes ---,,
+Queries using synthetic product key (never in gold),958,N/A
+Total predictions made,2884,2207

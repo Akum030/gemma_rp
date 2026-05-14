@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+gemma4_env/
+
+# Model weights (too large for git)
+*.safetensors
+*.bin
+*.pt
+*.pth
+isq-gemma4-*/
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large raw training JSONL blobs (kept on server, not in repo)
+# v7_train.jsonl, v8_train.jsonl, etc. are 9-15MB each
+# Source data is in cat74_train.jsonl / cat74_val.jsonl (included)
+# Formatted chat training files excluded:
+v7_train.jsonl
+v8_train.jsonl
+v9_train.jsonl
+v10_train.jsonl
+v11_train.jsonl
+v7_val.jsonl
+v8_val.jsonl
+v9_val.jsonl
+v10_val.jsonl
+v11_val.jsonl
+
+# Watcher state (runtime files)
+v11_watch_state.json
+v11_live_status.json
+v11_live_status.md
+
+# PPT generation temp
+*.tmp
+
+# bee/ model weights
+bee/model_v6/

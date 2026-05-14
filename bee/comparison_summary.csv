@@ -1,0 +1,11 @@
+metric,qmeans,gemma_v6
+Total queries evaluated,1000,1000
+Total gold attribute pairs,3200,3200
+Correct matches (key + value),867,1301
+Match rate %,27.1%,40.7%
+Queries with ALL attributes correct,42,182
+Queries with ZERO correct,415,332
+,,
+--- qmeans only stats ---,,
+Queries using synthetic product key,958,N/A
+Total qmeans predictions made,2884,2207

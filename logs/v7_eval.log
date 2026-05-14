@@ -1,0 +1,78 @@
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+queries: 1000
+gold: 1000   qmeans: 1000
+loading v7 adapter ...
+==((====))==  Unsloth 2026.4.4: Fast Gemma4 patching. Transformers: 5.5.0. vLLM: 0.0.0.
+   \\   /|    Tesla T4. Num GPUs = 2. Max memory: 14.563 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.10.0+cu128. CUDA: 7.5. CUDA Toolkit: 12.8. Triton: 3.6.0
+\        /    Bfloat16 = FALSE. FA [Xformers = 0.0.35. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Loading weights:   0%|          | 0/2130 [00:00<?, ?it/s]Loading weights:   9%|▉         | 189/2130 [00:00<00:01, 1849.27it/s]Loading weights:  18%|█▊        | 381/2130 [00:00<00:00, 1889.27it/s]Loading weights:  27%|██▋       | 573/2130 [00:00<00:00, 1886.03it/s]Loading weights:  36%|███▌      | 762/2130 [00:02<00:07, 190.13it/s] Loading weights:  41%|████▏     | 880/2130 [00:03<00:06, 196.48it/s]Loading weights:  45%|████▌     | 963/2130 [00:03<00:05, 201.61it/s]Loading weights:  48%|████▊     | 1026/2130 [00:03<00:05, 207.61it/s]Loading weights:  51%|█████     | 1076/2130 [00:04<00:05, 208.86it/s]Loading weights:  52%|█████▏    | 1117/2130 [00:04<00:04, 205.02it/s]Loading weights:  54%|█████▍    | 1151/2130 [00:04<00:04, 206.18it/s]Loading weights:  55%|█████▌    | 1181/2130 [00:04<00:04, 216.56it/s]Loading weights:  57%|█████▋    | 1211/2130 [00:04<00:04, 213.01it/s]Loading weights:  58%|█████▊    | 1238/2130 [00:04<00:04, 205.46it/s]Loading weights:  59%|█████▉    | 1264/2130 [00:04<00:04, 214.84it/s]Loading weights:  61%|██████    | 1289/2130 [00:05<00:04, 204.00it/s]Loading weights:  62%|██████▏   | 1319/2130 [00:05<00:03, 218.28it/s]Loading weights:  63%|██████▎   | 1343/2130 [00:05<00:03, 212.53it/s]Loading weights:  64%|██████▍   | 1367/2130 [00:05<00:03, 217.83it/s]Loading weights:  65%|██████▌   | 1390/2130 [00:05<00:03, 200.72it/s]Loading weights:  67%|██████▋   | 1421/2130 [00:05<00:03, 219.24it/s]Loading weights:  68%|██████▊   | 1444/2130 [00:05<00:03, 209.84it/s]Loading weights:  69%|██████▉   | 1468/2130 [00:05<00:03, 217.15it/s]Loading weights:  79%|███████▉  | 1683/2130 [00:06<00:00, 731.84it/s]Loading weights:  92%|█████████▏| 1969/2130 [00:06<00:00, 1317.50it/s]Loading weights: 100%|██████████| 2130/2130 [00:06<00:00, 343.17it/s] 
+resuming from 425 existing rows
+[450/1000] 15.3min  rate=0.03/s  eta=336.4min
+[475/1000] 31.3min  rate=0.03/s  eta=328.3min
+[500/1000] 47.1min  rate=0.03/s  eta=314.1min
+[525/1000] 64.2min  rate=0.03/s  eta=305.0min
+[550/1000] 79.0min  rate=0.03/s  eta=284.6min
+[575/1000] 95.1min  rate=0.03/s  eta=269.5min
+[600/1000] 113.3min  rate=0.03/s  eta=259.0min
+[625/1000] 128.0min  rate=0.03/s  eta=240.0min
+[650/1000] 142.8min  rate=0.03/s  eta=222.1min
+[675/1000] 162.1min  rate=0.03/s  eta=210.7min
+[700/1000] 176.5min  rate=0.03/s  eta=192.6min
+[725/1000] 193.2min  rate=0.03/s  eta=177.1min
+[750/1000] 210.1min  rate=0.03/s  eta=161.6min
+[775/1000] 224.3min  rate=0.03/s  eta=144.2min
+[800/1000] 239.3min  rate=0.03/s  eta=127.7min
+[825/1000] 259.7min  rate=0.03/s  eta=113.6min
+[850/1000] 276.5min  rate=0.03/s  eta=97.6min
+[875/1000] 290.9min  rate=0.03/s  eta=80.8min
+[900/1000] 305.3min  rate=0.03/s  eta=64.3min
+[925/1000] 323.4min  rate=0.03/s  eta=48.5min
+[950/1000] 340.5min  rate=0.03/s  eta=32.4min
+[975/1000] 362.4min  rate=0.03/s  eta=16.5min
+[1000/1000] 381.9min  rate=0.03/s  eta=0.0min
+
+============================================================
+{
+  "n": 1000,
+  "v7_vs_gold": {
+    "key_only": {
+      "precision": 0.6923,
+      "recall": 0.0029,
+      "f1": 0.0058,
+      "tp": 9,
+      "fp": 4,
+      "fn": 3093
+    },
+    "key_value": {
+      "precision": 0.6923,
+      "recall": 0.0029,
+      "f1": 0.0058,
+      "tp": 9,
+      "fp": 4,
+      "fn": 3093
+    }
+  },
+  "qmeans_vs_gold": {
+    "key_only": {
+      "precision": 0.9595,
+      "recall": 0.2982,
+      "f1": 0.455,
+      "tp": 925,
+      "fp": 39,
+      "fn": 2177
+    },
+    "key_value": {
+      "precision": 0.1266,
+      "recall": 0.0393,
+      "f1": 0.06,
+      "tp": 122,
+      "fp": 842,
+      "fn": 2980
+    }
+  }
+}
+============================================================

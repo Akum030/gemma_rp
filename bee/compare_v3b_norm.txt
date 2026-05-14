@@ -1,0 +1,45 @@
+# Comparison report
+  gemma:  bee/v3b_norm.csv  (1000 queries)
+  qmeans: bee/qmeans_results.jsonl (1000 queries)
+  gold:   bee/gold_claude_compare.jsonl   (98 queries)
+
+### Gemma (fine-tuned model)
+  queries:                    1000
+  parse rate (non-empty):     52.6%
+  mean keys/query:            1.06
+  median keys/query:          1.0
+  unique keys total:          32
+  keys in canonical vocab:    100.0%
+  top 15 keys: [('model name/number', 149), ('brand', 149), ('power', 140), ('feature', 105), ('power source', 101), ('driven type', 92), ('part type', 79), ('speed', 46), ('voltage', 27), ('size', 26), ('operation', 21), ('series', 18), ('quantity', 15), ('phase', 13), ('material', 13)]
+
+### Qmeans (production API)
+  queries:                    1000
+  parse rate (non-empty):     94.6%
+  mean keys/query:            1.00
+  median keys/query:          1.0
+  unique keys total:          18
+  keys in canonical vocab:    98.5%
+  top 15 keys: [('part type', 946), ('brand', 12), ('usage', 8), ('motor type', 8), ('power source', 5), ('model name/number', 4), ('phase', 4), ('power', 3), ('motor part type', 3), ('starter type', 3), ('model number', 1), ('type', 1), ('condition', 1), ('speed', 1), ('mounting type', 1)]
+
+### Gold (Claude ground-truth)
+  queries:                    98
+  parse rate (non-empty):     100.0%
+  mean keys/query:            2.99
+  median keys/query:          3.0
+  unique keys total:          25
+  keys in canonical vocab:    100.0%
+  top 15 keys: [('part type', 86), ('brand', 37), ('feature', 25), ('model name/number', 22), ('driven type', 15), ('power', 14), ('usage', 13), ('power source', 13), ('phase', 12), ('horsepower', 10), ('rpm', 9), ('quantity', 5), ('speed', 5), ('voltage', 5), ('starter type', 4)]
+
+## Pairwise (gemma  vs  qmeans)
+  queries_compared          970
+  key_jaccard_mean          0.037
+  value_exact_mean          0.300
+
+## Vs Gold (Claude)
+metric                         gemma     qmeans
+queries_compared                  98         98
+key_precision                  29.3%      85.7%
+key_recall                     16.4%      32.5%
+key_f1                         20.4%      45.0%
+value_exact                    50.2%      19.4%
+value_substring                87.1%      80.0%

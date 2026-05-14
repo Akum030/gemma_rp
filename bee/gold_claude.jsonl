@@ -1,0 +1,98 @@
+{"query":"Motor Rotor","attributes":{"part type":"motor rotor"}}
+{"query":"slipring motor","attributes":{"part type":"motor","driven type":"slip ring"}}
+{"query":"fhp motors","attributes":{"part type":"motor","power":"fhp"}}
+{"query":"Vertical Motors","attributes":{"part type":"motor","orientation":"vertical"}}
+{"query":"gearmoter","attributes":{"part type":"gear motor"}}
+{"query":"Shaft Encoder","attributes":{"part type":"encoder","feature":"shaft"}}
+{"query":"dvd motor","attributes":{"part type":"motor","usage":"dvd"}}
+{"query":"1FK2104-6AF10-1MB0","attributes":{"model name/number":"1FK2104-6AF10-1MB0"}}
+{"query":"induction motor","attributes":{"part type":"motor","driven type":"induction"}}
+{"query":"Stater","attributes":{"part type":"starter"}}
+{"query":"electric-actuator","attributes":{"part type":"actuator","power source":"electric"}}
+{"query":"1FK2104-6AF01-1MB0","attributes":{"model name/number":"1FK2104-6AF01-1MB0"}}
+{"query":"hindustan","attributes":{"brand":"hindustan"}}
+{"query":"brake motor","attributes":{"part type":"motor","feature":"brake"}}
+{"query":"Crompton","attributes":{"brand":"crompton"}}
+{"query":"Brake Motors","attributes":{"part type":"motor","feature":"brake"}}
+{"query":"Motar Starter","attributes":{"part type":"motor starter"}}
+{"query":"hindustan package","attributes":{"brand":"hindustan","feature":"package"}}
+{"query":"Motor 160kw","attributes":{"part type":"motor","power":"160 kw"}}
+{"query":"solenoid-switches","attributes":{"part type":"solenoid switch"}}
+{"query":"gbru 1 min auto switch","attributes":{"part type":"auto switch","brand":"gbru","quantity":"1"}}
+{"query":"Moving Magnetic Linear Motor","attributes":{"part type":"motor","driven type":"linear","feature":"moving magnetic"}}
+{"query":"Three Phase Motor","attributes":{"part type":"motor","phase":"three phase"}}
+{"query":"Mobile Starter Prime","attributes":{"part type":"starter","feature":"mobile prime"}}
+{"query":"kitchen hood motor","attributes":{"part type":"motor","usage":"kitchen hood"}}
+{"query":"Dual shaft Motor","attributes":{"part type":"motor","feature":"dual shaft"}}
+{"query":"Honeywell V4055 Fuild Power Actuator","attributes":{"part type":"actuator","brand":"honeywell","model name/number":"V4055","feature":"fluid power"}}
+{"query":"Worm Geared Motor","attributes":{"part type":"motor","driven type":"worm geared"}}
+{"query":"90 watt ac geared motor","attributes":{"part type":"motor","power":"90 watt","power source":"ac","driven type":"geared"}}
+{"query":"Vertical Hollow Shaft Motor Service","attributes":{"part type":"motor","orientation":"vertical","feature":"hollow shaft","usage":"service"}}
+{"query":"75HP Face Mounted Motor Marathon","attributes":{"part type":"motor","horsepower":"75 hp","mounting type":"face mounted","brand":"marathon"}}
+{"query":"Electric Vibratory Motor","attributes":{"part type":"motor","power source":"electric","feature":"vibratory"}}
+{"query":"electrical motor for boats","attributes":{"part type":"motor","power source":"electric","usage":"boats"}}
+{"query":"fan motor 25 30 watt","attributes":{"part type":"fan motor","power":"25-30 watt"}}
+{"query":"FL42BLSL02- Regular BLDC Motor","attributes":{"part type":"motor","driven type":"bldc","model name/number":"FL42BLSL02"}}
+{"query":"Slip Ring Assemblies","attributes":{"part type":"slip ring assembly"}}
+{"query":"Godrej Lawkim Motor LK-4250","attributes":{"part type":"motor","brand":"godrej lawkim","model name/number":"LK-4250"}}
+{"query":"brushless dc motor","attributes":{"part type":"motor","driven type":"brushless dc"}}
+{"query":"Kerovit Ege Actuation Plate","attributes":{"part type":"actuation plate","brand":"kerovit ege"}}
+{"query":"High Speed Motor","attributes":{"part type":"motor","speed":"high"}}
+{"query":"FL28STH45-0674AF-14 - Hybrid Stepper Motor","attributes":{"part type":"motor","driven type":"hybrid stepper","model name/number":"FL28STH45-0674AF-14"}}
+{"query":"l&t three phase motor starter","attributes":{"part type":"motor starter","brand":"l&t","phase":"three phase"}}
+{"query":"cooler motor high speed","attributes":{"part type":"motor","usage":"cooler","speed":"high"}}
+{"query":"Bch Submersible Pump Starters","attributes":{"part type":"pump starter","brand":"bch","usage":"submersible"}}
+{"query":"PowerSpeed Armature for Gsh-500 Bosch","attributes":{"part type":"armature","brand":"powerspeed","suitable for":"bosch gsh-500"}}
+{"query":"amdo cooler motor","attributes":{"part type":"motor","brand":"amdo","usage":"cooler"}}
+{"query":"Makita MT-950 Armature By PowerSpeed","attributes":{"part type":"armature","brand":"powerspeed","suitable for":"makita mt-950"}}
+{"query":"High po re","attributes":{"feature":"high power"}}
+{"query":"110HS20 Two Phase Stepper Motor","attributes":{"part type":"motor","driven type":"stepper","phase":"two phase","model name/number":"110HS20"}}
+{"query":"Electric Sliding Gate Motor","attributes":{"part type":"motor","power source":"electric","usage":"sliding gate"}}
+{"query":"Arun D O L Motor Starter","attributes":{"part type":"motor starter","brand":"arun","starter type":"dol"}}
+{"query":"220  v 1 dual shaft BLOWER FAN MOTOR","attributes":{"part type":"blower fan motor","voltage":"220 v","quantity":"1","feature":"dual shaft"}}
+{"query":"rs 555 high speed dc motor 5000rpm","attributes":{"part type":"motor","model name/number":"rs 555","speed":"high","power source":"dc","rpm":"5000 rpm"}}
+{"query":"makita mt240 cb203a cut off carbon brush","attributes":{"part type":"carbon brush","brand":"makita","model name/number":"mt240 cb203a","feature":"cut off"}}
+{"query":"Three Phase DOL  Auto Switch With Timer With Connector (Rocker Switch)","attributes":{"part type":"auto switch","phase":"three phase","starter type":"dol","feature":"with timer connector rocker"}}
+{"query":"ap fan motor & fresh air moter","attributes":{"part type":"fan motor","brand":"ap","feature":"fresh air"}}
+{"query":"1 piece Allen Bradley Soft Starters","attributes":{"part type":"soft starter","brand":"allen bradley","quantity":"1 piece"}}
+{"query":"24 inch three phase 4 exhaust fan fibre","attributes":{"part type":"exhaust fan","size":"24 inch","phase":"three phase","poles":"4","material":"fibre"}}
+{"query":"3 Phase Induction Motor, 3600 rpm, 4 Pole","attributes":{"part type":"motor","driven type":"induction","phase":"3 phase","rpm":"3600 rpm","poles":"4 pole"}}
+{"query":"3 phase motor starter near jodhpur oil free","attributes":{"part type":"motor starter","phase":"3 phase","location/city":"jodhpur","feature":"oil free"}}
+{"query":"Fanuc AC Servo Motor 0.35kW 6000 A06B-0115-B103 and Pulsecoder","attributes":{"part type":"servo motor","brand":"fanuc","power source":"ac","power":"0.35 kw","speed":"6000","model name/number":"A06B-0115-B103","feature":"with pulsecoder"}}
+{"query":"SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF00-0SA0 2.7 kW","attributes":{"part type":"servo motor","brand":"siemens","series":"simotics s-1fk2","model name/number":"1FK2106-4AF00-0SA0","power":"2.7 kw"}}
+{"query":"800 RPM Electric Sliding Gate Motor","attributes":{"part type":"motor","rpm":"800 rpm","power source":"electric","usage":"sliding gate"}}
+{"query":"Jayashree Encoder  : Hollow Shaft  J-50T","attributes":{"part type":"encoder","brand":"jayashree","feature":"hollow shaft","model name/number":"J-50T"}}
+{"query":"Landt Motor Starter Mk1 Direct On Line (dol) (mk1 Dol 9-14 A.)","attributes":{"part type":"motor starter","brand":"l&t","series":"mk1","starter type":"dol","current":"9-14 a"}}
+{"query":"dual shaft 1300RPM BLOWER FAN MOTOR","attributes":{"part type":"blower fan motor","feature":"dual shaft","rpm":"1300 rpm"}}
+{"query":"1400 rpm 230 v apex cool 410w single phase exhaust fan motor","attributes":{"part type":"exhaust fan motor","rpm":"1400 rpm","voltage":"230 v","brand":"apex cool","power":"410 w","phase":"single phase"}}
+{"query":"2 hp three phase induction motor","attributes":{"part type":"motor","horsepower":"2 hp","phase":"three phase","driven type":"induction"}}
+{"query":"PowerSpeed Armature For Makita 9500 NB","attributes":{"part type":"armature","brand":"powerspeed","suitable for":"makita 9500 nb"}}
+{"query":"desert type copper 32 mm 1 cooler motor","attributes":{"part type":"cooler motor","feature":"desert type","material":"copper","size":"32 mm","quantity":"1"}}
+{"query":"Mdt Knx Actuator Automation Products Dealer","attributes":{"part type":"actuator","brand":"mdt","feature":"knx automation","usage":"dealer"}}
+{"query":"high power dc water motors project","attributes":{"part type":"water motor","power source":"dc","feature":"high power","usage":"project"}}
+{"query":"m9mz90g4yga panasonic gear motor /90watt/ three phase","attributes":{"part type":"gear motor","model name/number":"m9mz90g4yga","brand":"panasonic","power":"90 watt","phase":"three phase"}}
+{"query":"Crompton Motor 10 HP 960 Rpm","attributes":{"part type":"motor","brand":"crompton","horsepower":"10 hp","rpm":"960 rpm"}}
+{"query":"5 sliding piece 800 kg Gate Motor","attributes":{"part type":"gate motor","quantity":"5 piece","feature":"sliding","weight":"800 kg"}}
+{"query":"3000 rpm 24 v bldc 50w 24v 3000rpm","attributes":{"part type":"motor","driven type":"bldc","rpm":"3000 rpm","voltage":"24 v","power":"50 w"}}
+{"query":"1 HP Texmo Taro Single Phase Motor Starter","attributes":{"part type":"motor starter","horsepower":"1 hp","brand":"texmo taro","phase":"single phase"}}
+{"query":"Jencoder Hollow Type  Rotary Encoder J-50T","attributes":{"part type":"rotary encoder","brand":"jencoder","feature":"hollow type","model name/number":"J-50T"}}
+{"query":"Siemens 7.5 KW 2 HP Electric Motor","attributes":{"part type":"motor","brand":"siemens","power":"7.5 kw","horsepower":"2 hp","power source":"electric"}}
+{"query":"11 KW 15 HP Crompton Greaves Electric Motor, 1000 rpm","attributes":{"part type":"motor","power":"11 kw","horsepower":"15 hp","brand":"crompton greaves","power source":"electric","rpm":"1000 rpm"}}
+{"query":"1500 kv ccw multirotor motor","attributes":{"part type":"multirotor motor","speed":"1500 kv","feature":"ccw"}}
+{"query":"Siemens 3TW72911AW68","attributes":{"brand":"siemens","model name/number":"3TW72911AW68"}}
+{"query":"helical geared motor 2hp","attributes":{"part type":"motor","driven type":"helical geared","horsepower":"2 hp"}}
+{"query":"MU2 Dol Motor Starter","attributes":{"part type":"motor starter","model name/number":"mu2","starter type":"dol"}}
+{"query":"COPCARBON BRUSH 25X40X10","attributes":{"part type":"carbon brush","brand":"copcarbon","size":"25x40x10"}}
+{"query":"2 HP single phase","attributes":{"horsepower":"2 hp","phase":"single phase"}}
+{"query":"50HP Abb Electric Motor","attributes":{"part type":"motor","horsepower":"50 hp","brand":"abb","power source":"electric"}}
+{"query":"12v bldc","attributes":{"voltage":"12 v","driven type":"bldc"}}
+{"query":"Vishal 8al2 Air Cooler Motor","attributes":{"part type":"air cooler motor","brand":"vishal","model name/number":"8al2"}}
+{"query":"crompton motor 1 hp","attributes":{"part type":"motor","brand":"crompton","horsepower":"1 hp"}}
+{"query":"HF-SP152 servo motor mitsubishi","attributes":{"part type":"servo motor","model name/number":"HF-SP152","brand":"mitsubishi"}}
+{"query":"10w deep freezer motor","attributes":{"part type":"motor","power":"10 w","usage":"deep freezer"}}
+{"query":"ats480c66y","attributes":{"model name/number":"ats480c66y"}}
+{"query":"VTV YN90-120 Motor","attributes":{"part type":"motor","brand":"vtv","model name/number":"YN90-120"}}
+{"query":"1le7501\u20111bb23\u20115aa4","attributes":{"model name/number":"1LE7501-1BB23-5AA4"}}
+{"query":"DC motor 5.5","attributes":{"part type":"motor","power source":"dc","power":"5.5"}}
+{"query":"bldc 50w 24v 3000rpm","attributes":{"driven type":"bldc","power":"50 w","voltage":"24 v","rpm":"3000 rpm"}}
+{"query":"ATS22 Softstarter Repair Service","attributes":{"part type":"softstarter","model name/number":"ats22","usage":"repair service"}}

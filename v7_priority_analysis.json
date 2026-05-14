@@ -1,0 +1,420 @@
+{
+  "label": "v7",
+  "rows": 1000,
+  "parsed_rows": 802,
+  "parsed_rate": 0.802,
+  "attributes_list_rows": 802,
+  "attributes_list_rate": 0.802,
+  "avg_priority_bodies_per_row": 1.032,
+  "empty_flat_rows": 272,
+  "empty_flat_rate": 0.272,
+  "changed_flat_rows": 725,
+  "changed_flat_rate": 0.725,
+  "deep_wrapper_rows": 719,
+  "deep_wrapper_rate": 0.719,
+  "placeholder_rows": 199,
+  "placeholder_rate": 0.199,
+  "top_recomputed_keys": [
+    [
+      "brand",
+      304
+    ],
+    [
+      "attribute priorityn",
+      183
+    ],
+    [
+      "product type",
+      155
+    ],
+    [
+      "power",
+      66
+    ],
+    [
+      "type",
+      46
+    ],
+    [
+      "model number",
+      35
+    ],
+    [
+      "speed",
+      21
+    ],
+    [
+      "voltage",
+      18
+    ],
+    [
+      "power source",
+      17
+    ],
+    [
+      "model",
+      17
+    ],
+    [
+      "attribute priority1",
+      16
+    ],
+    [
+      "phase",
+      16
+    ],
+    [
+      "application",
+      11
+    ],
+    [
+      "mounting type",
+      9
+    ],
+    [
+      "material",
+      7
+    ],
+    [
+      "model part number",
+      4
+    ],
+    [
+      "actuator type",
+      4
+    ],
+    [
+      "phase/voltage",
+      4
+    ],
+    [
+      "size",
+      4
+    ],
+    [
+      "phase voltage",
+      3
+    ]
+  ],
+  "top_stored_keys": [
+    [
+      "model name/number",
+      10
+    ],
+    [
+      "brand",
+      2
+    ],
+    [
+      "attribute priority1",
+      1
+    ]
+  ],
+  "examples": {
+    "wrapped": [
+      {
+        "query": "Cooler Motor",
+        "body_count": 1,
+        "deep_body_count": 1,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"cooler motor\",\n          \"key_priority1\": \"attribute_priorityN\",\n          \"key_priority2\": \"attribute_priorityN\",\n          \"key_priority3\": \"attribute_priorityN\"\n        }\n      }\n    }\n  "
+      },
+      {
+        "query": "Actuators",
+        "body_count": 1,
+        "deep_body_count": 1,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"actuators\",\n          \"key_priority1\": \"brand\",\n          \"key_priority2\": \"product_type\",\n          \"key_priority3\": \"attribute_priority3\",\n          \"key_priority4\": \"attribute_priority4\"\n"
+      },
+      {
+        "query": "130 Flat Motor",
+        "body_count": 2,
+        "deep_body_count": 2,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"130\",\n          \"key_priority1\": \"attribute_priority1\",\n          \"key_priority2\": \"attribute_priority2\",\n          \"key_priority3\": \"attribute_priority3\"\n        }\n      }\n    },\n    {\n    "
+      },
+      {
+        "query": "ap fan motor & fresh air moter",
+        "body_count": 1,
+        "deep_body_count": 1,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"ap fan motor & fresh air moter\",\n          \"key_priority1\": \"attribute_priorityN\",\n          \"key_priority2\": \"attribute_priorityN\",\n          \"key_priority3\": \"attribute_priorityN\"\n        "
+      },
+      {
+        "query": "a.c. induction motor",
+        "body_count": 2,
+        "deep_body_count": 2,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"induction motor\",\n          \"key_priority1\": \"type\",\n          \"key_priority2\": \"family\",\n          \"key_priority3\": \"subtype\"\n        }\n      }\n    },\n    {\n      \"attribute_priority2\": {\n "
+      },
+      {
+        "query": "Siemens Sipart Ps2 Positioner Model 6dr5",
+        "body_count": 2,
+        "deep_body_count": 2,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"Siemens\",\n          \"key_priority1\": \"brand\",\n          \"key_priority2\": \"product_type\",\n          \"key_priority3\": \"attribute_priority3\",\n          \"key_priority4\": \"attribute_priority4\"\n  "
+      },
+      {
+        "query": "Ac Outdoor Fan Motor",
+        "body_count": 1,
+        "deep_body_count": 1,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"fan motor\",\n          \"key_priority1\": \"brand\",\n          \"key_priority2\": \"product_type\",\n          \"key_priority3\": \"main_type\",\n          \"key_priority4\": \"secondary_type\"\n        }\n     "
+      },
+      {
+        "query": "siemens-electric-motors",
+        "body_count": 1,
+        "deep_body_count": 1,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"value\": \"siemens\",\n        \"attribute_priority2\": {\n          \"value\": \"electric-motors\",\n          \"attribute_priority3\": {\n            \"value\": \"brand\",\n            \"key_priority1\": \"product_type\",\n            \"key_priority2\": \"bran"
+      },
+      {
+        "query": "brushless dc motor",
+        "body_count": 1,
+        "deep_body_count": 1,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"brushless dc motor\",\n          \"key_priority1\": \"attribute_priorityN\",\n          \"key_priority2\": \"attribute_priorityN\",\n          \"key_priority3\": \"attribute_priorityN\"\n        }\n      }\n  "
+      },
+      {
+        "query": "ABB Electric Motor",
+        "body_count": 1,
+        "deep_body_count": 1,
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"ABB\",\n          \"key_priority1\": \"brand\",\n          \"key_priority2\": \"product_type\",\n          \"key_priority3\": \"spec\",\n          \"key_priority4\": \"model\",\n          \"key_priority5\": \"phase/"
+      }
+    ],
+    "placeholder": [
+      {
+        "query": "Cooler Motor",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "attribute priorityn",
+            "value": "cooler motor",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "130 Flat Motor",
+        "placeholder_keys": 2,
+        "bodies": [
+          {
+            "key_priority1": "attribute priority1",
+            "value": "130",
+            "depth": 2
+          },
+          {
+            "key_priority1": "attribute priority1",
+            "value": "flat motor",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "ap fan motor & fresh air moter",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "attribute priorityn",
+            "value": "ap fan motor & fresh air moter",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "brushless dc motor",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "attribute priorityn",
+            "value": "brushless dc motor",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "sensor plate",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "attribute priorityn",
+            "value": "sensor plate",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "electronic components bo moters",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "attribute priorityn",
+            "value": "electronic components",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "worm geared brake motor",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "attribute priorityn",
+            "value": "worm geared brake motor",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "1 for reselling piece Panasonic Geared Motor",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "brand",
+            "value": "panasonic",
+            "depth": 2
+          },
+          {
+            "key_priority1": "product type",
+            "value": "geared motor",
+            "depth": 2
+          },
+          {
+            "key_priority1": "attribute priority1",
+            "value": "1 for reselling piece",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "auto switch",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "attribute priorityn",
+            "value": "auto switch",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "query": "Three Phase DOL  Auto Switch With Timer With Connector (Rocker Switch)",
+        "placeholder_keys": 1,
+        "bodies": [
+          {
+            "key_priority1": "attribute priorityn",
+            "value": "dol  auto switch with timer with connector (rocker switch)",
+            "depth": 3
+          }
+        ]
+      }
+    ],
+    "changed_flat": [
+      {
+        "query": "Cooler Motor",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "attribute priorityn": "cooler motor"
+        }
+      },
+      {
+        "query": "Actuators",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "brand": "actuators"
+        }
+      },
+      {
+        "query": "130 Flat Motor",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "attribute priority1": "130"
+        }
+      },
+      {
+        "query": "ap fan motor & fresh air moter",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "attribute priorityn": "ap fan motor & fresh air moter"
+        }
+      },
+      {
+        "query": "a.c. induction motor",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "type": "induction motor",
+          "power source": "a.c."
+        }
+      },
+      {
+        "query": "Siemens Sipart Ps2 Positioner Model 6dr5",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "brand": "siemens",
+          "product type": "positioner model 6dr5"
+        }
+      },
+      {
+        "query": "Ac Outdoor Fan Motor",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "brand": "fan motor"
+        }
+      },
+      {
+        "query": "siemens-electric-motors",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "product type": "brand"
+        }
+      },
+      {
+        "query": "brushless dc motor",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "attribute priorityn": "brushless dc motor"
+        }
+      },
+      {
+        "query": "ABB Electric Motor",
+        "stored_flat": {},
+        "recomputed_flat": {
+          "brand": "abb"
+        }
+      }
+    ],
+    "empty": [
+      {
+        "query": "SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF01-1MB0 1\u202fkW",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"SIEMENS\",\n          \"key_priority1\": \"brand\",\n          \"key_priority2\": \"manufacturer\",\n          \"key_priority3\": \"supplier\",\n          \"key_priority4\": \"reseller\"\n        }\n      },\n     "
+      },
+      {
+        "query": "yako tech ms s3",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"value\": \"yako tech\",\n        \"attribute_priority2\": {\n          \"value\": \"ms s3\",\n          \"attribute_priority3\": {\n            \"value\": \"s3\",\n            \"attribute_priority4\": {\n              \"value\": \"ms\"\n            }\n          }"
+      },
+      {
+        "query": "Panasonic Geared Motor",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"value\": \"Panasonic\",\n        \"attribute_priority2\": {\n          \"value\": \"Geared Motor\",\n          \"attribute_priority3\": {\n            \"value\": \"Geared Motor\",\n            \"attribute_priority4\": {\n              \"value\": \"Geared Motor"
+      },
+      {
+        "query": "1 piece Slip Rings",
+        "raw": "```json\n{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priority1\": {\n          \"value\": \"slip rings\"\n        }\n      }\n    }\n  ]\n}\n```"
+      },
+      {
+        "query": "Mobile Starter Prime",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"prime\",\n          \"attribute_priority1\": {\n            \"attribute_priorityN\": {\n              \"value\": \"mobile\",\n              \"attribute_priority1\": {\n                \"attribute_priorityN\":"
+      },
+      {
+        "query": "crompton greaves motor 5 hp 3.70 kw 3 phase 1450 rpm foot mount",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"crompton greaves\",\n          \"key_priority1\": \"brand\",\n          \"key_priority2\": \"product_type\",\n          \"key_priority3\": \"attribute_priorityN\",\n          \"key_priority4\": \"attribute_prio"
+      },
+      {
+        "query": "PBL Geared Motors",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"value\": \"PBL\",\n        \"attribute_priority2\": {\n          \"attribute_priority1\": {\n            \"value\": \"Geared Motors\",\n            \"attribute_priority2\": {\n              \"attribute_priority1\": {\n                \"value\": \"Geared Moto"
+      },
+      {
+        "query": "Sunflag Table Fan Motor",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"value\": \"Sunflag\",\n        \"attribute_priority2\": {\n          \"value\": \"Table Fan Motor\",\n          \"attribute_priority3\": {\n            \"value\": \"Table\",\n            \"attribute_priority4\": {\n              \"value\": \"Fan Motor\"\n       "
+      },
+      {
+        "query": "crompton 3 phase motor 7.5 hp i3",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"attribute_priorityN\": {\n          \"value\": \"crompton\",\n          \"key_priority1\": \"brand\",\n          \"key_priority2\": \"product_type\",\n          \"key_priority3\": \"spec\",\n          \"key_priority4\": \"model_number\",\n          \"key_priorit"
+      },
+      {
+        "query": "panasonic gar box",
+        "raw": "{\n  \"attributes\": [\n    {\n      \"attribute_priority1\": {\n        \"value\": \"panasonic\",\n        \"attribute_priority2\": {\n          \"value\": \"gar box\",\n          \"attribute_priority3\": {\n            \"value\": \"model\",\n            \"attribute_priority4\": {\n              \"value\": \"phase/voltage\",\n        "
+      }
+    ]
+  }
+}

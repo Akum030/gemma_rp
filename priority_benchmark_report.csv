@@ -1,0 +1,8 @@
+label,status,n,key_precision,key_recall,key_f1,key_value_precision,key_value_recall,key_value_f1
+qmeans,completed,1000,0.9595,0.2982,0.455,0.1266,0.0393,0.06
+v7,completed,1000,0.6049,0.1915,0.2909,0.3228,0.1022,0.1552
+hybrid_v7_plus_qmeans_fallback,completed,1000,0.756,0.4246,0.5438,0.2394,0.1344,0.1722
+v8,completed,1000,0.6112,0.0912,0.1588,0.4125,0.0616,0.1072
+v9,completed,1000,0.7755,0.0245,0.0475,0.4388,0.0139,0.0269
+v10,completed,1000,0.0,0.0,0.0,0.0,0.0,0.0
+v11,completed,1000,0.7947,0.3182,0.4544,0.3543,0.1418,0.2026

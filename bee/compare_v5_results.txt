@@ -1,0 +1,26 @@
+{
+  "system": "qmeans_v2",
+  "n_gold": 1000,
+  "n_predictions": 1000,
+  "kv_strict_F1": 37.23,
+  "kv_strict_P": 38.43,
+  "kv_strict_R": 37.74,
+  "value_only_F1": 46.2,
+  "token_F1": 79.83,
+  "token_P": 85.99,
+  "token_R": 76.92
+}
+
+{
+  "system": "V5_flat",
+  "n_gold": 1000,
+  "n_predictions": 1000,
+  "kv_strict_F1": 28.05,
+  "kv_strict_P": 29.68,
+  "kv_strict_R": 27.19,
+  "value_only_F1": 31.27,
+  "token_F1": 41.99,
+  "token_P": 44.01,
+  "token_R": 41.16
+}
+

@@ -1,0 +1,41 @@
+{
+  "label": "v7",
+  "adapter": "/home3/indiamart/gemma_4/isq-gemma4-e4b-v7-priority",
+  "n": 1000,
+  "v7_vs_gold": {
+    "key_only": {
+      "precision": 0.6049,
+      "recall": 0.1915,
+      "f1": 0.2909,
+      "tp": 594,
+      "fp": 388,
+      "fn": 2508
+    },
+    "key_value": {
+      "precision": 0.3228,
+      "recall": 0.1022,
+      "f1": 0.1552,
+      "tp": 317,
+      "fp": 665,
+      "fn": 2785
+    }
+  },
+  "qmeans_vs_gold": {
+    "key_only": {
+      "precision": 0.9595,
+      "recall": 0.2982,
+      "f1": 0.455,
+      "tp": 925,
+      "fp": 39,
+      "fn": 2177
+    },
+    "key_value": {
+      "precision": 0.1266,
+      "recall": 0.0393,
+      "f1": 0.06,
+      "tp": 122,
+      "fp": 842,
+      "fn": 2980
+    }
+  }
+}

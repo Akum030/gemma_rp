@@ -1,0 +1,26 @@
+# Comparison report
+  gemma:  gemma4_results.csv  (1001 queries)
+  qmeans: agent\qmeans_results.jsonl (1000 queries)
+
+### Gemma (fine-tuned model)
+  queries:                    1001
+  parse rate (non-empty):     96.5%
+  mean keys/query:            2.41
+  median keys/query:          2
+  unique keys total:          379
+  keys in canonical vocab:    42.4%
+  top 15 keys: [('motor', 238), ('power', 234), ('power source', 170), ('brand', 164), ('attribute', 118), ('motor type', 100), ('feature', 58), ('type', 53), ('speed', 48), ('phase', 47), ('brand/series', 41), ('voltage', 37), ('part_number', 34), ('part number', 34), ('product_code', 31)]
+
+### Qmeans (production API)
+  queries:                    1000
+  parse rate (non-empty):     92.7%
+  mean keys/query:            0.97
+  median keys/query:          1.0
+  unique keys total:          17
+  keys in canonical vocab:    99.2%
+  top 15 keys: [('product', 927), ('brand', 8), ('usage', 5), ('phase', 4), ('power source', 4), ('motor part type', 3), ('starter type', 3), ('part type', 3), ('power', 2), ('motor type', 2), ('model name/number', 2), ('condition', 1), ('speed', 1), ('mounting type', 1), ('no of phase', 1)]
+
+## Pairwise (gemma  vs  qmeans)
+  queries_compared          999
+  key_jaccard_mean          0.014
+  value_exact_mean          0.220

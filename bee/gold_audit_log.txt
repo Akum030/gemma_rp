@@ -1,0 +1,24 @@
+GOLD AUDIT — 6 flips out of 1000 rows
+======================================================================
+
+FLIP set_brand | Makita HR-2440 Armature By PowerSpeed
+  old brand: 'Makita'  new brand: 'powerspeed'
+
+FLIP set_brand | Makita MT-958 Armature By PowerSpeed
+  old brand: 'Makita'  new brand: 'powerspeed'
+
+FLIP set_brand | 9607 HB / 9609 HB Makita Armature By PowerSpeed
+  old brand: 'Makita'  new brand: 'powerspeed'
+
+FLIP set_brand | Makita 9047 Armature By PowerSpeed
+  old brand: 'Makita'  new brand: 'powerspeed'
+
+FLIP set_brand | Makita MT-950 Armature By PowerSpeed
+  old brand: 'Makita'  new brand: 'powerspeed'
+
+FLIP set_brand | 9067/9069 Makita Armature By PowerSpeed
+  old brand: 'Makita'  new brand: 'powerspeed'
+
+======================================================================
+SUMMARY:
+  set_brand: 6

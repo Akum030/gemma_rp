@@ -1,0 +1,28 @@
+{
+  "label": "hybrid_v7_plus_qmeans_fallback",
+  "source": "recomputed from v7_priority_results.jsonl using eval_priority_adapter-style flattening for parsed V7 output plus qmeans missing-key fallback",
+  "n": 1000,
+  "hybrid_vs_gold": {
+    "key_only": {
+      "precision": 0.756,
+      "recall": 0.4246,
+      "f1": 0.5438,
+      "tp": 1317,
+      "fp": 425,
+      "fn": 1785
+    },
+    "key_value": {
+      "precision": 0.2394,
+      "recall": 0.1344,
+      "f1": 0.1722,
+      "tp": 417,
+      "fp": 1325,
+      "fn": 2685
+    }
+  },
+  "components": [
+    "gemma_v7_priority",
+    "qmeans"
+  ],
+  "notes": "Best current serving result, not a standalone finetuned model result. Live accuracy depends on qmeans endpoint availability."
+}

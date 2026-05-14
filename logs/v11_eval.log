@@ -1,0 +1,96 @@
+=== V11 EVAL START Mon May 11 08:44:40 AM IST 2026 ===
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+queries: 1000
+loading adapter: /home3/indiamart/gemma_4/isq-gemma4-e4b-v11-priority-balanced
+==((====))==  Unsloth 2026.4.4: Fast Gemma4 patching. Transformers: 5.5.0. vLLM: 0.0.0.
+   \\   /|    Tesla T4. Num GPUs = 1. Max memory: 14.563 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.10.0+cu128. CUDA: 7.5. CUDA Toolkit: 12.8. Triton: 3.6.0
+\        /    Bfloat16 = FALSE. FA [Xformers = 0.0.35. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Loading weights:   0%|          | 0/2130 [00:00<?, ?it/s]Loading weights:   9%|▉         | 189/2130 [00:00<00:01, 1864.20it/s]Loading weights:  18%|█▊        | 386/2130 [00:00<00:00, 1925.93it/s]Loading weights:  27%|██▋       | 579/2130 [00:00<00:00, 1878.74it/s]Loading weights:  36%|███▌      | 768/2130 [00:02<00:07, 189.62it/s] Loading weights:  42%|████▏     | 885/2130 [00:03<00:06, 194.64it/s]Loading weights:  45%|████▌     | 968/2130 [00:03<00:05, 197.46it/s]Loading weights:  48%|████▊     | 1030/2130 [00:03<00:05, 203.94it/s]Loading weights:  51%|█████     | 1080/2130 [00:04<00:05, 208.30it/s]Loading weights:  53%|█████▎    | 1121/2130 [00:04<00:04, 205.51it/s]Loading weights:  54%|█████▍    | 1156/2130 [00:04<00:04, 209.37it/s]Loading weights:  56%|█████▌    | 1187/2130 [00:04<00:04, 206.74it/s]Loading weights:  57%|█████▋    | 1217/2130 [00:04<00:04, 216.61it/s]Loading weights:  58%|█████▊    | 1245/2130 [00:04<00:04, 218.30it/s]Loading weights:  60%|█████▉    | 1271/2130 [00:05<00:04, 206.50it/s]Loading weights:  61%|██████    | 1302/2130 [00:05<00:03, 222.51it/s]Loading weights:  62%|██████▏   | 1327/2130 [00:05<00:03, 219.83it/s]Loading weights:  64%|██████▎   | 1353/2130 [00:05<00:03, 224.28it/s]Loading weights:  65%|██████▍   | 1377/2130 [00:05<00:03, 213.98it/s]Loading weights:  66%|██████▌   | 1404/2130 [00:05<00:03, 223.28it/s]Loading weights:  67%|██████▋   | 1428/2130 [00:05<00:03, 217.99it/s]Loading weights:  68%|██████▊   | 1455/2130 [00:05<00:02, 225.87it/s]Loading weights:  71%|███████   | 1515/2130 [00:05<00:01, 325.13it/s]Loading weights:  84%|████████▍ | 1799/2130 [00:06<00:00, 1016.39it/s]Loading weights:  98%|█████████▊| 2091/2130 [00:06<00:00, 1546.05it/s]Loading weights: 100%|██████████| 2130/2130 [00:06<00:00, 345.12it/s] 
+[1/1000] 1.3min  rate=0.01/s  eta=1282.2min
+[25/1000] 20.1min  rate=0.02/s  eta=783.9min
+[50/1000] 42.4min  rate=0.02/s  eta=805.3min
+[75/1000] 61.7min  rate=0.02/s  eta=761.3min
+[100/1000] 79.0min  rate=0.02/s  eta=711.1min
+[125/1000] 102.1min  rate=0.02/s  eta=714.7min
+[150/1000] 122.2min  rate=0.02/s  eta=692.4min
+[175/1000] 141.2min  rate=0.02/s  eta=665.5min
+[200/1000] 163.0min  rate=0.02/s  eta=652.1min
+[225/1000] 184.6min  rate=0.02/s  eta=635.8min
+[250/1000] 203.4min  rate=0.02/s  eta=610.1min
+[275/1000] 223.3min  rate=0.02/s  eta=588.6min
+[300/1000] 240.2min  rate=0.02/s  eta=560.4min
+[325/1000] 258.3min  rate=0.02/s  eta=536.5min
+[350/1000] 275.1min  rate=0.02/s  eta=511.0min
+[375/1000] 294.5min  rate=0.02/s  eta=490.9min
+[400/1000] 312.0min  rate=0.02/s  eta=468.0min
+[425/1000] 332.9min  rate=0.02/s  eta=450.4min
+[450/1000] 352.1min  rate=0.02/s  eta=430.3min
+[475/1000] 372.0min  rate=0.02/s  eta=411.2min
+[500/1000] 391.1min  rate=0.02/s  eta=391.1min
+[525/1000] 410.7min  rate=0.02/s  eta=371.5min
+[550/1000] 431.2min  rate=0.02/s  eta=352.8min
+[575/1000] 450.2min  rate=0.02/s  eta=332.7min
+[600/1000] 469.5min  rate=0.02/s  eta=313.0min
+[625/1000] 491.8min  rate=0.02/s  eta=295.1min
+[650/1000] 515.0min  rate=0.02/s  eta=277.3min
+[675/1000] 536.6min  rate=0.02/s  eta=258.4min
+[700/1000] 556.8min  rate=0.02/s  eta=238.6min
+[725/1000] 577.0min  rate=0.02/s  eta=218.9min
+[750/1000] 596.6min  rate=0.02/s  eta=198.9min
+[775/1000] 615.4min  rate=0.02/s  eta=178.7min
+[800/1000] 635.1min  rate=0.02/s  eta=158.8min
+[825/1000] 654.9min  rate=0.02/s  eta=138.9min
+[850/1000] 675.4min  rate=0.02/s  eta=119.2min
+[875/1000] 692.7min  rate=0.02/s  eta=99.0min
+[900/1000] 714.2min  rate=0.02/s  eta=79.4min
+[925/1000] 735.8min  rate=0.02/s  eta=59.7min
+[950/1000] 756.7min  rate=0.02/s  eta=39.8min
+[975/1000] 778.6min  rate=0.02/s  eta=20.0min
+[1000/1000] 800.9min  rate=0.02/s  eta=0.0min
+gold: 1000   qmeans: 1000
+{
+  "label": "v11",
+  "adapter": "/home3/indiamart/gemma_4/isq-gemma4-e4b-v11-priority-balanced",
+  "n": 1000,
+  "v11_vs_gold": {
+    "key_only": {
+      "precision": 0.7947,
+      "recall": 0.3182,
+      "f1": 0.4544,
+      "tp": 987,
+      "fp": 255,
+      "fn": 2115
+    },
+    "key_value": {
+      "precision": 0.3543,
+      "recall": 0.1418,
+      "f1": 0.2026,
+      "tp": 440,
+      "fp": 802,
+      "fn": 2662
+    }
+  },
+  "qmeans_vs_gold": {
+    "key_only": {
+      "precision": 0.9595,
+      "recall": 0.2982,
+      "f1": 0.455,
+      "tp": 925,
+      "fp": 39,
+      "fn": 2177
+    },
+    "key_value": {
+      "precision": 0.1266,
+      "recall": 0.0393,
+      "f1": 0.06,
+      "tp": 122,
+      "fp": 842,
+      "fn": 2980
+    }
+  }
+}
+=== V11 PIPELINE DONE Mon May 11 10:06:15 PM IST 2026 ===

@@ -1,0 +1,1000 @@
+{"query": "Cooler Motor", "attributes": {"part type": "motor", "usage": "cooler"}}
+{"query": "Actuators", "attributes": {"part type": "actuator"}}
+{"query": "130 Flat Motor", "attributes": {"part type": "motor", "frame size": "130", "shape": "flat"}}
+{"query": "ap fan motor & fresh air moter", "attributes": {"part type": "motor", "usage": "fan; fresh air"}}
+{"query": "a.c. induction motor", "attributes": {"part type": "motor", "power source": "AC", "driven type": "induction"}}
+{"query": "Siemens Sipart Ps2 Positioner Model 6dr5", "attributes": {"brand": "Siemens", "part type": "positioner", "series": "Sipart Ps2", "model name/number": "6dr5"}}
+{"query": "Ac Outdoor Fan Motor", "attributes": {"part type": "motor", "power source": "AC", "usage": "outdoor fan"}}
+{"query": "siemens-electric-motors", "attributes": {"brand": "Siemens", "part type": "motor", "power source": "electric"}}
+{"query": "SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF01-1MB0 1 kW", "attributes": {"brand": "Siemens", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF01-1MB0", "power": "1 kW"}}
+{"query": "yako tech ms s3", "attributes": {"brand": "yako tech", "model name/number": "ms s3"}}
+{"query": "brushless dc motor", "attributes": {"part type": "motor", "power source": "DC", "driven type": "brushless"}}
+{"query": "ABB Electric Motor", "attributes": {"brand": "ABB", "part type": "motor", "power source": "electric"}}
+{"query": "sensor plate", "attributes": {"part type": "sensor plate"}}
+{"query": "electronic components bo moters", "attributes": {"part type": "motor", "feature": "electronic components"}}
+{"query": "1500 kv ccw multirotor motor", "attributes": {"part type": "motor", "rated speed": "1500 kv", "feature": "ccw multirotor"}}
+{"query": "Panasonic Geared Motor", "attributes": {"brand": "Panasonic", "part type": "motor", "driven type": "geared"}}
+{"query": "worm geared brake motor", "attributes": {"part type": "motor", "driven type": "worm geared brake"}}
+{"query": "eletical motors 40hp", "attributes": {"part type": "motor", "power source": "electric", "horsepower": "40hp"}}
+{"query": "Rotomotive Induction Motor 3 Phase", "attributes": {"brand": "Rotomotive", "part type": "motor", "driven type": "induction", "phase": "3"}}
+{"query": "100 W Chimney Motor", "attributes": {"part type": "motor", "usage": "chimney", "power": "100 W"}}
+{"query": "1 for reselling piece Panasonic Geared Motor", "attributes": {"brand": "Panasonic", "part type": "motor", "driven type": "geared", "quantity": "1"}}
+{"query": "Motor Cover", "attributes": {"part type": "motor cover"}}
+{"query": "b04420065", "attributes": {"model name/number": "b04420065"}}
+{"query": "1 piece Slip Rings", "attributes": {"part type": "slip rings", "quantity": "1"}}
+{"query": "venex 3 phase dol motor starter", "attributes": {"brand": "venex", "part type": "motor starter", "phase": "3", "starter type": "dol"}}
+{"query": "Used Crompton Greaves Motor", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "feature": "used"}}
+{"query": "Mobile Starter Prime", "attributes": {"part type": "starter", "feature": "mobile prime"}}
+{"query": "1kw( 1.3hp) bldc motor", "attributes": {"part type": "motor", "driven type": "bldc", "power": "1kw", "horsepower": "1.3hp"}}
+{"query": "1kw( 1.3hp) bldc motor near jharsuguda", "attributes": {"part type": "motor", "driven type": "bldc", "power": "1kw", "horsepower": "1.3hp", "location/city": "jharsuguda"}}
+{"query": "spg motor", "attributes": {"brand": "spg", "part type": "motor"}}
+{"query": "crompton greaves motor 5 hp 3.70 kw 3 phase 1450 rpm foot mount", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "horsepower": "5 hp", "power": "3.70 kw", "phase": "3", "rpm": "1450 rpm", "mounting type": "foot mount"}}
+{"query": "Vacuum Cleaner Motors", "attributes": {"part type": "motor", "usage": "vacuum cleaner"}}
+{"query": "Siemens Electric Three Phase Motor", "attributes": {"brand": "Siemens", "part type": "motor", "power source": "electric", "phase": "3"}}
+{"query": "panasonic gear box MY9G30B", "attributes": {"brand": "panasonic", "part type": "gear box", "model name/number": "MY9G30B"}}
+{"query": "Three Phase Dol Starter (elcw-s-digi)", "attributes": {"part type": "starter", "phase": "3", "starter type": "dol", "model name/number": "elcw-s-digi"}}
+{"query": "Motor Plate", "attributes": {"part type": "motor plate"}}
+{"query": "three phase dol dry run motor starter", "attributes": {"part type": "motor starter", "phase": "3", "starter type": "dol", "feature": "dry run"}}
+{"query": "Single Phase Electric Motor", "attributes": {"part type": "motor", "phase": "single", "power source": "electric"}}
+{"query": "auto switch", "attributes": {"part type": "auto switch"}}
+{"query": "Mdt Knx Actuator Automation Products Dealer", "attributes": {"brand": "Mdt", "part type": "actuator", "feature": "Knx automation products"}}
+{"query": "Three Phase DOL  Auto Switch With Timer With Connector (Rocker Switch)", "attributes": {"part type": "auto switch", "phase": "3", "starter type": "DOL", "feature": "with timer with connector rocker switch"}}
+{"query": "Hydraulic Motor", "attributes": {"part type": "motor", "driven type": "hydraulic"}}
+{"query": "sliding door motor", "attributes": {"part type": "motor", "usage": "sliding door"}}
+{"query": "solenoid-switches", "attributes": {"part type": "solenoid switches"}}
+{"query": "symphony air cooler motor", "attributes": {"brand": "symphony", "part type": "motor", "usage": "air cooler"}}
+{"query": "PBL Geared Motors", "attributes": {"brand": "PBL", "part type": "motor", "driven type": "geared"}}
+{"query": "super max oil immersed dol motor starter", "attributes": {"brand": "super max", "part type": "motor starter", "starter type": "dol", "feature": "oil immersed"}}
+{"query": "Sunflag Table Fan Motor", "attributes": {"brand": "Sunflag", "part type": "motor", "usage": "table fan"}}
+{"query": "Industrial Motors", "attributes": {"part type": "motor", "application": "industrial"}}
+{"query": "crompton 3 phase motor 7.5 hp i3", "attributes": {"brand": "crompton", "part type": "motor", "phase": "3", "horsepower": "7.5 hp", "efficiency": "i3"}}
+{"query": "linear actuator control board", "attributes": {"part type": "control board", "feature": "linear actuator"}}
+{"query": "panasonic gar box", "attributes": {"brand": "panasonic", "part type": "gear box"}}
+{"query": "à¤¡à¥à¤°à¥‹à¤¨ à¤¡à¥€à¤¸à¥€ à¤®à¥‹à¤Ÿà¤°", "attributes": {"part type": "motor", "power source": "DC", "usage": "drone"}}
+{"query": "single phase servo motor", "attributes": {"part type": "motor", "phase": "single", "driven type": "servo"}}
+{"query": "single phase mild steel geared motor", "attributes": {"part type": "motor", "phase": "single", "material": "mild steel", "driven type": "geared"}}
+{"query": "Gold Power Single Phase Induction Motor", "attributes": {"brand": "Gold Power", "part type": "motor", "phase": "single", "driven type": "induction"}}
+{"query": "Siemens 3TW72911AW78", "attributes": {"brand": "Siemens", "model name/number": "3TW72911AW78"}}
+{"query": "Siemens 3TW72911AW74", "attributes": {"brand": "Siemens", "model name/number": "3TW72911AW74"}}
+{"query": "Siemens 3TW72911AW72", "attributes": {"brand": "Siemens", "model name/number": "3TW72911AW72"}}
+{"query": "Siemens 3TW72911AW71", "attributes": {"brand": "Siemens", "model name/number": "3TW72911AW71"}}
+{"query": "Vertical Hollow Shaft Motor Service", "attributes": {"part type": "motor", "orientation": "vertical", "feature": "hollow shaft service"}}
+{"query": "Siemens 3TW72911AW69", "attributes": {"brand": "Siemens", "model name/number": "3TW72911AW69"}}
+{"query": "Siemens 3TW72911AW68", "attributes": {"brand": "Siemens", "model name/number": "3TW72911AW68"}}
+{"query": "Siemens 3TW72911AW66", "attributes": {"brand": "Siemens", "model name/number": "3TW72911AW66"}}
+{"query": "Siemens 3TW72911AW64", "attributes": {"brand": "Siemens", "model name/number": "3TW72911AW64"}}
+{"query": "100 HP to 2000 HP  Slip Ring Motor Starter", "attributes": {"part type": "motor starter", "horsepower": "100 HP to 2000 HP", "driven type": "slip ring"}}
+{"query": "Crompton Single Phase Electric Motor", "attributes": {"brand": "Crompton", "part type": "motor", "phase": "single", "power source": "electric"}}
+{"query": "6 for business use piece electronic Valve Positioners", "attributes": {"part type": "valve positioner", "quantity": "6", "feature": "electronic"}}
+{"query": "drondch motor", "attributes": {"part type": "motor"}}
+{"query": "STP-43D2035 Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "model name/number": "STP-43D2035"}}
+{"query": "SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF01-1MB0", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF01-1MB0"}}
+{"query": "Crompton 0.5hp Motor", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "0.5hp"}}
+{"query": "Jencode Hollow Shaft Encoder", "attributes": {"brand": "Jencode", "part type": "encoder", "shaft diameter": "hollow shaft"}}
+{"query": "AC MOTARS", "attributes": {"part type": "motor", "power source": "AC"}}
+{"query": "Hadrulicl Power motar", "attributes": {"part type": "motor", "driven type": "hydraulic", "feature": "power"}}
+{"query": "RC Car Brushless ESC Platinum Edition 120A", "attributes": {"part type": "ESC", "driven type": "brushless", "usage": "RC car", "current": "120A", "grade": "Platinum Edition"}}
+{"query": "RPG15Q Motor", "attributes": {"part type": "motor", "model name/number": "RPG15Q"}}
+{"query": "Honeywell V4055 Fuild Power Actuator", "attributes": {"brand": "Honeywell", "part type": "actuator", "model name/number": "V4055", "feature": "fluid power"}}
+{"query": "servo motor .", "attributes": {"part type": "motor", "driven type": "servo"}}
+{"query": "L & T SOFT STARTOR", "attributes": {"brand": "L & T", "part type": "starter", "starter type": "soft"}}
+{"query": "775 dc motor", "attributes": {"part type": "motor", "power source": "DC", "model name/number": "775"}}
+{"query": "Brake Motors", "attributes": {"part type": "motor", "feature": "brake"}}
+{"query": "1FK2104-6AF01-1MB0", "attributes": {"model name/number": "1FK2104-6AF01-1MB0"}}
+{"query": "Electric Motor", "attributes": {"part type": "motor", "power source": "electric"}}
+{"query": "3 phase 415 V 0.09KW Motor", "attributes": {"part type": "motor", "phase": "3", "voltage": "415 V", "power": "0.09KW"}}
+{"query": "crompton motors crompton motor 5 hp single phase near patna", "attributes": {"brand": "crompton", "part type": "motor", "horsepower": "5 hp", "phase": "single", "location/city": "patna"}}
+{"query": "12v 775 Dc Motor", "attributes": {"part type": "motor", "power source": "DC", "voltage": "12v", "model name/number": "775"}}
+{"query": "Linear Actuator", "attributes": {"part type": "actuator", "driven type": "linear"}}
+{"query": "Gold Power Single Phase Induction Motor, Voltage: 220V", "attributes": {"brand": "Gold Power", "part type": "motor", "phase": "single", "driven type": "induction", "voltage": "220V"}}
+{"query": "dc motors", "attributes": {"part type": "motor", "power source": "DC"}}
+{"query": "dol starter", "attributes": {"part type": "starter", "starter type": "dol"}}
+{"query": "Wages Patti", "attributes": {"part type": "wages patti"}}
+{"query": "Lift Motor", "attributes": {"part type": "motor", "usage": "lift"}}
+{"query": "0.25HP Single Phase Electric Motor", "attributes": {"part type": "motor", "horsepower": "0.25HP", "phase": "single", "power source": "electric"}}
+{"query": "12v dc dual shaft motor", "attributes": {"part type": "motor", "power source": "DC", "voltage": "12v", "feature": "dual shaft"}}
+{"query": "single phase submersible pump starter", "attributes": {"part type": "pump starter", "phase": "single", "feature": "submersible"}}
+{"query": "Bharat Bijlee Ie3 Motor", "attributes": {"brand": "Bharat Bijlee", "part type": "motor", "efficiency": "Ie3"}}
+{"query": "Crompton Single Phase Vibrator", "attributes": {"brand": "Crompton", "part type": "vibrator", "phase": "single"}}
+{"query": "Telescopic Brushes", "attributes": {"part type": "brushes", "feature": "telescopic"}}
+{"query": "Carbon Brush", "attributes": {"part type": "carbon brush"}}
+{"query": "electric gate motor", "attributes": {"part type": "motor", "usage": "gate", "power source": "electric"}}
+{"query": "101-200 KW 1 HP Bharat Bijlee Ac Motor, 1500 rpm", "attributes": {"brand": "Bharat Bijlee", "part type": "motor", "power source": "AC", "power": "101-200 KW", "horsepower": "1 HP", "rpm": "1500 rpm"}}
+{"query": "Auto Switch for 3 Phase Motor", "attributes": {"part type": "auto switch", "usage": "3 phase motor", "phase": "3"}}
+{"query": "crompton motors crompton motor 5 hp single phase", "attributes": {"brand": "crompton", "part type": "motor", "horsepower": "5 hp", "phase": "single"}}
+{"query": "Motors", "attributes": {"part type": "motor"}}
+{"query": "electrical motor", "attributes": {"part type": "motor", "power source": "electric"}}
+{"query": "0.37 KW 0.5 HP Bharat Bijlee Electric Motor, 1500 rpm", "attributes": {"brand": "Bharat Bijlee", "part type": "motor", "power source": "electric", "power": "0.37 KW", "horsepower": "0.5 HP", "rpm": "1500 rpm"}}
+{"query": "Three Phase Bharat Bijlee Motor", "attributes": {"brand": "Bharat Bijlee", "part type": "motor", "phase": "3"}}
+{"query": "peco pk1 3 phase dol motor starter", "attributes": {"brand": "peco", "part type": "motor starter", "model name/number": "pk1", "phase": "3", "starter type": "dol"}}
+{"query": "Dol Motor Starter Dmc", "attributes": {"part type": "motor starter", "starter type": "dol", "model name/number": "Dmc"}}
+{"query": "tower-fan-motor", "attributes": {"part type": "motor", "usage": "tower fan"}}
+{"query": "11 KW 15 HP Crompton Greaves Electric Motor, 1000 rpm", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "power source": "electric", "power": "11 KW", "horsepower": "15 HP", "rpm": "1000 rpm"}}
+{"query": "3 Phase Induction Motor, 3600 rpm, 4 Pole", "attributes": {"part type": "motor", "phase": "3", "driven type": "induction", "rpm": "3600 rpm", "poles": "4"}}
+{"query": "Siemens Electric Motor", "attributes": {"brand": "Siemens", "part type": "motor", "power source": "electric"}}
+{"query": "3.7 KW 5 HP Crompton Greaves AC motor, 1500 rpm", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "power source": "AC", "power": "3.7 KW", "horsepower": "5 HP", "rpm": "1500 rpm"}}
+{"query": "Crompton", "attributes": {"brand": "Crompton"}}
+{"query": "Crompton Greaves Industrial Motors", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "application": "industrial"}}
+{"query": "White Motor Starter", "attributes": {"part type": "motor starter", "color": "white"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF10-1MA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF10-1MA0", "power": "2.7 kW"}}
+{"query": "CG Three Phase Crompton Greaves Flameproof Motor", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "phase": "3", "feature": "flameproof"}}
+{"query": "Makita HR-2440 Armature By PowerSpeed", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "HR-2440"}}
+{"query": "bldc 50w 24v 3000rpm", "attributes": {"part type": "motor", "driven type": "bldc", "power": "50w", "voltage": "24v", "rpm": "3000rpm"}}
+{"query": "Mixer Grinder Motor", "attributes": {"part type": "motor", "usage": "mixer grinder"}}
+{"query": "3000 rpm 24 v bldc 50w 24v 3000rpm", "attributes": {"part type": "motor", "driven type": "bldc", "rpm": "3000 rpm", "voltage": "24 v", "power": "50w"}}
+{"query": "three phase 5 ac induction motor piece 10 hp 1440 rpm Three Phase Induction Motor Cg Make 3 HP", "attributes": {"brand": "Cg", "part type": "motor", "phase": "3", "power source": "ac", "driven type": "induction", "horsepower": "10 hp", "rpm": "1440 rpm"}}
+{"query": "motor protection cover", "attributes": {"part type": "motor protection cover"}}
+{"query": "Dwe4235 Armature", "attributes": {"part type": "armature", "model name/number": "Dwe4235"}}
+{"query": "AM Gold Motor Starter", "attributes": {"brand": "AM Gold", "part type": "motor starter"}}
+{"query": "R. S. Series Geared Motors", "attributes": {"part type": "motor", "driven type": "geared", "series": "R. S."}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF01-1SB0 1 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF01-1SB0", "power": "1 kW"}}
+{"query": "3000  rpm 24  v 10 bldc 50w 24v 3000rpm", "attributes": {"part type": "motor", "driven type": "bldc", "rpm": "3000 rpm", "voltage": "24 v", "power": "50w"}}
+{"query": "24  v 10 bldc 50w 24v 3000rpm", "attributes": {"part type": "motor", "driven type": "bldc", "voltage": "24 v", "power": "50w", "rpm": "3000rpm"}}
+{"query": "makita mt240 cb203a cut off carbon brush", "attributes": {"brand": "makita", "part type": "carbon brush", "model name/number": "mt240 cb203a", "usage": "cut off"}}
+{"query": "2 hp gear motor", "attributes": {"part type": "motor", "horsepower": "2 hp", "driven type": "geared"}}
+{"query": "Induction Motor Cg Make", "attributes": {"brand": "Cg", "part type": "motor", "driven type": "induction"}}
+{"query": "Dual shaft Motor", "attributes": {"part type": "motor", "feature": "dual shaft"}}
+{"query": "ac servo motor 750w", "attributes": {"part type": "motor", "power source": "ac", "driven type": "servo", "power": "750w"}}
+{"query": "ats480c66y", "attributes": {"model name/number": "ats480c66y"}}
+{"query": "Kirloskar Electric Motor", "attributes": {"brand": "Kirloskar", "part type": "motor", "power source": "electric"}}
+{"query": "three  phase 1 ATS480C66Y", "attributes": {"phase": "3", "model name/number": "ATS480C66Y", "quantity": "1"}}
+{"query": "l and t mpower pro mobile motor starter", "attributes": {"brand": "l and t", "part type": "motor starter", "series": "mpower pro mobile"}}
+{"query": "zd motor 25 w small ac geared motors 220v", "attributes": {"part type": "motor", "power source": "ac", "driven type": "geared", "power": "25 w", "voltage": "220v", "size": "small"}}
+{"query": "kitchen hood motor", "attributes": {"part type": "motor", "usage": "kitchen hood"}}
+{"query": "kapcon simi cooler motor", "attributes": {"brand": "kapcon", "part type": "motor", "usage": "cooler"}}
+{"query": "Jayashree Rotory Encoder Hollow Shaft", "attributes": {"brand": "Jayashree", "part type": "encoder", "shaft diameter": "hollow shaft", "feature": "rotary"}}
+{"query": "20w fan dc motor", "attributes": {"part type": "motor", "power source": "dc", "power": "20w", "usage": "fan"}}
+{"query": "Wet Rice Grinders AUE Motors", "attributes": {"brand": "AUE", "part type": "motor", "usage": "wet rice grinders"}}
+{"query": "Electronic Starter", "attributes": {"part type": "starter", "feature": "electronic"}}
+{"query": "AC Synchronous Motors", "attributes": {"part type": "motor", "power source": "AC", "driven type": "synchronous"}}
+{"query": "Jayashree Encoder  : Hollow Shaft  J-50T", "attributes": {"brand": "Jayashree", "part type": "encoder", "shaft diameter": "hollow shaft", "model name/number": "J-50T"}}
+{"query": "Motor", "attributes": {"part type": "motor"}}
+{"query": "Remi Centrifuge Carbon Brush", "attributes": {"brand": "Remi", "part type": "carbon brush", "usage": "centrifuge"}}
+{"query": "High po re", "attributes": {}}
+{"query": "volvo & ir l&t case vibration motor shaft", "attributes": {"brand": "volvo; ir; l&t", "part type": "motor shaft", "feature": "vibration"}}
+{"query": "Rawat+Induction+Motors", "attributes": {"brand": "Rawat", "part type": "motor", "driven type": "induction"}}
+{"query": "havells single phase motor", "attributes": {"brand": "havells", "part type": "motor", "phase": "single"}}
+{"query": "HAVELLS 3 PHASE MOTORSIE2/IE3", "attributes": {"brand": "HAVELLS", "part type": "motor", "phase": "3", "efficiency": "IE2/IE3"}}
+{"query": "DHARMENDRA", "attributes": {}}
+{"query": "vertical helical gear motor 5 hp", "attributes": {"part type": "motor", "orientation": "vertical", "driven type": "helical gear", "horsepower": "5 hp"}}
+{"query": "Bosch parts", "attributes": {"brand": "Bosch", "part type": "parts"}}
+{"query": "Panasonic AC Servo Motor", "attributes": {"brand": "Panasonic", "part type": "motor", "power source": "AC", "driven type": "servo"}}
+{"query": "squirrel-cage-motors", "attributes": {"part type": "motor", "driven type": "squirrel cage"}}
+{"query": "Belimo Damper Actuator", "attributes": {"brand": "Belimo", "part type": "actuator", "usage": "damper"}}
+{"query": "Squirrel Cage Induction Motor tefc type", "attributes": {"part type": "motor", "driven type": "squirrel cage induction", "feature": "tefc type"}}
+{"query": "fn20c motor", "attributes": {"part type": "motor", "model name/number": "fn20c"}}
+{"query": "fireproof motor", "attributes": {"part type": "motor", "feature": "fireproof"}}
+{"query": "Minas A6 Panasonic  Servo Motor & Driver", "attributes": {"brand": "Panasonic", "part type": "motor", "series": "Minas A6", "driven type": "servo", "feature": "with driver"}}
+{"query": "Planetary Gear Motor", "attributes": {"part type": "motor", "driven type": "planetary gear"}}
+{"query": "Squirrel Cage Induction Motor tefc type 415v", "attributes": {"part type": "motor", "driven type": "squirrel cage induction", "feature": "tefc type", "voltage": "415v"}}
+{"query": "vertical helical gear motor", "attributes": {"part type": "motor", "orientation": "vertical", "driven type": "helical gear"}}
+{"query": "2 advanced features 2 10 hp mobile starter", "attributes": {"part type": "starter", "horsepower": "10 hp", "feature": "mobile advanced"}}
+{"query": "Helical Geared Motor", "attributes": {"part type": "motor", "driven type": "helical geared"}}
+{"query": "dvd motor", "attributes": {"part type": "motor", "usage": "dvd"}}
+{"query": "2 hp three phase induction motor", "attributes": {"part type": "motor", "horsepower": "2 hp", "phase": "3", "driven type": "induction"}}
+{"query": "Direct oil immersed starter skn Kelson U Kit Set", "attributes": {"brand": "skn Kelson", "part type": "starter", "starter type": "direct oil immersed", "feature": "U Kit Set"}}
+{"query": "Rolling Shutter Motor", "attributes": {"part type": "motor", "usage": "rolling shutter"}}
+{"query": "Delton Three Single Phase Oil Starter", "attributes": {"brand": "Delton", "part type": "starter", "phase": "single", "feature": "oil"}}
+{"query": "Shaft Encoder", "attributes": {"part type": "encoder", "feature": "shaft"}}
+{"query": "CTV 110 Unimotion Servo Motor", "attributes": {"brand": "Unimotion", "part type": "motor", "model name/number": "CTV 110", "driven type": "servo"}}
+{"query": "Crompton Single Phase Motor", "attributes": {"brand": "Crompton", "part type": "motor", "phase": "single"}}
+{"query": "crompton single phase cooler motor", "attributes": {"brand": "crompton", "part type": "motor", "phase": "single", "usage": "cooler"}}
+{"query": "crompton greaves energy efficient motor", "attributes": {"brand": "crompton greaves", "part type": "motor", "feature": "energy efficient"}}
+{"query": "180 Watt Electro Magnetic Brake Motor", "attributes": {"part type": "motor", "power": "180 Watt", "feature": "electro magnetic brake"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-5AK00-0SB0 0.12 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-5AK00-0SB0", "power": "0.12 kW"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-4AF10-0SA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF10-0SA0", "power": "2.7 kW"}}
+{"query": "Servo Motor", "attributes": {"part type": "motor", "driven type": "servo"}}
+{"query": "copper sewing machine motor armature", "attributes": {"part type": "armature", "usage": "sewing machine motor", "material": "copper"}}
+{"query": "cooler motor high speed", "attributes": {"part type": "motor", "usage": "cooler", "feature": "high speed"}}
+{"query": "cooler hee motor", "attributes": {"part type": "motor", "usage": "cooler"}}
+{"query": "Kerovit Ege Actuation Plate", "attributes": {"brand": "Kerovit", "part type": "actuation plate", "series": "Ege"}}
+{"query": "ABB Soft Starters", "attributes": {"brand": "ABB", "part type": "starter", "starter type": "soft"}}
+{"query": "Bullet Farrata Fan Motor", "attributes": {"brand": "Bullet", "part type": "motor", "usage": "farrata fan"}}
+{"query": "happymodel motor", "attributes": {"brand": "happymodel", "part type": "motor"}}
+{"query": "Double Shaft Motor", "attributes": {"part type": "motor", "feature": "double shaft"}}
+{"query": "incubator turning motor", "attributes": {"part type": "motor", "usage": "incubator turning"}}
+{"query": "abb motor", "attributes": {"brand": "abb", "part type": "motor"}}
+{"query": "2hp single phase motor cg model gf7010", "attributes": {"brand": "cg", "part type": "motor", "horsepower": "2hp", "phase": "single", "model name/number": "gf7010"}}
+{"query": "2hp single phase motor near kolkata cg model no gf7010", "attributes": {"brand": "cg", "part type": "motor", "horsepower": "2hp", "phase": "single", "model name/number": "gf7010", "location/city": "kolkata"}}
+{"query": "100 HP Slip Ring Motor Starter", "attributes": {"part type": "motor starter", "horsepower": "100 HP", "driven type": "slip ring"}}
+{"query": "battery operated pmdc motor", "attributes": {"part type": "motor", "driven type": "pmdc", "power source": "battery"}}
+{"query": "Automatic Door Motor", "attributes": {"part type": "motor", "usage": "automatic door"}}
+{"query": "Automatic Rolling Shutters Motor", "attributes": {"part type": "motor", "usage": "automatic rolling shutters"}}
+{"query": "Nxu Gear Brake Motor In Pune", "attributes": {"brand": "Nxu", "part type": "motor", "driven type": "gear brake", "location/city": "Pune"}}
+{"query": "Bosch Carbon Brushes", "attributes": {"brand": "Bosch", "part type": "carbon brush"}}
+{"query": "1 piece 750 watt 3000 rpm AC Servo Motor", "attributes": {"part type": "motor", "power source": "AC", "driven type": "servo", "power": "750 watt", "rpm": "3000 rpm", "quantity": "1"}}
+{"query": "Arun D O L Motor Starter", "attributes": {"brand": "Arun", "part type": "motor starter", "starter type": "DOL"}}
+{"query": "v12 mobile starter", "attributes": {"part type": "starter", "model name/number": "v12", "feature": "mobile"}}
+{"query": "1 hp motor", "attributes": {"part type": "motor", "horsepower": "1 hp"}}
+{"query": "angle grinder armature", "attributes": {"part type": "armature", "usage": "angle grinder"}}
+{"query": "ola motor", "attributes": {"brand": "ola", "part type": "motor"}}
+{"query": "altistart 22 soft starters", "attributes": {"part type": "starter", "starter type": "soft", "series": "altistart 22"}}
+{"query": "tawagawa hollow encoder ts 5700n8500", "attributes": {"brand": "tawagawa", "part type": "encoder", "shaft diameter": "hollow", "model name/number": "ts 5700n8500"}}
+{"query": "tawagawa hollow encoder ts-5700n8500", "attributes": {"brand": "tawagawa", "part type": "encoder", "shaft diameter": "hollow", "model name/number": "ts-5700n8500"}}
+{"query": "actuator model %3A rr a50 d", "attributes": {"part type": "actuator", "model name/number": "rr a50 d"}}
+{"query": "86HS120 Two Phase Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "phase": "2", "model name/number": "86HS120"}}
+{"query": "86 HS 65 Two Phase Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "phase": "2", "model name/number": "86 HS 65"}}
+{"query": "Ola motot", "attributes": {"brand": "Ola", "part type": "motor"}}
+{"query": "Swing Gate Motor", "attributes": {"part type": "motor", "usage": "swing gate"}}
+{"query": "COPCARBON BRUSH 25X40X10", "attributes": {"part type": "carbon brush", "size": "25X40X10"}}
+{"query": "DC GEAR MOTOR", "attributes": {"part type": "motor", "power source": "DC", "driven type": "geared"}}
+{"query": "motor-armature", "attributes": {"part type": "motor armature"}}
+{"query": "57 HS 22 Two Phase Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "phase": "2", "model name/number": "57 HS 22"}}
+{"query": "57 HS 13 Two Phase Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "phase": "2", "model name/number": "57 HS 13"}}
+{"query": "57 HS 09 Two Phase Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "phase": "2", "model name/number": "57 HS 09"}}
+{"query": "el%20tech%20motors", "attributes": {"brand": "el tech", "part type": "motor"}}
+{"query": "Leadshine ISV5713V36 1000 AC Servo Motor", "attributes": {"brand": "Leadshine", "part type": "motor", "power source": "AC", "driven type": "servo", "model name/number": "ISV5713V36 1000"}}
+{"query": "PDA Sliding Gate Motor", "attributes": {"brand": "PDA", "part type": "motor", "usage": "sliding gate"}}
+{"query": "42 HS 02 Two Phase Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "phase": "2", "model name/number": "42 HS 02"}}
+{"query": "Jencoder Hollow Type  Rotary Encoder J-50T", "attributes": {"brand": "Jencoder", "part type": "encoder", "shaft diameter": "hollow", "feature": "rotary", "model name/number": "J-50T"}}
+{"query": "Inverter Duty Induction Motors", "attributes": {"part type": "motor", "driven type": "induction", "feature": "inverter duty"}}
+{"query": "39 HS 02 Two Phase Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "phase": "2", "model name/number": "39 HS 02"}}
+{"query": "aluminium bell", "attributes": {"part type": "bell", "material": "aluminium"}}
+{"query": "spindle-motors", "attributes": {"part type": "motor", "usage": "spindle"}}
+{"query": "Schneider Ats48 Soft Starter Repairs", "attributes": {"brand": "Schneider", "part type": "starter", "starter type": "soft", "series": "Ats48", "feature": "repair service"}}
+{"query": "Jencoder Rotory Encoder : Hollow Type", "attributes": {"brand": "Jencoder", "part type": "encoder", "shaft diameter": "hollow", "feature": "rotary"}}
+{"query": "swing starter", "attributes": {"part type": "starter", "feature": "swing"}}
+{"query": "Rhino 12V DC 30RPM 70Kgcm IG32 Heavy Duty Planetary Geared Motor", "attributes": {"brand": "Rhino", "part type": "motor", "voltage": "12V", "power source": "DC", "rpm": "30RPM", "torque": "70Kgcm", "model name/number": "IG32", "driven type": "planetary geared", "feature": "heavy duty"}}
+{"query": "18 inch g c exhaust fan motor housing", "attributes": {"part type": "motor housing", "usage": "exhaust fan", "size": "18 inch"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF01-1SB0", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF01-1SB0"}}
+{"query": "12v bldc", "attributes": {"part type": "motor", "driven type": "bldc", "voltage": "12v"}}
+{"query": "1 Inch Kit Cooler Motor", "attributes": {"part type": "motor", "usage": "cooler", "size": "1 Inch", "feature": "kit"}}
+{"query": "Jencoder Hollow Shaft Rotary Encoder J-50T", "attributes": {"brand": "Jencoder", "part type": "encoder", "shaft diameter": "hollow shaft", "feature": "rotary", "model name/number": "J-50T"}}
+{"query": "110HS20 Two Phase Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "phase": "2", "model name/number": "110HS20"}}
+{"query": "Toothed Belt Axis Egc-tb", "attributes": {"part type": "belt axis", "model name/number": "Egc-tb", "feature": "toothed"}}
+{"query": "lifting-column-actuator", "attributes": {"part type": "actuator", "feature": "lifting column"}}
+{"query": "Electric Rotary Actuators", "attributes": {"part type": "actuator", "power source": "electric", "feature": "rotary"}}
+{"query": "Single Phase Motors", "attributes": {"part type": "motor", "phase": "single"}}
+{"query": "AC Servo Motor", "attributes": {"part type": "motor", "power source": "AC", "driven type": "servo"}}
+{"query": "Unbalance Motors", "attributes": {"part type": "motor", "feature": "unbalance"}}
+{"query": "Starters", "attributes": {"part type": "starter"}}
+{"query": "industrial-electric-motor", "attributes": {"part type": "motor", "power source": "electric", "application": "industrial"}}
+{"query": "siemens motor", "attributes": {"brand": "siemens", "part type": "motor"}}
+{"query": "Marsh Actuators", "attributes": {"brand": "Marsh", "part type": "actuator"}}
+{"query": "Spindle Motors", "attributes": {"part type": "motor", "usage": "spindle"}}
+{"query": "carbon brush size: 08 x 20 x 30mm", "attributes": {"part type": "carbon brush", "size": "08 x 20 x 30mm"}}
+{"query": "1FK2104-6AF01-1SB0", "attributes": {"model name/number": "1FK2104-6AF01-1SB0"}}
+{"query": "spal blower motor", "attributes": {"brand": "spal", "part type": "motor", "usage": "blower"}}
+{"query": "VDS Automatic Sliding Gate Motor", "attributes": {"brand": "VDS", "part type": "motor", "usage": "sliding gate", "feature": "automatic"}}
+{"query": "BLDC Motor Sa42bld002 - 3000 Rpm 24vdc 52 Watt", "attributes": {"part type": "motor", "driven type": "bldc", "model name/number": "Sa42bld002", "rpm": "3000 Rpm", "voltage": "24vdc", "power": "52 Watt"}}
+{"query": "Electric Actuator", "attributes": {"part type": "actuator", "power source": "electric"}}
+{"query": "Hollow Shaft Rotary Encoder :Jencoder", "attributes": {"brand": "Jencoder", "part type": "encoder", "shaft diameter": "hollow shaft", "feature": "rotary"}}
+{"query": "75 acrylic square 2 x 2 inch piece Photo print Polaroid Fridge Magnets Neodymium Acrylic", "attributes": {"part type": "fridge magnets", "material": "neodymium acrylic", "size": "2 x 2 inch", "shape": "square", "quantity": "75", "feature": "polaroid photo print"}}
+{"query": "double shaft encoder gear motor", "attributes": {"part type": "motor", "driven type": "geared", "feature": "double shaft encoder"}}
+{"query": "960 rpm 1 foot mounted 15 hp three phase electric motor", "attributes": {"part type": "motor", "rpm": "960 rpm", "mounting type": "foot mounted", "horsepower": "15 hp", "phase": "3", "power source": "electric"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-0MB0 1 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF10-0MB0", "power": "1 kW"}}
+{"query": "Y07-59d1-17155 Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper", "model name/number": "Y07-59d1-17155"}}
+{"query": "Schneider Electric BSH0703P11A2A Servo Motor", "attributes": {"brand": "Schneider Electric", "part type": "motor", "driven type": "servo", "model name/number": "BSH0703P11A2A"}}
+{"query": "bldc motor", "attributes": {"part type": "motor", "driven type": "bldc"}}
+{"query": "double shaft gear motor", "attributes": {"part type": "motor", "driven type": "geared", "feature": "double shaft"}}
+{"query": "ATS22 Softstarter Repair Service", "attributes": {"part type": "starter", "starter type": "soft", "series": "ATS22", "feature": "repair service"}}
+{"query": "ac bus blower motor 24 v spal", "attributes": {"brand": "spal", "part type": "motor", "power source": "ac", "usage": "bus blower", "voltage": "24 v"}}
+{"query": "dc motor 8 watt", "attributes": {"part type": "motor", "power source": "dc", "power": "8 watt"}}
+{"query": "crompton-greaves-industrial-motors", "attributes": {"brand": "crompton greaves", "part type": "motor", "application": "industrial"}}
+{"query": "bus  ac dual shaft 1330 RPM BLOWER FAN MOTOR", "attributes": {"part type": "motor", "power source": "ac", "usage": "bus blower fan", "rpm": "1330 RPM", "feature": "dual shaft"}}
+{"query": "air  conditioning dual shaft 1330 RPM BLOWER FAN MOTOR", "attributes": {"part type": "motor", "usage": "air conditioning blower fan", "rpm": "1330 RPM", "feature": "dual shaft"}}
+{"query": "Siemens Servo Motors", "attributes": {"brand": "Siemens", "part type": "motor", "driven type": "servo"}}
+{"query": "Kitchen Chimney Motor", "attributes": {"part type": "motor", "usage": "kitchen chimney"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF10-0MA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF10-0MA0", "power": "2.7 kW"}}
+{"query": "Slip Ring Motor", "attributes": {"part type": "motor", "driven type": "slip ring"}}
+{"query": "Break Motor", "attributes": {"part type": "motor", "feature": "brake"}}
+{"query": "3 phase 15hp motor starter", "attributes": {"part type": "motor starter", "phase": "3", "horsepower": "15hp"}}
+{"query": "DC Carbon", "attributes": {"part type": "carbon", "power source": "DC"}}
+{"query": "external motor rotor die casting", "attributes": {"part type": "motor rotor", "feature": "external die casting"}}
+{"query": "c 10 micro 2900 bldc moter", "attributes": {"part type": "motor", "driven type": "bldc", "model name/number": "c 10 micro 2900"}}
+{"query": "extra power breaker 1 power tool armature", "attributes": {"part type": "armature", "usage": "power tool", "feature": "extra power breaker", "quantity": "1"}}
+{"query": "Gear Motor", "attributes": {"part type": "motor", "driven type": "geared"}}
+{"query": "Liquid Resistance Starter", "attributes": {"part type": "starter", "starter type": "liquid resistance"}}
+{"query": "a c blower motor spal", "attributes": {"brand": "spal", "part type": "motor", "usage": "a c blower"}}
+{"query": "1HP Single Phase Godrej Lawkim Foot Mounted", "attributes": {"brand": "Godrej Lawkim", "part type": "motor", "horsepower": "1HP", "phase": "single", "mounting type": "foot mounted"}}
+{"query": "Automatic Sliding Gate Motor", "attributes": {"part type": "motor", "usage": "sliding gate", "feature": "automatic"}}
+{"query": "fcma soft starter", "attributes": {"part type": "starter", "starter type": "soft", "series": "fcma"}}
+{"query": "three phase 1 mini dol automatic-switch", "attributes": {"part type": "auto switch", "phase": "3", "starter type": "dol", "size": "mini", "feature": "automatic", "quantity": "1"}}
+{"query": "push button shutter motor", "attributes": {"part type": "motor", "usage": "shutter", "feature": "push button"}}
+{"query": "SIEMENS 1LE7501â€‘1BB23â€‘5AA4", "attributes": {"brand": "SIEMENS", "model name/number": "1LE7501â€‘1BB23â€‘5AA4"}}
+{"query": "blower-motors", "attributes": {"part type": "motor", "usage": "blower"}}
+{"query": "Servo Motor Repairing Service", "attributes": {"part type": "motor", "driven type": "servo", "feature": "repair service"}}
+{"query": "Petrosa Starter medium 200 Grams", "attributes": {"brand": "Petrosa", "part type": "starter", "size": "medium", "weight": "200 Grams"}}
+{"query": "automatic switch", "attributes": {"part type": "auto switch", "feature": "automatic"}}
+{"query": "Telescopic Linear Actuators", "attributes": {"part type": "actuator", "driven type": "linear", "feature": "telescopic"}}
+{"query": "speed on  outdoor motar", "attributes": {"part type": "motor", "usage": "outdoor", "feature": "speed on"}}
+{"query": "Motor Automatic Switch", "attributes": {"part type": "auto switch", "usage": "motor", "feature": "automatic"}}
+{"query": "speed on outdoor motar", "attributes": {"part type": "motor", "usage": "outdoor", "feature": "speed on"}}
+{"query": "Crompton Greaves Flameproof IE3 Motor", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "feature": "flameproof", "efficiency": "IE3"}}
+{"query": "a c blower motor spal 24v", "attributes": {"brand": "spal", "part type": "motor", "usage": "a c blower", "voltage": "24v"}}
+{"query": "brake motor", "attributes": {"part type": "motor", "feature": "brake"}}
+{"query": "star-delta-starter", "attributes": {"part type": "starter", "starter type": "star delta"}}
+{"query": "deep vibrator motor", "attributes": {"part type": "motor", "usage": "deep vibrator"}}
+{"query": "Hydromatik Rexroth A2F-12-Wp6 Hydraulic Piston Motor", "attributes": {"brand": "Hydromatik Rexroth", "part type": "motor", "driven type": "hydraulic piston", "model name/number": "A2F-12-Wp6"}}
+{"query": "vibrator cover", "attributes": {"part type": "vibrator cover"}}
+{"query": "Rotork Yt 3300 Smart Positioner", "attributes": {"brand": "Rotork", "part type": "positioner", "model name/number": "Yt 3300", "feature": "smart"}}
+{"query": "Concrete Vibrator Motor", "attributes": {"part type": "motor", "usage": "concrete vibrator"}}
+{"query": "blower motors in port blair", "attributes": {"part type": "motor", "usage": "blower", "location/city": "port blair"}}
+{"query": "Hydromatik A2F-107 Hydraulic Piston Pump Motor", "attributes": {"brand": "Hydromatik", "part type": "pump motor", "driven type": "hydraulic piston", "model name/number": "A2F-107"}}
+{"query": "Rexroth A2Fo180, A2Fm180, A2Fo160, A2Fm160 Drive Shaft And Bearing Assembly 50Mm", "attributes": {"brand": "Rexroth", "part type": "drive shaft and bearing assembly", "model name/number": "A2Fo180, A2Fm180, A2Fo160, A2Fm160", "shaft diameter": "50Mm"}}
+{"query": "Brueninghaus Hydromatik Rexroth A2Fm-28/61 Hydraulic Piston Motor", "attributes": {"brand": "Brueninghaus Hydromatik Rexroth", "part type": "motor", "driven type": "hydraulic piston", "model name/number": "A2Fm-28/61"}}
+{"query": "parker hydraulic motor", "attributes": {"brand": "parker", "part type": "motor", "driven type": "hydraulic"}}
+{"query": "Kirloskar Three Phase Induction Motor", "attributes": {"brand": "Kirloskar", "part type": "motor", "phase": "3", "driven type": "induction"}}
+{"query": "Three Phase Induction Motor", "attributes": {"part type": "motor", "phase": "3", "driven type": "induction"}}
+{"query": "Hanning Motor for Bentone Burner", "attributes": {"brand": "Hanning", "part type": "motor", "usage": "Bentone Burner"}}
+{"query": "hyundai/kia clutch actuator", "attributes": {"brand": "hyundai; kia", "part type": "actuator", "usage": "clutch"}}
+{"query": "Remi Centrifuge Carbon Brushes", "attributes": {"brand": "Remi", "part type": "carbon brush", "usage": "centrifuge"}}
+{"query": "2hp motor", "attributes": {"part type": "motor", "horsepower": "2hp"}}
+{"query": "aluminium die cast rotors", "attributes": {"part type": "rotors", "material": "aluminium die cast"}}
+{"query": "bhavani induction motor", "attributes": {"brand": "bhavani", "part type": "motor", "driven type": "induction"}}
+{"query": "DC Motor", "attributes": {"part type": "motor", "power source": "DC"}}
+{"query": "Intermot hydro motors 800cc", "attributes": {"brand": "Intermot", "part type": "motor", "driven type": "hydraulic", "displacement": "800cc"}}
+{"query": "Mobile Starter", "attributes": {"part type": "starter", "feature": "mobile"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK01-0MB0 0.12 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2204-5AK01-0MB0", "power": "0.12 kW"}}
+{"query": "Single Phase Induction Motor", "attributes": {"part type": "motor", "phase": "single", "driven type": "induction"}}
+{"query": "5 watts motor rexnord rec-8313-05-a2", "attributes": {"brand": "rexnord", "part type": "motor", "power": "5 watts", "model name/number": "rec-8313-05-a2"}}
+{"query": "AC Fan Motor", "attributes": {"part type": "motor", "power source": "AC", "usage": "fan"}}
+{"query": "helical-geared-motor", "attributes": {"part type": "motor", "driven type": "helical geared"}}
+{"query": "three phase electric motor 20 hp 960 rpm", "attributes": {"part type": "motor", "phase": "3", "power source": "electric", "horsepower": "20 hp", "rpm": "960 rpm"}}
+{"query": "three phase electric motor near agra 20 hp 960 rpm", "attributes": {"part type": "motor", "phase": "3", "power source": "electric", "horsepower": "20 hp", "rpm": "960 rpm", "location/city": "agra"}}
+{"query": "gsm mobile starter", "attributes": {"part type": "starter", "feature": "gsm mobile"}}
+{"query": "Domestic Appliance Motors", "attributes": {"part type": "motor", "application": "domestic appliance"}}
+{"query": "schneider soft starter", "attributes": {"brand": "schneider", "part type": "starter", "starter type": "soft"}}
+{"query": "Door han", "attributes": {}}
+{"query": "linear-actuators", "attributes": {"part type": "actuator", "driven type": "linear"}}
+{"query": "Motor Starter", "attributes": {"part type": "motor starter"}}
+{"query": "Three Phase Electric Motor", "attributes": {"part type": "motor", "phase": "3", "power source": "electric"}}
+{"query": "l t mpower pro mobile motor starter", "attributes": {"brand": "l t", "part type": "motor starter", "series": "mpower pro mobile"}}
+{"query": "Kenstar Air Cooler Motor With Pump", "attributes": {"brand": "Kenstar", "part type": "motor", "usage": "air cooler", "feature": "with pump"}}
+{"query": "Three Phase Motor", "attributes": {"part type": "motor", "phase": "3"}}
+{"query": "Pneumatic Actuators", "attributes": {"part type": "actuator", "power source": "pneumatic"}}
+{"query": "Crane Duty Geared Motor With Brake", "attributes": {"part type": "motor", "driven type": "geared", "application": "crane duty", "feature": "with brake"}}
+{"query": "1000 n (100 kg) 1 100 mm 24 v telescopic linear actuators", "attributes": {"part type": "actuator", "driven type": "linear", "feature": "telescopic", "force": "1000 n", "stroke length": "100 mm", "voltage": "24 v"}}
+{"query": "Pneumatic Rotary Actuators", "attributes": {"part type": "actuator", "power source": "pneumatic", "feature": "rotary"}}
+{"query": "Petrosa Starter medium", "attributes": {"brand": "Petrosa", "part type": "starter", "size": "medium"}}
+{"query": "Pneumatic Rotary Actuator", "attributes": {"part type": "actuator", "power source": "pneumatic", "feature": "rotary"}}
+{"query": "Shade Pole Rexnord c Frame Motor Rec-6110-A2", "attributes": {"brand": "Rexnord", "part type": "motor", "frame size": "c Frame", "driven type": "shade pole", "model name/number": "Rec-6110-A2"}}
+{"query": "dc motor bush", "attributes": {"part type": "motor bush", "power source": "dc"}}
+{"query": "crompton motors 20 hp 3 phase 960 rpm", "attributes": {"brand": "crompton", "part type": "motor", "horsepower": "20 hp", "phase": "3", "rpm": "960 rpm"}}
+{"query": "geared motors", "attributes": {"part type": "motor", "driven type": "geared"}}
+{"query": "ball screw or belt driven actuator", "attributes": {"part type": "actuator", "driven type": "ball screw or belt"}}
+{"query": "Die Cast Rotors", "attributes": {"part type": "rotors", "material": "die cast"}}
+{"query": "Crompton Greaves Motor", "attributes": {"brand": "Crompton Greaves", "part type": "motor"}}
+{"query": "automation switches", "attributes": {"part type": "switches", "feature": "automation"}}
+{"query": "à¤•à¥à¤²à¥€à¤¨à¤° à¤ªà¥à¤°à¥‹à¤¡à¤•à¥à¤Ÿ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥‡à¤®à¤¿à¤•à¤² à¤•à¤¹à¤¾à¤‚ à¤®à¤¿à¤²à¤¤à¤¾ à¤¹à¥ˆ", "attributes": {}}
+{"query": "Aluminium Bell Housing", "attributes": {"part type": "bell housing", "material": "aluminium"}}
+{"query": "crompton motors 20 hp 3 phase near khair 960 rpm", "attributes": {"brand": "crompton", "part type": "motor", "horsepower": "20 hp", "phase": "3", "rpm": "960 rpm", "location/city": "khair"}}
+{"query": "SIEMENS 1FL6064-1AC61-2LA1 SIMOTICS S-1FL6-1FL6 Operating voltage 3AC 400 V", "attributes": {"brand": "SIEMENS", "model name/number": "1FL6064-1AC61-2LA1", "series": "SIMOTICS S-1FL6", "voltage": "3AC 400 V"}}
+{"query": "Danfoss/Eaton Char-Lynn 2000 series", "attributes": {"brand": "Danfoss; Eaton", "series": "Char-Lynn 2000"}}
+{"query": "crompton greaves motors 20 hp 3 phase", "attributes": {"brand": "crompton greaves", "part type": "motor", "horsepower": "20 hp", "phase": "3"}}
+{"query": "Landt Motor Starter Mk1 Direct On Line (dol) (mk1 Dol 9-14 A.)", "attributes": {"brand": "Landt", "part type": "motor starter", "starter type": "dol", "model name/number": "Mk1", "current": "9-14 A"}}
+{"query": "fdhhdfh", "attributes": {}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR  1FK2106-4AF01-1SA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF01-1SA0", "power": "2.7 kW"}}
+{"query": "Vibration Motor", "attributes": {"part type": "motor", "feature": "vibration"}}
+{"query": "Remi Geared Motor", "attributes": {"brand": "Remi", "part type": "motor", "driven type": "geared"}}
+{"query": "Tata Signa Bs4 Blower Motor", "attributes": {"brand": "Tata", "part type": "motor", "usage": "blower", "model name/number": "Signa Bs4"}}
+{"query": "Allen Bradley SMC-3 43A Smart Motor starer", "attributes": {"brand": "Allen Bradley", "part type": "motor starter", "model name/number": "SMC-3", "current": "43A", "feature": "smart"}}
+{"query": "skill-3220-armature-powerbilt(9683)", "attributes": {"brand": "skill", "part type": "armature", "model name/number": "3220", "series": "powerbilt 9683"}}
+{"query": "50W Wall Fan Motor", "attributes": {"part type": "motor", "usage": "wall fan", "power": "50W"}}
+{"query": "m9mz90g4yga panasonic gear motor /90watt/ three phase", "attributes": {"brand": "panasonic", "part type": "motor", "driven type": "geared", "model name/number": "m9mz90g4yga", "power": "90watt", "phase": "3"}}
+{"query": "ll braider soft starer", "attributes": {"part type": "starter", "starter type": "soft", "usage": "braider"}}
+{"query": "kollmorgen servo motors akm63k-anc2r-00", "attributes": {"brand": "kollmorgen", "part type": "motor", "driven type": "servo", "model name/number": "akm63k-anc2r-00"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK01-1MB0 0.12 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2204-5AK01-1MB0", "power": "0.12 kW"}}
+{"query": "Crane Current Collector Carbon Brush", "attributes": {"part type": "carbon brush", "usage": "crane current collector"}}
+{"query": "Pneumatic Actuatos", "attributes": {"part type": "actuator", "power source": "pneumatic"}}
+{"query": "1440 rpm three phase 9841043643 3 hp crompton greaves motor", "attributes": {"brand": "crompton greaves", "part type": "motor", "rpm": "1440 rpm", "phase": "3", "horsepower": "3 hp"}}
+{"query": "horse power", "attributes": {}}
+{"query": "Terminal plate", "attributes": {"part type": "terminal plate"}}
+{"query": "dc brake motors in mumbai", "attributes": {"part type": "motor", "power source": "dc", "feature": "brake", "location/city": "mumbai"}}
+{"query": "hindustan ac motor", "attributes": {"brand": "hindustan", "part type": "motor", "power source": "ac"}}
+{"query": "24 inch three phase 4 exhaust fan fibre", "attributes": {"part type": "exhaust fan", "size": "24 inch", "phase": "3", "material": "fibre"}}
+{"query": "panasonic-ac-servo-motor", "attributes": {"brand": "panasonic", "part type": "motor", "power source": "ac", "driven type": "servo"}}
+{"query": "three phase 1 piece 5 hp 2800 rpm 3.7 KW 5HP Crompton Greaves Motor 1500 rpm", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "phase": "3", "horsepower": "5 hp", "rpm": "1500 rpm", "power": "3.7 KW", "quantity": "1"}}
+{"query": "3 Phase Motor Starter", "attributes": {"part type": "motor starter", "phase": "3"}}
+{"query": "0.5 hp motor", "attributes": {"part type": "motor", "horsepower": "0.5 hp"}}
+{"query": "ac-fan-motor", "attributes": {"part type": "motor", "power source": "ac", "usage": "fan"}}
+{"query": "L&T Mpower Pro Mobile Motor Starter", "attributes": {"brand": "L&T", "part type": "motor starter", "series": "Mpower Pro Mobile"}}
+{"query": "linear actuator purlin", "attributes": {"part type": "actuator", "driven type": "linear", "usage": "purlin"}}
+{"query": "1 piece Allen Bradley Soft Starters", "attributes": {"brand": "Allen Bradley", "part type": "starter", "starter type": "soft", "quantity": "1"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2210-3AB01-1SB0 4.5 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2210-3AB01-1SB0", "power": "4.5 kW"}}
+{"query": "dg geared motor", "attributes": {"part type": "motor", "driven type": "geared", "feature": "dg"}}
+{"query": "Alternator Stator Core", "attributes": {"part type": "stator core", "usage": "alternator"}}
+{"query": "servo motors repairs", "attributes": {"part type": "motor", "driven type": "servo", "feature": "repair service"}}
+{"query": "Motor Carbon Brushes", "attributes": {"part type": "carbon brush", "usage": "motor"}}
+{"query": "Pmdc Stirrer Motor", "attributes": {"part type": "motor", "driven type": "pmdc", "usage": "stirrer"}}
+{"query": "dol-starter", "attributes": {"part type": "starter", "starter type": "dol"}}
+{"query": "Fan Motor", "attributes": {"part type": "motor", "usage": "fan"}}
+{"query": "Three Phase Motors Crompton Greaves", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "phase": "3"}}
+{"query": "TR 7 25x50 Holder", "attributes": {"part type": "holder", "model name/number": "TR 7", "size": "25x50"}}
+{"query": "End Shield Cover", "attributes": {"part type": "end shield cover"}}
+{"query": "three phase 3.7 kw crompton greaves induction motor", "attributes": {"brand": "crompton greaves", "part type": "motor", "phase": "3", "power": "3.7 kw", "driven type": "induction"}}
+{"query": "1 for business use piece 22 kw Allen Bradley 150-C43NBD SMC-3 Soft Starter 43A 480V 3-Phase 100-240V AC Control", "attributes": {"brand": "Allen Bradley", "part type": "starter", "starter type": "soft", "model name/number": "150-C43NBD", "series": "SMC-3", "power": "22 kw", "current": "43A", "voltage": "480V", "phase": "3", "feature": "100-240V AC Control", "quantity": "1"}}
+{"query": "3.7 kw crompton greaves induction motor", "attributes": {"brand": "crompton greaves", "part type": "motor", "power": "3.7 kw", "driven type": "induction"}}
+{"query": "Direct On Line Starter DOL Motor Starter (DMC)", "attributes": {"part type": "motor starter", "starter type": "DOL", "model name/number": "DMC"}}
+{"query": "crompton greaves induction motor", "attributes": {"brand": "crompton greaves", "part type": "motor", "driven type": "induction"}}
+{"query": "three phase-motors", "attributes": {"part type": "motor", "phase": "3"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-0MB0", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF10-0MB0"}}
+{"query": "Stators", "attributes": {"part type": "stator"}}
+{"query": "1 fan motor", "attributes": {"part type": "motor", "usage": "fan", "quantity": "1"}}
+{"query": "Makita MT-958 Armature By PowerSpeed", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "MT-958"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF01-1MA0  2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF01-1MA0", "power": "2.7 kW"}}
+{"query": "KOLLMORGEN Servo Motors", "attributes": {"brand": "KOLLMORGEN", "part type": "motor", "driven type": "servo"}}
+{"query": "10 HP Transtech Gear Electric Motor", "attributes": {"brand": "Transtech", "part type": "motor", "horsepower": "10 HP", "driven type": "geared", "power source": "electric"}}
+{"query": "Hollow Shaft Type Incremental Rotary Encoder", "attributes": {"part type": "encoder", "shaft diameter": "hollow shaft", "feature": "incremental rotary"}}
+{"query": "Ti Motion Linear Actuator", "attributes": {"brand": "Ti Motion", "part type": "actuator", "driven type": "linear"}}
+{"query": "Rhino+12V+DC+30RPM+70Kgcm+IG32+Heavy+Duty+Planetary+Geared+Motor", "attributes": {"brand": "Rhino", "part type": "motor", "voltage": "12V", "power source": "DC", "rpm": "30RPM", "torque": "70Kgcm", "model name/number": "IG32", "driven type": "planetary geared", "feature": "heavy duty"}}
+{"query": "1FK2104-6AF10-0MB0", "attributes": {"model name/number": "1FK2104-6AF10-0MB0"}}
+{"query": "dual shaft 1330 RPM BLOWER FAN MOTOR", "attributes": {"part type": "motor", "usage": "blower fan", "rpm": "1330 RPM", "feature": "dual shaft"}}
+{"query": "Worm Geared Motor", "attributes": {"part type": "motor", "driven type": "worm geared"}}
+{"query": "3 Phase Electric Motor", "attributes": {"part type": "motor", "phase": "3", "power source": "electric"}}
+{"query": "linear 1 festo actuators", "attributes": {"brand": "festo", "part type": "actuator", "driven type": "linear", "quantity": "1"}}
+{"query": "FL57BLS01-24V-10000A- Regular BLDC Motor", "attributes": {"part type": "motor", "driven type": "bldc", "model name/number": "FL57BLS01", "voltage": "24V", "current": "10000A"}}
+{"query": "starter", "attributes": {"part type": "starter"}}
+{"query": "motor starter controller", "attributes": {"part type": "motor starter controller"}}
+{"query": "EG224 Grade DC Motor Carbon Brush", "attributes": {"part type": "carbon brush", "usage": "DC motor", "grade": "EG224"}}
+{"query": "mini motors", "attributes": {"part type": "motor", "size": "mini"}}
+{"query": "Air Vane Motor", "attributes": {"part type": "motor", "driven type": "air vane"}}
+{"query": "1 HP Impel VGGH25 Electric Motor", "attributes": {"brand": "Impel", "part type": "motor", "horsepower": "1 HP", "model name/number": "VGGH25", "power source": "electric"}}
+{"query": "dc fan motor 15 20 watt", "attributes": {"part type": "motor", "power source": "dc", "usage": "fan", "power": "15 20 watt"}}
+{"query": "fan motor 25 30 watt", "attributes": {"part type": "motor", "usage": "fan", "power": "25 30 watt"}}
+{"query": "3-phase-motor-starter", "attributes": {"part type": "motor starter", "phase": "3"}}
+{"query": "Electric Motors and Components", "attributes": {"part type": "motor", "power source": "electric", "feature": "and components"}}
+{"query": "three phase l&t mpower pro mobile motor starter", "attributes": {"brand": "l&t", "part type": "motor starter", "phase": "3", "series": "mpower pro mobile"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-0SB0 1 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF10-0SB0", "power": "1 kW"}}
+{"query": "Motor Terminal Plate", "attributes": {"part type": "terminal plate", "usage": "motor"}}
+{"query": "1 hp bench polisher motor", "attributes": {"part type": "motor", "horsepower": "1 hp", "usage": "bench polisher"}}
+{"query": "Air Conditioner Motor", "attributes": {"part type": "motor", "usage": "air conditioner"}}
+{"query": "partition frames for motor", "attributes": {"part type": "partition frames", "usage": "motor"}}
+{"query": "FL28STH51-0674AF-Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL28STH51-0674AF"}}
+{"query": "Electrical carbon Brushes", "attributes": {"part type": "carbon brush", "feature": "electrical"}}
+{"query": "Vibratory Motor Foot Mounted", "attributes": {"part type": "motor", "feature": "vibratory", "mounting type": "foot mounted"}}
+{"query": "Omp Series Orbital Motors", "attributes": {"part type": "motor", "series": "Omp", "driven type": "orbital"}}
+{"query": "Hydraulic Motor bmr", "attributes": {"part type": "motor", "driven type": "hydraulic", "series": "bmr"}}
+{"query": "25 Amp Motor Starter Fresh Material", "attributes": {"part type": "motor starter", "current": "25 Amp", "feature": "fresh material"}}
+{"query": "M S Hydraulic Motor", "attributes": {"part type": "motor", "driven type": "hydraulic", "material": "M S"}}
+{"query": "Jyoti Motor Starter And Starter Oil Set", "attributes": {"brand": "Jyoti", "part type": "motor starter", "feature": "with starter oil set"}}
+{"query": "FL57BL01-24V-1500AD Brushless Motor", "attributes": {"part type": "motor", "driven type": "brushless", "model name/number": "FL57BL01", "voltage": "24V", "current": "1500AD"}}
+{"query": "MIG PMDC MOTOR 24V/42V", "attributes": {"part type": "motor", "driven type": "pmdc", "usage": "MIG", "voltage": "24V/42V"}}
+{"query": "500 rpm mig pmdc motor 24v/42v", "attributes": {"part type": "motor", "driven type": "pmdc", "usage": "mig", "rpm": "500 rpm", "voltage": "24v/42v"}}
+{"query": "2 hp three phase motor", "attributes": {"part type": "motor", "horsepower": "2 hp", "phase": "3"}}
+{"query": "Havells Electric Motor", "attributes": {"brand": "Havells", "part type": "motor", "power source": "electric"}}
+{"query": "2 200 w chimney motor", "attributes": {"part type": "motor", "usage": "chimney", "power": "200 w", "quantity": "2"}}
+{"query": "Synchronous Motor", "attributes": {"part type": "motor", "driven type": "synchronous"}}
+{"query": "FL57BLB60 Regular BLDC Motor", "attributes": {"part type": "motor", "driven type": "bldc", "model name/number": "FL57BLB60"}}
+{"query": "Cooler Motor 7 Sutt", "attributes": {"part type": "motor", "usage": "cooler", "feature": "7 sutt"}}
+{"query": "Vintage Industrial Motor", "attributes": {"part type": "motor", "application": "industrial", "feature": "vintage"}}
+{"query": "fan-motors", "attributes": {"part type": "motor", "usage": "fan"}}
+{"query": "mig pmdc motor 24v 42v", "attributes": {"part type": "motor", "driven type": "pmdc", "usage": "mig", "voltage": "24v 42v"}}
+{"query": "Single Phase AC Synchronous Motor", "attributes": {"part type": "motor", "phase": "single", "power source": "AC", "driven type": "synchronous"}}
+{"query": "9607 HB / 9609 HB Makita Armature By PowerSpeed", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "9607 HB / 9609 HB"}}
+{"query": "parallel shaft helical geard motor", "attributes": {"part type": "motor", "driven type": "helical geared", "feature": "parallel shaft"}}
+{"query": "1 phase electric motor", "attributes": {"part type": "motor", "phase": "single", "power source": "electric"}}
+{"query": "Gsm Mobile Starter Pcb", "attributes": {"part type": "starter pcb", "feature": "gsm mobile"}}
+{"query": "shaded pole motors with fan", "attributes": {"part type": "motor", "driven type": "shaded pole", "feature": "with fan"}}
+{"query": "Cooler Motor 1 Inch Kit (aluminium)", "attributes": {"part type": "motor", "usage": "cooler", "size": "1 Inch", "feature": "kit", "material": "aluminium"}}
+{"query": "Autonic Shaft Encoder", "attributes": {"brand": "Autonic", "part type": "encoder", "feature": "shaft"}}
+{"query": "door-motor", "attributes": {"part type": "motor", "usage": "door"}}
+{"query": "200W AC Servo Brake Motor & Drive LSELM1S-0200DH60E-SS,   LSEL6-D400Z / LSELP-RS400Z(Analog Control)", "attributes": {"part type": "motor", "power": "200W", "power source": "AC", "driven type": "servo", "feature": "brake with drive analog control", "model name/number": "LSELM1S-0200DH60E-SS, LSEL6-D400Z / LSELP-RS400Z"}}
+{"query": "65X50X25MM CARBON BRUSH", "attributes": {"part type": "carbon brush", "size": "65X50X25MM"}}
+{"query": "shaded+pole+motors", "attributes": {"part type": "motor", "driven type": "shaded pole"}}
+{"query": "Shaded Pole Motors", "attributes": {"part type": "motor", "driven type": "shaded pole"}}
+{"query": "105 Wat Single Phase Cooler Motor", "attributes": {"part type": "motor", "usage": "cooler", "phase": "single", "power": "105 Wat"}}
+{"query": "FL60STH65-2008AF Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL60STH65-2008AF"}}
+{"query": "FL42BLSL01- Regular BLDC Motor", "attributes": {"part type": "motor", "driven type": "bldc", "model name/number": "FL42BLSL01"}}
+{"query": "single phase cooler motor", "attributes": {"part type": "motor", "phase": "single", "usage": "cooler"}}
+{"query": "4000w bldc motor / 4kw bldc motor for electric car / electric motor for gokart", "attributes": {"part type": "motor", "driven type": "bldc", "power": "4000w", "usage": "electric car gokart"}}
+{"query": "Mitsubishi Servo Motors", "attributes": {"brand": "Mitsubishi", "part type": "motor", "driven type": "servo"}}
+{"query": "FL42STH60-0854AF- Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL42STH60-0854AF"}}
+{"query": "Single Phase Motor Starter", "attributes": {"part type": "motor starter", "phase": "single"}}
+{"query": "170M7167-6500A", "attributes": {"model name/number": "170M7167-6500A"}}
+{"query": "Chimney Motor", "attributes": {"part type": "motor", "usage": "chimney"}}
+{"query": "sewing-machine-motor-armature", "attributes": {"part type": "armature", "usage": "sewing machine motor"}}
+{"query": "amdo cooler motor", "attributes": {"brand": "amdo", "part type": "motor", "usage": "cooler"}}
+{"query": "hindustan", "attributes": {"brand": "hindustan"}}
+{"query": "crompton greaves vfdc", "attributes": {"brand": "crompton greaves", "part type": "vfdc"}}
+{"query": "Carbon Brush Holder", "attributes": {"part type": "carbon brush holder"}}
+{"query": "370W Electric Sliding Gate Motor", "attributes": {"part type": "motor", "power": "370W", "power source": "electric", "usage": "sliding gate"}}
+{"query": "foot cum flange mounted electric motor", "attributes": {"part type": "motor", "power source": "electric", "mounting type": "foot cum flange mounted"}}
+{"query": "FL42BLSL02- Regular BLDC Motor", "attributes": {"part type": "motor", "driven type": "bldc", "model name/number": "FL42BLSL02"}}
+{"query": "Electro Pneumatic Valve Positioner", "attributes": {"part type": "valve positioner", "feature": "electro pneumatic"}}
+{"query": "DC motor 5.5", "attributes": {"part type": "motor", "power source": "DC", "model name/number": "5.5"}}
+{"query": "B&R 8BVI0014HWS0.000-1 ACOPOS MULTI INVERTER MODULE I0014S", "attributes": {"brand": "B&R", "part type": "inverter module", "model name/number": "8BVI0014HWS0.000-1", "series": "ACOPOS MULTI", "feature": "I0014S"}}
+{"query": "Motor Rotor", "attributes": {"part type": "motor rotor"}}
+{"query": "cooler kit motor", "attributes": {"part type": "motor", "usage": "cooler", "feature": "kit"}}
+{"query": "inline helical geared motors", "attributes": {"part type": "motor", "driven type": "helical geared", "feature": "inline"}}
+{"query": "boparai auto switch pro", "attributes": {"brand": "boparai", "part type": "auto switch", "series": "pro"}}
+{"query": "Carbon brush for AC HT Moter", "attributes": {"part type": "carbon brush", "usage": "AC HT motor", "power source": "AC"}}
+{"query": "800 W Wet Dry Vacuum Cleaner Motors", "attributes": {"part type": "motor", "usage": "wet dry vacuum cleaner", "power": "800 W"}}
+{"query": "FL57STH56-2504ACF-25-ARK Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL57STH56-2504ACF-25-ARK"}}
+{"query": "FL57STH51-2804AF- Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL57STH51-2804AF"}}
+{"query": "90 watt ac geared motor", "attributes": {"part type": "motor", "driven type": "geared", "power source": "ac", "power": "90 watt"}}
+{"query": "dwe4235 armature near udaipur", "attributes": {"part type": "armature", "model name/number": "dwe4235", "location/city": "udaipur"}}
+{"query": "Electric Motor Starters", "attributes": {"part type": "motor starter", "power source": "electric"}}
+{"query": "ytc make smart positioner", "attributes": {"brand": "ytc", "part type": "positioner", "feature": "smart"}}
+{"query": "PowerSpeed Armature For Makita 3501 N", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "3501 N"}}
+{"query": "arma texture", "attributes": {}}
+{"query": "Single Phase Copper Slip Ring", "attributes": {"part type": "slip ring", "phase": "single", "material": "copper"}}
+{"query": "Venex Motor Starter", "attributes": {"brand": "Venex", "part type": "motor starter"}}
+{"query": "Mobile+Starter+Prime", "attributes": {"part type": "starter", "feature": "mobile prime"}}
+{"query": "havells motor", "attributes": {"brand": "havells", "part type": "motor"}}
+{"query": "AC Fail and DC Fail", "attributes": {"part type": "ac fail and dc fail"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-4AK01-0MB0 0.06 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-4AK01-0MB0", "power": "0.06 kW"}}
+{"query": "Aluminium Winding Cooler Fan Motor", "attributes": {"part type": "motor", "usage": "cooler fan", "material": "aluminium winding"}}
+{"query": "FL42STH33-0956AF- Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL42STH33-0956AF"}}
+{"query": "Mk 1 Dol Starter", "attributes": {"part type": "starter", "starter type": "Dol", "model name/number": "Mk 1"}}
+{"query": "fhp motors", "attributes": {"part type": "motor", "feature": "fhp"}}
+{"query": "laxmi 3 hp singal fase motors", "attributes": {"brand": "laxmi", "part type": "motor", "horsepower": "3 hp", "phase": "single"}}
+{"query": "0502 exhaust fan motor", "attributes": {"part type": "motor", "usage": "exhaust fan", "model name/number": "0502"}}
+{"query": "dual shaft 1300RPM BLOWER FAN MOTOR", "attributes": {"part type": "motor", "usage": "blower fan", "rpm": "1300RPM", "feature": "dual shaft"}}
+{"query": "105 W Alqer 16 Inch Super Cooler Motor", "attributes": {"brand": "Alqer", "part type": "motor", "usage": "cooler", "power": "105 W", "size": "16 Inch", "feature": "super"}}
+{"query": "FL60STH65-2804AF Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL60STH65-2804AF"}}
+{"query": "à¤Ÿà¥‡à¤•à¥à¤¸à¤®à¥‹ à¤®à¥‹à¤Ÿà¤° à¤¸à¥à¤ªà¥‡à¤¯à¤° à¤ªà¤¾à¤°à¥à¤Ÿà¥à¤¸", "attributes": {"brand": "Texmo", "part type": "motor spare parts"}}
+{"query": "Crompton 2hp Gf6834 Single Phase Electric Motor 1440 Rpm", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "2hp", "model name/number": "Gf6834", "phase": "single", "power source": "electric", "rpm": "1440 Rpm"}}
+{"query": "Bch Submersible Pump Starters", "attributes": {"brand": "Bch", "part type": "pump starter", "feature": "submersible"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-0SB0", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF10-0SB0"}}
+{"query": "AC Geared Motor", "attributes": {"part type": "motor", "power source": "AC", "driven type": "geared"}}
+{"query": "Crompton 2hp Gf6834 Single Phase Electric Motor", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "2hp", "model name/number": "Gf6834", "phase": "single", "power source": "electric"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF01-0SA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF01-0SA0", "power": "2.7 kW"}}
+{"query": "Ecoflam Burner Servo Motor", "attributes": {"brand": "Ecoflam", "part type": "motor", "driven type": "servo", "usage": "burner"}}
+{"query": "Three Phase Motor,Lubi Pumps,Lubi Electrical Motor__I__m__", "attributes": {"brand": "Lubi", "part type": "motor", "phase": "3", "power source": "electrical"}}
+{"query": "VTV YN90-120 Motor", "attributes": {"brand": "VTV", "part type": "motor", "model name/number": "YN90-120"}}
+{"query": "Electric Motors", "attributes": {"part type": "motor", "power source": "electric"}}
+{"query": "induction motor", "attributes": {"part type": "motor", "driven type": "induction"}}
+{"query": "60W Desert Cooler Motor", "attributes": {"part type": "motor", "usage": "desert cooler", "power": "60W"}}
+{"query": "FL42STH47-1684AF-08- Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL42STH47-1684AF-08"}}
+{"query": "electronic-starter", "attributes": {"part type": "starter", "feature": "electronic"}}
+{"query": "FL42STH38-1684AF Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL42STH38-1684AF"}}
+{"query": "Lubi LGH90GF50H15K Gare Motor", "attributes": {"brand": "Lubi", "part type": "motor", "driven type": "geared", "model name/number": "LGH90GF50H15K"}}
+{"query": "1FK2104-6AF10-0SB0", "attributes": {"model name/number": "1FK2104-6AF10-0SB0"}}
+{"query": "Ml 2 Dol Starter", "attributes": {"part type": "starter", "starter type": "Dol", "model name/number": "Ml 2"}}
+{"query": "siemens electric ac motor 75 hp 1440 rpm", "attributes": {"brand": "siemens", "part type": "motor", "power source": "ac", "horsepower": "75 hp", "rpm": "1440 rpm"}}
+{"query": "Vishal 8al2 Air Cooler Motor", "attributes": {"brand": "Vishal", "part type": "motor", "model name/number": "8al2", "usage": "air cooler"}}
+{"query": "ELLDO cooler motor", "attributes": {"brand": "ELLDO", "part type": "motor", "usage": "cooler"}}
+{"query": "CP - 101 ACTUATOR", "attributes": {"part type": "actuator", "model name/number": "CP - 101"}}
+{"query": "DZ Gear Motor Brushed DC Motor", "attributes": {"brand": "DZ", "part type": "motor", "driven type": "geared brushed", "power source": "DC"}}
+{"query": "dual shaft blower fan motor", "attributes": {"part type": "motor", "usage": "blower fan", "feature": "dual shaft"}}
+{"query": "220 v dual shaft BLOWER FAN MOTOR", "attributes": {"part type": "motor", "usage": "blower fan", "voltage": "220 v", "feature": "dual shaft"}}
+{"query": "220  v 1 dual shaft BLOWER FAN MOTOR", "attributes": {"part type": "motor", "usage": "blower fan", "voltage": "220 v", "feature": "dual shaft", "quantity": "1"}}
+{"query": "Crompton 2hp Gf6834 Single Phase Electric Motor, 1440 rpm", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "2hp", "model name/number": "Gf6834", "phase": "single", "power source": "electric", "rpm": "1440 rpm"}}
+{"query": "AT12 Single Chain Actuator, 425mm Stroke - Window Automation", "attributes": {"part type": "actuator", "model name/number": "AT12", "stroke length": "425mm", "feature": "single chain window automation"}}
+{"query": "SECO N 24 25 Single Chain Actuator, 250/350mm Stroke - Window Automation", "attributes": {"part type": "actuator", "model name/number": "SECO N 24 25", "stroke length": "250/350mm", "feature": "single chain window automation"}}
+{"query": "Siemens Raja+ Direct On Line Starters", "attributes": {"brand": "Siemens", "part type": "starter", "starter type": "Direct On Line", "series": "Raja+"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-1MB0 1 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF10-1MB0", "power": "1 kW"}}
+{"query": "cg cooler motor", "attributes": {"brand": "cg", "part type": "motor", "usage": "cooler"}}
+{"query": "Makita 9047 Armature By PowerSpeed", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "9047"}}
+{"query": "Electric Motor Housing", "attributes": {"part type": "motor housing", "power source": "electric"}}
+{"query": "Vibro Sifter Vibratory Motors", "attributes": {"part type": "motor", "feature": "vibratory", "usage": "vibro sifter"}}
+{"query": "FL28STH45-0674A - Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL28STH45-0674A"}}
+{"query": "Single Phase D.C. Motor", "attributes": {"part type": "motor", "phase": "single", "power source": "D.C."}}
+{"query": "electric torque", "attributes": {"part type": "torque", "power source": "electric"}}
+{"query": "Godrej Lawkim Ac Motors", "attributes": {"brand": "Godrej Lawkim", "part type": "motor", "power source": "Ac"}}
+{"query": "dual shaft FAN MOTOR", "attributes": {"part type": "motor", "usage": "fan", "feature": "dual shaft"}}
+{"query": "Crompton Electric Motor", "attributes": {"brand": "Crompton", "part type": "motor", "power source": "electric"}}
+{"query": "Mini Fan Motor", "attributes": {"part type": "motor", "usage": "fan", "size": "mini"}}
+{"query": "3d minuture", "attributes": {}}
+{"query": "Electric Motor with Gear", "attributes": {"part type": "motor", "power source": "electric", "feature": "with gear"}}
+{"query": "FL28STH45-0674AF-14 - Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL28STH45-0674AF-14"}}
+{"query": "mixer-grinder-motor", "attributes": {"part type": "motor", "usage": "mixer grinder"}}
+{"query": "Sew-eurodrive servo Motor cmp50m/pk/vr/rh1m/sm1", "attributes": {"brand": "Sew-eurodrive", "part type": "motor", "driven type": "servo", "model name/number": "cmp50m/pk/vr/rh1m/sm1"}}
+{"query": "Sew-eurodrive ,servo Motor ,cmp50m/pk/vr/rh1m/sm1", "attributes": {"brand": "Sew-eurodrive", "part type": "motor", "driven type": "servo", "model name/number": "cmp50m/pk/vr/rh1m/sm1"}}
+{"query": "vane pneumatic actuator", "attributes": {"part type": "actuator", "power source": "pneumatic", "driven type": "vane"}}
+{"query": "Flange Mounted Motor", "attributes": {"part type": "motor", "mounting type": "flange mounted"}}
+{"query": "FL57STH56-2504ACF-25 - Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL57STH56-2504ACF-25"}}
+{"query": "FL57STH56-2804AF-01- Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL57STH56-2804AF-01"}}
+{"query": "MU2 Dol Motor Starter", "attributes": {"part type": "motor starter", "starter type": "Dol", "model name/number": "MU2"}}
+{"query": "power tool cm4", "attributes": {"part type": "power tool", "model name/number": "cm4"}}
+{"query": "power tool near delhi cm4", "attributes": {"part type": "power tool", "model name/number": "cm4", "location/city": "delhi"}}
+{"query": "crompton-motors", "attributes": {"brand": "crompton", "part type": "motor"}}
+{"query": "Voltas AC Outdoor Fan Motor", "attributes": {"brand": "Voltas", "part type": "motor", "power source": "AC", "usage": "outdoor fan"}}
+{"query": "Makita MT-950 Armature By PowerSpeed", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "MT-950"}}
+{"query": "1500 cfm FAN MOTOR", "attributes": {"part type": "motor", "usage": "fan", "air flow capacity": "1500 cfm"}}
+{"query": "230v apex cool 410w exhaust fan motor", "attributes": {"brand": "apex cool", "part type": "motor", "usage": "exhaust fan", "voltage": "230v", "power": "410w"}}
+{"query": "FL57STH76-2504ACF-ARK Hybrid Stepper Motor", "attributes": {"part type": "motor", "driven type": "hybrid stepper", "model name/number": "FL57STH76-2504ACF-ARK"}}
+{"query": "Clogging Test", "attributes": {}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-6AF10-1MB0", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF10-1MB0"}}
+{"query": "crompton motor 1 hp", "attributes": {"brand": "crompton", "part type": "motor", "horsepower": "1 hp"}}
+{"query": "crompton motor near tinsukia 1 hp", "attributes": {"brand": "crompton", "part type": "motor", "horsepower": "1 hp", "location/city": "tinsukia"}}
+{"query": "motorized pulley drum motor", "attributes": {"part type": "motor", "feature": "motorized pulley drum"}}
+{"query": "crompton motor", "attributes": {"brand": "crompton", "part type": "motor"}}
+{"query": "Belimo Damper Fire Actuator", "attributes": {"brand": "Belimo", "part type": "actuator", "usage": "damper fire"}}
+{"query": "e42 90w 2850/3450rpm motor single phase", "attributes": {"part type": "motor", "model name/number": "e42", "power": "90w", "rpm": "2850/3450rpm", "phase": "single"}}
+{"query": "Slip Ring Assemblies", "attributes": {"part type": "slip ring assemblies"}}
+{"query": "Siemens DOL Starter", "attributes": {"brand": "Siemens", "part type": "starter", "starter type": "DOL"}}
+{"query": "pmdc gear motor 0-25-hp 25-200rpm 12-180volt", "attributes": {"part type": "motor", "driven type": "pmdc geared", "horsepower": "0-25-hp", "rpm": "25-200rpm", "voltage": "12-180volt"}}
+{"query": "Vertical Motors", "attributes": {"part type": "motor", "orientation": "vertical"}}
+{"query": "PowerSpeed Armature For Makita 9500 NB", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "9500 NB"}}
+{"query": "side shaft gear motor", "attributes": {"part type": "motor", "driven type": "geared", "feature": "side shaft"}}
+{"query": "FEBRICATION BLOWER 1HP SINGLE PHASE", "attributes": {"part type": "blower", "horsepower": "1HP", "phase": "single", "usage": "fabrication"}}
+{"query": "a40k/m566w/g7.2 (60 square pl gear)", "attributes": {"model name/number": "a40k/m566w/g7.2", "part type": "gear", "size": "60 square pl"}}
+{"query": "1400 rpm single phase 230 v flange mounted 230v apex cool 410w exhaust fan motor", "attributes": {"brand": "apex cool", "part type": "motor", "rpm": "1400 rpm", "phase": "single", "voltage": "230 v", "mounting type": "flange mounted", "power": "410w", "usage": "exhaust fan"}}
+{"query": "crompton 10 hp motor", "attributes": {"brand": "crompton", "part type": "motor", "horsepower": "10 hp"}}
+{"query": "foot mounting 1 piece 1440 rpm Single Phase Motors", "attributes": {"part type": "motor", "mounting type": "foot mounting", "rpm": "1440 rpm", "phase": "single", "quantity": "1"}}
+{"query": "ABB Servo Motors", "attributes": {"brand": "ABB", "part type": "motor", "driven type": "servo"}}
+{"query": "20 HP Three Phase Electric Motor", "attributes": {"part type": "motor", "horsepower": "20 HP", "phase": "3", "power source": "electric"}}
+{"query": "1FK2104-6AF10-1MB0", "attributes": {"model name/number": "1FK2104-6AF10-1MB0"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF01-0MA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF01-0MA0", "power": "2.7 kW"}}
+{"query": "mil 37 38 diaphragm actuators", "attributes": {"part type": "actuator", "model name/number": "mil 37 38", "driven type": "diaphragm"}}
+{"query": "Petrosa starter mini 1 KG", "attributes": {"brand": "Petrosa", "part type": "starter", "size": "mini", "weight": "1 KG"}}
+{"query": "BRUSHLESS MOTOR DYS 1800KV", "attributes": {"brand": "DYS", "part type": "motor", "driven type": "brushless", "rated speed": "1800KV"}}
+{"query": "Petrosa starter mini 1KG", "attributes": {"brand": "Petrosa", "part type": "starter", "size": "mini", "weight": "1KG"}}
+{"query": "Petrosa starter mini 3 KG", "attributes": {"brand": "Petrosa", "part type": "starter", "size": "mini", "weight": "3 KG"}}
+{"query": "Petrosa starter mini 3KG", "attributes": {"brand": "Petrosa", "part type": "starter", "size": "mini", "weight": "3KG"}}
+{"query": "Weishaupt Burner Servo Motor", "attributes": {"brand": "Weishaupt", "part type": "motor", "driven type": "servo", "usage": "burner"}}
+{"query": "Petrosa starter mini 8 KG", "attributes": {"brand": "Petrosa", "part type": "starter", "size": "mini", "weight": "8 KG"}}
+{"query": "Petrosa starter mini 8KG", "attributes": {"brand": "Petrosa", "part type": "starter", "size": "mini", "weight": "8KG"}}
+{"query": "apex cool 410w single phase exhaust fan motor", "attributes": {"brand": "apex cool", "part type": "motor", "power": "410w", "phase": "single", "usage": "exhaust fan"}}
+{"query": "danfoss original brand new h1b80/h1b110 motor", "attributes": {"brand": "danfoss", "part type": "motor", "model name/number": "h1b80/h1b110"}}
+{"query": "3 HP Three Phase Induction Motor 960 Rpm", "attributes": {"part type": "motor", "horsepower": "3 HP", "phase": "3", "driven type": "induction", "rpm": "960 Rpm"}}
+{"query": "gpn gear motor", "attributes": {"brand": "gpn", "part type": "motor", "driven type": "geared"}}
+{"query": "Dol Motor Starters", "attributes": {"part type": "motor starter", "starter type": "Dol"}}
+{"query": "Oil Starter Magnet Call", "attributes": {"part type": "starter", "feature": "oil magnet call"}}
+{"query": "AC MOTAR", "attributes": {"part type": "motor", "power source": "AC"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK01-1SB0 0.57 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2204-5AK01-1SB0", "power": "0.57 kW"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2104-4AK01-0SB0 0.06 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-4AK01-0SB0", "power": "0.06 kW"}}
+{"query": "50HP Abb Electric Motor", "attributes": {"brand": "Abb", "part type": "motor", "horsepower": "50HP", "power source": "electric"}}
+{"query": "10 hp crompton motor", "attributes": {"brand": "crompton", "part type": "motor", "horsepower": "10 hp"}}
+{"query": "PowerSpeed Armature for Gsh-500 Bosch", "attributes": {"brand": "Bosch", "part type": "armature", "model name/number": "Gsh-500"}}
+{"query": "SIEMENS SINAMICS S200 Servo Motor 1FL2306-4AC01-0HB0 0.1 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SINAMICS S200", "driven type": "servo", "model name/number": "1FL2306-4AC01-0HB0", "power": "0.1 kW"}}
+{"query": "helical gear motor", "attributes": {"part type": "motor", "driven type": "helical gear"}}
+{"query": "3330601 Cummins Electronic Fuel Control Actuator", "attributes": {"brand": "Cummins", "part type": "actuator", "model name/number": "3330601", "usage": "electronic fuel control"}}
+{"query": "Stepper Motor", "attributes": {"part type": "motor", "driven type": "stepper"}}
+{"query": "desert type copper 32 mm 1 cooler motor", "attributes": {"part type": "motor", "usage": "cooler", "feature": "desert type", "material": "copper", "size": "32 mm", "quantity": "1"}}
+{"query": "9067/9069 Makita Armature By PowerSpeed", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "9067/9069"}}
+{"query": "1 2 hp 775 12 v rs775 10000rpm 12v dc motor", "attributes": {"part type": "motor", "power source": "dc", "horsepower": "1 2 hp", "model name/number": "rs775", "voltage": "12v", "rpm": "10000rpm"}}
+{"query": "5hp 3phase motor", "attributes": {"part type": "motor", "horsepower": "5hp", "phase": "3"}}
+{"query": "Bharat Benz Aluminium Housing", "attributes": {"brand": "Bharat Benz", "part type": "housing", "material": "aluminium"}}
+{"query": "lubi three phase induction motors", "attributes": {"brand": "lubi", "part type": "motor", "phase": "3", "driven type": "induction"}}
+{"query": "Crane Geared Brake Motor", "attributes": {"part type": "motor", "driven type": "geared brake", "application": "crane"}}
+{"query": "1400 rpm single phase 230 v 230v apex cool 410w single phase exhaust fan motor", "attributes": {"brand": "apex cool", "part type": "motor", "rpm": "1400 rpm", "phase": "single", "voltage": "230 v", "power": "410w", "usage": "exhaust fan"}}
+{"query": "12v dc motor", "attributes": {"part type": "motor", "voltage": "12v", "power source": "dc"}}
+{"query": "1400 rpm 230 v apex cool 410w single phase exhaust fan motor", "attributes": {"brand": "apex cool", "part type": "motor", "rpm": "1400 rpm", "voltage": "230 v", "power": "410w", "phase": "single", "usage": "exhaust fan"}}
+{"query": "Suguna Motor Starter", "attributes": {"brand": "Suguna", "part type": "motor starter"}}
+{"query": "reverse forward 3 phase 20 3 hp starters", "attributes": {"part type": "starter", "phase": "3", "horsepower": "3 hp", "feature": "reverse forward"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2210-3AC01-0MB0 5.5 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2210-3AC01-0MB0", "power": "5.5 kW"}}
+{"query": "rexroth servo drive", "attributes": {"brand": "rexroth", "part type": "servo drive"}}
+{"query": "Valve Positioners", "attributes": {"part type": "valve positioner"}}
+{"query": "FOOT Mounted Motor (model Gf 6834)", "attributes": {"part type": "motor", "mounting type": "foot mounted", "model name/number": "Gf 6834"}}
+{"query": "1400 rpm apex cool 410w single phase exhaust fan motor", "attributes": {"brand": "apex cool", "part type": "motor", "rpm": "1400 rpm", "power": "410w", "phase": "single", "usage": "exhaust fan"}}
+{"query": "Motor Stater", "attributes": {"part type": "motor starter"}}
+{"query": "Paragon Motor Starter", "attributes": {"brand": "Paragon", "part type": "motor starter"}}
+{"query": "UR006G XGT Brushless Motor Active Feedback Sensing", "attributes": {"part type": "motor", "driven type": "brushless", "model name/number": "UR006G XGT", "feature": "active feedback sensing"}}
+{"query": "schubert and salzer positioner", "attributes": {"brand": "schubert and salzer", "part type": "positioner"}}
+{"query": "polisher-motor", "attributes": {"part type": "motor", "usage": "polisher"}}
+{"query": "Electric Vibratory Motor", "attributes": {"part type": "motor", "power source": "electric", "feature": "vibratory"}}
+{"query": "Abb Electric Motor 50hp 1500 Rpm", "attributes": {"brand": "Abb", "part type": "motor", "power source": "electric", "horsepower": "50hp", "rpm": "1500 Rpm"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 1FK2106-4AF11-1SA0  servo motor 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF11-1SA0", "power": "2.7 kW"}}
+{"query": "Siemens Face Mounted Induction Motor", "attributes": {"brand": "Siemens", "part type": "motor", "driven type": "induction", "mounting type": "face mounted"}}
+{"query": "5 HP Three Phase Motor", "attributes": {"part type": "motor", "horsepower": "5 HP", "phase": "3"}}
+{"query": "APEX COOL 410W MOTOR", "attributes": {"brand": "APEX COOL", "part type": "motor", "power": "410W"}}
+{"query": "Motar Starter", "attributes": {"part type": "motor starter"}}
+{"query": "Siemens 7.5 KW 2 HP Electric Motor", "attributes": {"brand": "Siemens", "part type": "motor", "power": "7.5 KW", "horsepower": "2 HP", "power source": "electric"}}
+{"query": "Unbalance Vibratory Motors", "attributes": {"part type": "motor", "feature": "unbalance vibratory"}}
+{"query": "Sew Brake Motor", "attributes": {"brand": "Sew", "part type": "motor", "feature": "brake"}}
+{"query": "ABB Three Phase Induction Motor", "attributes": {"brand": "ABB", "part type": "motor", "phase": "3", "driven type": "induction"}}
+{"query": "Oriental motor", "attributes": {"brand": "Oriental", "part type": "motor"}}
+{"query": "3 phase auto starter", "attributes": {"part type": "auto switch", "phase": "3", "feature": "automatic starter"}}
+{"query": "Type 200 17 Inch Copper Exhaust Fan Motor", "attributes": {"part type": "motor", "model name/number": "Type 200", "size": "17 Inch", "material": "copper", "usage": "exhaust fan"}}
+{"query": "Openable Gate Motor", "attributes": {"part type": "motor", "usage": "openable gate"}}
+{"query": "hollow shaft encoder", "attributes": {"part type": "encoder", "shaft diameter": "hollow shaft"}}
+{"query": "pbl-right-angled-helical-bevel-geared-motor", "attributes": {"brand": "pbl", "part type": "motor", "driven type": "right angled helical bevel geared"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-4AF00-1MA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF00-1MA0", "power": "2.7 kW"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF00-1SA0  2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF00-1SA0", "power": "2.7 kW"}}
+{"query": "Foredom Flex Shaft Motor, Foredom Dental Motor, Art &Amp; Craft", "attributes": {"brand": "Foredom", "part type": "motor", "feature": "flex shaft", "usage": "dental art craft"}}
+{"query": "lift-motor", "attributes": {"part type": "motor", "usage": "lift"}}
+{"query": "aira mild steel pneumatic rotary actuator", "attributes": {"brand": "aira", "part type": "actuator", "material": "mild steel", "power source": "pneumatic", "feature": "rotary"}}
+{"query": "flange type 25 hp motor", "attributes": {"part type": "motor", "horsepower": "25 hp", "mounting type": "flange type"}}
+{"query": "3 phase dol motor starter", "attributes": {"part type": "motor starter", "phase": "3", "starter type": "dol"}}
+{"query": "Siemens Three Phase Electric Motor", "attributes": {"brand": "Siemens", "part type": "motor", "phase": "3", "power source": "electric"}}
+{"query": "Lubi Electrical Motor", "attributes": {"brand": "Lubi", "part type": "motor", "power source": "electrical"}}
+{"query": "Moter stater", "attributes": {"part type": "motor starter"}}
+{"query": "HUMSER 12V 10RPM, 24V 20RPM High Torque Shaft Self-Lock Engine DC Micro Gear Motor With Brass Pully", "attributes": {"brand": "HUMSER", "part type": "motor", "voltage": "12V; 24V", "rpm": "10RPM; 20RPM", "power source": "DC", "driven type": "geared", "size": "micro", "feature": "high torque self-lock with brass pulley"}}
+{"query": "geared motor", "attributes": {"part type": "motor", "driven type": "geared"}}
+{"query": "2285625342 statorhv 2030", "attributes": {"part type": "stator", "model name/number": "2285625342; 2030"}}
+{"query": "slipring motor", "attributes": {"part type": "motor", "driven type": "slip ring"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK10-0SB0 0.12 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2204-5AK10-0SB0", "power": "0.12 kW"}}
+{"query": "Kisrloskar Motar", "attributes": {"brand": "Kirloskar", "part type": "motor"}}
+{"query": "Gate Motor", "attributes": {"part type": "motor", "usage": "gate"}}
+{"query": "vibratory motor", "attributes": {"part type": "motor", "feature": "vibratory"}}
+{"query": "270Hp Siemens Motor", "attributes": {"brand": "Siemens", "part type": "motor", "horsepower": "270Hp"}}
+{"query": "bft deimos bt a600 gate motor", "attributes": {"brand": "bft", "part type": "motor", "usage": "gate", "model name/number": "deimos bt a600"}}
+{"query": "Panasonic Servo Motor MHMF042L1U2M  400Watt", "attributes": {"brand": "Panasonic", "part type": "motor", "driven type": "servo", "model name/number": "MHMF042L1U2M", "power": "400Watt"}}
+{"query": "3000 rpm Siemens 1FL6062-1AC61-0AA1 Servo Motor, 1.00 kW, 400V", "attributes": {"brand": "Siemens", "part type": "motor", "rpm": "3000 rpm", "model name/number": "1FL6062-1AC61-0AA1", "driven type": "servo", "power": "1.00 kW", "voltage": "400V"}}
+{"query": "fv5029 010", "attributes": {"model name/number": "fv5029 010"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK01-0SB0 0.57 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2204-5AK01-0SB0", "power": "0.57 kW"}}
+{"query": "\"fv5029-010\"", "attributes": {"model name/number": "fv5029-010"}}
+{"query": "DC Motor Carbon Brushes", "attributes": {"part type": "carbon brush", "usage": "DC motor"}}
+{"query": "Three Phase Dol Motor Starter", "attributes": {"part type": "motor starter", "phase": "3", "starter type": "Dol"}}
+{"query": "three phase 2800 rpm 2 0.25 hp electric vibro motor", "attributes": {"part type": "motor", "phase": "3", "rpm": "2800 rpm", "horsepower": "0.25 hp", "power source": "electric", "feature": "vibro"}}
+{"query": "Motor Encoder", "attributes": {"part type": "encoder", "usage": "motor"}}
+{"query": "macwell brand motor", "attributes": {"brand": "macwell", "part type": "motor"}}
+{"query": "macwel brand motor", "attributes": {"brand": "macwel", "part type": "motor"}}
+{"query": "gearmoter", "attributes": {"part type": "motor", "driven type": "geared"}}
+{"query": "3 phase 40 hp oil starter", "attributes": {"part type": "starter", "phase": "3", "horsepower": "40 hp", "feature": "oil"}}
+{"query": "my cool star", "attributes": {}}
+{"query": "DC Shunt Motor", "attributes": {"part type": "motor", "power source": "DC", "driven type": "shunt"}}
+{"query": "Cooler Motor 1 Inch", "attributes": {"part type": "motor", "usage": "cooler", "size": "1 Inch"}}
+{"query": "Stirrer Motor", "attributes": {"part type": "motor", "usage": "stirrer"}}
+{"query": "Acurater plate", "attributes": {"part type": "actuator plate"}}
+{"query": "Weg- Germany 2880RPM Motor", "attributes": {"brand": "Weg", "part type": "motor", "rpm": "2880RPM", "country of origin": "Germany"}}
+{"query": "pump-starter", "attributes": {"part type": "pump starter"}}
+{"query": "2283752193 motor6v 20a", "attributes": {"part type": "motor", "model name/number": "2283752193", "voltage": "6v", "current": "20a"}}
+{"query": "Fanuc AC Servo Motor 0.35kW 6000 A06B-0115-B103 and Pulsecoder", "attributes": {"brand": "Fanuc", "part type": "motor", "power source": "AC", "driven type": "servo", "power": "0.35kW", "rpm": "6000", "model name/number": "A06B-0115-B103", "feature": "with pulsecoder"}}
+{"query": "PowerSpeed Armature For 9005 N Makita", "attributes": {"brand": "Makita", "part type": "armature", "model name/number": "9005 N"}}
+{"query": "Crompton Motor 10 HP 960 Rpm", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "10 HP", "rpm": "960 Rpm"}}
+{"query": "Blower Motors", "attributes": {"part type": "motor", "usage": "blower"}}
+{"query": "three phase 2800 rpm 2 0.25 hp single phase vibro motors", "attributes": {"part type": "motor", "phase": "single", "rpm": "2800 rpm", "horsepower": "0.25 hp", "feature": "vibro"}}
+{"query": "AC Induction Motor", "attributes": {"part type": "motor", "power source": "AC", "driven type": "induction"}}
+{"query": "Siemens 1440RPM Three Phase Flange Motor", "attributes": {"brand": "Siemens", "part type": "motor", "rpm": "1440RPM", "phase": "3", "mounting type": "flange"}}
+{"query": "Havells Induction Motors", "attributes": {"brand": "Havells", "part type": "motor", "driven type": "induction"}}
+{"query": "cast iron general", "attributes": {"material": "cast iron"}}
+{"query": "AC Motor", "attributes": {"part type": "motor", "power source": "AC"}}
+{"query": "20 hp motor", "attributes": {"part type": "motor", "horsepower": "20 hp"}}
+{"query": "rs 555 high speed dc motor 5000rpm", "attributes": {"part type": "motor", "model name/number": "rs 555", "power source": "dc", "rpm": "5000rpm", "feature": "high speed"}}
+{"query": "dc ware", "attributes": {"power source": "dc"}}
+{"query": "ABB 50 HP Three Phase Electric Motors", "attributes": {"brand": "ABB", "part type": "motor", "horsepower": "50 HP", "phase": "3", "power source": "electric"}}
+{"query": "electric-actuator", "attributes": {"part type": "actuator", "power source": "electric"}}
+{"query": "dc 12v gear motor", "attributes": {"part type": "motor", "power source": "dc", "voltage": "12v", "driven type": "geared"}}
+{"query": "CG make  electric motor", "attributes": {"brand": "CG", "part type": "motor", "power source": "electric"}}
+{"query": "1le7501â€‘1bb23â€‘5aa4", "attributes": {"model name/number": "1le7501â€‘1bb23â€‘5aa4"}}
+{"query": "brush for electronics", "attributes": {"part type": "brush", "usage": "electronics"}}
+{"query": "SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF11-0MB0 1 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF11-0MB0", "power": "1 kW"}}
+{"query": "power-tool-carbon-brush", "attributes": {"part type": "carbon brush", "usage": "power tool"}}
+{"query": "thrive architect latest version", "attributes": {}}
+{"query": "Kirloskar make electric motor", "attributes": {"brand": "Kirloskar", "part type": "motor", "power source": "electric"}}
+{"query": "SIMOTICS S synchronous motor 1FK7 1FK7081-3BF71-1RB1", "attributes": {"part type": "motor", "series": "SIMOTICS S 1FK7", "driven type": "synchronous", "model name/number": "1FK7081-3BF71-1RB1"}}
+{"query": "Hindustan Geared Motors", "attributes": {"brand": "Hindustan", "part type": "motor", "driven type": "geared"}}
+{"query": "vibro shift motor", "attributes": {"part type": "motor", "feature": "vibro shift"}}
+{"query": "Steper Motor", "attributes": {"part type": "motor", "driven type": "stepper"}}
+{"query": "bonfiglioli riduttori motor be71-b4 230/400-50 ip55 clf b5", "attributes": {"brand": "bonfiglioli riduttori", "part type": "motor", "model name/number": "be71-b4", "voltage": "230/400", "frequency": "50", "ip rating": "ip55", "insulation class": "clf", "mounting type": "b5"}}
+{"query": "Stater", "attributes": {"part type": "starter"}}
+{"query": "Motor 160kw", "attributes": {"part type": "motor", "power": "160kw"}}
+{"query": "Bharat Bijlee Electric Motor", "attributes": {"brand": "Bharat Bijlee", "part type": "motor", "power source": "electric"}}
+{"query": "75 HP Crompton Industrial Motors", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "75 HP", "application": "industrial"}}
+{"query": "Double Motor Vacuum Cleaner", "attributes": {"part type": "vacuum cleaner", "feature": "double motor"}}
+{"query": "synchronous-motor", "attributes": {"part type": "motor", "driven type": "synchronous"}}
+{"query": "C Beam Linear Actuator", "attributes": {"part type": "actuator", "driven type": "linear", "feature": "C Beam"}}
+{"query": "Siemens Make Electric Motor", "attributes": {"brand": "Siemens", "part type": "motor", "power source": "electric"}}
+{"query": "Abb Make Electric Motor", "attributes": {"brand": "Abb", "part type": "motor", "power source": "electric"}}
+{"query": "5r/min 1.5w 50/60hz motor", "attributes": {"part type": "motor", "rpm": "5r/min", "power": "1.5w", "frequency": "50/60hz"}}
+{"query": "Direct Drive Motor For Juki", "attributes": {"part type": "motor", "driven type": "direct drive", "usage": "Juki"}}
+{"query": "5hp flour mill motor", "attributes": {"part type": "motor", "horsepower": "5hp", "usage": "flour mill"}}
+{"query": "Alternator Carbon Brush", "attributes": {"part type": "carbon brush", "usage": "alternator"}}
+{"query": "5hp motor", "attributes": {"part type": "motor", "horsepower": "5hp"}}
+{"query": "Vane Type Hydraulic Motor", "attributes": {"part type": "motor", "driven type": "hydraulic vane"}}
+{"query": "Crompton Industrial Motors 75 hp", "attributes": {"brand": "Crompton", "part type": "motor", "application": "industrial", "horsepower": "75 hp"}}
+{"query": "11KW Kirloskar Electric Motor", "attributes": {"brand": "Kirloskar", "part type": "motor", "power": "11KW", "power source": "electric"}}
+{"query": "3 phase 2 piece l&t Motor Starter", "attributes": {"brand": "l&t", "part type": "motor starter", "phase": "3", "quantity": "2"}}
+{"query": "DOL STRTERS", "attributes": {"part type": "starter", "starter type": "DOL"}}
+{"query": "ng80", "attributes": {"model name/number": "ng80"}}
+{"query": "general electric sfk01", "attributes": {"brand": "general electric", "model name/number": "sfk01"}}
+{"query": "Heavy Duty Rotary Air Motor", "attributes": {"part type": "motor", "driven type": "rotary air", "feature": "heavy duty"}}
+{"query": "ac motor indoor", "attributes": {"part type": "motor", "power source": "ac", "usage": "indoor"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2106-4AF00-0SA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF00-0SA0", "power": "2.7 kW"}}
+{"query": "dc-motor-spare", "attributes": {"part type": "motor spare", "power source": "dc"}}
+{"query": "Motor Parts", "attributes": {"part type": "motor parts"}}
+{"query": "à¤µà¤¾à¤‡à¤¬à¥à¤°à¥‹ à¤¶à¤¿à¤«à¥à¤Ÿ à¤®à¥‹à¤Ÿà¤°", "attributes": {"part type": "motor", "feature": "vibro shift"}}
+{"query": "Marathon Electric Motor", "attributes": {"brand": "Marathon", "part type": "motor", "power source": "electric"}}
+{"query": "Shakti Dol Starter", "attributes": {"brand": "Shakti", "part type": "starter", "starter type": "Dol"}}
+{"query": "2 HP single phase", "attributes": {"horsepower": "2 HP", "phase": "single"}}
+{"query": "6ik180gu 240 w motor", "attributes": {"part type": "motor", "model name/number": "6ik180gu", "power": "240 w"}}
+{"query": "Telemetry Encoder Unit", "attributes": {"part type": "encoder unit", "usage": "telemetry"}}
+{"query": "dc-geared-motor", "attributes": {"part type": "motor", "power source": "dc", "driven type": "geared"}}
+{"query": "Motorized Actuators", "attributes": {"part type": "actuator", "feature": "motorized"}}
+{"query": "Dc Brake For Electric Motor", "attributes": {"part type": "brake", "power source": "Dc", "usage": "electric motor"}}
+{"query": "desert type aluminum 32 mm 1 inch kit cooler motor", "attributes": {"part type": "motor", "usage": "cooler", "feature": "desert type kit", "material": "aluminum", "size": "32 mm; 1 inch"}}
+{"query": "1.5 kw crompton single phase motor", "attributes": {"brand": "crompton", "part type": "motor", "power": "1.5 kw", "phase": "single"}}
+{"query": "ac motor 20w", "attributes": {"part type": "motor", "power source": "ac", "power": "20w"}}
+{"query": "Dc fan motor", "attributes": {"part type": "motor", "power source": "Dc", "usage": "fan"}}
+{"query": "ac motor 10w", "attributes": {"part type": "motor", "power source": "ac", "power": "10w"}}
+{"query": "10hp motor", "attributes": {"part type": "motor", "horsepower": "10hp"}}
+{"query": "6FC5357-0BA11-1AE0", "attributes": {"model name/number": "6FC5357-0BA11-1AE0"}}
+{"query": "Indigo Self Armature", "attributes": {"part type": "armature", "model name/number": "Indigo Self"}}
+{"query": "leadshine l7 series servo ac servo motor", "attributes": {"brand": "leadshine", "part type": "motor", "series": "l7", "driven type": "servo", "power source": "ac"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTOR 1FK2204-5AK10-0MB0 0.57 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2204-5AK10-0MB0", "power": "0.57 kW"}}
+{"query": "10m3flow rate 30 mtr headpumpwith motor", "attributes": {"part type": "pump with motor", "flow rate": "10m3", "head": "30 mtr"}}
+{"query": "Traction Motor", "attributes": {"part type": "motor", "usage": "traction"}}
+{"query": "Leadshine L7 Series 750W AC Servo Motor and Driver Kit", "attributes": {"brand": "Leadshine", "part type": "motor", "series": "L7", "power": "750W", "power source": "AC", "driven type": "servo", "feature": "with driver kit"}}
+{"query": "Dol Motor Starters Paragon", "attributes": {"brand": "Paragon", "part type": "motor starter", "starter type": "Dol"}}
+{"query": "SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-6AF11-0MB0", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-6AF11-0MB0"}}
+{"query": "3 phase motor start", "attributes": {"part type": "motor starter", "phase": "3"}}
+{"query": "oil-filled 3 hp 25 single phase motor starter", "attributes": {"part type": "motor starter", "horsepower": "3 hp", "phase": "single", "feature": "oil-filled"}}
+{"query": "SMC Electric Actuator", "attributes": {"brand": "SMC", "part type": "actuator", "power source": "electric"}}
+{"query": "1FK2104-6AF11-0MB0", "attributes": {"model name/number": "1FK2104-6AF11-0MB0"}}
+{"query": "digital dol starter", "attributes": {"part type": "starter", "starter type": "dol", "feature": "digital"}}
+{"query": "Slider Type Electric Actuator", "attributes": {"part type": "actuator", "power source": "electric", "feature": "slider type"}}
+{"query": "seedprod latest version", "attributes": {}}
+{"query": "Siemens 75 HP Foot Mounted Electric Motors", "attributes": {"brand": "Siemens", "part type": "motor", "horsepower": "75 HP", "mounting type": "foot mounted", "power source": "electric"}}
+{"query": "Grow art 3 phase hybrid", "attributes": {"brand": "Grow art", "phase": "3", "feature": "hybrid"}}
+{"query": "gbru 1 min auto switch", "attributes": {"brand": "gbru", "part type": "auto switch", "feature": "1 min"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO  MOTOR 1FK2106-4AF00-0MA0 2.7 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-4AF00-0MA0", "power": "2.7 kW"}}
+{"query": "armature", "attributes": {"part type": "armature"}}
+{"query": "ecma-ca1010ss delta servo motor", "attributes": {"brand": "delta", "part type": "motor", "driven type": "servo", "model name/number": "ecma-ca1010ss"}}
+{"query": "table fan motor", "attributes": {"part type": "motor", "usage": "table fan"}}
+{"query": "20W ALUMINUM HOUSING", "attributes": {"part type": "housing", "power": "20W", "material": "aluminum"}}
+{"query": "motor panvel", "attributes": {"part type": "motor", "location/city": "panvel"}}
+{"query": "40 HP  Siemens Electric Motors", "attributes": {"brand": "Siemens", "part type": "motor", "horsepower": "40 HP", "power source": "electric"}}
+{"query": "hindustan package", "attributes": {"brand": "hindustan", "feature": "package"}}
+{"query": "Electric Sliding Gate Motor", "attributes": {"part type": "motor", "power source": "electric", "usage": "sliding gate"}}
+{"query": "800 RPM Electric Sliding Gate Motor", "attributes": {"part type": "motor", "rpm": "800 RPM", "power source": "electric", "usage": "sliding gate"}}
+{"query": "HF-SP152 servo motor mitsubishi", "attributes": {"brand": "mitsubishi", "part type": "motor", "driven type": "servo", "model name/number": "HF-SP152"}}
+{"query": "1000 RPM Electric Sliding Gate Motor", "attributes": {"part type": "motor", "rpm": "1000 RPM", "power source": "electric", "usage": "sliding gate"}}
+{"query": "Gear and Vane Motors", "attributes": {"part type": "motor", "driven type": "gear and vane"}}
+{"query": "high power mini dc water motors project", "attributes": {"part type": "motor", "power source": "dc", "usage": "water; project", "size": "mini", "feature": "high power"}}
+{"query": "high power mini dc water motors for project near badlapur", "attributes": {"part type": "motor", "power source": "dc", "usage": "water; project", "size": "mini", "feature": "high power", "location/city": "badlapur"}}
+{"query": "775 dc motor bihpuri", "attributes": {"part type": "motor", "power source": "dc", "model name/number": "775", "location/city": "bihpuri"}}
+{"query": "775 dc motor near agra bichpuri", "attributes": {"part type": "motor", "power source": "dc", "model name/number": "775", "location/city": "agra; bichpuri"}}
+{"query": "24v dc coffee machine motor", "attributes": {"part type": "motor", "voltage": "24v", "power source": "dc", "usage": "coffee machine"}}
+{"query": "Crompton Geared Motor", "attributes": {"brand": "Crompton", "part type": "motor", "driven type": "geared"}}
+{"query": "l&t three phase motor starter", "attributes": {"brand": "l&t", "part type": "motor starter", "phase": "3"}}
+{"query": "Servo Motor & Variac Motor", "attributes": {"part type": "motor", "driven type": "servo; variac"}}
+{"query": "Siemens Electric Motors 40 Hp", "attributes": {"brand": "Siemens", "part type": "motor", "power source": "electric", "horsepower": "40 Hp"}}
+{"query": "3 phase motor starter without oil automatic", "attributes": {"part type": "motor starter", "phase": "3", "feature": "without oil automatic"}}
+{"query": "3 phase motor starter near jodhpur without oilautomatic", "attributes": {"part type": "motor starter", "phase": "3", "feature": "without oil automatic", "location/city": "jodhpur"}}
+{"query": "HP400 Siemens Motor", "attributes": {"brand": "Siemens", "part type": "motor", "model name/number": "HP400"}}
+{"query": "Flange Motors", "attributes": {"part type": "motor", "mounting type": "flange"}}
+{"query": "Sew Eurodrive CMP50M AC Synchronous Motor", "attributes": {"brand": "Sew Eurodrive", "part type": "motor", "model name/number": "CMP50M", "power source": "AC", "driven type": "synchronous"}}
+{"query": "2 hp flange motor", "attributes": {"part type": "motor", "horsepower": "2 hp", "mounting type": "flange"}}
+{"query": "3 phase motor starter oil free automatic", "attributes": {"part type": "motor starter", "phase": "3", "feature": "oil free automatic"}}
+{"query": "3 phase motor starter near jodhpur oil freee automatic", "attributes": {"part type": "motor starter", "phase": "3", "feature": "oil free automatic", "location/city": "jodhpur"}}
+{"query": "ABB MOTOR 200KW 270HP 1500RPM FOOT IE2", "attributes": {"brand": "ABB", "part type": "motor", "power": "200KW", "horsepower": "270HP", "rpm": "1500RPM", "mounting type": "foot", "efficiency": "IE2"}}
+{"query": "bonfiglioli brake motor", "attributes": {"brand": "bonfiglioli", "part type": "motor", "feature": "brake"}}
+{"query": "1 piece ABB Soft Starters", "attributes": {"brand": "ABB", "part type": "starter", "starter type": "soft", "quantity": "1"}}
+{"query": "kenstar desert air cooler motor", "attributes": {"brand": "kenstar", "part type": "motor", "usage": "desert air cooler"}}
+{"query": "Marathon 1hp motor single phase", "attributes": {"brand": "Marathon", "part type": "motor", "horsepower": "1hp", "phase": "single"}}
+{"query": "Make - Marathon 1hp motor single phase", "attributes": {"brand": "Marathon", "part type": "motor", "horsepower": "1hp", "phase": "single"}}
+{"query": "Vibro Sifter Motor", "attributes": {"part type": "motor", "usage": "vibro sifter"}}
+{"query": "kirloskar electric motor 10 hp 960 rpm", "attributes": {"brand": "kirloskar", "part type": "motor", "power source": "electric", "horsepower": "10 hp", "rpm": "960 rpm"}}
+{"query": "desert cooler motor", "attributes": {"part type": "motor", "usage": "desert cooler"}}
+{"query": "Exhaust Fan Motor", "attributes": {"part type": "motor", "usage": "exhaust fan"}}
+{"query": "nord gearbox spares", "attributes": {"brand": "nord", "part type": "gearbox spares"}}
+{"query": "MGM Varvel Brake Motor", "attributes": {"brand": "MGM Varvel", "part type": "motor", "feature": "brake"}}
+{"query": "AC Electric Motor", "attributes": {"part type": "motor", "power source": "AC; electric"}}
+{"query": "Motor Starter .", "attributes": {"part type": "motor starter"}}
+{"query": "c&s dol starter 15hp", "attributes": {"brand": "c&s", "part type": "starter", "starter type": "dol", "horsepower": "15hp"}}
+{"query": "c&s dol starter 15hp near delhi", "attributes": {"brand": "c&s", "part type": "starter", "starter type": "dol", "horsepower": "15hp", "location/city": "delhi"}}
+{"query": "10w deep freezer motor", "attributes": {"part type": "motor", "power": "10w", "usage": "deep freezer"}}
+{"query": "bell crack assembly", "attributes": {"part type": "bell crack assembly"}}
+{"query": "Simensh Hp400 Rpm1440", "attributes": {"brand": "Siemens", "model name/number": "Hp400", "rpm": "1440"}}
+{"query": "StarDental Starter", "attributes": {"brand": "StarDental", "part type": "starter"}}
+{"query": "Start Dental Starter", "attributes": {"part type": "starter", "usage": "dental"}}
+{"query": "Explosion Proof Electric Motor", "attributes": {"part type": "motor", "power source": "electric", "feature": "explosion proof"}}
+{"query": "Industrial dc motor", "attributes": {"part type": "motor", "power source": "dc", "application": "industrial"}}
+{"query": "High Torque Square Geared Motor", "attributes": {"part type": "motor", "driven type": "geared", "shape": "square", "feature": "high torque"}}
+{"query": "à¤¸à¤°à¥à¤µà¥‹ à¤®à¥‹à¤Ÿà¤° à¤¸à¤ªà¥à¤²à¤¾à¤¯à¤°", "attributes": {"part type": "motor", "driven type": "servo"}}
+{"query": "borewell 2h starter", "attributes": {"part type": "starter", "usage": "borewell", "model name/number": "2h"}}
+{"query": "SIEMENS SIMOTICS S-1FK2 SERVO MOTER 1FK2106-3AF11-1SA0 2.3 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2106-3AF11-1SA0", "power": "2.3 kW"}}
+{"query": "Crompton Induction Motors", "attributes": {"brand": "Crompton", "part type": "motor", "driven type": "induction"}}
+{"query": "nema 17 0.9 degree", "attributes": {"part type": "motor", "frame size": "nema 17", "step angle": "0.9 degree"}}
+{"query": "ABB Auto- Lek Ail 94022 A Solenoid Switch", "attributes": {"brand": "ABB", "part type": "solenoid switch", "model name/number": "Auto- Lek Ail 94022 A"}}
+{"query": "Three phase", "attributes": {"phase": "3"}}
+{"query": "nema 17 0.9 degree 22mm lenth", "attributes": {"part type": "motor", "frame size": "nema 17", "step angle": "0.9 degree", "length": "22mm"}}
+{"query": "New Series Allen Bradley Soft Starter", "attributes": {"brand": "Allen Bradley", "part type": "starter", "starter type": "soft", "feature": "new series"}}
+{"query": "1 for business use piece ABB Soft Starters", "attributes": {"brand": "ABB", "part type": "starter", "starter type": "soft", "quantity": "1"}}
+{"query": "bolero ac motor", "attributes": {"part type": "motor", "power source": "ac", "usage": "bolero"}}
+{"query": "150c43nbd smc3 soft starter", "attributes": {"part type": "starter", "starter type": "soft", "model name/number": "150c43nbd", "series": "smc3"}}
+{"query": "lt mk1 dol motor starter", "attributes": {"brand": "lt", "part type": "motor starter", "model name/number": "mk1", "starter type": "dol"}}
+{"query": "Eaton Orbital Motor", "attributes": {"brand": "Eaton", "part type": "motor", "driven type": "orbital"}}
+{"query": "automatic gate motor", "attributes": {"part type": "motor", "usage": "gate", "feature": "automatic"}}
+{"query": "Door Motor .", "attributes": {"part type": "motor", "usage": "door"}}
+{"query": "23a paramoon motor starter", "attributes": {"brand": "paramoon", "part type": "motor starter", "current": "23a"}}
+{"query": "electrical motor for boats", "attributes": {"part type": "motor", "power source": "electric", "usage": "boats"}}
+{"query": "SIEMENS SIMOTICS S-1FK2  SERVO MOTOR 1FK2104-5AF00-1SB0 0.75 kW", "attributes": {"brand": "SIEMENS", "part type": "motor", "series": "SIMOTICS S-1FK2", "driven type": "servo", "model name/number": "1FK2104-5AF00-1SB0", "power": "0.75 kW"}}
+{"query": "Absolute Shaft Encoder, Series ENA 8 / 13", "attributes": {"part type": "encoder", "feature": "absolute shaft", "series": "ENA 8 / 13"}}
+{"query": "Permanent Magnet. tech", "attributes": {"feature": "permanent magnet"}}
+{"query": "INVT Servo Motor", "attributes": {"brand": "INVT", "part type": "motor", "driven type": "servo"}}
+{"query": "1.5 KW Halcyon Three Phase Induction Motor", "attributes": {"brand": "Halcyon", "part type": "motor", "power": "1.5 KW", "phase": "3", "driven type": "induction"}}
+{"query": "5 sliding piece 800 kg Gate Motor", "attributes": {"part type": "motor", "usage": "sliding gate", "weight capacity": "800 kg", "quantity": "5"}}
+{"query": "Synchronous Transformer", "attributes": {"part type": "transformer", "feature": "synchronous"}}
+{"query": "FHP Motor", "attributes": {"part type": "motor", "feature": "FHP"}}
+{"query": "5HP Single Phase Buffing Machine Motor", "attributes": {"part type": "motor", "horsepower": "5HP", "phase": "single", "usage": "buffing machine"}}
+{"query": "Motor Brakes", "attributes": {"part type": "motor brakes"}}
+{"query": "1hp three phase ac vibration motor", "attributes": {"part type": "motor", "horsepower": "1hp", "phase": "3", "power source": "ac", "feature": "vibration"}}
+{"query": "Explosion Proof Motors", "attributes": {"part type": "motor", "feature": "explosion proof"}}
+{"query": "Aei/Marathon Motor Brush Holder", "attributes": {"brand": "Aei; Marathon", "part type": "brush holder", "usage": "motor"}}
+{"query": "75 Hp Induction Motor", "attributes": {"part type": "motor", "horsepower": "75 Hp", "driven type": "induction"}}
+{"query": "Squirrel Cage Motors", "attributes": {"part type": "motor", "driven type": "squirrel cage"}}
+{"query": "Pneumatic Diaphragm Actuator", "attributes": {"part type": "actuator", "power source": "pneumatic", "driven type": "diaphragm"}}
+{"query": "3 phase motor starter oil free", "attributes": {"part type": "motor starter", "phase": "3", "feature": "oil free"}}
+{"query": "3 phase motor starter near jodhpur oil free", "attributes": {"part type": "motor starter", "phase": "3", "feature": "oil free", "location/city": "jodhpur"}}
+{"query": "12 Inch 3000W Scooter Brushless DC Wheel Hub Motor Controller", "attributes": {"part type": "motor controller", "size": "12 Inch", "power": "3000W", "usage": "scooter wheel hub", "driven type": "brushless", "power source": "DC"}}
+{"query": "helical geared motor 2hp", "attributes": {"part type": "motor", "driven type": "helical geared", "horsepower": "2hp"}}
+{"query": "helical geared motor 2hp near hyderabad", "attributes": {"part type": "motor", "driven type": "helical geared", "horsepower": "2hp", "location/city": "hyderabad"}}
+{"query": "deep electricals vibrator motor", "attributes": {"brand": "deep electricals", "part type": "motor", "feature": "vibrator"}}
+{"query": "Single Phase Digital Motor Starter", "attributes": {"part type": "motor starter", "phase": "single", "feature": "digital"}}
+{"query": "motor starter spark", "attributes": {"part type": "motor starter", "feature": "spark"}}
+{"query": "Copper Carbon Brush For Slipring Motor", "attributes": {"part type": "carbon brush", "material": "copper", "usage": "slipring motor"}}
+{"query": "750 rpm 1 0.18 kw marathon electric motor", "attributes": {"brand": "marathon", "part type": "motor", "rpm": "750 rpm", "power": "0.18 kw", "power source": "electric"}}
+{"query": "Moving Magnetic Linear Motor", "attributes": {"part type": "motor", "driven type": "linear", "feature": "moving magnetic"}}
+{"query": "Abb Used Ac Motors", "attributes": {"brand": "Abb", "part type": "motor", "power source": "Ac", "feature": "used"}}
+{"query": "5 In 1 Magic Brush", "attributes": {"part type": "brush", "feature": "5 In 1 magic"}}
+{"query": "Bonfiglioli A Series Gear Motor", "attributes": {"brand": "Bonfiglioli", "part type": "motor", "series": "A", "driven type": "geared"}}
+{"query": "Industrial Electric Motor", "attributes": {"part type": "motor", "power source": "electric", "application": "industrial"}}
+{"query": "High Speed Motor", "attributes": {"part type": "motor", "feature": "high speed"}}
+{"query": "7.5 kw 10 hp havells induction motor, 1440 rpm", "attributes": {"brand": "havells", "part type": "motor", "power": "7.5 kw", "horsepower": "10 hp", "driven type": "induction", "rpm": "1440 rpm"}}
+{"query": "Industrial%20Motors", "attributes": {"part type": "motor", "application": "industrial"}}
+{"query": "Industrial%20Electric Motor", "attributes": {"part type": "motor", "power source": "electric", "application": "industrial"}}
+{"query": "SIMOTICS 1FK7 1FK7043-4CH7 MOTER 1.2kW", "attributes": {"part type": "motor", "series": "SIMOTICS 1FK7", "model name/number": "1FK7043-4CH7", "power": "1.2kW"}}
+{"query": "electric motorized actuator", "attributes": {"part type": "actuator", "power source": "electric", "feature": "motorized"}}
+{"query": "armature of stanley sc-16", "attributes": {"brand": "stanley", "part type": "armature", "model name/number": "sc-16"}}
+{"query": "high power dc water motors project", "attributes": {"part type": "motor", "power source": "dc", "usage": "water; project", "feature": "high power"}}
+{"query": "high power dc water motors for project near badlapur", "attributes": {"part type": "motor", "power source": "dc", "usage": "water; project", "feature": "high power", "location/city": "badlapur"}}
+{"query": "150HP 960 RPM ELECTRIC MOTOR", "attributes": {"part type": "motor", "horsepower": "150HP", "rpm": "960 RPM", "power source": "electric"}}
+{"query": "30HP 960 RPM ELECTRIC MOTOR", "attributes": {"part type": "motor", "horsepower": "30HP", "rpm": "960 RPM", "power source": "electric"}}
+{"query": "600 kg sliding gate motor", "attributes": {"part type": "motor", "weight capacity": "600 kg", "usage": "sliding gate"}}
+{"query": "75HP Face Mounted Motor Marathon", "attributes": {"brand": "Marathon", "part type": "motor", "horsepower": "75HP", "mounting type": "face mounted"}}
+{"query": "high power dc motors", "attributes": {"part type": "motor", "power source": "dc", "feature": "high power"}}
+{"query": "Switch Reluctance Motor", "attributes": {"part type": "motor", "driven type": "switch reluctance"}}
+{"query": "Tower Fan Motor", "attributes": {"part type": "motor", "usage": "tower fan"}}
+{"query": "315 KW 1450 RPM ELECTEIC MOTOR", "attributes": {"part type": "motor", "power": "315 KW", "rpm": "1450 RPM", "power source": "electric"}}
+{"query": "SIMOTICS S synchronous motor 1FK7 1FK7081-3BF71-1QB1", "attributes": {"part type": "motor", "series": "SIMOTICS S 1FK7", "driven type": "synchronous", "model name/number": "1FK7081-3BF71-1QB1"}}
+{"query": "SIMOTICS S synchronous motor 1FK7 1FK7081-3BF71-1RH1", "attributes": {"part type": "motor", "series": "SIMOTICS S 1FK7", "driven type": "synchronous", "model name/number": "1FK7081-3BF71-1RH1"}}
+{"query": "three phase 1 piece 1 hp (0.75 kw) 1440 rpm 1.5 KW Sew Brake Motor", "attributes": {"brand": "Sew", "part type": "motor", "phase": "3", "horsepower": "1 hp", "power": "0.75 kw; 1.5 KW", "rpm": "1440 rpm", "feature": "brake", "quantity": "1"}}
+{"query": "3 HP 3 Phase Induction Motor 100%copper Winding", "attributes": {"part type": "motor", "horsepower": "3 HP", "phase": "3", "driven type": "induction", "material": "100% copper winding"}}
+{"query": "Refrigerator Motor", "attributes": {"part type": "motor", "usage": "refrigerator"}}
+{"query": "220hp 960 rpm ELECTRIC MOTOR", "attributes": {"part type": "motor", "horsepower": "220hp", "rpm": "960 rpm", "power source": "electric"}}
+{"query": "SIMOTICS S synchronous motor 1FK7- 1FK7103-3BC71-1QA1", "attributes": {"part type": "motor", "series": "SIMOTICS S 1FK7", "driven type": "synchronous", "model name/number": "1FK7103-3BC71-1QA1"}}
+{"query": "SIMOTICS S Synchronous motor 1FK7 1FK7103-2AC71-1RH1", "attributes": {"part type": "motor", "series": "SIMOTICS S 1FK7", "driven type": "synchronous", "model name/number": "1FK7103-2AC71-1RH1"}}
+{"query": "Face Mounted Motor marathon 75hp", "attributes": {"brand": "marathon", "part type": "motor", "mounting type": "face mounted", "horsepower": "75hp"}}
+{"query": "Solenoid Switches", "attributes": {"part type": "solenoid switches"}}
+{"query": "Linear Motor", "attributes": {"part type": "motor", "driven type": "linear"}}
+{"query": "200KW Flange Induction Motor", "attributes": {"part type": "motor", "power": "200KW", "mounting type": "flange", "driven type": "induction"}}
+{"query": "valve positioner", "attributes": {"part type": "valve positioner"}}
+{"query": "rotex positioner", "attributes": {"brand": "rotex", "part type": "positioner"}}
+{"query": "AC Slip Ring Induction Motor", "attributes": {"part type": "motor", "power source": "AC", "driven type": "slip ring induction"}}
+{"query": "4HP Single Phase Electric Motor 220-240V 50-60Hz for Air Compressor", "attributes": {"part type": "motor", "horsepower": "4HP", "phase": "single", "power source": "electric", "voltage": "220-240V", "frequency": "50-60Hz", "usage": "air compressor"}}
+{"query": "Crompton  1.5HP 2800RPM  Foot Mounted Motor", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "1.5HP", "rpm": "2800RPM", "mounting type": "foot mounted"}}
+{"query": "Vending machine parts geair motor DC", "attributes": {"part type": "motor", "driven type": "geared", "power source": "DC", "usage": "vending machine parts"}}
+{"query": "15 hp motor", "attributes": {"part type": "motor", "horsepower": "15 hp"}}
+{"query": "VSI motor", "attributes": {"part type": "motor", "model name/number": "VSI"}}
+{"query": "Indo Cooler Motor Silver line", "attributes": {"brand": "Indo", "part type": "motor", "usage": "cooler", "series": "Silver line"}}
+{"query": "motor for toto", "attributes": {"part type": "motor", "usage": "toto"}}
+{"query": "Motor Lamination V-4, 92-48-25 (R)", "attributes": {"part type": "motor lamination", "model name/number": "V-4", "size": "92-48-25"}}
+{"query": "DANFOSS ACTUATOR AME435", "attributes": {"brand": "DANFOSS", "part type": "actuator", "model name/number": "AME435"}}
+{"query": "grinding-motor", "attributes": {"part type": "motor", "usage": "grinding"}}
+{"query": "50 n 100 mm linear motor", "attributes": {"part type": "motor", "driven type": "linear", "force": "50 n", "stroke length": "100 mm"}}
+{"query": "Toy motor 3v", "attributes": {"part type": "motor", "voltage": "3v", "usage": "toy"}}
+{"query": "100 mm linear motor", "attributes": {"part type": "motor", "driven type": "linear", "stroke length": "100 mm"}}
+{"query": "Crompton Greaves 15HP 960RPM  Foot Mounted  Motor", "attributes": {"brand": "Crompton Greaves", "part type": "motor", "horsepower": "15HP", "rpm": "960RPM", "mounting type": "foot mounted"}}
+{"query": "Crompton  2HP  2800RPM Flange Floor  Mounted  Motor", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "2HP", "rpm": "2800RPM", "mounting type": "flange floor mounted"}}
+{"query": "solenoid switch parts", "attributes": {"part type": "solenoid switch parts"}}
+{"query": "Crompton  1 HP Mini Sergeant Motor", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "1 HP", "size": "mini", "series": "Sergeant"}}
+{"query": "1450 Rpm 1 Hp Motor Cg Make", "attributes": {"brand": "Cg", "part type": "motor", "rpm": "1450 Rpm", "horsepower": "1 Hp"}}
+{"query": "Motor Lamination V-4, 92.5-50-28", "attributes": {"part type": "motor lamination", "model name/number": "V-4", "size": "92.5-50-28"}}
+{"query": "Crompton  3HP 1440RPM  Foot Cum Flange Motor", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "3HP", "rpm": "1440RPM", "mounting type": "foot cum flange"}}
+{"query": "Stepper Motor Controller", "attributes": {"part type": "motor controller", "driven type": "stepper"}}
+{"query": "kirloskar 10 hp 1440 rpm original motor", "attributes": {"brand": "kirloskar", "part type": "motor", "horsepower": "10 hp", "rpm": "1440 rpm", "feature": "original"}}
+{"query": "Single Phase Flange Mounted", "attributes": {"phase": "single", "mounting type": "flange mounted"}}
+{"query": "PANASONIC MOTOR", "attributes": {"brand": "PANASONIC", "part type": "motor"}}
+{"query": "Worm Gearbox Motors", "attributes": {"part type": "motor", "driven type": "worm gearbox"}}
+{"query": "Piston Nebulizer Motor", "attributes": {"part type": "motor", "usage": "piston nebulizer"}}
+{"query": "Motor Lamination V-6, 137-72-29", "attributes": {"part type": "motor lamination", "model name/number": "V-6", "size": "137-72-29"}}
+{"query": "Crompton 2HP  Flange Mounted  Motor", "attributes": {"brand": "Crompton", "part type": "motor", "horsepower": "2HP", "mounting type": "flange mounted"}}
+{"query": "mgm brake motors", "attributes": {"brand": "mgm", "part type": "motor", "feature": "brake"}}
+{"query": "Crompton Single Phase 0.5 HP Flange Motor", "attributes": {"brand": "Crompton", "part type": "motor", "phase": "single", "horsepower": "0.5 HP", "mounting type": "flange"}}
+{"query": "CG Make 1hp 1440 rpm Flange Mounted Brake Motor", "attributes": {"brand": "CG", "part type": "motor", "horsepower": "1hp", "rpm": "1440 rpm", "mounting type": "flange mounted", "feature": "brake"}}
+{"query": "200HP Abb Induction Motor", "attributes": {"brand": "Abb", "part type": "motor", "horsepower": "200HP", "driven type": "induction"}}
+{"query": "2800 rpm foot mounted abb electric motor", "attributes": {"brand": "abb", "part type": "motor", "rpm": "2800 rpm", "mounting type": "foot mounted", "power source": "electric"}}
+{"query": "Flameproof Dol Starter", "attributes": {"part type": "starter", "starter type": "Dol", "feature": "flameproof"}}
+{"query": "Micromotor", "attributes": {"part type": "motor", "size": "micro"}}
+{"query": "75 kw 100 hp induction motor", "attributes": {"part type": "motor", "power": "75 kw", "horsepower": "100 hp", "driven type": "induction"}}
+{"query": "20hp Abb Induction Motor", "attributes": {"brand": "Abb", "part type": "motor", "horsepower": "20hp", "driven type": "induction"}}
+{"query": "0.25 HP 1440RPM  Ft  Single Phase Double Shaft Motor", "attributes": {"part type": "motor", "horsepower": "0.25 HP", "rpm": "1440RPM", "mounting type": "Ft", "phase": "single", "feature": "double shaft"}}
+{"query": "Non Electric Motor", "attributes": {"part type": "motor", "feature": "non electric"}}
+{"query": "crompton greaves motor kv ka motor dikhlayiye", "attributes": {"brand": "crompton greaves", "part type": "motor"}}
+{"query": "2800  rpm 4 foot  mounted abb electric motor", "attributes": {"brand": "abb", "part type": "motor", "rpm": "2800 rpm", "mounting type": "foot mounted", "power source": "electric"}}
+{"query": "2800  rpm 4 abb electric motor", "attributes": {"brand": "abb", "part type": "motor", "rpm": "2800 rpm", "power source": "electric"}}
+{"query": "1 HP Texmo Taro Single Phase Motor Starter", "attributes": {"brand": "Texmo", "part type": "motor starter", "horsepower": "1 HP", "series": "Taro", "phase": "single"}}
+{"query": "Nebulizer Compressor Motor", "attributes": {"part type": "motor", "usage": "nebulizer compressor"}}
+{"query": "0.75 KW Godrej 1158 1HP Electric Motor", "attributes": {"brand": "Godrej", "part type": "motor", "power": "0.75 KW", "model name/number": "1158", "horsepower": "1HP", "power source": "electric"}}
+{"query": "gec 10 hp 960 rpm industrial motors", "attributes": {"brand": "gec", "part type": "motor", "horsepower": "10 hp", "rpm": "960 rpm", "application": "industrial"}}
+{"query": "Linear Actuator Switch", "attributes": {"part type": "actuator switch", "driven type": "linear"}}
+{"query": "730 Frame Slipring Induction Motor", "attributes": {"part type": "motor", "frame size": "730", "driven type": "slipring induction"}}
+{"query": "noortepar manufacturing plant", "attributes": {}}
+{"query": "TEFC Motor", "attributes": {"part type": "motor", "feature": "TEFC"}}
+{"query": "1hp single phase ac motor", "attributes": {"part type": "motor", "horsepower": "1hp", "phase": "single", "power source": "ac"}}
+{"query": "Motor Lamination V-3 70-41-22", "attributes": {"part type": "motor lamination", "model name/number": "V-3", "size": "70-41-22"}}
+{"query": "screed vibrator motor", "attributes": {"part type": "motor", "usage": "screed vibrator"}}
+{"query": "godrej lawkim motor lk 4250", "attributes": {"brand": "godrej lawkim", "part type": "motor", "model name/number": "lk 4250"}}
+{"query": "Godrej Lawkim Motor LK-4250", "attributes": {"brand": "Godrej Lawkim", "part type": "motor", "model name/number": "LK-4250"}}
+{"query": "ABB 200HP Induction Motor", "attributes": {"brand": "ABB", "part type": "motor", "horsepower": "200HP", "driven type": "induction"}}
+{"query": "High Voltage Closed Air Circuit Air Cooled TP Series Vertical Mounting Induction Motors", "attributes": {"part type": "motor", "driven type": "induction", "series": "TP", "mounting type": "vertical mounting", "feature": "high voltage closed air circuit air cooled"}}
+{"query": "Kenstar Motor Rotor Armature", "attributes": {"brand": "Kenstar", "part type": "motor rotor armature"}}
+{"query": "Fire Safety Solenoid", "attributes": {"part type": "solenoid", "usage": "fire safety"}}
+{"query": "Induction Brake And Motor 3Hp to 100 HP", "attributes": {"part type": "motor", "driven type": "induction", "horsepower": "3Hp to 100 HP", "feature": "brake"}}
+{"query": "Printer Solenoid Switch", "attributes": {"part type": "solenoid switch", "usage": "printer"}}
+{"query": "Mini Solenoid Switches", "attributes": {"part type": "solenoid switches", "size": "mini"}}
