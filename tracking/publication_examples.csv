@@ -1,4 +1,5 @@
-example_id,status,query,gold_summary,gemma_version,gemma_summary,qmeans_summary,why_it_matters,source_file,notes
-pub_001,todo,,,,,,,Use this sheet to collect real publication-grade examples.
-pub_002,todo,,,,,,,Target examples where Gemma 4 captures product type or priority better than qmeans.
-pub_003,todo,,,,,,,Also collect examples where ground truth is incomplete but Gemma output is logically stronger.
+example_id,status,query,gold_summary,gemma3_summary,gemma4_version,gemma4_summary,internal_baseline_optional,priority_attribute_win,key_priority_win,paper_bucket,why_it_matters,source_file,notes
+pub_001,todo,,,,,,,,,gemma3_vs_gemma4,Use this sheet first for Gemma 3 versus Gemma 4 paper examples.,,
+pub_002,todo,,,,,,,,,priority_order_win,Collect cases where Gemma 4 clearly ranks attributes in a more realistic order for user intent.,,
+pub_003,todo,,,,,,,,,ground_truth_gap,Collect cases where Gemma 4 output is logically stronger or more complete than imperfect ground truth.,,
+pub_004,todo,,,,,,,,,internal_baseline_optional,Keep internal baseline comparisons separate and optional so they do not dominate the paper story.,,

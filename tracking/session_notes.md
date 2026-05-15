@@ -11,10 +11,11 @@ Primary modeling goal:
 - preserve V11-level stability while pushing ranking quality higher
 
 Primary publication goal:
-- reduce over-emphasis on qmeans in the narrative
-- keep qmeans only as a limited internal baseline reference
-- focus external story on Gemma 3 vs Gemma 4, ground-truth performance, ranking quality, and strong real query examples
-- collect publication-grade examples where Gemma 4 succeeds, where qmeans misses, and where ground truth may be incomplete
+- primary paper framing is Gemma 3 vs Gemma 4 on priority-ordered attribute extraction for industrial search queries
+- qmeans should remain only an optional internal reference, not the center of the paper
+- focus the external story on how Gemma 4 solves attribute priority order, key-priority order, and structured extraction better on real examples
+- collect publication-grade examples for Gemma 3 versus Gemma 4, and also cases where Gemma 4 is logically stronger than incomplete ground truth
+- keep a separate bucket for optional internal baseline examples, but do not let them dominate the paper narrative
 
 ## This Session's Run Plan
 - base point: V11
