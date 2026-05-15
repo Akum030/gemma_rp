@@ -1,0 +1,7 @@
+version,status,key_precision,key_recall,key_f1,key_value_precision,key_value_recall,key_value_f1,ranking_focus,publication_use,notes
+v7,completed,0.6049,0.1915,0.2909,0.3228,0.1022,0.1552,medium,baseline structured model,first useful priority model
+v8,completed,0.6112,0.0912,0.1588,0.4125,0.0616,0.1072,low,negative ablation,more aggressive training hurt recall
+v9,completed,0.7755,0.0245,0.0475,0.4388,0.0139,0.0269,very low,negative ablation,heavy gold weighting collapsed recall
+v10,completed,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,failed,negative ablation,clean-only alignment collapsed extraction
+v11,completed,0.7947,0.3182,0.4544,0.3543,0.1418,0.2026,high,current best standalone,balanced rollback recovered stable performance
+v12,planned,,,,,,,target highest,main next publication candidate,ranking-focused continuation from V11

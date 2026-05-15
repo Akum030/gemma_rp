@@ -1,0 +1,4 @@
+example_id,status,query,gold_summary,gemma_version,gemma_summary,qmeans_summary,why_it_matters,source_file,notes
+pub_001,todo,,,,,,,Use this sheet to collect real publication-grade examples.
+pub_002,todo,,,,,,,Target examples where Gemma 4 captures product type or priority better than qmeans.
+pub_003,todo,,,,,,,Also collect examples where ground truth is incomplete but Gemma output is logically stronger.

@@ -38,16 +38,21 @@ v8_train.jsonl
 v9_train.jsonl
 v10_train.jsonl
 v11_train.jsonl
+v12_train.jsonl
 v7_val.jsonl
 v8_val.jsonl
 v9_val.jsonl
 v10_val.jsonl
 v11_val.jsonl
+v12_val.jsonl
 
 # Watcher state (runtime files)
 v11_watch_state.json
 v11_live_status.json
 v11_live_status.md
+v12_watch_state.json
+v12_live_status.json
+v12_live_status.md
 
 # PPT generation temp
 *.tmp
